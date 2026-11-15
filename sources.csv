@@ -1,11 +1,101 @@
-file,title,url,retrieved,last_modified,licence,words
-text01.txt,Berlin,https://de.wikipedia.org/wiki/Berlin,2026-11-08,2026-11-07,CC BY-SA 4.0,294
-text02.txt,München,https://de.wikipedia.org/wiki/M%C3%BCnchen,2026-11-08,2026-11-06,CC BY-SA 4.0,171
-text03.txt,Hamburg,https://de.wikipedia.org/wiki/Hamburg,2026-11-08,2026-11-06,CC BY-SA 4.0,211
-text04.txt,Köln,https://de.wikipedia.org/wiki/K%C3%B6ln,2026-11-08,2026-11-06,CC BY-SA 4.0,293
-text05.txt,Frankfurt am Main,https://de.wikipedia.org/wiki/Frankfurt_am_Main,2026-11-08,2026-11-06,CC BY-SA 4.0,284
-text06.txt,Stuttgart,https://de.wikipedia.org/wiki/Stuttgart,2026-11-08,2026-11-06,CC BY-SA 4.0,212
-text07.txt,Düsseldorf,https://de.wikipedia.org/wiki/D%C3%BCsseldorf,2026-11-08,2026-11-06,CC BY-SA 4.0,163
-text08.txt,Leipzig,https://de.wikipedia.org/wiki/Leipzig,2026-11-08,2026-11-06,CC BY-SA 4.0,276
-text09.txt,Dresden,https://de.wikipedia.org/wiki/Dresden,2026-11-08,2026-11-06,CC BY-SA 4.0,284
-text10.txt,Nürnberg,https://de.wikipedia.org/wiki/N%C3%BCrnberg,2026-11-08,2026-11-06,CC BY-SA 4.0,295
+file,topic,title,url,permalink,revision_id,retrieved,last_modified,licence,words
+text001.txt,Städte,Berlin,https://de.wikipedia.org/wiki/Berlin,https://de.wikipedia.org/w/index.php?oldid=271960099,271960099,2026-11-15,2026-11-07,CC BY-SA 4.0,294
+text002.txt,Natur und Geografie,Rhein,https://de.wikipedia.org/wiki/Rhein,https://de.wikipedia.org/w/index.php?oldid=271927846,271927846,2026-11-15,2026-11-06,CC BY-SA 4.0,190
+text003.txt,Personen,Johann Wolfgang von Goethe,https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe,https://de.wikipedia.org/w/index.php?oldid=272180154,272180154,2026-11-15,2026-11-15,CC BY-SA 4.0,277
+text004.txt,Geschichte und Politik,Heiliges Römisches Reich,https://de.wikipedia.org/wiki/Heiliges_R%C3%B6misches_Reich,https://de.wikipedia.org/w/index.php?oldid=271723860,271723860,2026-11-15,2026-10-29,CC BY-SA 4.0,270
+text005.txt,Kultur und Alltag,Oktoberfest,https://de.wikipedia.org/wiki/Oktoberfest,https://de.wikipedia.org/w/index.php?oldid=272148031,272148031,2026-11-15,2026-11-14,CC BY-SA 4.0,111
+text006.txt,Wissenschaft und Technik,Automobil,https://de.wikipedia.org/wiki/Automobil,https://de.wikipedia.org/w/index.php?oldid=269830996,269830996,2026-11-15,2026-08-20,CC BY-SA 4.0,109
+text007.txt,Sprache und Gesellschaft,Deutsche Sprache,https://de.wikipedia.org/wiki/Deutsche_Sprache,https://de.wikipedia.org/w/index.php?oldid=272143394,272143394,2026-11-15,2026-11-13,CC BY-SA 4.0,290
+text008.txt,Städte,München,https://de.wikipedia.org/wiki/M%C3%BCnchen,https://de.wikipedia.org/w/index.php?oldid=272021669,272021669,2026-11-15,2026-11-09,CC BY-SA 4.0,171
+text009.txt,Natur und Geografie,Donau,https://de.wikipedia.org/wiki/Donau,https://de.wikipedia.org/w/index.php?oldid=272037802,272037802,2026-11-15,2026-11-10,CC BY-SA 4.0,209
+text010.txt,Unternehmen und Organisationen,Siemens,https://de.wikipedia.org/wiki/Siemens,https://de.wikipedia.org/w/index.php?oldid=272082266,272082266,2026-11-15,2026-11-11,CC BY-SA 4.0,139
+text011.txt,Geschichte und Politik,Reformation,https://de.wikipedia.org/wiki/Reformation,https://de.wikipedia.org/w/index.php?oldid=271838880,271838880,2026-11-15,2026-11-02,CC BY-SA 4.0,161
+text012.txt,Kultur und Alltag,Brandenburger Tor,https://de.wikipedia.org/wiki/Brandenburger_Tor,https://de.wikipedia.org/w/index.php?oldid=272011591,272011591,2026-11-15,2026-11-09,CC BY-SA 4.0,287
+text013.txt,Wissenschaft und Technik,Buchdruck,https://de.wikipedia.org/wiki/Buchdruck,https://de.wikipedia.org/w/index.php?oldid=269019864,269019864,2026-11-15,2026-07-22,CC BY-SA 4.0,104
+text014.txt,Sprache und Gesellschaft,Dialekt,https://de.wikipedia.org/wiki/Dialekt,https://de.wikipedia.org/w/index.php?oldid=269758746,269758746,2026-11-15,2026-08-18,CC BY-SA 4.0,133
+text015.txt,Städte,Hamburg,https://de.wikipedia.org/wiki/Hamburg,https://de.wikipedia.org/w/index.php?oldid=271777581,271777581,2026-11-15,2026-10-31,CC BY-SA 4.0,211
+text016.txt,Natur und Geografie,Elbe,https://de.wikipedia.org/wiki/Elbe,https://de.wikipedia.org/w/index.php?oldid=271988957,271988957,2026-11-15,2026-11-08,CC BY-SA 4.0,109
+text017.txt,Personen,Albert Einstein,https://de.wikipedia.org/wiki/Albert_Einstein,https://de.wikipedia.org/w/index.php?oldid=271734114,271734114,2026-11-15,2026-10-29,CC BY-SA 4.0,213
+text018.txt,Unternehmen und Organisationen,BMW,https://de.wikipedia.org/wiki/BMW,https://de.wikipedia.org/w/index.php?oldid=270991039,270991039,2026-11-15,2026-10-03,CC BY-SA 4.0,111
+text019.txt,Geschichte und Politik,Dreißigjähriger Krieg,https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg,https://de.wikipedia.org/w/index.php?oldid=270660817,270660817,2026-11-15,2026-09-20,CC BY-SA 4.0,286
+text020.txt,Kultur und Alltag,Kölner Dom,https://de.wikipedia.org/wiki/K%C3%B6lner_Dom,https://de.wikipedia.org/w/index.php?oldid=271917040,271917040,2026-11-15,2026-11-05,CC BY-SA 4.0,182
+text021.txt,Wissenschaft und Technik,Relativitätstheorie,https://de.wikipedia.org/wiki/Relativit%C3%A4tstheorie,https://de.wikipedia.org/w/index.php?oldid=267053488,267053488,2026-11-15,2026-05-14,CC BY-SA 4.0,179
+text022.txt,Städte,Köln,https://de.wikipedia.org/wiki/K%C3%B6ln,https://de.wikipedia.org/w/index.php?oldid=272037049,272037049,2026-11-15,2026-11-10,CC BY-SA 4.0,293
+text023.txt,Natur und Geografie,Bodensee,https://de.wikipedia.org/wiki/Bodensee,https://de.wikipedia.org/w/index.php?oldid=272064154,272064154,2026-11-15,2026-11-11,CC BY-SA 4.0,139
+text024.txt,Personen,Ludwig van Beethoven,https://de.wikipedia.org/wiki/Ludwig_van_Beethoven,https://de.wikipedia.org/w/index.php?oldid=271347466,271347466,2026-11-15,2026-10-15,CC BY-SA 4.0,296
+text025.txt,Geschichte und Politik,Deutsches Kaiserreich,https://de.wikipedia.org/wiki/Deutsches_Kaiserreich,https://de.wikipedia.org/w/index.php?oldid=272192289,272192289,2026-11-15,2026-11-15,CC BY-SA 4.0,300
+text026.txt,Sprache und Gesellschaft,Umlaut,https://de.wikipedia.org/wiki/Umlaut,https://de.wikipedia.org/w/index.php?oldid=270886167,270886167,2026-11-15,2026-09-29,CC BY-SA 4.0,261
+text027.txt,Städte,Frankfurt am Main,https://de.wikipedia.org/wiki/Frankfurt_am_Main,https://de.wikipedia.org/w/index.php?oldid=271827027,271827027,2026-11-15,2026-11-02,CC BY-SA 4.0,284
+text028.txt,Personen,Johann Sebastian Bach,https://de.wikipedia.org/wiki/Johann_Sebastian_Bach,https://de.wikipedia.org/w/index.php?oldid=272173326,272173326,2026-11-15,2026-11-15,CC BY-SA 4.0,300
+text029.txt,Geschichte und Politik,Weimarer Republik,https://de.wikipedia.org/wiki/Weimarer_Republik,https://de.wikipedia.org/w/index.php?oldid=271390289,271390289,2026-11-15,2026-10-16,CC BY-SA 4.0,297
+text030.txt,Kultur und Alltag,Weihnachtsmarkt,https://de.wikipedia.org/wiki/Weihnachtsmarkt,https://de.wikipedia.org/w/index.php?oldid=268306505,268306505,2026-11-15,2026-06-28,CC BY-SA 4.0,120
+text031.txt,Wissenschaft und Technik,Photosynthese,https://de.wikipedia.org/wiki/Photosynthese,https://de.wikipedia.org/w/index.php?oldid=271875810,271875810,2026-11-15,2026-11-04,CC BY-SA 4.0,210
+text032.txt,Sprache und Gesellschaft,Komposition (Grammatik),https://de.wikipedia.org/wiki/Komposition_(Grammatik),https://de.wikipedia.org/w/index.php?oldid=272090759,272090759,2026-11-15,2026-11-12,CC BY-SA 4.0,260
+text033.txt,Städte,Stuttgart,https://de.wikipedia.org/wiki/Stuttgart,https://de.wikipedia.org/w/index.php?oldid=271864779,271864779,2026-11-15,2026-11-03,CC BY-SA 4.0,212
+text034.txt,Natur und Geografie,Zugspitze,https://de.wikipedia.org/wiki/Zugspitze,https://de.wikipedia.org/w/index.php?oldid=271266791,271266791,2026-11-15,2026-10-12,CC BY-SA 4.0,225
+text035.txt,Personen,Wolfgang Amadeus Mozart,https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart,https://de.wikipedia.org/w/index.php?oldid=271415616,271415616,2026-11-15,2026-10-17,CC BY-SA 4.0,293
+text036.txt,Unternehmen und Organisationen,Deutsche Bahn,https://de.wikipedia.org/wiki/Deutsche_Bahn,https://de.wikipedia.org/w/index.php?oldid=272191291,272191291,2026-11-15,2026-11-15,CC BY-SA 4.0,173
+text037.txt,Geschichte und Politik,Berliner Mauer,https://de.wikipedia.org/wiki/Berliner_Mauer,https://de.wikipedia.org/w/index.php?oldid=271989391,271989391,2026-11-15,2026-11-08,CC BY-SA 4.0,299
+text038.txt,Kultur und Alltag,"Karneval, Fastnacht und Fasching","https://de.wikipedia.org/wiki/Karneval,_Fastnacht_und_Fasching",https://de.wikipedia.org/w/index.php?oldid=269000865,269000865,2026-11-15,2026-07-21,CC BY-SA 4.0,152
+text039.txt,Wissenschaft und Technik,Klimawandel,https://de.wikipedia.org/wiki/Klimawandel,https://de.wikipedia.org/w/index.php?oldid=269977423,269977423,2026-11-15,2026-08-25,CC BY-SA 4.0,295
+text040.txt,Sprache und Gesellschaft,Duden,https://de.wikipedia.org/wiki/Duden,https://de.wikipedia.org/w/index.php?oldid=271395961,271395961,2026-11-15,2026-10-17,CC BY-SA 4.0,144
+text041.txt,Städte,Düsseldorf,https://de.wikipedia.org/wiki/D%C3%BCsseldorf,https://de.wikipedia.org/w/index.php?oldid=272160924,272160924,2026-11-15,2026-11-14,CC BY-SA 4.0,163
+text042.txt,Natur und Geografie,Harz (Mittelgebirge),https://de.wikipedia.org/wiki/Harz_(Mittelgebirge),https://de.wikipedia.org/w/index.php?oldid=269751929,269751929,2026-11-15,2026-08-17,CC BY-SA 4.0,174
+text043.txt,Personen,Immanuel Kant,https://de.wikipedia.org/wiki/Immanuel_Kant,https://de.wikipedia.org/w/index.php?oldid=271888725,271888725,2026-11-15,2026-11-04,CC BY-SA 4.0,157
+text044.txt,Geschichte und Politik,Deutsche Wiedervereinigung,https://de.wikipedia.org/wiki/Deutsche_Wiedervereinigung,https://de.wikipedia.org/w/index.php?oldid=271717099,271717099,2026-11-15,2026-10-29,CC BY-SA 4.0,231
+text045.txt,Kultur und Alltag,Brezel,https://de.wikipedia.org/wiki/Brezel,https://de.wikipedia.org/w/index.php?oldid=272099979,272099979,2026-11-15,2026-11-12,CC BY-SA 4.0,137
+text046.txt,Wissenschaft und Technik,Elektrizität,https://de.wikipedia.org/wiki/Elektrizit%C3%A4t,https://de.wikipedia.org/w/index.php?oldid=269413862,269413862,2026-11-15,2026-08-06,CC BY-SA 4.0,239
+text047.txt,Städte,Leipzig,https://de.wikipedia.org/wiki/Leipzig,https://de.wikipedia.org/w/index.php?oldid=272126940,272126940,2026-11-15,2026-11-13,CC BY-SA 4.0,276
+text048.txt,Natur und Geografie,Rügen,https://de.wikipedia.org/wiki/R%C3%BCgen,https://de.wikipedia.org/w/index.php?oldid=270927397,270927397,2026-11-15,2026-09-30,CC BY-SA 4.0,188
+text049.txt,Personen,Karl Marx,https://de.wikipedia.org/wiki/Karl_Marx,https://de.wikipedia.org/w/index.php?oldid=272137715,272137715,2026-11-15,2026-11-13,CC BY-SA 4.0,267
+text050.txt,Geschichte und Politik,Grundgesetz für die Bundesrepublik Deutschland,https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland,https://de.wikipedia.org/w/index.php?oldid=271976864,271976864,2026-11-15,2026-11-08,CC BY-SA 4.0,280
+text051.txt,Wissenschaft und Technik,Computer,https://de.wikipedia.org/wiki/Computer,https://de.wikipedia.org/w/index.php?oldid=267555454,267555454,2026-11-15,2026-05-31,CC BY-SA 4.0,288
+text052.txt,Sprache und Gesellschaft,Universität,https://de.wikipedia.org/wiki/Universit%C3%A4t,https://de.wikipedia.org/w/index.php?oldid=271775259,271775259,2026-11-15,2026-10-31,CC BY-SA 4.0,197
+text053.txt,Städte,Dresden,https://de.wikipedia.org/wiki/Dresden,https://de.wikipedia.org/w/index.php?oldid=272052822,272052822,2026-11-15,2026-11-10,CC BY-SA 4.0,284
+text054.txt,Natur und Geografie,Mosel,https://de.wikipedia.org/wiki/Mosel,https://de.wikipedia.org/w/index.php?oldid=270345237,270345237,2026-11-15,2026-09-09,CC BY-SA 4.0,142
+text055.txt,Personen,Martin Luther,https://de.wikipedia.org/wiki/Martin_Luther,https://de.wikipedia.org/w/index.php?oldid=271338675,271338675,2026-11-15,2026-10-14,CC BY-SA 4.0,119
+text056.txt,Geschichte und Politik,Deutscher Bundestag,https://de.wikipedia.org/wiki/Deutscher_Bundestag,https://de.wikipedia.org/w/index.php?oldid=270761080,270761080,2026-11-15,2026-09-24,CC BY-SA 4.0,283
+text057.txt,Kultur und Alltag,Bier,https://de.wikipedia.org/wiki/Bier,https://de.wikipedia.org/w/index.php?oldid=272136480,272136480,2026-11-15,2026-11-13,CC BY-SA 4.0,232
+text058.txt,Wissenschaft und Technik,Internet,https://de.wikipedia.org/wiki/Internet,https://de.wikipedia.org/w/index.php?oldid=271905371,271905371,2026-11-15,2026-11-05,CC BY-SA 4.0,264
+text059.txt,Sprache und Gesellschaft,Demokratie,https://de.wikipedia.org/wiki/Demokratie,https://de.wikipedia.org/w/index.php?oldid=271879280,271879280,2026-11-15,2026-11-04,CC BY-SA 4.0,291
+text060.txt,Städte,Nürnberg,https://de.wikipedia.org/wiki/N%C3%BCrnberg,https://de.wikipedia.org/w/index.php?oldid=272014742,272014742,2026-11-15,2026-11-09,CC BY-SA 4.0,295
+text061.txt,Natur und Geografie,Lüneburger Heide,https://de.wikipedia.org/wiki/L%C3%BCneburger_Heide,https://de.wikipedia.org/w/index.php?oldid=271998232,271998232,2026-11-15,2026-11-08,CC BY-SA 4.0,133
+text062.txt,Personen,Otto von Bismarck,https://de.wikipedia.org/wiki/Otto_von_Bismarck,https://de.wikipedia.org/w/index.php?oldid=272152294,272152294,2026-11-15,2026-11-14,CC BY-SA 4.0,289
+text063.txt,Unternehmen und Organisationen,Deutscher Fußball-Bund,https://de.wikipedia.org/wiki/Deutscher_Fu%C3%9Fball-Bund,https://de.wikipedia.org/w/index.php?oldid=272138072,272138072,2026-11-15,2026-11-13,CC BY-SA 4.0,187
+text064.txt,Geschichte und Politik,Europäische Union,https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union,https://de.wikipedia.org/w/index.php?oldid=272042367,272042367,2026-11-15,2026-11-10,CC BY-SA 4.0,272
+text065.txt,Kultur und Alltag,Fußball,https://de.wikipedia.org/wiki/Fu%C3%9Fball,https://de.wikipedia.org/w/index.php?oldid=272184027,272184027,2026-11-15,2026-11-15,CC BY-SA 4.0,291
+text066.txt,Sprache und Gesellschaft,Föderalismus,https://de.wikipedia.org/wiki/F%C3%B6deralismus,https://de.wikipedia.org/w/index.php?oldid=270384125,270384125,2026-11-15,2026-09-10,CC BY-SA 4.0,164
+text067.txt,Natur und Geografie,Alpen,https://de.wikipedia.org/wiki/Alpen,https://de.wikipedia.org/w/index.php?oldid=271907834,271907834,2026-11-15,2026-11-05,CC BY-SA 4.0,286
+text068.txt,Personen,Marie Curie,https://de.wikipedia.org/wiki/Marie_Curie,https://de.wikipedia.org/w/index.php?oldid=271831298,271831298,2026-11-15,2026-11-02,CC BY-SA 4.0,278
+text069.txt,Unternehmen und Organisationen,Bundesliga,https://de.wikipedia.org/wiki/Bundesliga,https://de.wikipedia.org/w/index.php?oldid=269894091,269894091,2026-11-15,2026-08-22,CC BY-SA 4.0,115
+text070.txt,Geschichte und Politik,Hanse,https://de.wikipedia.org/wiki/Hanse,https://de.wikipedia.org/w/index.php?oldid=272059212,272059212,2026-11-15,2026-11-10,CC BY-SA 4.0,230
+text071.txt,Kultur und Alltag,Märchen,https://de.wikipedia.org/wiki/M%C3%A4rchen,https://de.wikipedia.org/w/index.php?oldid=271788085,271788085,2026-11-15,2026-10-31,CC BY-SA 4.0,286
+text072.txt,Wissenschaft und Technik,Energiewende,https://de.wikipedia.org/wiki/Energiewende,https://de.wikipedia.org/w/index.php?oldid=271378780,271378780,2026-11-15,2026-10-16,CC BY-SA 4.0,294
+text073.txt,Sprache und Gesellschaft,Sozialstaat,https://de.wikipedia.org/wiki/Sozialstaat,https://de.wikipedia.org/w/index.php?oldid=270014501,270014501,2026-11-15,2026-08-27,CC BY-SA 4.0,110
+text074.txt,Städte,Hannover,https://de.wikipedia.org/wiki/Hannover,https://de.wikipedia.org/w/index.php?oldid=272167743,272167743,2026-11-15,2026-11-14,CC BY-SA 4.0,289
+text075.txt,Natur und Geografie,Nordsee,https://de.wikipedia.org/wiki/Nordsee,https://de.wikipedia.org/w/index.php?oldid=270808419,270808419,2026-11-15,2026-09-26,CC BY-SA 4.0,154
+text076.txt,Personen,Franz Kafka,https://de.wikipedia.org/wiki/Franz_Kafka,https://de.wikipedia.org/w/index.php?oldid=269458424,269458424,2026-11-15,2026-08-07,CC BY-SA 4.0,118
+text077.txt,Unternehmen und Organisationen,Max-Planck-Gesellschaft,https://de.wikipedia.org/wiki/Max-Planck-Gesellschaft,https://de.wikipedia.org/w/index.php?oldid=271379409,271379409,2026-11-15,2026-10-16,CC BY-SA 4.0,183
+text078.txt,Geschichte und Politik,Industrielle Revolution,https://de.wikipedia.org/wiki/Industrielle_Revolution,https://de.wikipedia.org/w/index.php?oldid=270016856,270016856,2026-11-15,2026-08-27,CC BY-SA 4.0,274
+text079.txt,Wissenschaft und Technik,Röntgenstrahlung,https://de.wikipedia.org/wiki/R%C3%B6ntgenstrahlung,https://de.wikipedia.org/w/index.php?oldid=272176563,272176563,2026-11-15,2026-11-15,CC BY-SA 4.0,116
+text080.txt,Städte,Heidelberg,https://de.wikipedia.org/wiki/Heidelberg,https://de.wikipedia.org/w/index.php?oldid=272007327,272007327,2026-11-15,2026-11-09,CC BY-SA 4.0,118
+text081.txt,Personen,Thomas Mann,https://de.wikipedia.org/wiki/Thomas_Mann,https://de.wikipedia.org/w/index.php?oldid=271732445,271732445,2026-11-15,2026-10-29,CC BY-SA 4.0,225
+text082.txt,Kultur und Alltag,Bauhaus,https://de.wikipedia.org/wiki/Bauhaus,https://de.wikipedia.org/w/index.php?oldid=272113782,272113782,2026-11-15,2026-11-12,CC BY-SA 4.0,105
+text083.txt,Wissenschaft und Technik,Impfung,https://de.wikipedia.org/wiki/Impfung,https://de.wikipedia.org/w/index.php?oldid=271858231,271858231,2026-11-15,2026-11-03,CC BY-SA 4.0,179
+text084.txt,Städte,Weimar,https://de.wikipedia.org/wiki/Weimar,https://de.wikipedia.org/w/index.php?oldid=271608768,271608768,2026-11-15,2026-10-25,CC BY-SA 4.0,279
+text085.txt,Personen,Angela Merkel,https://de.wikipedia.org/wiki/Angela_Merkel,https://de.wikipedia.org/w/index.php?oldid=271822060,271822060,2026-11-15,2026-11-02,CC BY-SA 4.0,271
+text086.txt,Unternehmen und Organisationen,Deutsche Telekom,https://de.wikipedia.org/wiki/Deutsche_Telekom,https://de.wikipedia.org/w/index.php?oldid=272136953,272136953,2026-11-15,2026-11-13,CC BY-SA 4.0,132
+text087.txt,Wissenschaft und Technik,Dampfmaschine,https://de.wikipedia.org/wiki/Dampfmaschine,https://de.wikipedia.org/w/index.php?oldid=271489554,271489554,2026-11-15,2026-10-20,CC BY-SA 4.0,299
+text088.txt,Sprache und Gesellschaft,Niederdeutsche Sprache,https://de.wikipedia.org/wiki/Niederdeutsche_Sprache,https://de.wikipedia.org/w/index.php?oldid=272182141,272182141,2026-11-15,2026-11-15,CC BY-SA 4.0,119
+text089.txt,Städte,Wien,https://de.wikipedia.org/wiki/Wien,https://de.wikipedia.org/w/index.php?oldid=270892903,270892903,2026-11-15,2026-09-29,CC BY-SA 4.0,284
+text090.txt,Personen,Konrad Adenauer,https://de.wikipedia.org/wiki/Konrad_Adenauer,https://de.wikipedia.org/w/index.php?oldid=271861562,271861562,2026-11-15,2026-11-03,CC BY-SA 4.0,180
+text091.txt,Unternehmen und Organisationen,Porsche,https://de.wikipedia.org/wiki/Porsche,https://de.wikipedia.org/w/index.php?oldid=271381110,271381110,2026-11-15,2026-10-16,CC BY-SA 4.0,186
+text092.txt,Wissenschaft und Technik,Fernsehen,https://de.wikipedia.org/wiki/Fernsehen,https://de.wikipedia.org/w/index.php?oldid=270791965,270791965,2026-11-15,2026-09-25,CC BY-SA 4.0,113
+text093.txt,Sprache und Gesellschaft,Geschlechtergerechte Sprache,https://de.wikipedia.org/wiki/Geschlechtergerechte_Sprache,https://de.wikipedia.org/w/index.php?oldid=272101371,272101371,2026-11-15,2026-11-12,CC BY-SA 4.0,147
+text094.txt,Städte,Zürich,https://de.wikipedia.org/wiki/Z%C3%BCrich,https://de.wikipedia.org/w/index.php?oldid=272191887,272191887,2026-11-15,2026-11-15,CC BY-SA 4.0,297
+text095.txt,Natur und Geografie,Thüringer Wald,https://de.wikipedia.org/wiki/Th%C3%BCringer_Wald,https://de.wikipedia.org/w/index.php?oldid=269852835,269852835,2026-11-15,2026-08-21,CC BY-SA 4.0,133
+text096.txt,Personen,Hildegard von Bingen,https://de.wikipedia.org/wiki/Hildegard_von_Bingen,https://de.wikipedia.org/w/index.php?oldid=272171709,272171709,2026-11-15,2026-11-15,CC BY-SA 4.0,186
+text097.txt,Wissenschaft und Technik,Glühlampe,https://de.wikipedia.org/wiki/Gl%C3%BChlampe,https://de.wikipedia.org/w/index.php?oldid=271229327,271229327,2026-11-15,2026-10-11,CC BY-SA 4.0,102
+text098.txt,Natur und Geografie,Ostsee,https://de.wikipedia.org/wiki/Ostsee,https://de.wikipedia.org/w/index.php?oldid=272130279,272130279,2026-11-15,2026-11-13,CC BY-SA 4.0,167
+text099.txt,Personen,Alexander von Humboldt,https://de.wikipedia.org/wiki/Alexander_von_Humboldt,https://de.wikipedia.org/w/index.php?oldid=271991545,271991545,2026-11-15,2026-11-08,CC BY-SA 4.0,267
+text100.txt,Kultur und Alltag,Kleingarten,https://de.wikipedia.org/wiki/Kleingarten,https://de.wikipedia.org/w/index.php?oldid=272188181,272188181,2026-11-15,2026-11-15,CC BY-SA 4.0,105
