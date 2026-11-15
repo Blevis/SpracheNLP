@@ -1,0 +1,169 @@
+# Candidate German Wikipedia article titles, grouped by topic.
+# "## topic" starts a group; every other non-empty line is one title.
+# The builder takes titles in a round-robin over the groups, so the corpus
+# stays balanced even if it stops early at MAX_TEXTS. Titles whose intro is
+# shorter than MIN_WORDS, missing, or a disambiguation page are skipped and
+# logged. Add titles here to grow the corpus; then run `python -m sprache build`.
+
+## Städte
+Berlin
+München
+Hamburg
+Köln
+Frankfurt am Main
+Stuttgart
+Düsseldorf
+Leipzig
+Dresden
+Nürnberg
+Bremen
+Hannover
+Heidelberg
+Weimar
+Wien
+Zürich
+Salzburg
+Lübeck
+Bonn
+Mainz
+Freiburg im Breisgau
+Bern
+Potsdam
+
+## Natur und Geografie
+Rhein
+Donau
+Elbe
+Bodensee
+Schwarzwald
+Zugspitze
+Harz (Mittelgebirge)
+Rügen
+Mosel
+Lüneburger Heide
+Alpen
+Nordsee
+Wattenmeer
+Sächsische Schweiz
+Eifel
+Thüringer Wald
+Ostsee
+Main
+Spree
+Feldberg (Schwarzwald)
+Bayerischer Wald
+Lüneburg
+
+## Personen
+Johann Wolfgang von Goethe
+Friedrich Schiller
+Albert Einstein
+Ludwig van Beethoven
+Johann Sebastian Bach
+Wolfgang Amadeus Mozart
+Immanuel Kant
+Karl Marx
+Martin Luther
+Otto von Bismarck
+Marie Curie
+Franz Kafka
+Thomas Mann
+Angela Merkel
+Konrad Adenauer
+Hildegard von Bingen
+Alexander von Humboldt
+Clara Schumann
+
+## Unternehmen und Organisationen
+Volkswagen
+Siemens
+BMW
+Robert Bosch GmbH
+SAP
+Deutsche Bahn
+Lufthansa
+Adidas
+BASF
+Deutscher Fußball-Bund
+Bundesliga
+Max-Planck-Gesellschaft
+Mercedes-Benz Group
+Deutsche Telekom
+Porsche
+Allianz SE
+Carl Zeiss AG
+Fraunhofer-Gesellschaft
+Goethe-Institut
+Deutsches Rotes Kreuz
+
+## Geschichte und Politik
+Heiliges Römisches Reich
+Reformation
+Dreißigjähriger Krieg
+Deutsches Kaiserreich
+Weimarer Republik
+Berliner Mauer
+Deutsche Wiedervereinigung
+Grundgesetz für die Bundesrepublik Deutschland
+Bundestag
+Europäische Union
+Hanse
+Industrielle Revolution
+
+## Kultur und Alltag
+Oktoberfest
+Brandenburger Tor
+Kölner Dom
+Schloss Neuschwanstein
+Weihnachtsmarkt
+Karneval
+Brezel
+Sauerkraut
+Bier
+Fußball
+Märchen
+Brüder Grimm
+Bauhaus
+Volkslied
+Bratwurst
+Kaffee und Kuchen
+Schrebergarten
+Tatort (Fernsehreihe)
+
+## Wissenschaft und Technik
+Automobil
+Buchdruck
+Relativitätstheorie
+Quantenmechanik
+Photosynthese
+Klimawandel
+Elektrizität
+Computer
+Internet
+Künstliche Intelligenz
+Energiewende
+Röntgenstrahlung
+Impfung
+Dampfmaschine
+Fernsehen
+Glühlampe
+Kernenergie
+
+## Sprache und Gesellschaft
+Deutsche Sprache
+Dialekt
+Rechtschreibung
+Umlaut
+Komposition (Grammatik)
+Duden
+Schule
+Universität
+Demokratie
+Föderalismus
+Sozialstaat
+Ehrenamt
+Hochdeutsche Sprache
+Niederdeutsche Sprache
+Gendergerechte Sprache
+Bundesland (Deutschland)
+Gesetzliche Rentenversicherung

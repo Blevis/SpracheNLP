@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+*.egg-info/
+build/
+.venv/
+
+# LaTeX build files (report.pdf itself is kept)
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+
+# team-internal material, never handed in
+private/

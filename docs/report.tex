@@ -1,0 +1,327 @@
+% SpracheNLP - project report.
+% Numbers and tables come from docs/generated/ (python -m sprache report).
+% Compile with LuaLaTeX (Unicode: IPA, Greek):  python -m sprache report --pdf
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{Cambria}            % covers IPA and Greek used in the examples
+\setmonofont{Consolas}[Scale=0.9]
+\usepackage[a4paper,margin=2.3cm]{geometry}
+\usepackage{booktabs,longtable,array,tabularx}
+\usepackage{graphicx}
+\usepackage{tikz-dependency}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf}
+\setlist{itemsep=2pt,topsep=4pt}
+\renewcommand{\arraystretch}{1.12}
+\usepackage{microtype}
+\setlength{\emergencystretch}{3em}   % long German compounds
+
+\input{generated/numbers.tex}
+
+\newcommand{\code}[1]{\texttt{#1}}
+\newcommand{\de}[1]{\textit{#1}}
+
+\title{A German Wikipedia Corpus for NLP:\\Collection, Cleaning and spaCy Analysis\\[0.4em]
+       \large NLP Tutorial 1 Lab, Group 2 (German)}
+\author{Blevis Allushi \and Darsi Ramaj \and Geri Belba}
+\date{Corpus retrieved \Retrieved{} \quad$\cdot$\quad spaCy \SpacyVersion, \code{\ModelName} \ModelVersion}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent We built a corpus of \NTexts{} introductions of German Wikipedia articles (\NWords{} words, \NTopics{} topics). We fetched them through the official MediaWiki API and recorded the exact revision and licence of each text. Automatic checks found no encoding damage and no markup. They did find a small, systematic class of artefacts left by stripped wiki templates: IPA transcriptions, empty brackets and dangling language labels. A set of tested rules removes all of them while keeping legitimate Greek etymologies. We then ran the spaCy pipeline \code{\ModelName} on the corpus, computed frequency statistics and analysed three sentences in detail. The model gets the clause structure right. Its errors fall into three groups: capitalised common nouns tagged as proper nouns, an ambiguous verb form tagged as an adjective, and wrong lemmas for rare compounds. Re-parsing a cleaned sentence separates data errors from model errors. All code is in a tested Python package, and one command rebuilds the corpus, the notebook and this report.
+\end{abstract}
+
+\tableofcontents
+\bigskip
+
+%=====================================================================
+\section{Task and deliverables}
+The lab asks each group to collect a small corpus in its language, check it for quality problems, run the spaCy pipeline on it and report on the results (lab sheet, section 6.7). Table~\ref{tab:deliverables} maps each item to the notebook and to this report.
+
+\begin{table}[h]\centering\small
+\caption{Deliverables and where they are.}\label{tab:deliverables}
+\begin{tabular}{p{7.6cm}ll}\toprule
+Item (6.7) & Notebook & Report \\\midrule
+spaCy version printout and output for one sentence & \S0 & \S\ref{sec:sentences} \\
+displaCy images (dependencies and entities) & \S0, \S5, \code{figures/} & Fig.~\ref{fig:s1}--\ref{fig:s3} \\
+Three sentences, one correct and one incorrect result each & \S5 & \S\ref{sec:sentences} \\
+Corpus statistics and our table row & \S3, \S6 & \S\ref{sec:stats}, Tab.~\ref{tab:row} \\
+Source list with licences & \S2, \code{sources.csv} & Appendix~\ref{app:sources} \\
+Notebook run end-to-end without errors & all & \S\ref{sec:repro} \\\bottomrule
+\end{tabular}
+\end{table}
+
+%=====================================================================
+\section{Corpus design}\label{sec:design}
+
+\paragraph{Source and licence.} All texts are the introductory sections of German Wikipedia articles. They are licensed under \Licence{}, which allows reuse with attribution and requires derived works to keep the same licence. We considered three alternatives:
+\begin{itemize}
+  \item The Leipzig Corpora Collection consists of shuffled sentences, not coherent texts.
+  \item The Deutsches Textarchiv is largely non-commercial (CC BY-NC) and uses historical spelling, which the modern model handles poorly.
+  \item For German Wikinews we could not verify the licence.
+\end{itemize}
+
+\paragraph{Selection.} Candidate titles are kept in \code{data/titles.txt} under eight topic headings: cities, nature and geography, people, companies and organisations, history and politics, culture and everyday life, science and technology, language and society. The builder takes titles \emph{round-robin} across the topics, so every prefix of the list is balanced and the corpus stays balanced whenever the size limit cuts it off. Of \NCandidates{} candidates we kept \NTexts{}:
+\begin{itemize}
+  \item \NSkippedShort{} intros were shorter than 100 words.
+  \item \NSkippedMax{} titles were not needed once the limit was reached.
+  \item The remaining titles were disambiguation pages or redirect duplicates.
+\end{itemize}
+Every rejection is logged with its reason in \code{data/skipped.csv}.
+
+\paragraph{Length.} Each intro is cut at the last sentence boundary before 300 words. The sentence splitter does not split after ordinals (\de{im 19.\ Jahrhundert}) or abbreviations (\de{z.\,B.}); a unit test caught exactly this bug during development. The final texts have between \MinWords{} and \MaxWords{} words (median \MedWords).
+
+\paragraph{Metadata and reproducibility.} For every text, \code{sources.csv} records:
+\begin{itemize}
+  \item the topic, title and URL;
+  \item a permanent link to the exact revision used (\code{oldid});
+  \item the date of that revision and the retrieval date;
+  \item the licence and the word count.
+\end{itemize}
+Wikipedia articles change daily. The revision links let anyone recover the exact texts we analysed.
+
+\paragraph{Access.} The first version of the notebook made one API request per title and lost 14 of 34 titles to HTTP 429 (rate limiting). The current client requests 20 titles per call, waits and retries on 429 and 5xx answers (honouring \code{Retry-After}), and sends \code{maxlag}, so it backs off when the servers are under load. All \NCandidates{} candidates are fetched in 8 requests.
+
+%=====================================================================
+\section{Software architecture}\label{sec:arch}
+All logic lives in the package \code{src/sprache/}. The notebook only calls it and discusses the results. Each module does one step (Table~\ref{tab:modules}). Every setting is in \code{config.py}.
+
+\begin{table}[h]\centering\small
+\caption{Modules of the \code{sprache} package.}\label{tab:modules}
+\begin{tabularx}{\linewidth}{lX}\toprule
+Module & Responsibility \\\midrule
+\code{config} & Paths, corpus limits, model name, pinned sentences, probe words \\
+\code{fetch} & Batched MediaWiki client with retry/back-off; resolves redirects; detects disambiguation and missing pages; records revisions \\
+\code{corpus} & Parses the title list, round-robin selection, sentence-safe cutting, writes and loads the corpus and \code{sources.csv} \\
+\code{clean} & Two-phase rule-based removal of plaintext artefacts; counts how often each rule fires \\
+\code{quality} & Pattern checks, repeated sentences, English sentences, near-duplicates (5-gram Jaccard) \\
+\code{stats} & Token, type, lemma and stop-word statistics; top-$n$, per-topic and raw-vs-clean tables \\
+\code{analysis} & Token tables, displaCy export, German-specific probes, contractions, longest words \\
+\code{report} & Generates the numbers and tables of this report \\\bottomrule
+\end{tabularx}
+\end{table}
+
+\noindent The data flows in one direction:
+\begin{center}\small
+\code{titles.txt} $\rightarrow$ \code{fetch} $\rightarrow$ \code{corpus/} + \code{sources.csv} $\rightarrow$ \code{clean} $\rightarrow$ \code{corpus\_clean/} $\rightarrow$ \code{quality}, \code{stats}, \code{analysis} $\rightarrow$ notebook, report
+\end{center}
+\noindent Raw and cleaned texts are kept side by side, so every cleaning decision can be audited. Forty \code{pytest} tests cover the modules. Most use real examples from this corpus; the API client is tested against canned responses. Integrity tests check the committed corpus: file and metadata agreement, word limits, licences, absence of mojibake, that \code{corpus\_clean/} is up to date, and that the three pinned sentences still occur verbatim.
+
+%=====================================================================
+\section{Quality problems and cleaning}\label{sec:quality}
+
+Table~\ref{tab:quality} lists the automatic checks on the raw and on the cleaned corpus.
+
+\begin{table}[h]\centering\small
+\caption{Automatic quality checks, raw vs.\ cleaned corpus.}\label{tab:quality}
+\input{generated/tab_quality.tex}
+\end{table}
+
+\paragraph{What is absent.} There is no HTML, no wiki markup, no mojibake, no boilerplate and no repeated, English or near-duplicate text. The most similar pair of texts shares only about 1\% of its 5-grams. The API's \code{explaintext} mode does most of the cleaning for us.
+
+\paragraph{What is present, and why.} When the API converts an article to plain text, it removes some templates (pronunciation, foreign names) but keeps the label and the brackets around them. This produces three kinds of artefact:
+\begin{itemize}
+  \item IPA transcriptions in \NIPAFiles{} texts, always in the first sentence: \de{Düsseldorf ([ˈdʏsl̩ˌdɔʁf] , Düsseldorfer Platt …)}.
+  \item Empty brackets: \de{Frankfurt am Main () ist …}.
+  \item Dangling labels: \de{Die Mosel (französisch , luxemburgisch , lateinisch Mosella)}.
+\end{itemize}
+The reliable signature is a space before a comma or semicolon, which never occurs in normal Wikipedia text.
+
+\paragraph{Cleaning.} \code{clean.clean\_text()} applies named regular expressions in two phases (Table~\ref{tab:rules}).
+\begin{itemize}
+  \item \emph{Removal} deletes bracket groups that contain IPA characters, then labels and conjunctions left without content. It repeats until nothing changes.
+  \item \emph{Tidying} then repairs brackets, separators and whitespace.
+\end{itemize}
+The order matters: the removal rules recognise a dangling label by the whitespace gap that tidying would delete. The rules are deliberately conservative. Greek etymologies (\de{altgriechisch φῶς}), editorial brackets and the French \de{ç} are left untouched, and tests check that valid text passes through unchanged and that cleaning twice changes nothing.
+
+\begin{table}[h]\centering\small
+\begin{minipage}[t]{0.40\linewidth}\centering
+\caption{Rule hits.}\label{tab:rules}
+\resizebox{\linewidth}{!}{\input{generated/tab_rules.tex}}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.56\linewidth}\vspace{0pt}
+\NChanged{} of \NTexts{} texts change. They lose \TokRemoved{} tokens (\TokRemovedPct), mostly punctuation and IPA fragments, not words. The statistics therefore barely move (Table~\ref{tab:overview}). The artefacts are still worth removing, because they sit in the first sentence of the most prominent articles and break the analysis exactly there (\S\ref{sec:sentences}).
+\end{minipage}
+\end{table}
+
+\begin{table}[h]\centering\footnotesize
+\caption{Cleaning examples.}
+\input{generated/tab_clean_examples.tex}
+\end{table}
+
+%=====================================================================
+\section{Corpus statistics}\label{sec:stats}
+We use these definitions:
+\begin{itemize}
+  \item \emph{Tokens} are all spaCy tokens, including punctuation and numbers.
+  \item \emph{Word tokens} are tokens made only of letters, lower-cased.
+  \item \emph{Unique words} are distinct word tokens (types).
+  \item The \emph{stop-word share} is the fraction of word tokens in spaCy's German stop-word list.
+\end{itemize}
+
+\begin{table}[h]\centering\small
+\caption{Corpus overview, raw and cleaned.}\label{tab:overview}
+\input{generated/tab_overview.tex}
+\end{table}
+
+\begin{table}[h]\centering\small
+\caption{Ten most frequent words, all and without stop words.}\label{tab:top}
+\input{generated/tab_top10.tex}
+\end{table}
+
+\paragraph{Interpretation.} All ten most frequent words are function words: articles, \de{und}, prepositions, \de{ist}, \de{als}. Together, stop words make up \StopShare{} of all word tokens. Without them, the list shows the encyclopedic topics (\de{stadt}, \de{deutschland}, \de{millionen}). It also shows German case morphology: \de{deutsche}/\de{deutschen} and \de{deutschland}/\de{deutschlands} are counted separately. Counting lemmas instead reduces \NUnique{} word types to \NLemmas{} lemmas.
+
+The type-token ratio of \TTR{} is high for \NWordTokens{} word tokens, for two reasons. Every text has a different subject, and compounds, which are never split, rarely repeat. The per-topic view (Table~\ref{tab:topics}) shows one telling exception. City introductions have the lowest ratio (\TTRCity, against \TTROtherMin--\TTROtherMax{} for the other topics), because they follow a fixed pattern: population, area, administrative seat.
+
+\begin{table}[h]\centering\small
+\caption{Statistics per topic.}\label{tab:topics}
+\input{generated/tab_topics.tex}
+\end{table}
+
+%=====================================================================
+\section{Pipeline analysis of three sentences}\label{sec:sentences}
+The demonstration sentence \de{Johann Wolfgang von Goethe wurde 1749 in Frankfurt am Main geboren.} is analysed correctly. The model recognises the passive \de{wurde … geboren} with lemma \de{gebären}, a PER and a LOC entity, and \de{am} as preposition plus article (Figure~\ref{fig:demo}).
+
+\begin{figure}[h]\centering
+\input{generated/dep_demo.tex}
+\caption{Dependency parse of the demonstration sentence (TIGER labels).}\label{fig:demo}
+\end{figure}
+
+We pinned three sentences from the corpus in \code{config.py}, so the analysis cannot drift if the corpus is rebuilt. They cover different difficulties: proper names with an artefact, a long compound with an ambiguous verb form, and a sentence with a fronted phrase and the subject placed after the verb. Every statement below was checked programmatically against the model output.
+
+\subsection{Sentence 1: proper names and an IPA artefact}
+\begin{quote}\de{Düsseldorf ([ˈdʏsl̩ˌdɔʁf] , Düsseldorfer Platt Düsseldörp) ist die Landeshauptstadt Nordrhein-Westfalens und der Behördensitz des Regierungsbezirks Düsseldorf.}\end{quote}
+\begin{figure}[h]\centering
+\input{generated/dep_sentence1.tex}
+\caption{Sentence 1, raw text. Note the IPA tokens attached as \code{par}/\code{punct}.}\label{fig:s1}
+\end{figure}
+\textbf{Correct.}
+\begin{itemize}
+  \item Subject (\code{sb}) \de{Düsseldorf}, root \de{ist} and predicative (\code{pd}) \de{Landeshauptstadt} are all right.
+  \item \de{Nordrhein-Westfalens} and \de{Regierungsbezirks} are genitive attributes (\code{ag}) marked \code{Case=Gen}. Their lemmas drop the genitive \de{-s}.
+  \item The coordination with \de{und} is right.
+\end{itemize}
+\textbf{Incorrect.}
+\begin{itemize}
+  \item \de{Behördensitz} is a common noun but is tagged \code{PROPN} and even labelled as a LOC entity. In German every noun is capitalised, so capitalisation is no evidence for a name.
+  \item The IPA string is analysed as a genitive proper noun.
+  \item The entity span \de{Platt Düsseldörp} is labelled LOC, cutting across the language name \de{Düsseldorfer Platt}.
+\end{itemize}
+\textbf{After cleaning} (Figure~\ref{fig:s1c}), the parenthesis becomes one well-formed \code{par} constituent and no IPA token remains, but \de{Behördensitz} is still \code{PROPN}/LOC. The IPA problem was a \emph{data} error; the noun was a \emph{model} error.
+\begin{figure}[h]\centering
+\input{generated/dep_sentence1_clean.tex}
+\caption{Sentence 1 after cleaning.}\label{fig:s1c}
+\end{figure}
+
+\subsection{Sentence 2: a compound and an ambiguous verb form}
+\begin{quote}\de{Seine Werke beeinflussten spätere Komponistengenerationen und inspirieren bis heute musikschaffende Künstler zu zahllosen Bearbeitungen.}\end{quote}
+\begin{figure}[h]\centering
+\input{generated/dep_sentence2.tex}
+\caption{Sentence 2: the finite verb \de{beeinflussten} is the root but is tagged \code{ADJ}.}\label{fig:s2}
+\end{figure}
+\textbf{Correct.}
+\begin{itemize}
+  \item \de{Werke} is the plural subject with lemma \de{Werk}.
+  \item \de{inspirieren} is a finite verb (\code{VVFIN}) with \de{Künstler} as its accusative object, and the two clauses are coordinated.
+  \item Regular lemmas are right (\de{zahllosen}$\to$\de{zahllos}, \de{Bearbeitungen}$\to$\de{Bearbeitung}), and \de{spätere} is marked comparative.
+\end{itemize}
+\textbf{Incorrect.}
+\begin{itemize}
+  \item The past tense \de{beeinflussten} is tagged as an attributive adjective (\code{ADJA}, lemma \de{beeinflusst}) although the parser makes it the root. The form is genuinely ambiguous (\de{die beeinflussten Künstler}).
+  \item The rare compound is lemmatised as \de{Komponistengeneratione} and labelled LOC.
+  \item \de{Bearbeitungen} is marked masculine; the correct gender is feminine.
+  \item \de{bis heute} is attached to the adjective \de{musikschaffende} instead of the verb \de{inspirieren}.
+\end{itemize}
+
+\subsection{Sentence 3: fronted phrase and contraction}
+\begin{quote}\de{Neben den Flüssen Spree, Havel und Dahme befinden sich im Stadtgebiet kleinere Fließgewässer sowie zahlreiche Seen und Wälder.}\end{quote}
+\begin{figure}[h]\centering
+\input{generated/dep_sentence3.tex}
+\caption{Sentence 3: the fronted PP is attached to the noun \de{Fließgewässer} (\code{mnr}).}\label{fig:s3}
+\end{figure}
+\textbf{Correct.}
+\begin{itemize}
+  \item Root \de{befinden}, reflexive \de{sich} (\code{PRF}, \code{oa}) and the subject after the verb, \de{Fließgewässer} (\code{sb}), are right.
+  \item The contraction \de{im} is \code{APPRART} with lemma \de{in} and modifies the verb.
+  \item Both coordinations are right, and \de{Spree}, \de{Havel} and \de{Dahme} are LOC.
+\end{itemize}
+\textbf{Incorrect.}
+\begin{itemize}
+  \item The fronted phrase \de{Neben den Flüssen …} is attached to \de{Fließgewässer} as a post-nominal modifier. The German position before the finite verb (\emph{Vorfeld}) holds exactly one constituent of the clause, so the phrase is a modifier (\code{mo}) of \de{befinden}.
+  \item \de{Fließgewässer} is lemmatised as \de{Fließgewäss}: the plural equals the singular, but the lemmatizer strips \de{-er}.
+  \item \de{Flüssen} gets the pre-1996 spelling \de{Fluß}.
+  \item \de{Spree} is marked nominative, while the other two river names in the same apposition are dative.
+\end{itemize}
+
+\begin{table}[h]\centering\footnotesize
+\caption{Token table of sentence 3 (tables for sentences 1 and 2 are in the notebook).}
+\input{generated/tab_sentence3.tex}
+\end{table}
+
+%=====================================================================
+\section{German-specific behaviour}\label{sec:german}
+
+\begin{table}[h]\centering\footnotesize
+\caption{Probe inputs: compounds, contractions, ß, hyphenation, separable verb, abbreviations.}\label{tab:probes}
+\input{generated/tab_probes.tex}
+\end{table}
+
+\begin{table}[h]\centering\small
+\begin{minipage}[t]{0.46\linewidth}\centering
+\caption{Longest corpus words.}
+\resizebox{\linewidth}{!}{\input{generated/tab_longest.tex}}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.5\linewidth}\centering
+\caption{Contractions in the corpus.}
+\resizebox{\linewidth}{!}{\input{generated/tab_contractions.tex}}
+\end{minipage}
+\end{table}
+
+\begin{itemize}
+  \item \textbf{No decompounding.} Compounds stay single tokens with the whole word as lemma. This holds for the 34-letter probe \de{Donaudampfschifffahrtsgesellschaft}, for the longest corpus word \de{Eisenbahninfrastrukturunternehmen} (33 letters), and for hyphenated compounds and names. This explains much of the large, sparse vocabulary.
+  \item \textbf{Contractions} stay one token (\code{APPRART}) and are lemmatised to the bare preposition. The article survives only in the morphological features. \de{am} is disambiguated correctly: it is an article contraction in \de{am Rhein}, but a superlative particle (\code{PTKA}) in all six corpus cases of \de{am meisten}/\de{am dichtesten}.
+  \item \textbf{Separable verbs.} In \de{Er ruft mich morgen an}, \de{an} is correctly tagged as a separated verb particle (\code{PTKVZ}), but the lemma remains \de{rufen}. \de{anrufen} never appears as a lemma.
+  \item \textbf{Abbreviations and ordinals.} \de{z.\,B.} becomes two tokens and \de{3.} is an ordinal adjective; neither ends a sentence.
+  \item \textbf{Umlauts and ß} survive tokenisation and lemmatisation, and the UTF-8 check finds no damaged characters.
+\end{itemize}
+
+\begin{table}[h]\centering\small
+\caption{Our row of the class comparison table.}\label{tab:row}
+\input{generated/tab_row.tex}
+\end{table}
+
+%=====================================================================
+\section{Discussion}\label{sec:discussion}
+\paragraph{Suitability.} As a first corpus, the Wikipedia introductions are a good choice. They are reusable, cleanly encoded, rich in entities, umlauts and compounds, and reproducible down to the revision. With \NTexts{} texts they already meet the week-3 target. They are not representative of everyday German: the register is formal and encyclopedic, sentences are long (\TokPerSent{} tokens on average) and nominal, and our topic choice over-represents \de{Stadt} and \de{Deutschland}.
+
+\paragraph{Errors.} The model handles the core syntax well. Its errors fall into three groups: capitalised common nouns read as names; ambiguous forms such as past-tense verbs that look like adjectives; and attachment and lemmatisation errors on rare words. Re-parsing a cleaned sentence is a cheap way to tell the source of an error. Problems that disappear after cleaning come from the data; problems that remain come from the model.
+
+\paragraph{Before real use} we would:
+\begin{itemize}
+  \item add other registers (news, forums, fiction);
+  \item work on the cleaned corpus and count lemmas rather than surface forms;
+  \item consider a compound splitter;
+  \item annotate a random sample by hand to estimate error rates, instead of relying on three sentences.
+\end{itemize}
+
+\paragraph{Limitations.} The cleaning rules target the artefacts we observed; new articles may produce new patterns, which is why the quality report is part of every rebuild. Three hand-analysed sentences show typical errors but do not measure an error rate.
+
+%=====================================================================
+\section{Reproducibility}\label{sec:repro}
+The corpus is committed, so the notebook runs offline. The full pipeline rebuilds with one command:
+\begin{center}\code{python -m sprache all}\quad(build, clean, figures, notebook, report)\end{center}
+Single steps are available as \code{build}, \code{clean}, \code{check}, \code{stats}, \code{figures}, \code{notebook} and \code{report --pdf}. The tests run with \code{python -m pytest}. If Wikipedia changes one of the pinned sentences, an integrity test fails and asks for the sentence to be re-selected and its verdict re-checked by hand. Environment: Python 3.11, spaCy \SpacyVersion, \code{\ModelName} \ModelVersion; see \code{environment.yml} and \code{requirements.txt}.
+
+\appendix
+\section{Sources}\label{app:sources}
+All texts: German Wikipedia, \Licence{} (\url{https://creativecommons.org/licenses/by-sa/4.0/}). Authors are the contributors listed in each article's history. The revision numbers link to the exact version used.
+{\footnotesize\input{generated/sources.tex}}
+
+\end{document}

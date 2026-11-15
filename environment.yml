@@ -1,0 +1,10 @@
+# conda env create -f environment.yml && conda activate nlp-de
+# python -m spacy download de_core_news_md
+name: nlp-de
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt
