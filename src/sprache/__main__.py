@@ -5,9 +5,16 @@
     python -m sprache check      quality report for raw and clean corpus
     python -m sprache stats      corpus statistics (needs the spaCy model)
     python -m sprache figures    displaCy figures for the pinned sentences
-    python -m sprache notebook   execute the notebook in place (nbconvert)
+    python -m sprache notebook   execute both notebooks in place (nbconvert)
     python -m sprache report     regenerate docs/generated/*.tex (--pdf: compile docs/report.pdf)
-    python -m sprache all        build + clean + figures + notebook + report (with PDF)
+
+  Named-entity recognition (Tutorial 2)
+    python -m sprache ner-kb     download links + Wikidata types into data/ner/ (network)
+    python -m sprache ner        silver labels, train the CRF, write data/ner/entities.csv
+    python -m sprache ner-eval   evaluation on the gold texts, challenge set, noise, learning curve
+    python -m sprache ner-tag    tag your own text: python -m sprache ner-tag "Berlin lehnt ab."
+
+    python -m sprache all        build + clean + figures + ner + notebooks + report (with PDF)
 """
 from __future__ import annotations
 
@@ -72,12 +79,67 @@ def cmd_figures(a) -> None:
     save_displacy(nlp(config.DEMO_SENTENCE), "demo")
 
 
+NOTEBOOKS = ("NLP_Tutorial1_German_Corpus.ipynb", "NLP_Tutorial2_German_NER.ipynb")
+
+
 def cmd_notebook(a) -> None:
-    nb = config.ROOT / "NLP_Tutorial1_German_Corpus.ipynb"
-    subprocess.run([sys.executable, "-m", "jupyter", "nbconvert", "--to", "notebook", "--execute",
-                    "--inplace", "--ExecutePreprocessor.timeout=900", str(nb)], check=True,
-                   cwd=config.ROOT)
-    print(f"Executed {nb.name}")
+    for name in NOTEBOOKS:
+        nb = config.ROOT / name
+        if not nb.exists():
+            continue
+        subprocess.run([sys.executable, "-m", "jupyter", "nbconvert", "--to", "notebook", "--execute",
+                        "--inplace", "--ExecutePreprocessor.timeout=1800", str(nb)], check=True,
+                       cwd=config.ROOT)
+        print(f"Executed {nb.name}")
+
+
+def cmd_ner_kb(a) -> None:
+    from .ner import kb
+    links, typed = kb.build()
+    print(f"{links} links, {typed} typed Wikidata items -> {config.NER_LINKS.name}, {config.NER_KB.name}")
+
+
+def cmd_ner(a) -> None:
+    from .analysis import load_model
+    from .ner import experiments
+    df = experiments.build_index(load_model())
+    print(f"{len(df)} mentions in {df.file.nunique()} texts -> {config.NER_OUTPUT.relative_to(config.ROOT)}")
+    print(df.type.value_counts().to_string())
+
+
+def cmd_ner_eval(a) -> None:
+    import pandas as pd
+    from .analysis import load_model
+    from .ner import experiments as ex
+    pd.set_option("display.width", 200)
+    nlp = load_model()
+    systems, info = ex.compare_systems(nlp)
+    full = info["tables"]["Full pipeline (CRF + context layer + rules)"]
+    ch = ex.challenge(nlp, info["tagger"], info["kb"], ex._normaliser(info["kb"], ex.train_files()))
+    for title, table in [
+        ("systems on the gold texts (F1)", systems.to_string()),
+        ("full pipeline per type", full.to_string()),
+        ("challenge set", ch.groupby("phenomenon")[["correct", "expected_n", "spurious"]].sum().to_string()),
+        ("noisy text (all-type F1)", ex.noise_robustness(nlp, info["tagger"], info["kb"]).to_string()),
+        ("learning curve (ENAMEX F1)", ex.learning_curve(nlp).to_string(index=False)),
+    ]:
+        print(f"\n== {title} ==\n{table}")
+
+
+def cmd_ner_tag(a) -> None:
+    from .analysis import load_model
+    from .ner import experiments as ex
+    from .ner.kb import KnowledgeBase
+    from .ner.pipeline import NERPipeline, mentions_table
+    from .ner.tagger import EntityTagger
+    if not (config.NER_MODELS / "enamex.crf.tagger").exists():
+        raise SystemExit("No trained model yet: run `python -m sprache ner` first.")
+    nlp, kb = load_model(), KnowledgeBase.load()
+    pipe = NERPipeline(nlp, kb, EntityTagger(kb).load(), normaliser=ex._normaliser(kb, ex.all_files()))
+    sents = pipe(" ".join(a.text), normalise=a.noisy)
+    for s in sents:
+        print("\n".join(f"{w:<20} {o:<12} {i}" for w, o, i in zip(s.words, s.outer, s.inner)) + "\n")
+    print(mentions_table(sents).drop(columns=["file"]).to_string(index=False))
 
 
 def cmd_report(a) -> None:
@@ -90,7 +152,7 @@ def cmd_report(a) -> None:
 
 def cmd_all(a) -> None:
     a.pdf = True
-    for step in (cmd_build, cmd_clean, cmd_figures, cmd_notebook, cmd_report):
+    for step in (cmd_build, cmd_clean, cmd_figures, cmd_ner, cmd_notebook, cmd_report):
         print(f"\n### {step.__name__[4:]}")
         step(a)
 
@@ -102,9 +164,14 @@ def main(argv=None) -> None:
     sub = p.add_subparsers(dest="cmd", required=True)
     for name, fn in [("build", cmd_build), ("clean", cmd_clean), ("check", cmd_check),
                      ("stats", cmd_stats), ("figures", cmd_figures),
-                     ("notebook", cmd_notebook), ("report", cmd_report), ("all", cmd_all)]:
+                     ("notebook", cmd_notebook), ("report", cmd_report),
+                     ("ner-kb", cmd_ner_kb), ("ner", cmd_ner), ("ner-eval", cmd_ner_eval),
+                     ("ner-tag", cmd_ner_tag), ("all", cmd_all)]:
         sp = sub.add_parser(name, help=fn.__doc__)
         sp.set_defaults(fn=fn)
+        if name == "ner-tag":
+            sp.add_argument("text", nargs="+", help="German text to tag")
+            sp.add_argument("--noisy", action="store_true", help="normalise case/umlauts/typos first")
         if name == "report":
             sp.add_argument("--pdf", action="store_true", help="also compile docs/report.pdf with LuaLaTeX")
         if name in ("build", "all"):

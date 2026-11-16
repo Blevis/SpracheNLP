@@ -1,0 +1,2850 @@
+qid,type,all_types,label,aliases
+Q2,,,Erde,Blauer Planet|Erdkörper|Welt
+Q17,GPE,GPE|LOC,Japan,Land der aufgehenden Sonne
+Q21,GPE,GPE,England,
+Q28,GPE,GPE|ORG,Ungarn,
+Q29,GPE,GPE|LOC,Spanien,Königreich Spanien
+Q30,GPE,GPE,Vereinigte Staaten,VSA|Vereinigte Staaten von Amerika|VS|Staaten|Amerika|die Staaten|Staaten von Amerika|U. S.|U. S. A.|U.S.-Amerika|US-Amerika|V. S.|V. S. A.|V.S.|V.S.A.
+Q31,GPE,GPE,Belgien,Königreich Belgien
+Q32,GPE,GPE,Luxemburg,Grand-Duché de Luxembourg|Groussherzogtum Lëtzebuerg
+Q35,GPE,GPE,Dänemark,
+Q36,GPE,GPE,Polen,Republik Polen
+Q38,GPE,GPE,Italien,Italienische Republik
+Q39,GPE,GPE|ORG,Schweiz,Eidgenossenschaft|Confoederatio Helvetica|Confœderatio Helvetica
+Q40,GPE,GPE|ORG,Österreich,Zweite Republik|Republik Österreich
+Q44,,,Bier,Gerstensaft
+Q46,LOC,LOC,Europa,Alter Kontinent|Die alte Welt|Europäischer Kontinent
+Q48,LOC,LOC,Asien,asiatischer Kontinent
+Q55,GPE,GPE,Niederlande,Holland|die Niederlande
+Q64,GPE,GPE|ORG|LOC,Berlin,"BE|Stadt Berlin|Berlin (Deutschland)|Berlin, Deutschland|Bln|Bln.|Bundeshauptstadt Berlin|DE-BE|Land Berlin"
+Q68,,,Computer,Elektronische Datenverarbeitungsanlage|PC|Rechner|Datenverarbeitungsanlage|EDV|Rechenanlage|Elektronengehirn
+Q71,GPE,GPE|LOC,Genf,Stadt Genf|Ville de Genève
+Q72,GPE,GPE|LOC,Zürich,Stadt Zürich|Zuerich
+Q75,,,Internet,Netz|interconnected network
+Q78,GPE,GPE|LOC,Basel,Bâle
+Q84,GPE,GPE,London,
+Q90,GPE,GPE,Paris,
+Q91,PER,PER,Abraham Lincoln,Präsident Lincoln
+Q97,LOC,LOC,Atlantischer Ozean,Atlantik
+Q107,,,Raum,
+Q142,GPE,GPE,Frankreich,Französische Republik|RF
+Q145,GPE,GPE|LOC,Vereinigtes Königreich,Großbritannien|G B|G B R|U K|Vereinigte Königreich|Vereinigtes Königreich Großbritannien und Nordirland
+Q148,GPE,GPE,Volksrepublik China,Chinesische Volksrepublik|Rotchina|V.R. China|VR China
+Q150,,,Französisch,französische Sprache
+Q166,LOC,LOC,Schwarzes Meer,
+Q183,GPE,GPE,Deutschland,Bundesrepublik Deutschland|BR Deutschland
+Q188,,,Deutsch,Deutsche|deutsche Sprache
+Q212,GPE,GPE|LOC,Ukraine,
+Q213,GPE,GPE|ORG,Tschechien,Czechia|Tschechische Republik
+Q214,GPE,GPE|ORG,Slowakei,Slowakische Republik|sk|Slowakien
+Q215,GPE,GPE,Slowenien,Republik Slowenien
+Q217,GPE,GPE,Moldau,Moldawien|Republik Moldau
+Q218,GPE,GPE,Rumänien,
+Q219,GPE,GPE,Bulgarien,
+Q224,GPE,GPE,Kroatien,Republik Kroatien
+Q229,GPE,GPE,Zypern,Südzypern
+Q234,GPE,GPE|LOC,Flandern,
+Q235,GPE,GPE|ORG,Monaco,Fürstentum Monaco|Principatu de Mu̍negu|Principauté de Monaco
+Q254,PER,PER,Wolfgang Amadeus Mozart,Wolfgang Amadé Mozart
+Q255,PER,PER,Ludwig van Beethoven,
+Q270,GPE,GPE|LOC,Warschau,
+Q282,,,Wein,
+Q283,,,Wasser,blaues Gold|pures Wasser
+Q289,,,Fernsehen,TV
+Q294,,,Isländisch,isländische Sprache
+Q302,PER,PER,Jesus Christus,Christus|Christ|Messias|Jesus|Sohn Gottes|Jesus von Nazareth
+Q315,,,Sprache,
+Q317,,ORG,Diktatur,
+Q333,,,Astronomie,Himmelskunde|Sternkunde
+Q336,,,Wissenschaft,
+Q338,,,Kosmologie,
+Q347,GPE,GPE,Liechtenstein,Fürstentum Liechtenstein|Fürstentum Lichtenstein
+Q352,PER,PER,Adolf Hitler,
+Q361,,O,Erster Weltkrieg,The Great War|1. Weltkrieg|Grosser Krieg|Großer Krieg|I. Weltkrieg|WK I
+Q362,,O,Zweiter Weltkrieg,2. Weltkrieg|2. WK
+Q365,GPE,GPE,Köln,"Cöln|Coeln|Colonia|Kölle|Köln am Rhein|CCAA|Colonia Claudia Ara Agrippinensium|Cöln am Rhein|Köln (Deutschland)|Köln, Deutschland"
+Q397,,,Latein,lateinische Sprache
+Q403,GPE,GPE|ORG,Serbien,Republik Serbien
+Q408,GPE,GPE|ORG,Australien,Commonwealth von Australien
+Q413,,,Physik,
+Q418,,,Telekommunikation,Fernmeldewesen
+Q431,,,Zoologie,Tierkunde
+Q441,,,Botanik,Pflanzenkunde|Pflanzenwissenschaften|Phytologie
+Q454,,,Frieden,Friede
+Q458,GPE,GPE|ORG,Europäische Union,Europa|EU
+Q466,,,World Wide Web,
+Q517,PER,PER,Napoleon Bonaparte,Napoleon I.|Napoleon
+Q521,,,Physiologie,
+Q545,LOC,LOC,Ostsee,Baltische See|Baltisches Meer
+Q548,LOC,LOC,Weichsel,
+Q552,LOC,LOC,Oder,Odra|Viadra
+Q567,PER,PER,Angela Merkel,
+Q571,,,Buch,
+Q583,LOC,LOC,Mont Blanc,
+Q584,LOC,LOC,Rhein,
+Q586,GPE,GPE|LOC,Bonn,Bundesstadt Bonn
+Q589,,,schwarzes Loch,Black Hole
+Q626,LOC,LOC,Wolga,
+Q629,,,Sauerstoff,
+Q638,,,Musik,
+Q676,,,Prosa,
+Q682,,,Schwefel,
+Q699,,,Märchen,
+Q735,,,Kunst,BK|bildende Kunst
+Q756,,,Pflanzen,Pflanze
+Q808,,,Viren,Virus
+Q825,,O,Gott im Christentum,Gott|Christlicher Gott|Christlicher Gottesbegriff
+Q868,PER,PER,Aristoteles,
+Q905,PER,PER,Franz Kafka,
+Q935,PER,PER,Isaac Newton,
+Q937,PER,PER,Albert Einstein,
+Q979,,,Polonium,Po
+Q980,GPE,GPE,Bayern,BY|Freistaat Bayern|DE-BY
+Q985,GPE,GPE,Baden-Württemberg,The Länd|BaWü|Land Baden-Württemberg
+Q1022,GPE,GPE|LOC,Stuttgart,Landeshauptstadt Stuttgart|LHS|Schduágórd|Stadt Stuttgart|Stadtkreis Stuttgart|Stuotgarten|Stutengarten
+Q1026,,,Polen,Polin|Polnisches Volk
+Q1030,GPE,GPE,Namibia,na|Republik Namibia
+Q1055,GPE,GPE|ORG,Hamburg,FHH|DE-HH|Freie und Hansestadt Hamburg|Hansestadt Hamburg|HH|Land Hamburg
+Q1059,,,Immunsystem,Abwehrsystem
+Q1065,ORG,ORG,Vereinte Nationen,OVN|VN|Völkergemeinschaft|Organisation der Vereinten Nationen
+Q1069,,,Geologie,
+Q1071,,,Geographie,Geografie|Erdkunde|Geo
+Q1084,,,Substantiv,Gegenstandswort|Hauptwort|Dingwort|Namenwort|Nennwort
+Q1085,GPE,GPE|LOC|ORG,Prag,
+Q1098,,,Uran,
+Q1111,,,elektrische Ladung,
+Q1128,,,Radium,Ra
+Q1137,LOC,LOC,Lothringen,Lorraine
+Q1142,GPE,GPE|LOC,Elsass,Elsaß
+Q1196,GPE,GPE,Mecklenburg-Vorpommern,MV|DE-MV|DEU-MV|DEU:MV|MeckPomm
+Q1197,GPE,GPE,Niedersachsen,DE-NI|Land Niedersachsen
+Q1198,GPE,GPE,Nordrhein-Westfalen,NW|DE-NW
+Q1199,GPE,GPE,Hessen,HE|DE-HE|Groß-Hessen|Land Hessen
+Q1202,GPE,GPE,Sachsen,DE-SN|SN|Swobodny stat Sakska
+Q1205,GPE,GPE,Thüringen,TH|DE-TH|Freistaat Thüringen
+Q1206,GPE,GPE,Sachsen-Anhalt,ST|DE-ST|Land Sachsen-Anhalt
+Q1285,LOC,LOC,Apennin,Apenninen
+Q1286,LOC,LOC,Alpen,alpin|Alpenregion|Alpenbogen|europäische Alpen|mitteleuropäische Alpen
+Q1288,LOC,LOC,Karpaten,Karpathen
+Q1339,PER,PER,Johann Sebastian Bach,J.S.Bach
+Q1408,GPE,GPE,New Jersey,N.J.|Neujersey|NJ|US-NJ
+Q1420,,,Auto,Schleuder|Kiste|Wagen|Automobil|Kraftfahrzeug|Kraftwagen
+Q1489,GPE,GPE,Mexiko-Stadt,DF|Mexico City|Distrito Federal
+Q1511,PER,PER,Richard Wagner,
+Q1556,GPE,GPE|LOC,St. Pauli,Sankt Pauli|Hamburg-Sankt Pauli|Hamburg-St. Pauli
+Q1577,GPE,GPE|LOC,Neuwerk,Hamburg-Neuwerk
+Q1622,LOC,LOC,Neuwerk,O|Dat Nie Werk|Dat Nieuwe Werck|Neue Werck|Neuwerckh|Newwerck|Nige Ooge|Nige Wark|Nuge uirk
+Q1644,LOC,LOC,Elbe,Albim
+Q1653,LOC,LOC,Donau,
+Q1667,LOC,LOC,Mosel,
+Q1670,LOC,LOC,Main,
+Q1673,LOC,LOC,Neckar,
+Q1675,LOC,LOC,Aare,
+Q1678,LOC,LOC,Saale,Salam
+Q1680,LOC,LOC,Mulde,Mulde (Fluss)|Vereinigte Mulde|Vereinte Mulde
+Q1682,LOC,LOC,Havel,
+Q1684,LOC,LOC,Spree,
+Q1688,LOC,LOC,Elde,
+Q1693,LOC,LOC,Nordsee,Deutsches Meer
+Q1695,LOC,LOC,Skagerrak,
+Q1715,GPE,GPE|LOC,Hannover,Landeshauptstadt Hannover|LHH
+Q1718,GPE,GPE|ORG|LOC,Düsseldorf,Stadt Düsseldorf|D’dorf|DSSD|DUS|Landeshauptstadt Düsseldorf|LHD
+Q1726,GPE,GPE|LOC|ORG,München,LH München|Landeshauptstadt München|MUC|LHM|Stadt München|Monachium
+Q1729,GPE,GPE|LOC,Erfurt,
+Q1731,GPE,GPE|LOC,Dresden,Elbflorenz|Drežďany|Landeshauptstadt Dresden
+Q1741,GPE,GPE|ORG|LOC,Wien,
+Q1754,GPE,GPE,Stockholm,
+Q1794,GPE,GPE,Frankfurt am Main,Frankfurt a. M.|Ffm|FFM|Ffm.|Fft.|Franckfurt am Mayn|Frankfurt a. Main|Frankfurt a.M.|Internationale Messestadt
+Q1842,GPE,GPE|LOC,Luxemburg,Luxembourg|Luxemburg-Stadt|Stadt Luxemburg
+Q1860,,,Englisch,engl.|englische Sprache
+Q1889,,,Diplomatie,
+Q1954,LOC,LOC,Köln Hauptbahnhof,Hauptbahnhof Köln|Köln Hbf|QKL
+Q1997,,,Kohlenstoffdioxid,Kohlendioxid
+Q2079,GPE,GPE|LOC,Leipzig,Leipzsch
+Q2090,GPE,GPE,Nürnberg,"Noris|Nürnberg, St"
+Q2111,,,Vakuumlichtgeschwindigkeit,Lichtgeschwindigkeit|Geschwindigkeit des Lichts|Geschwindigkeit von Licht
+Q2119,GPE,GPE|LOC,Mannheim,"Quadratestadt|Manheim|Mannem|Mannheim (Deutschland)|Mannheim Deutschland|Mannheim in Quadrat|Mannheim, Deutschland|Monnem|Unistadt Mannheim|Universitätsstadt Mannheim"
+Q2173,,O,1924,
+Q2202,,O,5. Januar,5. Jänner|5.1.|05.01.
+Q2225,,,Elektron,e|e⁻
+Q2269,,O,Industrielle Revolution,
+Q2277,GPE,GPE|LOC,Römisches Kaiserreich,
+Q2284,,O,27. Januar,27. Jänner|27.01.|27.1.
+Q2294,,,Proton,
+Q2300,,O,5. Dezember,05.12.|5.12.
+Q2329,,,Chemie,Scheidekunst|Scheidekunde
+Q2336,,O,12. Februar,12. Feber|12.02.|12.2.
+Q2343,,O,18. Februar,18. Feber|18.02.|18.2.
+Q2404,,O,14. März,14.03.|14.3.
+Q2413,,O,17. Dezember,17.12.
+Q2435,,O,22. März,22.03.|22.3.
+Q2456,,O,26. März,26.03.|26.3.
+Q2487,,O,Dreißigjähriger Krieg,
+Q2492,PER,PER,Konrad Adenauer,Der Alte
+Q2494,PER,PER,Benedikt XVI.,Benedictus PP. XVI|Joseph Kardinal Ratzinger|Papst Benedikt XVI.
+Q2510,,O,1. April,01.04.|1.4.
+Q2518,PER,PER,Helmut Kohl,Bimbeskanzler|Helmut Josef Michael Kohl|Kanzler der Einheit
+Q2521,,O,18. April,18.04.|18.4.
+Q2523,,O,19. April,19.04.|19.4.
+Q2526,,O,22. April,22.04.|22.4.
+Q2530,PER,PER,Gerhard Schröder,Gerd Schröder
+Q2537,,,Mond,Satellit|Trabant|natürlicher Satellit
+Q2550,,O,5. Mai,05.05.|5.5.
+Q2552,,O,6. Mai,06.05.|6.5.
+Q2620,,O,6. Juni,06.06.|6.6.
+Q2623,,O,3. Juni,03.06.|3.6.
+Q2646,PER,PER,Friedrich Ebert,
+Q2648,,O,1967,
+Q2677,PER,PER,Wilhelm II.,Friedrich Wilhelm II.|Kaiser Wilhelm II.|Friedrich Wilhelm Viktor Albrecht von Preußen|Friedrich Wilhelm Viktor Albert von Preußen
+Q2698,,O,4. Juli,04.07.|4.7.
+Q2699,,O,3. Juli,03.07.|3.7.
+Q2716,,O,30. Juli,30.07.|30.7.
+Q2718,,O,28. Juli,28.07.|28.7.
+Q2729,,O,17. Juli,17.07.|17.7.
+Q2736,,O,Fußball,Rasenballsport|Fussball|Association Football|Assoziationsfussball|Assoziationsfußball
+Q2749,GPE,GPE|LOC,Augsburg,Aug. Vind.
+Q2777,,O,12. August,12.08.|12.8.
+Q2793,,,Brüder Grimm,Gebrüder Grimm|Jacob und Wilhelm Grimm
+Q2814,GPE,GPE,Halle (Saale),Halle|Halle an der Saale|Halle a. d. Saale|Halle/Saale
+Q2817,,O,28. August,28.08.|28.8.
+Q2843,GPE,GPE|LOC,Lübeck,Hansestadt Lübeck|Freie und Hansestadt Lübeck
+Q2847,,O,14. September,14.09.|14.9.
+Q2868,GPE,GPE|LOC,Lima,
+Q2894,,O,17. September,17.09.|17.9.
+Q2909,GPE,GPE,Landkreis Vorpommern-Rügen,
+Q2910,GPE,GPE|LOC,Ludwigshafen am Rhein,"Ludwigshafen|Ludwigshafen (Deutschland)|Ludwigshafen (Rhein)|Ludwigshafen, Deutschland|Ludwigshafen/Rhein"
+Q2966,GPE,GPE|LOC,Heidelberg,
+Q2977,,,Kathedrale,
+Q2988,,O,10. November,10.11.
+Q2989,,O,7. November,07.11.|7.11.
+Q2999,GPE,GPE|LOC,Würzburg,WÜ
+Q3005,GPE,GPE|LOC,Altstadt-Nord,Altstadt-Nord (Köln)|Altstadt/Nord|K-103|Köln - Altstadt Nord|Köln-Altstadt-Nord|Köln-Altstadt/Nord
+Q3012,GPE,GPE|LOC,Ulm,Ulm (Donau)|Ulm a. d. Donau|Ulm an der Donau|Ulm/Donau
+Q3044,PER,PER,Karl der Große,Karl I.|Karls des Großen|Karolus Magnus
+Q3075,GPE,GPE|LOC,Fürth,"Bayerisches Jerusalem|Fränkisches Jerusalem|Fürth (Bayern)|Fürth i. Bay.|Fürth, St|Kleeblattstadt"
+Q3104,GPE,GPE|LOC,Koblenz,
+Q3126,GPE,GPE|LOC,Erlangen,"Erlangen, St"
+Q3138,GPE,GPE|LOC,Trier,Augusta Treverorum
+Q3150,GPE,GPE|LOC,Jena,
+Q3198,,,Photon,Foton|Lichtquant|Lichtteilchen|Strahlungsquant
+Q3230,LOC,LOC,Erdatmosphäre,Atmosphäre der Erde|Atmosphäre
+Q3237,LOC,LOC,Rügen,
+Q3314,LOC,LOC,Eider,
+Q3369,LOC,LOC,Müritz,
+Q3375,LOC,LOC,Zugspitze,
+Q3699,,O,Deutsche Revolution 1848/1849,Märzrevolution|Revolution von 1848|Revolution 1848/1849 in Deutschland
+Q3750,GPE,GPE|LOC,Gera,
+Q3834,GPE,GPE|LOC,Konstanz,Constanz
+Q3896,GPE,GPE|LOC,Goslar,
+Q3918,,,Universität,Universitäten|Uni
+Q3920,GPE,GPE|LOC,Lüneburg,Hansestadt Lüneburg|Lümborg
+Q3955,GPE,GPE,Weimar,
+Q3958,GPE,GPE|LOC,Neubrandenburg,Neu-Brandenburg|Stadt der Vier Tore|Vier-Tore-Stadt
+Q3962,,,Laptop,Notebook|Klapprechner|Faltrechner|Notebook-PC|Notebook-Personal Computer|Notebook-Personal-Computer|Notebook-Personalcomputer|Schlepptop
+Q3964,LOC,LOC,Hamburger Hafen,Freihafen Hamburg
+Q3969,GPE,GPE|LOC,Metropolregion Hamburg,
+Q3976,LOC,LOC,Reeperbahn,
+Q3987,LOC,LOC,Hamburger Rathaus,Rathaus Hamburg
+Q4022,,,Fluss,Strom
+Q4065,GPE,GPE|LOC,Stralsund,
+Q4127,LOC,LOC|GPE,Bodensee,Schwäbisches Meer
+Q4176,LOC,LOC,Kölner Dom,Hohe Domkirche Sankt Petrus
+Q4178,GPE,GPE|LOC,Wetzlar,
+Q4184,,,Autobiografie,Autobiografik|Autobiographik|Autobiographie|Selbstbiografie|Selbstbiographie|Autobiografisch|Autobiographisch
+Q4186,LOC,LOC,Harz,D37|Hartz|Silva Hercynia
+Q4210,LOC,LOC,Thüringer Wald,
+Q4354,,,Hinterland,
+Q4421,,,Wald,Waldgebiet
+Q4567,,,Abseitsregel,
+Q4618,,,Karneval,"Fasching|Fasnacht|Fastnacht|fünfte Jahreszeit|Karneval, Fastnacht und Fasching"
+Q4624,,,Kölsch,kölsche Sprache
+Q4626,,,Kölsch,
+Q4890,LOC,LOC|ORG,Gemäldegalerie Alte Meister Dresden,Alte Meister Dresden|Galerie Alte Meister|Staatliche Kunstsammlungen Dresden / Gemäldegalerie Alte Meister
+Q4916,,,Euro,
+Q4917,,,US-Dollar,Buck|$|Greenback|USD|US-$
+Q4948,GPE,GPE|LOC,Republik Venedig,Durchlauchtigste Republik des Heiligen Markus|Löwenrepublik|Markusrepublik|Repubblica di Venezia|Respublica Veneta|Serenissima Repubblica di San Marco|Serenìssima Repùblica de Venèçia
+Q4951,ORG,ORG,Gerichtshof der Europäischen Union,GHdEU
+Q5043,,ORG,Christentum,Christenheit|Christlich|Christliche Lehre|Christliche Religion|Christlicher Glaube|Christlicher Glauben
+Q5086,LOC,LOC|GPE,Berliner Mauer,Antifaschistischer Schutzwall|Schandmauer|antifaschistischer Schutzwall
+Q5090,,,Reis,
+Q5107,,,Kontinent,Erdteil|Weltteil
+Q5119,,,Hauptstadt,Kapitale|Regionshauptstadt
+Q5369,,O,Baseball,
+Q5389,,O,Olympische Spiele,Olympia|Olympiade
+Q5622,LOC,LOC,Memel,Nẽmunas|Njemen
+Q5638,,,Omnibus,Reisecar|Bus|Autobus|Car (Autobus)
+Q5679,PER,PER,George Gordon Byron,"George Gordon Noel Byron, 6. Baron Byron"
+Q5762,LOC,LOC|GPE,UTC−4,Eastern Daylight Time|Atlantic Standard Time
+Q5879,PER,PER,Johann Wolfgang von Goethe,
+Q5943,LOC,LOC,Stephansdom,Steffl|Dom- und Metropolitankirche St. Stephan
+Q5963,GPE,GPE,Region Hannover,
+Q6022,GPE,GPE,Landkreis Göttingen,
+Q6040,GPE,GPE,Landkreis Goslar,
+Q6087,GPE,GPE,Landkreis Harz,
+Q6092,GPE,GPE,Landkreis Mansfeld-Südharz,
+Q6186,,,Kommunismus,
+Q6206,,O,Kapitalismus,
+Q6216,,,Liberalismus,
+Q6229,,ORG,Autoritarismus,Autoritärer Staat|Autoritäres Regime|Autoritäres System
+Q6235,,O,Nationalismus,Nationalitätismus
+Q6266,,,Nation,
+Q6424,LOC,LOC,Werra,
+Q6533,,O,1546,
+Q6574,LOC,LOC|GPE,UTC±0,WEZ|Western European Time|Westeuropäische Zeit
+Q6602,GPE,GPE,Straßburg,Schdroosburi|Strossburig
+Q6637,,O,1483,
+Q6655,LOC,LOC|GPE,UTC+1,Britische Sommerzeit|Central European Time
+Q6694,PER,PER,Alexander von Humboldt,Alex. v. Humboldt|Alexander v. Humboldt
+Q6723,LOC,LOC|GPE,UTC+2,
+Q6760,LOC,LOC|GPE,UTC+3,Osteuropäische Sommerzeit
+Q6779,LOC,LOC|GPE,UTC+4,
+Q6837,GPE,GPE|LOC,Lutherstadt Wittenberg,Wittenberg|Wittenberg Lutherstadt
+Q6894,,O,1804,
+Q6926,,O,1724,
+Q6927,,O,20. Jahrhundert,
+Q6948,,O,1815,
+Q6955,,O,19. Jahrhundert,
+Q6964,,O,1818,
+Q7008,,O,1827,
+Q7015,,O,18. Jahrhundert,
+Q7024,GPE,GPE,Lugano,Davesco|Lauis|Lügann|Soragno|Lugano TI
+Q7070,GPE,GPE,Eisenach,
+Q7085,PER,PER,Niels Bohr,
+Q7094,,,Biochemie,biologische Chemie|physiologische Chemie
+Q7108,,,Biotechnologie,Biotech|Biotechnik
+Q7150,,,Ökologie,
+Q7163,,,Politik,
+Q7167,,,Kolonialismus,
+Q7174,,ORG,Demokratie,Volksherrschaft
+Q7181,,,Globalisierung,
+Q7184,ORG,ORG,Nordatlantikvertragsorganisation,NAVO|Atlantisches Bündnis|Nordatlantikpakt-Organisation|Organisation des Nordatlantikvertrags
+Q7186,PER,PER,Marie Curie,
+Q7188,,,Regierung,Staatsgewalt
+Q7191,,,Nobelpreis,
+Q7246,,,Einhorn,
+Q7251,PER,PER,Alan Turing,A. M. Turing|A.M. Turing|Alan M. Turing|Alan Mathison Turing|AM Turing
+Q7259,PER,PER,Ada Lovelace,"Ada Byron|Ada King|Augusta Ada King|Augusta Ada King, Countess of Lovelace"
+Q7260,,O,Imperialismus,
+Q7264,,,Marxismus,
+Q7269,,ORG,Monarchie,
+Q7270,,ORG,Republik,
+Q7272,,O,Sozialismus,
+Q7275,,,Staat,
+Q7278,,,politische Partei,Partei|Parteien|Partei (Politik)|Partei in der Politik|Parteien (Politik)|Parteien in der Politik|politische Parteien
+Q7302,PER,PER,Georg Friedrich Händel,G. F. Händel|George Frideric Handel
+Q7310,,,Nationalsozialismus,Nazismus
+Q7318,GPE,GPE|LOC,NS-Staat,NS-Regime|Nazideutschland|Hitlerdeutschland|Drittes Reich|Großgermanisches Reich|Großdeutsches Reich|1000-jähriges Reich|Deutsches Reich 1933 bis 1945|Deutsches Reich 1933–1945|Deutschland 1933 bis 1945|Deutschland 1933–1945|Grossdeutsches Reich|Hitler's Third Reich|Hitlerreich|Hitlerstaat|nationalsozialistischer Staat|Nationalsozialistisches Deutsches Reich|Nationalsozialistisches Deutschland|NS-Deutschland|NS-Reich
+Q7319,,O,Zeit des Nationalsozialismus,Nazidiktatur
+Q7320,ORG,ORG,Nationalsozialistische Deutsche Arbeiterpartei,
+Q7411,,,Niederländisch,niederländische Sprache
+Q7559,,,Drache,Drachen|Lindwurm
+Q7584,,O,1832,
+Q7590,,,Transport,Verkehr|Beförderung
+Q7607,,O,1749,
+Q7611,,O,1750,
+Q7632,,O,1756,
+Q7679,,O,1769,
+Q7683,,O,1770,
+Q7687,,O,1859,
+Q7715,,O,1867,
+Q7748,,,Recht,
+Q7755,,,Verfassung,
+Q7764,,O,1875,
+Q7766,,O,1876,
+Q7783,,O,1879,
+Q7784,,O,1791,
+Q7795,ORG,ORG,Organisation erdölexportierender Länder,Organisation Erdöl exportierender Länder|Organization of the Petroleum Exporting Countries
+Q7809,ORG,ORG,UNESCO,"Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur|Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur"
+Q7816,,O,1883,
+Q7825,ORG,ORG,Welthandelsorganisation,World Trade Organization
+Q7848,,O,1898,
+Q7858,GPE,GPE,Landkreis Nordhausen,
+Q7926,GPE,GPE|ORG,Regierungsbezirk Düsseldorf,Bezirk Düsseldorf|Düsseldorf (Bezirk)
+Q7927,GPE,GPE|ORG,Regierungsbezirk Köln,Köln (Bezirk)
+Q7937,,LOC,Klima,Klimabedingungen
+Q7942,,O,Erderwärmung,Erderhitzung|Klimawandel|globale Erderhitzung|globale Erderwärmung
+Q7991,,,Naturwissenschaft,Naturwissenschaften|NaWi
+Q8008,,,Geowissenschaften,Erdwissenschaft|Erdwissenschaften|Geowissenschaft|Raumwissenschaft|Geo-Wissenschaften
+Q8028,,,Fee,
+Q8068,,,Hochwasser,Überflutung
+Q8075,,,Fernsehgerät,TV|Television|Fernseher|Fernsehapparat|Fernsehempfänger|Telehor|Ferntonkino|Televisionsgerät
+Q8076,,,Spielkonsole,Spielekonsole|Konsole|Videospielekonsole|Videospielkonsole
+Q8078,,,Logik,Logik in der Philosophie|philosophische Logik|Logik (Philosophie)
+Q8091,,,Grammatik,
+Q8104,,,Atmosphäre,
+Q8134,,,Wirtschaftswissenschaft,Wirtschaftslehre|Ökonomik
+Q8142,,,Währung,Geldeinheit
+Q8162,,,Sprachwissenschaft,Linguistik
+Q8171,,,Wort,
+Q8172,GPE,GPE|ORG,Regierungsbezirk Stuttgart,
+Q8177,GPE,GPE,Rhein-Neckar-Kreis,
+Q8242,,,Literatur,
+Q8355,,,Violine,Geige
+Q8359,LOC,LOC,Odenwald,
+Q8361,,O,Barockmusik,
+Q8366,,,Algorithmus,mathematisches Verfahren
+Q8418,,O,Handball,
+Q8425,,,Gesellschaft,Blase
+Q8442,PER,PER,Otto von Bismarck,Fürst Bismarck|Eiserner Kanzler|Otto Eduard Leopold von Bismarck
+Q8683,,O,Kalter Krieg,Ost-West-Konflikt|Ost-West-Gegensatz|West-Ost-Gegensatz|West-Ost-Konflikt
+Q8698,,O,Weltwirtschaftskrise,Große Depression
+Q8767,,,Domain Name Server,Domain Name Service|Domain-Name-Server
+Q8795,,,Internet Protocol,Internetprotokoll|Internet-Protokoll|IP
+Q8880,ORG,ORG,Europäische Kommission,EK|EU-Kommission|KOM
+Q8882,,,Präsident der Europäischen Kommission,Präsidentin der Europäischen Kommission
+Q8886,ORG,ORG,Europäischer Rat,ER
+Q8889,ORG,ORG,Europäisches Parlament,EU-Parlament|Europaparlament
+Q8896,ORG,ORG,Rat der Europäischen Union,EU-Ministerrat
+Q8900,ORG,ORG,Europäischer Rechnungshof,
+Q8901,ORG,ORG,Europäische Zentralbank,EZB|Europäischen Zentralbank
+Q8919,ORG,ORG|GPE,Europäische Atomgemeinschaft,
+Q8922,GPE,GPE|LOC,Innere Altstadt,
+Q8958,PER,PER,Johannes Gutenberg,Henne Gensfleisch|Johannes Gensfleisch
+Q9005,GPE,GPE|LOC,Groß-Brüssel,Brüssel
+Q9041,PER,PER,James Watt,
+Q9047,PER,PER,Gottfried Wilhelm Leibniz,Gottfried Wilhelm Leibnütz|Gottfried Wilhelm Leibnuzius
+Q9051,,,Luxemburgisch,Letzebuergesch|Letzeburgisch|luxemburgische Sprache
+Q9056,,,Tschechisch,Böhmisch|böhmische Sprache|tschechische Sprache
+Q9061,PER,PER,Karl Marx,"Mohr|Carl Marx|Charles Marx|Marx, Karl|Kalle Malle|Marx, Carl|Marx, Charles|Marx, Karl Heinrich|Old Nick"
+Q9095,PER,PER,James Clerk Maxwell,Maxwell|J. Clerk Maxwell
+Q9128,,,Licht,
+Q9129,,,Griechisch,griechische Sprache
+Q9158,,,E-Mail,elektronische Mail|elektronische Post|eMail|Mail
+Q9174,,O,Religion,
+Q9235,PER,PER,Georg Wilhelm Friedrich Hegel,
+Q9259,,,UNESCO-Welterbe,Welterbe|Weltkulturerbe|Weltnaturerbe|UNESCO-Weltkulturerbe|UNESCO-Weltnaturerbe|UNESCO-Liste des Welterbes|Welterbestätte|Liste des Kulturellen Welterbes|Liste des Weltkultur- und Naturerbes der Menschheit|UNESCO-Welterbe-Gebiet|UNESCO-Welterbeliste|Welterbeliste|World Heritage List
+Q9288,,,Hebräisch,hebräische Sprache
+Q9312,PER,PER,Immanuel Kant,
+Q9322,ORG,ORG,Deutsche Bahn,Bahn|DB|DB AG|DBAG|Die Bahn|Deutsche Bahn AG|Deutsche Bahn Aktiengesellschaft
+Q9325,ORG,ORG,Lufthansa,DLH|LH|Deutsche Lufthansa|Lufthansa Group|Deutsche Lufthansa AG|Deutsche Lufthansa Aktiengesellschaft|Lufthansa German Airlines|Lufthansa Passage Airlines
+Q9358,PER,PER,Friedrich Nietzsche,
+Q9396,ORG,ORG,Deutsche Telekom,Deutsche Telekom Aktiengesellschaft|Magenta-Konzern|Telekom AG|Telekom-Konzern|DTAG
+Q9465,,,Ethik,
+Q9471,,,Epistemologie,Gnoseologie|Erkenntnistheorie|Erkenntnislehre
+Q9554,PER,PER,Martin Luther,Junker Jörg
+Q9592,ORG,ORG,römisch-katholische Kirche,Katholische Kirche
+Q9730,,,klassische Musik,
+Q9734,,,Sinfonie,Symphonie
+Q9788,,,Buchstabe,Buchstaben
+Q10544,GPE,GPE,Landkreis München,Bezirksamt München|Bezirksamt München I|Lkr. München|München (Kreis)|München (Landkreis)
+Q10551,GPE,GPE|ORG,Mittelfranken,Bezirk Mittelfranken|Mittelfranken (Bezirk)|Regierungsbezirk Mittelfranken|Rezatkreis
+Q10562,GPE,GPE|ORG,Oberbayern,Regierungsbezirk Oberbayern
+Q10876,,,Bakterien,Bacteria
+Q10987,,,Honig,Bienenhonig
+Q10998,,,Kartoffel,Erdapfel|Erdbirne|Grundbirne|Erdknolle|Potacke|Potaten|Solanum tuberosum
+Q11002,,,Zucker,
+Q11033,,,Massenmedien,Massenkommunikationsmittel|Massenmedium
+Q11034,,O,Buchdruck,Druck|Drucktechnik|Druckwesen
+Q11035,,,Telefon,Fernsprecher|Fernsprechapparat|Telephon
+Q11042,,,Kultur,
+Q11059,,,Sanskrit,
+Q11128,,,Vertrag über die Arbeitsweise der Europäischen Union,AEU-Vertrag|AEUV
+Q11146,,,Vertrag von Maastricht,
+Q11165,,,anorganische Chemie,AC|Anorganik
+Q11188,,,Weltbevölkerung,Erdbevölkerung|Erdbewohner
+Q11190,,,Medizin,Iatrik|Medizinwissenschaften
+Q11204,,,Legislative,Gesetzgeber
+Q11206,,,Verfassungsrecht,
+Q11303,,,Wolkenkratzer,
+Q11351,,,organische Chemie,OC|Kohlenstoffchemie|Organik|Organische Verbindung|Organische Verbindungen
+Q11358,,,Kohlenhydrate,Kohlehydrate|Kohlenstoffhydrate|Makrosaccharide|Saccharide
+Q11379,,,Energie,
+Q11386,,,elektromagnetische Welle,EM-Welle
+Q11391,,,Ultraviolettstrahlung,Ultraviolett|UV-Licht|UV-Strahlung|Schwarzlicht|Infraviolett-Strahlung|ultraviolettes Licht
+Q11397,,,klassische Mechanik,Newton'sche Physik|Newtonsche Mechanik|Newtonsche Physik
+Q11412,,O,Gravitation,Schwerkraft|Massenanziehung|Gravitationskraft
+Q11423,,,Masse,Gewicht|Ruhemasse
+Q11448,,,Radioaktivität,Atomzerfall|Kernzerfall
+Q11452,,,allgemeine Relativitätstheorie,ART
+Q11455,,,spezielle Relativitätstheorie,Zur Elektrodynamik bewegter Körper|SRT
+Q11471,,,Zeit,
+Q11472,,,Papier,
+Q11474,,,Kunststoff,Plastik|Kunststoffe|Plaste|Kunstkautschuk|polymerer Werkstoff|Polymerwerkstoff|synthetische Polymere
+Q11523,,,Gammastrahlung,γ-Strahlung
+Q11573,,,Meter,
+Q11575,,,Mais,Kukuruz|Kukuruz (AT)|Zea mays
+Q11577,,,Gerste,Gerstengras|Gerstengraupen|Hordeum vulgare|Kultur-Gerste|Kulturgerste|Sommergerste|Wintergerste
+Q11651,,,elektrischer Strom,Strom|Stromfluss|elektrischer Fluss|elektrischer Ladungsfluss|elektrischer Stromfluss|Ladungsfluss
+Q11661,,,Informationstechnik,IT|Informationstechnologie|Informationstechnologien|I. T.|I.T.|Info-Tech|Informations-Technologie|ITK
+Q11708,LOC,LOC,Südostasien,Süd-Ost-Asien|Südöstliches Asien
+Q11759,,O,Steinzeit,Steinzeitmensch|Jungsteinzeit|Lithisch
+Q11805,GPE,GPE|LOC,Erzbistum Köln,Diözese Köln|Köln <Diözese>|Erzdiözese Köln|Köln (Erzdiözese)
+Q11824,,,Dornröschen,
+Q11831,,O,Schneewittchen,KHM 53|Schneeweißchen|Sneewittchen
+Q11925,GPE,GPE,Kanton Graubünden,Graubünden
+Q11942,ORG,ORG,ETH Zürich,Eidg. Technische Hochschule Zürich|Eidgenössische Technische Hochschule Zürich|ETH Zurich|ETHZ
+Q11943,GPE,GPE,Kanton Zürich,ZH|Zürich
+Q11982,,,Photosynthese,Fotosynthese|Fotophosphorylierung|Lineare Photophosphorylierung|Photophosphorylierung|Zyklische Photophosphorylierung
+Q11993,,,Europahymne,EU-Hymne
+Q12078,,,Krebs,Krebserkrankung|Krebskrankheit|Malignom|Krebszelle|Blastom|bösartiger Tumor|Krebsherd|Maligne Neoplasie|maligner Tumor
+Q12097,,,König,Kg
+Q12099,,,Roggen,Secale cereale
+Q12117,,,Getreide,Korn
+Q12143,,,Zeitzone,
+Q12271,,,Architektur,"Architekturen|Baukunst|Sowohl Prozess als auch Produkt der Planung, des Entwurfs und der Konstruktion"
+Q12539,,O|ORG,Aufklärung,Aufklärungszeit|Aufklärungszeitalter|Zeitalter der Aufklärung
+Q12548,GPE,GPE|LOC,Heiliges Römisches Reich,Erstes Reich|H.R.R.|Heiliges römisches Reich deutscher Nation|Heiliges Römisches Reich Deutscher Nation|HRR|HRRdN|Reich der Deutschen|Römisch-Deutsches Reich|Sacrum Imperium|Sacrum Imperium Romanum|Sacrum Imperium Romanum Nationis Germanicae|Sacrum Romanum Imperium|Sacrum Romanum Imperium Nationis Germanicae
+Q12554,,O,Mittelalter,
+Q12562,,O,Reformation,
+Q12585,LOC,LOC,Lateinamerika,Iberoamerika|Latein-Amerika|Latein-Amerikaner|Lateinamerikaner
+Q12638,,,Bruttoinlandsprodukt,BIP|Bruttoinlandprodukt|Verteilungsrechnung
+Q12705,,,erneuerbare Energie,erneuerbare Energien|regenerative Energie|regenerative Energien
+Q12725,,,Elektrizität,Strom
+Q12739,,O,Kernenergie,Atomindustrie|Atomtechnologie|Atomenergie|Atomkraft|Atomstrom|Nuklearenergie|Kernkraft|Atomkernenergie|Kernenergietechnik
+Q12748,,,fossile Energie,fossile Brennstoffe|fossile Energieträger|fossile Treibstoffe|fossiler Brennstoff|fossiler Energieträger|fossiler Treibstoff
+Q12757,,,Verbrennungsmotor,Verbrennungskraftmaschine mit innerer Verbrennung
+Q12760,,,Dampfmaschine,Dampfkraft|Expansionsmaschine|Feuermaschine|Kolbendampfmaschine
+Q12802,,,Kernwaffe,Atomsprengkopf|Nuklearwaffe|Atomgranate|Atomwaffe|Atomwaffen|Nuklearsprengkopf|Kernwaffen|A-Waffe|Atomare Waffe|Nuklearbewaffnung|Nuklearschlag
+Q13116,GPE,GPE|ORG,Benelux,Beneluxstaaten|Benelux-Länder|Benelux-Staaten|Benelux-Wirtschaftsunion|Beneluxländer
+Q13124,ORG,ORG,Freie Demokratische Partei,FDP|Die Liberalen|F.D.P.|Freie Demokraten
+Q13248,,,Obersorbisch,obersorbische Sprache
+Q13371,ORG,ORG,Harvard University,Harvard-Universität|Universität Harvard
+Q13894,PER,PER,Richard Strauss,Richard Georg Strauss
+Q13996,,,Mittelmeerklima,Etesienklima|Mediterranes Klima
+Q14296,,,Top-Level-Domain,TLD
+Q14338,LOC,LOC,Limmat,Limmig (aargauischen Unterlauf)
+Q14378,,O,Klassizismus,
+Q14407,LOC,LOC|GPE,Zürichsee,Zürisee
+Q14620,,,Optik,
+Q14842,GPE,GPE,Falkensee,
+Q14889,GPE,GPE,Schwabach,"Schwabach, St"
+Q15114,LOC,LOC,Flughafen Zürich,Flughafen Zürich-Kloten|LSZH|ZRH
+Q15124,GPE,GPE,Autonome Provinz Bozen – Südtirol,Südtirol|Bozen – Südtirol|Provinz Bozen|Süd-Tirol|Tiroler Etschland
+Q15180,GPE,GPE|LOC,Sowjetunion,UdSSR|U.D.S.S.R.|UDSSR|Union der Sozialistischen Sowjetrepubliken
+Q15416,,,Fernsehsendung,TV-Sendung|Fernsehprogramm
+Q15682,GPE,GPE|ORG,Cádiz,Gadeira|Gadira|Gaditano
+Q15766,,,Hochgebirge,
+Q16338,,,Personal Computer,Personalcomputer|Einzelplatz-Rechner|Einzelplatzrechner|handelsüblicher Computer|Netzcomputer|personal computer|Personal-Computer|Personen-Computer|Personencomputer|persönlicher Rechner
+Q16817,,,Karst,Karstplateau|Cockpit karst|Karsterscheinung|Karststock|Kegelkarst|Turmkarst|Verkarstung
+Q16957,GPE,GPE|LOC,Deutsche Demokratische Republik,DDR|Ostdeutschland|DD|RDA|Deutsche Demokratische Republik (DDR)|GDR|Ost-Deutschland
+Q16970,,,Kirchengebäude,Kirche|Kirchenbau|Kirchenbauwerk|christlicher Tempel|Kirchgebäude
+Q17221,,,Pressesprecher,Sprecher|Mediensprecher|Pressesprecherin|Mediensprecherin
+Q17514,,,Graffiti,Graffito
+Q17737,,,Theorie,Theorien
+Q17946,,,öffentliche Meinung,
+Q18556,,,Bioenergie,
+Q18577,,O,1955,
+Q18581,,O,1954,
+Q18714,,O,1934,
+Q18853,ORG,ORG,DB Regio,DB Bahn Regio|DB Regio AG
+Q19093,,,Liste der Länder nach Bruttoinlandsprodukt,
+Q19493,,O,1098,
+Q19698,,O,1179,
+Q19771,ORG,ORG,G20,G-20|Gruppe der zwanzig wichtigsten Industrie- und Schwellenländer
+Q19809,,O,Weihnachten,Weihnachtsfeier|Weihnachtsfest|Christfest|Christtag|Weihnachtsfeiertag|Weihnachtstag|Weihnachtstage|Geburt Christi|Christi Geburt|Fest der Liebe|1. Weihnachtsfeiertag|1. Weihnachtstag|Erster Weihnachtsfeiertag|Heilige Christ|Heiliger Christ|Heiliges Christfest|Hochfest der Geburt des Herrn|Natale domini|Weihnachtsnacht
+Q20135,GPE,GPE|LOC,Großherzogtum Hessen,Großherzogthum Hessen|Großherzogtum Hessen und bei Rhein|Großherzogtum Hessen-Darmstadt
+Q20859,,,Geest,Geestlandschaft|Geestrücken|Sandrücken
+Q20989,,,elektrische Feldstärke,
+Q21200,,,Germanisch,germanische Sprachen
+Q21201,,,Soziologie,Gruppwissenschaft|soziologisch|soziologische Theorie
+Q22640,GPE,GPE,Thionville,Diedenhofen|Diddenuewen
+Q22645,,,Smartphone,Handy-Taschencomputer|Mobile Digital Assistant|PDA-Phone|QWERTY-Smartphone|Smart Phone|Touch Phone|Touchphone
+Q22656,,,Erdöl,Bergöl|Steinöl
+Q22664,,,geographische Koordinaten,Geo-Koordinate|Geo-Koordinaten|geografische Koordinaten|geographisches Koordinatensystem|Geokoordinate|Gradnetz der Erde|Ptolemäisches Gradnetz|geografische Koordinate|Geokoordinaten|geografische Lage
+Q22667,,,Eisenbahn,Bahn
+Q22670,PER,PER,Friedrich Schiller,Schiller|Friedrich von Schiller|Johann Christoph Friedrich von Schiller
+Q22688,,,Pressefreiheit,Preßfreiheit
+Q22690,GPE,GPE,Metz,Divodurum
+Q22692,,,Meinungsfreiheit,Redefreiheit|Meinungsäußerungsfreiheit
+Q22722,,,Kurfürst,Kurfürstentum|Kurwürde|Elekt|Churfuerst|Kurfürst-Erzbischof|Kurfürstenkollegium|Kurfürstenrat|Kurlande|Kurstimme
+Q22856,,,Bevölkerungsdichte,Wohndichte|Bevölkerungsdruck|Einwohnerdichte
+Q22865,,GPE|ORG|LOC,kreisfreie Stadt in Deutschland,kreisunmittelbar|Stadtkreis|kreisfrei|Immediatstadt|kreisfreie Stadt (Deutschland)|kreisfreie Städte (Deutschland)|kreisfreie Städte in Deutschland|kreisunmittelbare Stadt
+Q22880,GPE,GPE|LOC,Kurpfalz,Pfalz|Churpfalz|Kurfürstentum Pfalz|Kurfürstentum von der Pfalz|Pfalzgrafschaft bei Rhein|Rheinische Pfalzgrafschaft
+Q22947,,,Einwohner,Bewohner|Infrau|Innfrau
+Q22964,LOC,LOC,Oberrheinische Tiefebene,Rheinebene|Oberrheingraben|Oberrhein-Untermain-Senke|Oberrheinebene|Oberrheinischer Tiefgraben|Pfälzische Rheinebene
+Q23003,,,Amtlicher Gemeindeschlüssel,GKZ|AGS|Amtliche Gemeindekennzahl|Amtsschlüssel|Gemeindekennziffer|Gemeindeschlüssel|Gemeindeschlüsselzahl|Kreisschlüssel|Gemeindekennzahl|Amtlicher Gebietsschlüssel|Amtlicher Kreisschlüssel|Kreisgemeindeschlüssel|Teilgemeindekennziffer
+Q23492,,O,Amtssprache,Staatssprache|Gerichtssprache|offizielle Sprache
+Q23540,,,Protestantismus,Evangelisch
+Q23666,LOC,LOC,Großbritannien,GB-GBN|Grossbritannien
+Q24489,,,Kohle,
+Q24723,,,Kunstmärchen,modernes Märchen|Dichtermärchen|literarisches Märchen
+Q24879,GPE,GPE,Bremen,Hansestadt Bremen
+Q24905,,,Verb,Tätigkeitswort|Zeitwort|Tunwort|Tuwort|Verbum|Handlungswort
+Q25223,,,Bundespräsident,
+Q25236,,,Watt,
+Q25237,,,Erbse,Erbsenpflanze|Speiseerbse|Gartenerbse|Markerbse|Pisum sativum|Schalerbse
+Q25250,,,Volt,V
+Q25272,,,Ampere,A
+Q25320,PER,PER,Paul Langevin,
+Q25325,,,Friesisch,friesische Sprache|friesische Sprachen
+Q25347,,,Laubmoose,Moos|Laubmoos|Moose
+Q25372,,,Drama,Dramatik|Texte mit verteilten Rollen
+Q25406,,,Coulomb,
+Q25428,,,elektrische Spannung,Spannung
+Q25433,,,Niederdeutsch,Plattdeutsch|niederdeutsche Dialekte|niederdeutsche Mundarten|niederdeutsche Sprache|plattdeutsche Sprache
+Q25445,,O,Holozän,Postglazial|Nacheiszeit|Neo-Warmzeit
+Q26325,,,Gemeiner Wacholder,Wacholder|Machandelbaum|Gewöhnlicher Wacholder|Heide-Wacholder|Juniperus communis
+Q26336,,,Elektrostatik,
+Q26678,ORG,ORG,BMW,Bayerische Motoren Werke|Bayerische Motorenwerke|Bayerische Motorenwerke AG|Forschungs- und Innovationszentrum|Rapp Motorenwerke
+Q26721,,,Westgermanisch,westgermanische Sprache|Kontinentalwestgermanisch|kontinentalwestgermanische Sprachen|West-Germanisch|westgermanische Sprachen
+Q26825,PER,PER,Herodot,Herodot von Halikarnassos
+Q26841,,O,Anthropozän,Zeitalter der Menschen|Zeitalter des Menschen
+Q27114,LOC,LOC,Königstuhl,Königsstuhl
+Q27231,LOC,LOC,Ostasien,
+Q27275,LOC,LOC,Zentralasien,Mittelasien
+Q27306,GPE,GPE|LOC,Königreich Preußen,Preußen|Kgr. Preußen|preussische Monarchie
+Q27496,LOC,LOC,Westeuropa,
+Q27509,LOC,LOC,Mitteleuropa,Zentraleuropa
+Q27590,,LOC,Heide,Heidelandschaft
+Q27654,,,Geschichte der Philosophie,Philosophiegeschichte
+Q27706,LOC,LOC,Flughafen Hamburg,HAM|Hamburg Airport|EDDH|Flughafen Fuhlsbüttel|Flughafen Hamburg GmbH|Flughafen Hamburg-Fuhlsbüttel|Hamburg Airport „Helmut Schmidt“;|Hamburger Flughafen
+Q27906,,,Nürnberger Gesetze,Vierteljude|Vierteljuden|Achteljude|Achteljuden|Ariergesetze|Nürnberger Rassegesetze|Nürnberger Rassengesetz|Nürnberger Rassengesetze|Rassegesetze|Volljude
+Q28108,,,politisches System,politische Architektur|politische Systeme|politische Ordnung|politisch administratives System|politisch-administratives System
+Q28480,PER,PER,Max Brod,
+Q28513,GPE,GPE|LOC,Österreich-Ungarn,Doppelmonarchie|Die im Reichsrat vertretenen Königreiche und Länder und die Länder der heiligen ungarischen Stephanskrone|Donau-Monarchie|K & K Monarchie|K und K Monarchie|K. u. k. Österreich|K.u.k. Monarchie|K.u.k.-Monarchie|Österreich-Ungarische Monarchie|Österreich-Ungarischen Monarchie|Österreichisch-ungarische Doppelmonarchie|Österreichisch-ungarische Monarchie|ÖU
+Q28942,,,Stadtrecht,Stadtrechte|Mindener Stadtrecht|Neusser Stadtrecht|Stadterhebung
+Q29075,ORG,ORG,Augustinerorden,Augustiner|OSA|O.S.A.|Augustiner-Eremiten
+Q29572,,,Avestisch,
+Q29583,,,Modedesign,
+Q29893,LOC,LOC,Messegelände Hannover,Hannover Messegelände|Messe Hannover
+Q30036,,,Niedrigwasser,
+Q30185,,,Bürgermeister,Stadtoberhaupt|Stadtpräsidentin|Bürgermeisterin|Stadtpräsident
+Q30198,,,Sumpf,Schwemmland
+Q31519,ORG,ORG,Karls-Universität Prag,Alma mater carolina ferdinandea|Karlova Univerzita|Karls-Universität zu Prag|Karlsuniversität|Karlsuniversität Prag|Karolinum|Prager Karlsuniversität|Prager Universität|Uni Prag|Universitas Carolina|Universität Prag|Univerzita Karlova|Univerzity Karlovy
+Q32145,,,Ripuarisch,ripuarische Dialekte|ripuarische Dialektgruppe
+Q32880,,,Baustil,Architekturstil
+Q33384,,,Dialekt,dialektal|Dialekte|Mundart|Mundarten
+Q33741,,,Blitz,Wolkenblitz|Blitze|Leader|Donnerschlag|Erdblitz|atmosphärische Entladung|Aufblitzen|Blitzkanal|Gewitterblitz
+Q33923,PER,PER,Petrus,Heiliger Petrus|Hl. Petrus|Heiliger Peter|Hl. Peter|Papst Petrus|Petritag|Simon Barjona|Simon Petrus|Apostel Petrus|Kephas
+Q33946,GPE,GPE|LOC,Tschechoslowakei,Republik Tschecho-Slowakei|Republik Tschechoslowakei|Tschecho-Slowakei|Tschechoslowakisch|ČSR|Tschechoslowakische Republik|Tschechoslowakische Sozialistische Republik|Tschechische und Slowakische Föderative Republik|Tschecho-Slowakische Republik
+Q33971,,,Blatt,Blattmorphose|Blattnervatur|Phyllom
+Q34178,,,Theologie,theologisch|Gottesgelehrsamkeit
+Q34266,GPE,GPE|LOC,Russisches Kaiserreich,Kaiserreich Russland|Russisches Imperium|Rußisches Imperium|Rußisches Kaiserreich|Russisches Reich 1721 bis 1917|Russländisches Kaiserreich
+Q34404,GPE,GPE|LOC,New Orleans,New-Orleans|Nieuw-Orleans
+Q34433,ORG,ORG,University of Oxford,Oxford Universität|Oxford University|Oxford-Universität|Universität Oxford|Universität von Oxford
+Q34450,,,Bundesstraße 4 R,B 4 R|B 4R|B4 R|B4R|Bundesstrasse 4 R|Bundesstrasse 4R|Bundesstraße 4R
+Q34640,LOC,LOC,Ärmelkanal,Ärmel Kanal
+Q34698,,,Adjektiv,Beiwort|Eigenschaftswort|Wiewort|Adjektivum
+Q34713,GPE,GPE|ORG,Salzburg,Salzburg-Stadt|Stadt Salzburg
+Q34763,,,Halbinsel,Nase|Binnenhalbinsel
+Q34777,,,Röntgenstrahlung,Röntgen-Strahlen|Röntgen-Strahlung|X-Rays|X-Strahlen|Röntgenbestrahlung|Röntgenstrahl|Röntgenstrahlen
+Q34787,PER,PER,Friedrich Engels,
+Q35105,,O,Mardi Gras,
+Q35149,PER,PER,Wilhelm Conrad Röntgen,Conrad Röntgen|Konrad Röntgen|Wilhelm Konrad Röntgen
+Q35191,,O,Karneval in Venedig,
+Q35218,,,Althochdeutsch,Ahd.|althochdeutsche Sprache
+Q35232,,O,Karneval in Rio,Karneval in Rio de Janeiro
+Q35245,,,Etymologie,Wortherkunft|etymologisch|Wortherkunftskunde
+Q35277,,,Metaphysik,Fundamentalphilosophie|Prima Philosophia
+Q35301,,O,Karneval von Québec,
+Q35572,ORG,ORG,UEFA,Europäischer Fußballverband|Union der europäischen Fußballverbände|Union of European Football Associations
+Q35666,,,Gletscher,Kees|Gletschereis|Ferner|Firn
+Q35722,,,Gotisch,got|gotische Sprache
+Q35749,,,Parlament,Gesetzgebungskörperschaft|Parlamentsfunktionen|Nationalparlament
+Q35758,,,Materie,materielle Substanz
+Q35760,,,Essay,
+Q35798,,,Exekutive,Führende Gewalt|Vollziehende Gewalt|Zweite Gewalt|Regierung|Gesetzesvollzug|Exekutivorgan|Ausführende Gewalt
+Q35856,,,Taufe,Tauftag
+Q35986,,,Ästhetik,Ästhet|Ästhetiker|Aesthetik|Aesthetisch|Aisthesis|Ästhetisch|Ästhetische Funktion
+Q36097,,O,Der Process,Der Prozess|Der Proceß|Der Prozeß
+Q36180,,,Schriftsteller,Urheber|Schriftstellerin|Autor|Autorin|Urheberin|Buchautor|Buchautorin|Verfasser|Verfasserin
+Q36244,,,Vokal,Vokale|Selbstlaut
+Q36422,,O,Jungsteinzeit,Neolithikum|Neolith|Jungsteinzeitlich|Neolithicum|Neolithiker|Neolithisch
+Q36442,,,Politikwissenschaft,Polwi|PoWi|wissenschaftliche Politik|Politikwissenschaften|Staatswissenschaft|Regierungslehre|Politologie|politische Wissenschaft|politische Wissenschaften
+Q36834,,,Komponist,Komponistin|Tondichter|Tonsetzer|Componist|Compositeur|Musikkomponist|Musikkomponistin|Tondichterin|Tonsetzerin
+Q36870,,,Muttersprache,Muttersprachler|muttersprachlich
+Q37030,PER,PER,Thomas Mann,
+Q37129,,,Methan,Methangas|Carban|Methylwasserstoff|R-50
+Q37431,,,ISO 4217,ISO-Währungsabkürzung|Währungsabkürzungen|Währungscode|Währungskennzeichen|Währungskürzel|Währungsschlüssel
+Q37437,,,Syntax,Satzlehre|Satzbau
+Q37463,PER,PER,Pierre Curie,
+Q37577,PER,PER,Johannes Calvin,
+Q37732,,,Demografie,Demographie|Bevölkerungsprognose|Bevölkerungswissenschaft|Bevölkerungsforschung|Bevölkerungslehre|Demografisch|Demographisch
+Q37853,,O|ORG,Barock,Barockkunst|Barockstil|Barockzeit|Barockstadt|Barockzeitalter
+Q37868,,,Algen,Alge|Algae|Algenbildung|Phycobionta|Phycophyta
+Q37901,,,Meerenge,Straße|Kanal|Sund|Meeresstraße|Strasse|Belt|Meeresenge
+Q37922,,O,Nobelpreis für Literatur,Literaturnobelpreis
+Q38104,,,Nobelpreis für Physik,Physik-Nobelpreis|Physiknobelpreis
+Q38130,ORG,ORG,Völkerbund,Genfer Liga|Liga der Nationen
+Q38245,ORG,ORG,Eintracht Frankfurt,SGE|Eintracht Frankfurt e. V.|Eintracht Frankfurt Fußball AG|eintracht.de|Frankfurter SG Eintracht|Frankfurter Sportgemeinde Eintracht|SG Eintracht Frankfurt|Sportgemeinde „Eintracht“
+Q38311,,,Morphologie,Morphematik|Morphemik|Sprachmorphologie
+Q38635,,,Stammwürze,Stammwürzgehalt
+Q38720,,,Windmühle,Horizontalachswindmühle
+Q38723,,,Hochschule,
+Q38872,GPE,GPE|LOC,Preußen,Preussen
+Q38994,,,Index der menschlichen Entwicklung,HDI|Human Development Report
+Q39193,GPE,GPE|LOC,Böhmen,Kronland Böhmen|Ostböhmen|Boehmen|Boiohaemum
+Q39645,,,Semantik,semantisch|Merkmalsemantik
+Q39816,,,Tal,Talform
+Q39911,,,Jahrzehnt,Dekade|Dezennium|Decennium
+Q40015,,,Sonnenenergie,Solarenergie|Sonnenwärme|Sonnenkraft
+Q40050,,,Getränk,Drink|Trank|Trunk|Trunke
+Q40231,,O,Wahl,Wahlen|politische Wahl
+Q40591,,O,Manifest der Kommunistischen Partei,Das Kommunistische Manifest|De Kommunistische Partei ehr Manifest|Kommunistisches Manifest
+Q40623,GPE,GPE,Quedlinburg,Welterbestadt Quedlinburg
+Q40858,,,Erdgas,Gasversorgung|Gasquelle|Gastechnik|Compressed Natural Gas|Erdgaslagerstätten|H-Gas|L-Gas
+Q40898,GPE,GPE,Nancy,Nanzig
+Q40904,PER,PER,Werner Heisenberg,Heisenberg|Werner Karl Heisenberg
+Q40993,ORG,ORG,Porsche,Dr. Ing. h.c. F. Porsche AG|Dr. Ing. h.c. F. Porsche GmbH|Porsche A.G.|Porsche AG
+Q40998,,,Phonologie,Fonologie|phonologisch
+Q41107,,,.eu,
+Q41253,,,Kino,Lichtspielhaus|Lichtspieltheater|Filmtheater
+Q41269,PER,PER,Henri Becquerel,Antoine Henri Becquerel|Henri Antoine Becquerel
+Q41304,,O|GPE|LOC,Weimarer Republik,Deutsche Republik|Deutsches Reich 1919 bis 1933|Weimarer Republik (1918)|Weimarer Zeit|Zeit der Weimarer Republik
+Q41309,PER,PER,Franz Liszt,Franz List|Franz Ritter von Liszt|Ferenc List|Ferenc Liszt
+Q41323,,O,American Football,
+Q41364,,,Wellenlänge,
+Q41534,,,Stärke,Speisestärke|Amylum|Amylum Maydis|Amylum Oryzae|Amylum Solani|Amylum Tritici|Stärkekorn|Stärkeverkleisterung
+Q41614,,ORG,konstitutionelle Monarchie,konstituierende Monarchie|Konstitutionelle Erbmonarchie|Konstitutioneller Monarchismus
+Q41644,ORG,ORG,Warschauer Pakt,"Warschauer Vertrag|WAPA|Warschauer Vertrag über Freundschaft, Zusammenarbeit und gegenseitigen Beistand|Warschauer Vertragsorganisation|Warschauer Vertragsstaaten|Warschaupakt"
+Q41719,,,Hypothese,Hypothesen|hypothetisch
+Q41958,,,Gastronomie,Partyservice|Essen auf Rädern|Essen-Lieferservice|Essenbringdienst|Event-Catering
+Q41984,ORG,ORG,Internationale Atomenergie-Organisation,Agence internationale de l'Energie atomique|Agence internationale de l'énergie atomique|Agence internationale de l’énergie atomique|IAEA|IAEO|International Atomic Energy Agency|Internationale Atomenergie-Agentur|Internationale Atomenergiebehörde|Internationale Atomenergieorganisation|UN-Atombehörde
+Q41986,LOC,LOC,Maas,Maos|Mouze|Moûze
+Q42008,,,Souveränität,Unabhängigkeit|Staatshoheit|Fähigkeit einer Gemeinschaft zur Einsetzung und Wahrung einer unabgeleiteten Ordnung|Imstandesein eines Gemeinwesens zur Ordnungsbegründung|Souveränitätsprinzip|Staatliche Souveränität
+Q42106,,,Synonym,Synonyme|Synonymen|Synonymik|Ersatzwort|bedeutungsähnliches Wort|Gleichbedeutend|sinnverwandte Wörter|sinnverwandtes Wort
+Q42138,,ORG,Staatsbürgerschaft,Staatsangehörigkeitsrecht|Staatsangehörigkeit|Staatsbürgerrecht
+Q42240,,,Forschung,Erforschung|Forschungsarbeit|Forschen
+Q42470,,,Wahlspruch,Devise
+Q42527,,,Gewürz,Spezerei|Spezereien
+Q42585,GPE,GPE|LOC,Königreich Böhmen,Böhmen|Kgr. Böhmen|Regnum Bohemiae
+Q42820,LOC,LOC,Ligurisches Meer,Golf von Genua|Mare Ligusticum
+Q42880,GPE,GPE,Tirol,T|AT-7|AT33|Land Tirol
+Q42884,,,Deutsche,Deutscher|Deutsches Volk|deutsche Nation
+Q42908,ORG,ORG|GPE,Hanse,Hansa Teutonica|Deutsche Hanse|Dudesche Hanse|Hanseatic cities|Hanserecht|Hansezeit|Städtehanse|Verhansung
+Q43115,,,Heiliger,Heilige|Nationalheiliger
+Q43177,,,Chlorophylle,Chlorophyll|Blattgrün|Blattfarbstoffe|E 140i|E140i
+Q43193,,,Lastkraftwagen,Lastwagen|Brummi|Truck|Lkw|LKW|Camion|Lastauto|Schwerlaster
+Q43287,,O|GPE|LOC,Deutsches Kaiserreich,Deutsche Kaiserzeit|Kaiserliches Deutschland
+Q43302,,,Windkraft,Windkraftenergie
+Q43412,,,Apostel,Apostel Christi
+Q43455,,,Ethnologie,Völkerkunde|Kultur- & Sozialanthropologie|Kultur- und Sozialanthropologie
+Q43514,,,Relativitätstheorie,Einsteinsche Kausalität|Relativistisch|Relativistische Mechanik|Relativistische Physik
+Q43702,,ORG,Bundesstaat,Bundesrepublik|Bund|Föderation|Föderale Republik|Föderative Republik
+Q43915,PER,PER,Otto I.,Kaiser Otto I.|Otto der Große|Otto I. der Große
+Q44167,,,Motor,Antriebsmaschine|Antriebsmotor|Fahrzeugmotor
+Q44294,ORG,ORG,Ford,
+Q44342,,,Legende,Lügende
+Q44353,ORG,ORG,DB Cargo,DB Schenker Rail|DB Schenker Rail GmbH|Railion
+Q44484,,,Hypertext Transfer Protocol Secure,HTTPS|https:
+Q44562,LOC,LOC,Ulmer Münster,Münster Unserer Lieben Frau in Ulm
+Q44585,,,Nobelpreis für Chemie,Chemienobelpreis
+Q44613,,,Kloster,Klöster
+Q44777,,,Ablass,Ablasshandel|Sündenvergebung|Ablasswesen|Römische Gnade
+Q44924,,,Altbier,Alt
+Q45227,,,Kolben,Kolbenhemd|Zündkolben
+Q46033,LOC,LOC,Flughafen Frankfurt Main,Flughafen Frankfurt|FRA|EDDF|Airport Frankfurt|Flughafen Frankfurt-Main|Frankfurt Airport|Frankfurt Flughafen|Frankfurt International Airport|Frankfurt Rhein-Main Flughafen|Frankfurter Flughafen|Rhein-Main Flughafen|Rhein-Main-Flughafen
+Q46083,,O,Deutsch-Französischer Krieg,70/71|Französisch-Deutscher Krieg|Französisch-Preußischer Krieg|Preußisch-französischer Krieg|Siebziger Krieg
+Q46096,PER,PER,Felix Mendelssohn Bartholdy,Mendelssohn|Felix Mendelssohn|Felix Mendelsohn Bartholdy
+Q46221,,,elektrisches Feld,elektrostatisches Feld|E-Feld
+Q46232,LOC,LOC,Ringstraße,Wiener Ringstraße|Franzensring|Ringstraßenstil|Wiener Ring|Wiener Ringstrasse|Wiener Stadterweiterung
+Q46276,,,kinetische Energie,Bewegungsenergie|Geschwindigkeitsenergie
+Q46362,,O,Wiener Kongress,Wiener Congress|Wiener Kongreß
+Q46613,LOC,LOC,Norddeutschland,Norddeutsch|Der Norden
+Q46633,PER,PER,Charles Babbage,
+Q46783,,,Sage,Sagen
+Q46825,,O,Gotik,
+Q46904,,,Global System for Mobile Communications,GSM|2G|Global System for Mobile Communication|PCS 1900
+Q47263,,,Chloroplast,Chloroplasten|Blattgrünkörper|Blattgrünkörperchen
+Q47423,ORG,ORG,Generalversammlung der Vereinten Nationen,UN-Generalversammlung|UN-Vollversammlung|UNGA|UNO-Generalversammlung|UNO-Vollversammlung|Vollversammlung der Vereinten Nationen
+Q47616,,,Glühlampe,Allgebrauchslampe|Glühbirne|Glühfadenlampe|Glühlicht|A-Lampe|Metallfadenlampe|Tantallampe
+Q48050,GPE,GPE,Bezirk Dresden,
+Q48094,GPE,GPE,Bezirk Potsdam,
+Q48189,ORG,ORG,Deutscher Orden,Deutscher Ritterorden|Deutschorden|Deutschritter|Großwürdenträger des Deutschen Ordens|Oberstspittler|Obersttrappier|Obersttreßler|Orden der Brüder vom Deutschen Haus St. Mariens in Jerusalem|Ordo domus Sanctae Mariae Theutonicorum Ierosolimitanorum|Ordo fratrum domus Sanctae Mariae Theutonicorum Ierosolimitanorum|Ordo Teutonicus|OTeut|Deutschherren|Deutschherrenorden|Deutschordensritter|Deutschritterorden|O.T.|OT|Oberstmarschall
+Q48229,,O,Der Verschollene,Amerika
+Q48270,,,nichtbinär,agender|non-binary|demigender|neutrois|nicht-binär|non-binär|non binary|genderfluid
+Q48277,,,Gender,Geschlecht|soziales Geschlecht
+Q48282,,,Student,Studentin|Studierende|Studierender
+Q48352,,,Staatsoberhaupt,Staatschef|Staatschefin|Staats- und Parteichef
+Q48480,LOC,LOC,Mittellandkanal,MLK|Ems-Weser-Elbe-Kanal|Ems-Weser-Kanal|Rhein-Elbe-Kanal|Weser-Elbe-Kanal|Weser-Ems-Kanal
+Q48983,PER,PER,Linus Pauling,Linus Carl Pauling
+Q49042,LOC,LOC|GPE,Südstaaten,Südstaat|Amerikanischer Süden|Südstaaten der USA
+Q49111,GPE,GPE,Cambridge,
+Q49367,,,Eiszeitalter,Eiszeit
+Q49389,,,Tourismus,Fremdenverkehr|Touristik
+Q49720,,,Schubkurbel,
+Q49750,ORG,ORG,Sozialistische Einheitspartei Deutschlands,SED
+Q49762,ORG,ORG,Christlich Demokratische Union Deutschlands,CDU|Christlich Demokratische Union|CDU Deutschlands
+Q49763,ORG,ORG,Christlich-Soziale Union in Bayern,CSU|Christlich-Soziale Union|Christlich-Soziale Union in Bayern e. V.|Christlich-Soziale Union in Bayern e.V.|Kategorie:CSU
+Q49764,ORG,ORG,Die Linke,Linkspartei|Die Linken|Die Linkspartei|DIE LiNKE.|DIE LINKE.|LINKE|Partei Die Linke
+Q49766,ORG,ORG,Bündnis 90/Die Grünen,Bündnisgrüne|Grüne|Die Grünen|B'90/Grüne|B90/GR|Die Gruenen
+Q49768,ORG,ORG,Sozialdemokratische Partei Deutschlands,SPD|Sozialdemokratische Partei
+Q49830,,,Reformierte Kirche,evangelisch-reformierte Kirche
+Q50662,ORG,ORG,Goethe-Universität Frankfurt am Main,Goethe Universität Frankfurt am Main|Johann Wolfgang Goethe-Universität|Uni Frankfurt|Universität Frankfurt|Universität Frankfurt am Main|Johann Wolfgang Goethe-Universität Frankfurt am Main|Johann-Wolfgang-Goethe-Universität Frankfurt am Main
+Q50675,,,Geschichtsschreibung,Historiographie
+Q50711,,,Herzogin Anna Amalia Bibliothek,HAAB|Herzogin Anna Amalia|Herzogin-Anna-Amalia-Bibliothek|Weimar HAAB|HAAB Weimar
+Q51671,,,Heilige Drei Könige,Weise aus dem Morgenland
+Q51989,PER,PER,Johann Gottfried Schadow,
+Q52040,,,hochdeutsche Mundarten,Hochdeutsch|hochdeutsche Dialekte
+Q52139,,,Klimatologie,Klimaforschung
+Q52389,,,Zoll,
+Q52843,,,Vertrag von Lissabon,
+Q52847,ORG,ORG,Europäische Wirtschaftsgemeinschaft,EWG
+Q53268,ORG,ORG,Toyota,
+Q54096,ORG,ORG,Universität zu Köln,Kölner Universität|Uni Köln|Universität Köln
+Q54166,ORG,ORG,Technische Hochschule Köln,Cologne University of Applied Sciences|Fachhochschule Köln|FH Köln|TH Köln
+Q55300,,GPE,Sowjetische Besatzungszone,"Zone|Ostzone|SBZ|Deutschland (Gebiet unter Alliierter Besatzung, Sowjetische Zone)|SBZ , Sowjetische Besatzungszone|Sowjetische Besatzungszone; SBZ"
+Q55451,,,elektrisches Potential,elektrisches Potenzial|elektrostatisches Potential|elektrostatisches Potenzial
+Q55494,,,Umschlagbahnhof,Terminal|Containerbahnhof|Ubf
+Q55814,,,Massenaussterben,Faunenschnitt|Faunenwechsel
+Q56010,ORG,ORG,Bundeswehr,Bw
+Q56024,,,Präsident des Deutschen Bundestages,Bundestagspräsident|Bundestagspräsidentin|Präsident des Bundestages|Präsidentin des Bundestages|Präsidentin des Deutschen Bundestages
+Q56025,ORG,ORG,Bundesverfassungsgericht,BVerfG
+Q56036,GPE,GPE|LOC,West-Berlin,Westberlin|WB|Berlin (West)|Berlin West|Berlin-West|besondere politische Einheit Westberlin|selbständige politische Einheit Westberlin
+Q56037,GPE,GPE|LOC,Ost-Berlin,"Ostberlin|Berlin (Ost)|Berlin-Ost|Berlin, demokratischer Sektor|Berlin, Hauptstadt der DDR|Demokratisches Berlin|Groß-Berlin, Demokratischer Sektor|Ostsektor|Sowjetsektor"
+Q56039,,O|GPE|ORG,Deutsche Wiedervereinigung,Einheit Deutschlands|Deutsche Einheit|Deutsche Vereinigung|Vereinigung Deutschlands|Wiedervereinigung Deutschlands
+Q56041,,,Groß-Berlin,
+Q56045,,,Grundgesetz für die Bundesrepublik Deutschland,GG|Grundgesetz|Grundgesetz (BRD)|Grundgesetz (Bundesrepublik Deutschland)|Grundgesetz (Deutschland)|Grundgesetz der BRD|Grundgesetz der Bundesrepublik Deutschland|Grundgesetz von der BRD|Grundgesetz von der Bundesrepublik Deutschland|Verfassung Deutschlands|Verfassung von Deutschland
+Q57180,PER,PER,Friedrich Wilhelm IV.,Friedrich Wilhelm IV. von Preußen
+Q57249,PER,PER,Ferdinand Porsche,
+Q57293,,O,Frankfurter Buchmesse,FBM|Frankfurt Book Fair
+Q57318,,,Freie und Reichsstadt,freie Reichsstadt|Freie Reichsstadt
+Q57341,LOC,LOC,Kaiserdom St. Bartholomäus,
+Q57583,,O,Internationale Automobil-Ausstellung,IAA
+Q57598,,,Nationalfeiertag,
+Q57607,,,Weihnachtsmarkt,Adventmarkt|Adventsmarkt|Christkindlemarkt|Christkindlesmarkt|Christkindlmarkt|Glühweinmarkt
+Q57821,,,Befestigung,Fortifikation|Wehranlage|Befestigungsanlage|Befestigungswerk
+Q58199,,,Instant Messaging,IM|Nachrichtensofortversand
+Q58577,PER,PER,Werner von Siemens,Werner Siemens|Ernst Werner Siemens|Ernst Werner von Siemens
+Q58784,,O,Das Kapital,"Das Kapital, Kritik der politischen Ökonomie"
+Q59974,,,Schönhausen (Elbe),
+Q59977,,,Aumühle,Billenkamp
+Q60059,PER,PER,Albertus Magnus,Albert der Große|St. Albert von Bollstädt
+Q60070,PER,PER,Friedrich Wilhelm Joseph von Schelling,Friedrich Wilhelm von Schelling
+Q60093,PER,PER,Konrad Zuse,"See, Kuno|Zuse, Konrad Ernst Otto"
+Q61071,PER,PER,Walter Gropius,Walter Adolf Georg Gropius
+Q61566,,,Minderheitensprache,
+Q61597,PER,PER,Erika Mann,Erika Julia Hedwig Mann
+Q62693,,,Telefonvorwahl,Deutscher Rufnummernplan
+Q63817,LOC,LOC,Ostalpen,
+Q65126,PER,PER,Gregor Gysi,Gregor Florian Gysi|IM Notar
+Q65340,PER,PER,Konrad Duden,Konrad Alexander Friedrich Duden
+Q65968,ORG,ORG,Habsburg,Casa d'Austria|Casa de Austria|Habsburger|Hapsburg|Haus Habsburg|Haus Österreich
+Q66048,ORG,ORG,Deutsche Bank,DB
+Q66746,PER,PER,Christiane von Goethe,Christiana Sophie Vulpius|Christiane Goethe|Christiane Vulpius|Johanna Christiana Sophie Vulpius
+Q68165,GPE,GPE,Kloten,Gerlisberg|Bänikon ZH|Egetswil|Geerlisberg|Zürich Kloten
+Q68353,PER,PER,Johann Georg Halske,
+Q69207,PER,PER,Ernst Friedrich Zwirner,
+Q69470,PER,PER,Max Friz,
+Q69539,,O,Politiká,Politik
+Q70208,,,Gemeinde der Schweiz,Gemeinde|Gemeinden|politische Gemeinde
+Q70618,PER,PER,Harry Graf Kessler,Harry Clemens Ulrich Graf von Kessler|Harry Clemens Ulrich Kessler
+Q70991,PER,PER,Hildegard von Bingen,St. Hildegard
+Q71347,PER,PER,Justus Georg Schottelius,Schottelius|Justus Georg Schottel|Justus-Georg Schottel
+Q71407,PER,PER,Monika Mann,
+Q71635,PER,PER,Omid Nouripour,
+Q72313,,,Elektromotor,"E-Motor|elektrischer Motor|Motor, Elektro-"
+Q72499,LOC,LOC,Mittelmeerraum,Mediterraneum
+Q75520,,,Hochebene,Plateau|Hochfläche|Hochplateau|Meseta|Felsplateau|Plateaugebirge
+Q75854,PER,PER,Georg Philipp Telemann,Melante
+Q75900,PER,PER,Stefan Quandt,Stefan Norbert Quandt
+Q76458,PER,PER,Philipp von Zesen,Philipp Zesen
+Q76480,PER,PER,Heinrich Mann,Luiz Heinrich Mann
+Q76833,PER,PER,Carl Zeiß,
+Q77087,PER,PER,Klaus Mann,Klaus Heinrich Thomas Mann
+Q77109,PER,PER,Golo Mann,Angelus Gottfried Thomas Mann|Angelus Mann
+Q77604,,,Radiologie,
+Q77882,PER,PER,Konrad von Hochstaden,Konrad Ⅰ. von Köln|Konrad von Are-Hochstaden|Konrad I. von Köln
+Q77888,PER,PER,Wilhelm von Humboldt,Friedrich Wilhelm Christian Karl Ferdinand von Humboldt
+Q79460,,,Antikörper,
+Q79697,,,Next Generation Mobile Networks,4G|NGMN|4th generation
+Q79789,PER,PER,Friedrich I. Barbarossa,Barbarossa|Friedrich Barbarossa
+Q79896,,,Gewaltenteilung,Gewaltentrennung|Gewalteinteilung|Gewaltenteilungsprinzip|Vertikale Gewaltenteilung
+Q79995,,,Ozonschicht,Ozonosphäre
+Q80006,,,Programmierung,programmieren|Programmiertechnik|Applikationsentwicklung
+Q80831,,,integrierter Schaltkreis,Chip|Mikrochip|Computerchip|IC|integrierte Schaltung|Computer-Chip|Festkörperschaltkreis|Integrated Circuit|VLSI-Chip
+Q81075,,,Beuron,Hausen im Donautal
+Q81230,ORG,ORG,Siemens,Siemens AG|Siemens Deutschland|Telegraphen-Bauanstalt von Siemens & Halske
+Q81299,ORG,ORG,Organisation für Sicherheit und Zusammenarbeit in Europa,OSCE|OSZE
+Q81414,,,Internetprotokollfamilie,Internet-Protokoll-Familie|Internet-Protokollfamilie|Internetprotokolle|TCP/IP-Protokollfamilie
+Q81982,,,Cembalo,Klavizimbel|Cembalist|Kielflügel|Gravicembalo|Clavecin|Clavicembalo|Clavicimbalum|Harpsichord|Kielklavier
+Q82135,,,Kaufkraftparität,KKB|KKP|International Comparison Program|Kaufkraftparitätentheorie|Kaufkraftparitätenthese|Kaufkraftstandards|Kaufkraftvergleich|Lokale Kaufkraft|PPP US-Dollar|PPP-$|PPP-US-Dollar|Purchasing Power Parity
+Q82425,LOC,LOC|GPE,Brandenburger Tor,Brandenburger Tor (Berlin)
+Q82595,,,Fußball-Bundesliga,Erste Bundesliga|1. Fußball-Bundesliga
+Q82604,,O,Design,Designwissenschaft
+Q82866,,O,Fastenzeit,Quadragesima|Fastentag|Österliche Bußzeit
+Q82955,,,Politiker,Politikerin|Berufspolitiker|Berufspolitikerin
+Q83012,,O,Advent,Vorweihnachtszeit|Adventszeit|Adventzeit|Adventsszeit
+Q83188,,,Relativismus,
+Q83213,,,photoelektrischer Effekt,Fotoeffekt|Photoeffekt|Photoelektrizität|Photoelektron|photovoltaischer Effekt|Fotoelektrisch|fotoelektrischer Effekt|Fotoemission|Fotoionisation|Fotostrom|Hallwachs-Effekt|Lichtelektrisch|lichtelektrischer Effekt|Photoelektrisch|Photoleitung|Photostrom
+Q83327,,,Elektronenvolt,Elektronen-Volt|Elektronvolt|eV
+Q83353,,,Mineralogie,Oryktognosie|Mineralienkunde|Oryktographie
+Q84071,,,Museen in Berlin,Berliner Museen|Berliner Museum|Berliner Museumslandschaft
+Q84464,PER,PER,Constanze Mozart,Constanze Nissen|Constanze Weber|Maria Constanze Cäcilia Josepha Johanna Aloysia Weber|Maria Constanze Caecilia Josepha Johanna Aloisia Mozart
+Q87167,,,Manuskript,Handschrift|MS
+Q87644,PER,PER,Gustav Droysen,Johann Gustav Ferdinand Droysen
+Q88158,PER,PER,Julia Klöckner,Julia Kloeckner
+Q88744,PER,PER,Johann Michael Puchberg,Johann Michael Edler von Puchberg
+Q95198,PER,PER,Meister Gerhard,"Gerhard von Rile|Gerhard, Baumeister des Kölner Domes|Meister Gerard|Meister Gerardus"
+Q95569,ORG,ORG|LOC,Kunsthistorisches Museum Wien,KHM
+Q95672,LOC,LOC,Rheinauhafen,
+Q95740,PER,PER,Cornelia Schlosser,Cornelia Goethe|Cornelia Friederica Christiana Schlosser
+Q100795,PER,PER,Carola Veit,Carola Alexandra Veit
+Q101017,,,Destillation,Destillateur|Destillat|Dampfdestillation|Dampfdestillieren|Destillieren
+Q101038,,,Albedo,Rückstrahlvermögen|Reflexionsstrahlung|Reflexstrahlung
+Q102400,,O,Oktoberfest,Wiesn|d’Wiesn|Münchner Oktoberfest
+Q102585,PER,PER,Johann Gottlieb Fichte,J. G. Fichte|Johann Fichte
+Q102932,,O,Avantgarde,Avantgardismus|Avantgardist|Avant Garde|Avant-Garde|Avantgardistisch
+Q103808,,,Lehnwort,Fremdwort|Lehnprägung|Fremdwörter|Lehnwörter|Wortentlehnung|Wortmaterialentlehnung
+Q103829,PER,PER,Hans Michael Elias von Obentraut,Hans-Michael Elias von Obentraut|Der teutsch Michel|Hans Michel Elias von Obentraut|Johann Michael Elias von Obentraut|Johann Michael von Obentraut|Johann Michel Elias von Obentraut|Hans Michell von Obentraut|Hanß Michell von Obentraut|Michel Obentraut
+Q104021,,,Fauna,Tierreich|Tierwelt
+Q104212,,,Echter Hopfen,Hopfen|Gewöhnlicher Hopfen|Humulus lupulus|Humulus lupus
+Q104334,,,Kohlensäure,CH2O3|Dihydrogencarbonat|H2CO3|Kohlenstoffsäure|Luftsäure
+Q104534,,,Digital Subscriber Line,Digitaler Teilnehmer-Anschluss|DSL|DSL Light|XDSL
+Q104678,PER,PER,Bodo Ramelow,
+Q104934,,,fundamentale Wechselwirkung,Grundkraft|Naturkraft|Grundkraft der Physik
+Q105533,,,Brackwasser,Brackisch
+Q105985,,ORG,Judikative,Justiz|Dritte Gewalt|Rechtsprechende Gewalt|Rechtsprechungsgewalt
+Q106124,PER,PER,Friedrich Panzer,
+Q107390,,,Gliedstaat,Bundesstaat|Teilstaat|konstituierender Staat
+Q107617,,,Rotation,Drehbewegung|Drehung|Kreisbewegung|Rotationsbewegung|kreisförmige Bewegung
+Q108709,,,Diminutiv,Diminutivum|Verkleinerung|Verkleinerungsform|Verniedlichungsform|Koseform|Verniedlichung|Deminutiv|Deminutivnomen|Deminutivsubstantiv|Deminutivum|Deminutivumnomen|Deminutivumsubstantiv|Diminutivnomen|Diminutivsubstantiv|Diminutivumnomen|Diminutivumsubstantiv
+Q112983,,,Memoiren,Lebenserinnerungen
+Q113453,,,Gleichstellung der Geschlechter,
+Q115067,PER,PER,Christoph Graupner,Johann Christoph Graupner
+Q116232,,,Mini,BMW Mini
+Q117020,GPE,GPE|LOC,Reichsstadt Nürnberg,Freie Reichstadt Nürnberg|Respublica Norimbergensis
+Q121117,,,Supercomputer,Superrechner
+Q121359,,,Infrastruktur,Infrastrukturunternehmen|Versorgungsinfrastruktur|Versorgungswege
+Q121594,,,Professor,Professorin|Hochschulprofessor|Universitätsprofessor|Gymnasialprofessor|Prof|Fachhochschulprofessor|Prof. univ.|Professor E. h.|Professor universitatis|Univ.-Prof.|Univ.–Prof.
+Q122131,,O,Geschichte Deutschlands,deutsche Geschichte|Deutschland (bis 1945)
+Q122482,,,Europaflagge,Europafahne|Flagge Europas|Zwölfsternbanner
+Q123034,PER,PER,Huldrych Zwingli,Huldreych Zwingli
+Q123542,,,Aschermittwoch,Aschenkreuz
+Q124354,,O|ORG,Bauhaus,Bauhaus Weimar|Bauhausstil|Staatliche Hochschule für Bildende Kunst|Staatliches Bauhaus
+Q124425,,,Eiserner Vorhang,
+Q124441,,,Waschmaschine,Waschprogramm|Spülgang|Waschautomat
+Q125421,,,Zweitsprache,L2
+Q125740,,,Liste der römischen Kaiser der Antike,Römische Kaiser|Liste der römischen Kaiser
+Q125928,,,Klimawandel,Klimaänderung|Klimaveränderung|Klimawechsel
+Q126842,,,Rechtsphilosophie,
+Q126911,,,Berlin/Bonn-Gesetz,Berlin/BonnG|Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands
+Q127043,LOC,LOC,Garmisch-Partenkirchen,Garmisch|Partenkirchen|Garmisch Partenkirchen
+Q127097,LOC,LOC,Semperoper,Dresdner Staatsoper|Sächsische Staatsoper|Sächsische Staatsoper Dresden|Semper-Oper|Staatsoper Dresden
+Q127993,,,Geothermie,Erdwärme|Geoenergie|Geothermiebohrung|Geothermik|Geothermische Energie|Geowärme|Oberflächennahe Geothermie|Tiefe Geothermie
+Q128168,,O,Gegenreformation,
+Q128207,,,erdähnlicher Planet,Erdähnlich|erdähnliche Planeten|Gesteinsplanet|terrestrische Planeten|terrestrischer Planet
+Q128393,,,Nomadenvolk,Nomade|Nomaden|Nomadenstamm
+Q129372,,O,Kulturhauptstadt Europas,Europäische Kulturhauptstadt|Kulturhauptstadt des Jahres|Kulturstadt Europas
+Q130003,,,Wintersportgebiet,Schigebiet|Skigebiet|Schiresort|Skiresort|Schistation|Skistation|Wintersportresort
+Q130135,LOC,LOC,Atlas,Atlas-Gebirge|Atlasgebirge|Großer Atlas
+Q130834,PER,PER,Franz II.,Franz I.|Franz I. von Österreich|Franz II. Joseph Karl|Franz Joseph Karl|Kaiser Franz
+Q131262,ORG,ORG,Universität Bologna,Alma mater studiorum|Universita degli studi di Bologna|Università degli studi di Bologna|Universita di Bologna - Alma mater studiorum|Università di Bologna - Alma mater studiorum|Universitas Bononiensis|Universität von Bologna
+Q131313,,,Wärmepumpe,Wärmepumpen|Aussenluft-Wärmepumpe|Außenluft-Wärmepumpe|Heizzahl|Wärmeaustauschpumpe|Wärmemaschine|Wärmetransformator
+Q131330,LOC,LOC,Schloss Schönbrunn,"Gesamtanlage Schlosspark Schönbrunn mit Colinbrunnen, Gitterportal sowie Mauern|Schloß Schönbrunn|Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.|Schloss und Park von Schönbrunn|Schlosspark Schönbrunn|Schloßpark Schönbrunn"
+Q131361,,,Ironie,Metaironie
+Q131442,,,Sachertorte,Sacher-Torte
+Q131449,,,Flora,Pflanzenreich|Pflanzenwelt
+Q131574,LOC,LOC,Moldau,Vltava
+Q131681,,,Stausee,Staubecken|Stauteich|Stauweiher
+Q131964,GPE,GPE|LOC,Kaisertum Österreich,Kaiserthum Oesterreich
+Q132241,,,Festival,Fest|Festspiele
+Q132453,,,Industriestaat,Industrieland|Industrieländer|Industrienation|Industriestaaten|1. Welt|Erste Welt|Moderner Industriestaat
+Q132603,,,Proletariat,Prolls|Proletarier
+Q133139,,,elektromagnetisches Spektrum,Elektromagnetisches Wellenspektrum|EM Spektrum|Kurzwellig|Langwellig|Wellenlängenbereich
+Q133442,,,Stadtstaat,
+Q133492,,,Brief,Briefkopf|Musterbrief|Papierbrief
+Q133585,,,Luftschiff,Zeppelin
+Q133602,ORG,ORG,Karolinger,
+Q134447,,,Kernkraftwerk,Atomkraftwerk|AKW|KKW|Nuklearkraftwerk
+Q134808,,O,Impfstoff,Vakzine
+Q134851,,,Schelf,Kontinentalschelf|Schelfmeer|Kontinentalsockel|Festlandsockel|Epikontinentalmeer|Schelfsockel|Schelfzone
+Q135139,PER,PER,Paul J. Crutzen,Paul Crutzen|Paul Josef Crutzen|Paul Jozef Crutzen
+Q138518,GPE,GPE,Princeton,"Princeton, New Jersey|Princeton, NJ"
+Q139056,LOC,LOC,Rennsteig,
+Q144334,,,Druckpresse,Druckerpresse
+Q146138,ORG,ORG,Bundesrat,Länderkammer|Deutscher Bundesrat
+Q146224,,,Gewöhnliches Kriechsternmoos,Plagiomnium affine
+Q146728,,,Wasserrad,Mühlrad|Mittelschlächtiges Wasserrad|Oberwasserkanal|Unterwasserkanal
+Q146760,,,Hafer,Avena
+Q146786,,,Plural,Mehrzahl|Pl.
+Q146893,,,Dialektologie,Dialektforschung
+Q148499,,O|GPE|LOC,Mark Brandenburg,Kurfürstentum Brandenburg|Mark/Markgrafschaft Brandenburg|Markgrafschaft Brandenburg|Ostbrandenburg
+Q148877,,,Assimilation,Diachrone Assimilation|Historische Assimilation|Synchrone Assimilation
+Q149537,,,Novelle,
+Q150108,LOC,LOC,Vorpommern,Vörpommern
+Q150352,,,Fremdsprache,
+Q150575,PER,PER,Ferdinand III.,
+Q150599,PER,PER,Ferdinand II.,Berater Ferdinands|Ferdinand der Ander|Ferdinand der Andere
+Q150652,PER,PER,Wilhelm I.,Kaiser Wilhelm I.|Kartätschenprinz|Wilhelm Friedrich Ludwig von Hohenzollern|Wilhelm Friedrich Ludwig von Preußen|König Wilhelm I. von Preußen
+Q150907,LOC,LOC,Franken,
+Q150981,GPE,GPE|LOC,Norddeutscher Bund,
+Q150995,,,Westfälischer Friede,Friede von Münster|Frieden von Osnabrück|Instrumentum Pacis Monasteriensis|Instrumentum Pacis Osnabrugensis|Münsterscher Friedensvertrag|Osnabrücker Friedensvertrag|Westfälischer Frieden
+Q151139,ORG,ORG,Börse Frankfurt,Frankfurter Börse|Deutsche Börse Frankfurt
+Q151356,LOC,LOC|ORG,Berliner Fernsehturm,Telespargel|Fernmeldeturm 32|Fernsehturm Alexanderplatz|Fernsehturm Berlin|Spreeturm
+Q151487,,,Düsseldorfer Platt,Düsseldorferisch|Düsseldorwer Platt
+Q151510,ORG,ORG|LOC,Ruprecht-Karls-Universität Heidelberg,UHeidelberg|Ruperto Carola|Universität Heidelberg|RKU Heidelberg|Ruprecht-Karls-Universität|Uni HD|Uni Heidelberg|Universitas Ruperto Carola Heidelbergensis
+Q151624,GPE,GPE|ORG,Deutscher Bund,Teutscher Bund
+Q151883,,O,Die Leiden des jungen Werthers,Die Leiden des jungen Werther|Werther
+Q151885,,,Begriff,Konzept|Konzepte|Begrifflichkeit|Begrifflichkeiten|Bedeutungsbildung|Bedeutungsbildungen
+Q151893,LOC,LOC,RheinEnergieStadion,Cologne Stadium|Müngersdorfer Stadion|Rhein-Energie-Stadion
+Q151897,LOC,LOC,Reichstagsgebäude,Reichstag|Plenarbereich Reichstagsgebäude
+Q152005,,,Wasserscheide,Wasserscheidelinie
+Q152157,PER,PER,Matthias,Kaiser Matthias
+Q152229,PER,PER,Friedrich Wilhelm II.,Der dicke Lüderjahn|Friedrich Wilhelm II. von Preußen
+Q152243,LOC,LOC,Rheinland,Rhld
+Q152252,LOC,LOC,Potsdamer Platz,
+Q152281,,,Pilsner Bier,Pilsener|Pilsener Bier
+Q152295,,O,Schlacht von Worringen,Schlacht bei Worringen|Woeringen
+Q152802,ORG,ORG|LOC|GPE,KZ Buchenwald,Buchenwald|002|K.-L. Buchenwald|KL Buchenwald|KLBu|Konzentrationslager Buchenwald|Konzentrationslager Weimar-Buchenwald
+Q152946,,,VW Käfer,Käfer|Kugelporsche|Buckelporsche|VW Typ 1|VW-Käfer
+Q152979,LOC,LOC,Neues Rathaus,Rathaus München
+Q153050,,,Niederfränkisch,niederfränkische Dialekte|niederfränkische Sprachen
+Q153080,GPE,GPE|LOC,Ostfrankenreich,Ostfränkisches Reich|Regnum francorum orientalium
+Q153136,GPE,GPE|LOC,Habsburgermonarchie,Donaumonarchie|Habsburger Monarchie|Habsburger Reich|Habsburgerreich|Habsburgische Monarchie|Habsburgisches Reich|Monarchia Austriaca|Österreichisches Kaiserreich
+Q153212,,,Platt,
+Q153464,LOC,LOC,Bergisches Land,
+Q153643,PER,PER,Heinrich Schütz,Henrich Schütz
+Q153646,LOC,LOC,Colonius,Kölner Fernmeldeturm
+Q153650,,O,Deutscher Krieg,Deutsch-deutscher Krieg|Deutsch-Österreichischer Krieg|Deutsch-Preußischer Krieg|Deutscher Bruderkrieg|Deutscher Bundeskrieg|Deutscher Krieg von 1866|Einigungskrieg|Krieg von 1866|Österreichisch-Preußischer Krieg|Preußisch-Deutscher Krieg|Preußisch-Österreichischer Krieg|Siebenwöchiger Krieg
+Q154010,PER,PER,Christoph Martin Wieland,Christoph Wieland|Christoph Martin von Wieland
+Q154015,,,Nationalitätszeichen,Nationalitätskennzeichen|Länderschlüssel|D-Schild|Kfz-Länderkennzeichen|Kfz-Nationalitätskennzeichen|Länderkennzeichen|Nationalitätenkennzeichen
+Q154083,PER,PER,Henry van de Velde,Henry Clement van de Velde|Henry Van de Velde
+Q154191,ORG,ORG,Deutscher Fußball-Bund,DFB|Deutsche Fußball-Bund e. V.|Deutscher Fußballbund
+Q154195,GPE,GPE|LOC,Königreich Bayern,
+Q154364,LOC,LOC,St. Elisabeth,
+Q154563,LOC,LOC,Berliner Dom,Oberpfarr- und Domkirche|Oberpfarr- und Domkirche zu Berlin
+Q154577,,,Augsburger Reichs- und Religionsfrieden,"Abschied der Röm. königl. Majestät und gemeiner Stände auff dem Reichs-Tag zu Augsburg auffgericht, im Jahr 1555|Abschied der Römisch königlichen Majestät und gemeiner Stände auf dem Reichs-Tag zu Augsburg aufgericht, im Jahr 1555|Augsburger Friede|Augsburger Frieden|Augsburger Reichs- und Religionsfriede|Augsburger Reichsabschied|Augsburger Religionsfriede|Augsburger Religionsfrieden|Pax augustana"
+Q154705,GPE,GPE|ORG|O,Deutsche Reichsgründung,
+Q154741,GPE,GPE|ORG,Rheinbund,Zweiter Rheinbund
+Q154797,ORG,ORG,Deutscher Bundestag,Bundestag|Der Deutsche Bundestag
+Q154804,ORG,ORG,Universität Leipzig,Alma mater lipsiensis|AML|Karl-Marx-Universität Leipzig|KMU Leipzig|Leipziger Universität|Uni Leipzig
+Q154812,PER,PER,Carl Maria von Weber,"Agathus der Zieltreffer, Edler von Samiel|C. M. v. Weber"
+Q154981,,O,Deutsch-Dänischer Krieg,Feldzug in Schleswig-Holstein 1864|Preußisch-Dänischer Krieg|Zweiter Schleswig-Holsteinischer Krieg|Zweiter Schleswigscher Krieg
+Q154987,,O|LOC,Berliner Siegessäule,Siegessäule Berlin|Siegessäule in Berlin
+Q155107,LOC,LOC,Zwinger,"Dresdner Zwinger|Dresden, Zwinger"
+Q155144,GPE,GPE|LOC,Reichsland Elsaß-Lothringen,Elsass-Lothringen|Elsaß-Lothringen|Reichsland Elsass-Lothringen
+Q155210,LOC,LOC,Rotes Rathaus,Berliner Rathaus|Rathaus von Berlin
+Q155547,PER,PER,Johann Gottfried Herder,Herder|Gottfried Herder|Johann Gottfried v. Herder|Johann Gottfried von Herder
+Q155570,GPE,GPE|LOC,Herzogtum Sachsen-Weimar-Eisenach,Großherzogtum Sachsen|Großherzogtum Sachsen-Weimar-Eisenach|Herzogtum Sachsen-Weimar-Eisenach
+Q155702,ORG,ORG,RTL,RTL plus|Radio Télé Luxemburg|Radio Télévision Luxembourg|RTL Fernsehen|RTL Television|RTL Television GmbH
+Q155718,,,DAX,^GDAXI|DAX 40|DAX-Index|DAX40|Der Dax|Deutscher Aktienindex|L-DAX|L/E-Dax|ShortDAX
+Q155721,LOC,LOC,Brocken,
+Q155987,,,Quadriga,
+Q155999,LOC,LOC,Rammelsberg,
+Q156003,,,Weimarer Verfassung,Verfassung der Deutschen Republik|Verfassung der Weimarer Republik|Verfassung des Deutschen Reichs|Weimarer Reichsverfassung|WRV
+Q156020,GPE,GPE|LOC,Deutschordensstaat,Ordensstaat|Deutschordensland|Staat des Deutschen Ordens
+Q156023,PER,PER,Franz Xaver Wolfgang Mozart,Franz Xaver Mozart|Mozart Sohn
+Q156199,GPE,GPE|ORG|LOC,Kurfürstentum Sachsen,Churfürstentum Sachsen|Chursachsen|Kursachsen|Kursächsisch
+Q156280,PER,PER,Leopold Mozart,Joannes Georgius Leopoldus Mozarth|Johann Georg Leopold Mozart|Leopoldus Mozarth
+Q156433,ORG,ORG,Welfen,Rudolfinger|Haus Welf
+Q156515,ORG,ORG,Gewandhausorchester,Gewandhausorchester Leipzig|Leipziger Gewandhauskoncerte|Leipziger Gewandhausorchester
+Q156578,ORG,ORG,Volkswagen AG,Volkswagen|V.A.G|V.A.G.|VAG-Konzern|VOLKSWAGEN AKTIENGESELLSCHAFT|Volkswagen Konzern|Volkswagen Poznań|Volkswagen-Gruppe|Volkswagen-Konzern|Volkswagenwerk|VOLKSWAGENWERK AG|Volkswagenwerk GmbH|VW|VW AG|VWAG|Gesellschaft zur Vorbereitung des Volkswagens
+Q156595,,,Selbstbestimmungsrecht der Völker,Recht auf Selbstbestimmung|Selbstbestimmung der Völker|Selbstbestimmungsrecht von Völkern|Wilsonsches System
+Q156716,LOC,LOC,Pariser Platz,Quarré
+Q157106,ORG,ORG,Liudolfinger,Ottonen|Ottonenzeit|Ottonische Zeit|Sachsenkaiser
+Q157229,LOC,LOC,Frauenkirche,"Kirche Unserer Lieben Frauen|Dresden, Frauenkirche|Dresdner Frauenkirche|Frauenkirche Dresden|Frauenkirche zu Dresden"
+Q157273,LOC,LOC,Deutsche Bank Park,Waldstadion|Commerzbank-Arena|Deutsche-Bank-Park|Frankfurt Arena|Frankfurter Waldstadion|Waldstadion Frankfurt
+Q157506,,,95 Thesen,Thesenanschlag|Disputatio pro declaratione virtutis indulgentiarum|Luthers 95 Wittenberger Thesen|Propositiones wider das Ablas
+Q157537,ORG,ORG,Deutsche Zentrumspartei,Zentrum|Zentrumspartei|Z|DZP|Soester Konferenzen|ZENTRUM
+Q157575,ORG,ORG,Universität Straßburg,Kaiser-Wilhelm-Universität|Kaiser-Wilhelm-Universität Straßburg|Uni Straßburg|Universität Strassburg|Universite de Strasbourg|Université de Strasbourg
+Q157582,,O,Tag der Deutschen Einheit,Nationalfeiertag|Tag der Einheit|deutscher Nationalfeiertag|Deutschlandfest|Tag der deutschen Wiedervereinigung
+Q157617,ORG,ORG,Commerzbank,CBK|Commerz- und Disconto-Bank|Commerz- und Privat-Bank|COBA|Commerz- und Privatbank|Commerzbank AG|Commerzbank Aktiengesellschaft|CZB
+Q157638,ORG,ORG|O,Frankfurter Nationalversammlung,Reichstag|Deutsche Reichsversammlung|Frankfurter Paulskirche|Frankfurter Paulskirchenparlament|Frankfurter Paulskirchenverammlung|Paulskirchenparlament|Paulskirchenversammlung
+Q157728,LOC,LOC,Fichtelgebirge,Smrčiny
+Q157740,,,Reichspräsident,Ersatzkaiser|Ersatzkaiserin|Reichspräsidentin
+Q157741,LOC,LOC,Flughafen Köln/Bonn,CGN|EDDK|Flughafen Köln|Flughafen Köln-Bonn|Flughafen Köln-Wahn|Flughafen Köln/Bonn „Konrad Adenauer“|Köln Bonn Airport|Köln Flughafen|Köln-Bonner Flughafen|Köln/Bonn Flughafen|Kölner Flughafen|Konrad-Adenauer-Flughafen
+Q157869,,,Bundestagswahl 2009,BT-Wahl 2009|BTW 2009|Wahl zum 17. Deutschen Bundestag
+Q157928,PER,PER,Maria Anna Mozart,Nannerl|Maria Anna von Berchtold zu Sonnenburg|Nannerl Mozart
+Q158083,GPE,GPE,Spandau,Bezirk Spandau von Berlin
+Q158085,ORG,ORG,Max-Planck-Gesellschaft,MPG|Max-Planck-Gesellschaft zur Förderung der Wissenschaften|Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.
+Q158158,ORG,ORG,Technische Universität Dresden,Chirurgisch-Medizinische Akademie zu Dresden|Königlich Sächsische Polytechnische Schule|Königlich Sächsische Technische Hochschule|Königlich-Sächsische Forstakademie|Königlich-Sächsisches Polytechnikum|Polytechnische Schule Dresden|Technische Bildungsanstalt zu Dresden|Technische Hochschule Dresden|TH Dresden|TU Dresden|TUD|Uni Dresden|Universität Dresden|Königlich Sächsisches Polytechnikum|Königliche Polytechnische Schule|Technische Bildungsanstalt
+Q159313,,,Agglomeration,Ballungszentren|Ballungszentrum|Stadtregion|Großraum|Agglomerationsraum|Agglomerieren|Agglomeriert|Agglomerisation|Agglomorationsraum|Grossraum|Stadtagglomeration
+Q159438,,,Heldenstadt der Sowjetunion,
+Q159493,,,politisches System Deutschlands,deutsche Politik|deutsches politisches System|Deutschlands politisches System|politisches System der BRD|politisches System der Bundesrepublik Deutschland|politisches System in Deutschland|Politik in Deutschland|Politik Deutschlands
+Q159631,GPE,GPE|LOC,Königreich Württemberg,
+Q159644,,,Zwei-plus-Vier-Vertrag,Zwei-plus-vier-Vertrag|2-plus-4-Vertrag|2+4|2+4-Vertrag|2plus4|2plus4-Vertrag|Abschließende Erklärung|Regelungsvertrag|Vertrag über die abschließende Regelung in Bezug auf Deutschland|Vier-plus-Zwei-Vertrag|Zwei-plus-Vier|Zwei-plus-Vier-Gespräche|Zwei-plus-Vier-Verhandlungen|Zwei+Vier-Vertrag
+Q159675,,,Nebenfluss,Quellfluss|Quellfluß|Nebenfluß
+Q159719,,,Kraftwerk,Elektrizitätswerk|Stromerzeugungsanlage|Stromkraftwerk
+Q159810,,O,Wirtschaft,Ökonomie
+Q159879,,O,Kulturkampf,
+Q160093,,,Umlaut,
+Q160169,,,Datsche,Datscha
+Q160208,,ORG,Reichstag,Deutscher Reichstag|Reichstag des Deutschen Kaiserreichs
+Q160225,,O,Reichsparteitag,Reichsparteitage|Nürnberger Reichsparteitage
+Q160381,LOC,LOC,Westliche Welt,Westliche Hochkultur|Westliche Kultur|Westliche Zivilisation
+Q160525,,,Brezel,Laugenbrezel|Bretzel|Brezn|Laugenbretzel|Laugenbreze|Laugenbrezerl
+Q160845,,,Soziolinguistik,Soziolinguist
+Q160899,LOC,LOC,Unter den Linden,Straße Unter den Linden|UdL
+Q161036,GPE,GPE,Freistaat Preußen,Preußen|Land Preußen
+Q161051,LOC,LOC,Leine,
+Q161078,,,Urbanisierung,Urbanisation|Landflucht|Verstädterung|Urbane Revolution|Verstädterung in Entwicklungsländern|Verstädterungsgrad|Verstädterungsquote
+Q161455,LOC,LOC,Dahme,Dahme (Fluss)|Wendische Spree
+Q161500,,O,Privatisierung,Teilprivatisierung|Reprivatisierung|Privatisieren
+Q161524,,,Maske,Staubmaske|Gesichtsmaske|Maskenanzug
+Q161549,GPE,GPE|ORG,Europäische Gemeinschaft für Kohle und Stahl,Montanunion|Vertrag von Paris|EGKS|EGKS-Vertrag|EGKSV|Montan-Union|Vertrag über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl|Vertrag zur Gründung der Europäischen Gemeinschaft für Kohle und Stahl
+Q161898,GPE,GPE,Garz/Rügen,Garz
+Q162222,ORG,ORG,Deutsche Bundesbank,Bundesbank|BBk|BuBa
+Q163027,,O,Grimms Märchen,Kinder- und Haus-Märchen|Kinder- und Hausmärchen|Kinder- und Hausmärchen der Gebrüder Grimm
+Q163310,,,Turingmaschine,Turing Maschine|Turing-Maschine|Turingmodell
+Q163880,LOC,LOC,Pegnitz,
+Q163966,GPE,GPE,Bezirk Mitte,Berlin-Mitte|Mitte
+Q164057,,,Kogge,Hansekogge|Hanse-Kogge
+Q164079,GPE,GPE|LOC,Königreich Hannover,Hannover|Kgr. Hannover
+Q164420,ORG,ORG,Preußischer Staatsrat,Preußischer Staatsrat 1921–1933
+Q164432,,O,Achtzigjähriger Krieg,Aufstand der Niederlande|Spanisch-Niederländischer Krieg
+Q164903,GPE,GPE|LOC,Metropolregion Rhein-Ruhr,Ballungsgebiet Rhein-Ruhr|Rhein-Ruhr|RhineRuhrCity|Verdichtungsraum Rhein-Ruhr
+Q164950,,,Dynastie,Adelsgeschlecht|Fürstengeschlecht|Herrscherfamilie|Familiendynastie|Herrscherdynastie
+Q165116,,,Großherzogtum,
+Q165368,,,Frankfurt (Main) Hauptbahnhof,Hauptbahnhof Frankfurt am Main|Bahnhof Frankfurt (Main) Hbf|Frankfurt (Main) Hbf|Frankfurt am Main Hauptbahnhof|Frankfurt am Main Hbf|Frankfurt Hauptbahnhof|Frankfurt Hbf|Frankfurter Hauptbahnhof|Hauptbahnhof Frankfurt
+Q165580,,,Täufer,Täufertum|Wiedertäufer|Anabaptismus|Anabaptisten|Liste der Täuferbiographien|Täuferbewegung
+Q165980,ORG,ORG,Universität Wien,UWien|Alma Mater Rudolphina|Archäologische Sammlung der Universität Wien|Rudolphina|Uni Wien|Wiener Universität
+Q165999,,O,Bundestagswahl 2005,BT-Wahl 2005|BTW 2005|Bundestagswahlen 2005|Bundestagswahlkampf 2005|Wahl zum 16. Deutschen Bundestag
+Q166004,LOC,LOC,Norddeutsches Tiefland,"Norddeutsche Tiefebene|Norddeutsches Flachland|Norddeutsches Tiefland, Küsten und Meere"
+Q166020,ORG,ORG,"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend","Bundesfamilienministerium|BMBFSFJ|Bundesministerium für Familie, Senioren, Frauen und Jugend|Bundesministerium für Frauen und Jugend"
+Q166153,,,Germanistik,Deutsche Philologie|Deutsche Sprach- und Literaturwissenschaft
+Q166231,,,Infektion,Ansteckung|Infizierung
+Q166438,,O,Nürnberger Spielwarenmesse,
+Q166620,,,Einzugsgebiet,Niederschlagsgebiet|Flussbecken|Flussgebiet|Stromgebiet|Abflussgebiet|Entwässerungsgebiet|Wassereinzugsgebiet
+Q166747,,ORG,parlamentarisches Regierungssystem,parlamentarisches System
+Q167193,LOC,LOC,"Frauenkirche, München","Frauenkirche|Dom München|Frauenkirche München|Liebfrauendom, München|München, Stadtpfarrkirche zu Unserer Lieben Frau, sog. Frauenkirche|Münchner Dom|Münchner Frauenkirche"
+Q167255,,,Reinheitsgebot,Bayerische Reinheitsgebot des Bieres von 1516|Bayrisches Reinheitsgebot|Brauordnung|Deutsches Reinheitsgebot
+Q167314,LOC,LOC,Residenzschloss Dresden,Dresdner Residenzschloss
+Q167336,,,Treibhausgas,Klimagas|Klimagase|THG
+Q167981,PER,PER,Anna Maria Mozart,Anna Maria Pertl|Maria Anna Pertl
+Q168247,,,Hungersnot,Hungerkrise|Hungerkatastrophe|Hungernot|Hungerrevolte|Nahrungskrise
+Q168343,,,Bundesversammlung,Art. 54 GG|Artikel 54 des Grundgesetzes für die Bundesrepublik Deutschland|Bundesversammlung (Deutschland)
+Q168396,ORG,ORG,Volkskammer,DDR-Volkskammer|MdV|ostdeutsches Parlament|Volkskammer der DDR|Volkskammer der Deutschen Demokratischen Republik
+Q169399,,,ENIAC,Electronic Numerical Integrator and Computer|Electronical Numerical Integrator and Computer
+Q169470,,,Physiker,Physikerin
+Q169509,ORG,ORG,Bach,Bachfamilie|Familie Bach
+Q170065,,,Krankheitserreger,Krankheitskeim|Krankheitskeime|Pathogene Mikroorganismen
+Q170072,GPE,GPE|LOC,Republik der Vereinigten Niederlande,Vereinigte Provinzen|Niederländische Republik|Republik der Niederlande|Republik der Sieben Vereinigten Niederlande|Vereinigte Niederlande
+Q170111,ORG,ORG,Evangelische Kirche in Deutschland,EKD
+Q170119,LOC,LOC,Berliner Schloss,"Berlin, Schloss|Berlin, Stadtschloss|Berliner Schloß|Berliner Stadtschloss|Berliner Stadtschloß|Königliches Schloss Berlin|Stadtschloss Berlin|Stadtschloß Berlin"
+Q170161,,,Zunft,Handwerkszunft|Zünfte|Zünften|Zunftwesen|Gilde|Handwerksgilde
+Q170169,LOC,LOC,Flughafen Hannover,HAJ|EDDV|Flughafen Hannover-Langenhagen|Hannover Airport|Hannover Flughafen
+Q170196,,,Wasserkraft,Wasserenergie|Hydroenergie
+Q170306,,O,Novemberrevolution,
+Q170339,PER,PER,Lucas Cranach der Jüngere,Lucas Cranach d. J.
+Q170346,,,Deutsche Ostsiedlung,Ostsiedlung|Deutsche Ostbewegung|Deutsche Ostexpansion|Deutsche Ostkolonisation|Hochmittelalterlicher Landesausbau|Ostexpansion|Ostkolonisation
+Q170418,ORG,ORG,Weltwirtschaftsforum,WEF|World Economic Forum
+Q170539,,,Parodie,Parodien|Gegenlied|Stimmparodie
+Q170541,,,Ostblock,Blockgrenze|Ostblockstaat|Ostblockstaaten
+Q171043,,,Dampflokomotive,Dampfbahn|Dampflok|Heißdampflokomotive|Dampfeisenbahn|Lokomotive - angetrieben durch Dampf|Naßdampflokomotive|Schienendampflokomotive
+Q171174,,ORG,direkte Demokratie,Direktdemokratie|Unmittelbare Demokratie
+Q172964,,,Torwart,Torwächter|Keeper|Torwartin|Torfrau|Schlussmann|Torhüter|Tormann|Goalie|Torspieler
+Q173339,ORG,ORG,BMW M,BMW M GmbH|BMW Motorsport GmbH
+Q173424,,ORG,Autokratie,Autokrat|Selbstherrschaft|Selbstherrscher|Autokratisch|Autokratismus|Autolegitimierte Herrschaft|Eigenherrschaft|Selbstlegitimierte Herrschaft
+Q173695,GPE,GPE,Épinal,Epinal
+Q174053,,,Relais,elektromagnetisches Relais
+Q174193,GPE,GPE|LOC,Vereinigtes Königreich Großbritannien und Irland,
+Q174834,,,Herrschaft,
+Q175211,GPE,GPE|LOC,Regnum Teutonicum,
+Q175579,,,Jubiläumsgrat,Jubiläumsweg|Jubi
+Q176293,LOC,LOC|ORG,Schirn Kunsthalle Frankfurt,die Schirn|Schirn|Schirn Kunsthalle
+Q176675,,,Rekatholisierung,
+Q177368,ORG,ORG,Kölner Philharmonie,
+Q177524,,,Arpanet,
+Q177625,,,elektromagnetisches Feld,
+Q177777,,,Logistik,Warenbewegung
+Q178024,,,Teig,
+Q178185,,,Wärmekraftmaschine,Kraftwärmemaschine|Wärme-Kraft-Prozess
+Q178193,,,Dampfschiff,Dampfer|Dampfschifffahrt|Schraubendampfer|Flussdampfer|Schnelldampfer|Dampfboot|Dampfschiffahrt
+Q178611,LOC,LOC,Jura,Französischer Jura|Juragebirge|Schweizer Jura
+Q178706,,,Institution,Einrichtung
+Q179076,,,Börse,Börsenhandel
+Q179216,,,Kartell,
+Q179241,,O,Gott ist mein König,
+Q179615,,,Salinität,Salzgehalt|Chlorinität
+Q179671,,,Nationalstaat,
+Q180089,,O,The Economist,Economist
+Q180445,,,Nature,
+Q180537,,,Mäander,Flussschlinge|Auenmäander|Flussmäander|Mäandertal|Mäandrierend|Mäandrierung|Meandros|Wiesenmäander
+Q180538,,,Fischerei,Binnenfischerei|Seefischerei|Meeresfischerei|Berufsfischerei|NACE 03.1|Süßwasserfischerei
+Q180548,,O,neolithische Revolution,
+Q181287,,,deutschsprachige Literatur,deutsche Literatur|Literatur geschrieben in der deutschen Sprache|Literatur geschrieben in deutscher Sprache
+Q181485,,,Hochofen,Hochofenprozess
+Q181576,LOC,LOC,Westdeutschland,Westdeutsch|Alt-Bundesrepublik|West-Deutschland
+Q181653,ORG,ORG,Deutsche Bundespost,
+Q181765,,,Römisch-deutscher Kaiser,
+Q182034,,,Hegemonie,Hegemonialmacht|Hegemonial
+Q182090,,,Gemäßigtes ozeanisches Klima,Ozeanisches Klima|Meeresklima|Seeklima|Atlantisches Klima|Maritimes Klima
+Q182323,,,Ford Modell T,Blechliesel|Ford Model T|Ford Modell Tf-c|Ford T|Ford T-Modell|Ford-T|Modell T|T-Ford|Tin Lizzy
+Q182357,,,Lyrik,Dichtung|Poesie|lyrisch|Dichtung (Lyrik)|Gedicht (Lyrik)|Gedichtwerk|Lyrikwerk|Lyrisches Werk|Lyrizität|Poem (Lyrik)
+Q182581,,,Immunität,Kreuzimmunität
+Q183039,,,Staatsform,
+Q183366,,,Territorium,Territorial
+Q183576,,,Schwungrad,Schwungscheibe|Schwungmasse|Schwungspeicher
+Q183635,,,Rückkopplung,Feedback|Rückmeldung|Feedbackdestroyer|Feedbackregulation|Rückkoppelung|Selbstverstärkender Prozess|Selbstverstärkung
+Q183725,ORG,ORG,Internationale Arbeiterassoziation,Londoner Konferenz|IAA|1. Internationale|Erste Internationale|I. Internationale|International Workingmen's Association
+Q183945,,,Musikproduzent,Musikproduzentin|Schallplattenproduzent|Plattenproduzent|Musik-Produzent|Plattenproduzentin
+Q184377,,,Aussprache,Lautung
+Q184421,,,Harmonik,Harmonie|Harmonielehre
+Q184429,LOC,LOC,Donaudelta,
+Q185005,,,Kontinentalklima,Kontinentalität|Landklima|Kontinentales Klima
+Q185030,,,Genie,Genialität|Genial
+Q185032,LOC,LOC,Pannonische Tiefebene,Karpatenbecken|Pannonische Riedelland|Pannonischer Raum|Pannonisches Becken
+Q185142,,,Börsengang,Börsendebüt|Going Public|Erstemission|Initial Public Offering|IPO|Primary Offering
+Q185145,,,Großmacht,Regionalmacht|Großmächte|Great power|Great Power|Great powers|Great Powers
+Q185351,,O,Jurist,Juristin
+Q185441,,,Mitgliedstaat der Europäischen Union,EU-Mitgliedstaat|EU-Staat|EU-Staaten|EU-Mitgliedsstaaten|EU-Mitgliedstaaten|Liste der Staaten der EU|Mitgliedsländer der EU|Mitgliedsstaaten der EU|Mitgliedsstaaten der Europäischen Union|Mitgliedstaaten der EU
+Q185836,,,Lebensalter,Alter
+Q186161,,,ionisierende Strahlung,Ionisierend|ionisierende Strahlen|Strahlungsionisation
+Q186320,,GPE|LOC,Großherzogtum Baden,
+Q186393,,,Kontrapunkt,Contrapunkt|Kontrapunktik|Stimmführung|Contrapunctus|Kontrapunktisch|Punctus contra punctum|Stimmführungsregeln
+Q186982,,O,Verlängerung,Nachspielzeit
+Q186986,,,Radierung,Radierkunst|Strichätzung
+Q187097,,,Wirtschaftsgeographie,Wirtschaftsgeografie
+Q187223,,,Lagune,Noor|Haff|Strandmeer
+Q187588,,,soziale Klasse,Klasse|Gesellschaftsklasse|gesellschaftliche Klasse
+Q187616,,,Reliquie,Reliquien|Reliquienverehrung|Blutreliquie|Heilig-Blut-Reliquie|Reliquar
+Q187752,LOC,LOC,Zeller See,
+Q187843,LOC,LOC,Vogesen,
+Q188094,,,Wirtschaftswissenschaftler,Wirtschaftswissenschaftlerin|Ökonom|Ökonomin|Wirtschaftsfachmann|Volkswirt|Ökonomiker|Ökonomikerin
+Q188451,,,Musikgenre,musikalische Art|musikalisches Genre|Musikart|Genre|Musik-Genre|Musikstil|musikalischer Stil
+Q188759,,ORG,repräsentative Demokratie,indirekte Demokratie|mittelbare Demokratie|Wahldemokratie
+Q188771,ORG,ORG,Académie des sciences,Academie des Sciences|Académie des sciences de l'Institut de France|Académie des sciences de l’Institut de France|Französische Akademie der Wissenschaften|Pariser Akademie|Pariser Akademie der Wissenschaften
+Q188847,,,Umweltwissenschaften,Umweltwissenschaft|Umweltnaturwissenschaft|Umweltnaturwissenschaften
+Q189201,,,Kammermusik,Kammerkonzert
+Q189854,,,Metropolit,Erzbischof der Metropole
+Q189859,,,Dampfturbine,
+Q189915,LOC,LOC,Dinarisches Gebirge,Dinariden|Dinarische Alpen|Dinarische Decken|Dinarische Gebirgsregion|Dinarisches Deckensystem
+Q189946,ORG,ORG,Westeuropäische Union,
+Q190004,,,historischer Materialismus,Histomat|Marxistische Geschichtswissenschaft|materialistische Geschichtsauffassung
+Q190035,,,Gravitationswelle,Gravitationswellen|Gravitationsstrahlung
+Q190117,,,Automobilindustrie,Autobranche|Autoindustrie|Autoproduktion|Kraftfahrzeugindustrie|Herstellung von Kraftwagen und Kraftwagenteilen|Automotive|Kfz-Industrie|NACE 29|Autofahrzeugindustrie
+Q190120,,,Wasserdampf,Sattdampf|Nassdampf|Naßdampf
+Q190539,,,Diskurs,Diskurstheorie|Diskursiv
+Q190578,,,Limousine,Sedan|Berlina
+Q190721,,,Geschichtsphilosophie,Geschichtstheologie|Geschichtsphilosoph|Geschichtsphilosophisch|Historiosophie
+Q191108,,,Liste der Städte in der Schweiz,Liste Schweizer Städte|Städte in der Schweiz
+Q191748,PER,PER,Lucas Cranach der Ältere,"älteren Lucas Cranach|Cranach des Älteren|genannt Cranach Lucas Müller|Lucas Cranach d. Ä.|Lucas Cranach D. Ältere|Lucas Cranach d.ä.|Lucas Cranach d.Ä.|Lucas Cranach d.Æ.|Lucas Cranach dÄ|lucas d. ae. cranach|lucas d.a. cranach|Lucas Müller genannt Sunders|Lucas, Der Ältere Cranach|lukas cranach der altere|Lukas d.Äe. Cranach|Lukas, Der Ältere Cranach"
+Q191839,,,Luftbildfotografie,Aerofotografie|Luftfotografie
+Q192125,,ORG,liberale Demokratie,Liberal-demokratisch|Liberaldemokratisch
+Q192127,,,Photovoltaik,PV|Fotovoltaik
+Q192152,,,Sport Utility Vehicle,Geländelimousine|SUV|VDS|Sport Utility Truck|Sports Activity Vehicle|Sports Utility Vehicle|Viture dovràbij sportive
+Q192201,LOC,LOC,Wachau,Kulturlandschaft Wachau
+Q192270,,,Konsum,Privatkonsum|Inlandskonsum|Konsumausgaben|Konsumieren|Private Konsumnachfrage|Privater Konsum|Privater Verbrauch
+Q192499,,,Kirchenlehrer,Doctor ecclesiae|Doctores ecclesiae
+Q192623,,,Plünderung,Rapuse|Plündern
+Q192625,,,Sprachtypologie,Sprachtyp|Grundwortstellung
+Q192795,,,Koks,Verkokung|Hüttenkoks|Bergwerkskoks|Gießereikoks|Sonderkoks
+Q192852,,,Opposition,Oppositionspartei|Parlamentarische Opposition|Politische Opposition
+Q192995,,O,Impfung,Impfschutz|Impfen|Impfling|Schutzimpfung|Impfprogramm|aktive Immunisierung|Aktivimmunisierung|Impfwesen
+Q193040,,,eingebettetes System,Eingebettete Software|Embedded Computing|Embedded device|Embedded System
+Q193042,PER,PER,Thomas Newcomen,Newcomen
+Q193091,,,Optoelektronik,optoelektronisch|elektro-optisch|Opto-Elektronik|Optotronik|Optronik
+Q193124,,,Aerobie,Aerobier|Aerob|Aeroben
+Q193199,ORG,ORG,UBS,UBS AG|UBS Global Asset Management|United Bank of Switzerland
+Q193312,ORG,ORG,Anglikanische Gemeinschaft,anglikanische Kirche|anglikanische Kommunion
+Q193391,,,Diplomat,Diplomatin
+Q193692,,,Elektroauto,E-Auto|batterieelektrisches Auto|elektrisches Auto
+Q193778,,O,Fidelio,
+Q195141,LOC,LOC,Römerberg,
+Q195146,LOC,LOC,Römer,"Stadtverwaltung Frankfurt am Main|Frankfurt, Römer|Römer (Frankfurt am Main)|Römer / Altes Rathaus"
+Q197970,,,Turing-Vollständigkeit,Turing-mächtig|Turingmächtig|Turingmächtigkeit|Turingvollständig|Turingvollständigkeit
+Q198347,ORG,ORG|LOC,Historisches Museum Frankfurt,Historisches Museum Frankfurt am Main
+Q200250,,,Metropole,
+Q200435,,,Freihandel,
+Q200535,,,Reichtum,reich|Wohlstand|wohlhabend
+Q201486,,,Wissenschaftsgeschichte,Geschichte der Wissenschaft
+Q201788,,,Historiker,Historikerin|Historiograf|Historiograph|Geschichtsforscher|Geschichtsschreiber|Geschichtswissenschaftler|Geschichtsschreiberin|Lokalhistoriker|Lokalhistorikerin|Geschichtsforscherin|Geschichtswissenschaftlerin|Historiografin|Historiographin|Landeshistoriograf|Landeshistoriografin|Landeshistoriograph|Landeshistoriographin
+Q202207,LOC,LOC,Po-Ebene,Poebene|Padanische Tiefebene
+Q202712,,,IBM Personal Computer,IBM 5150|IBM PC|IBM-PC
+Q203453,ORG,ORG,Westdeutscher Rundfunk,WDR|Westdeutscher Rundfunk Köln
+Q203549,,,Taylorismus,Taylorisation|Taylorisierung
+Q204608,,,Nornen,Norne|Schicksalsschwestern
+Q204854,,,Premiere,Debüt|Neuinszenierung|Erstaufführung
+Q204886,,,Föderalismus,Asymmetrischer Föderalismus|Bundesstaatlichkeit|Bundesstaatsprinzip|Föderal|Föderalistisch|Föderativ
+Q204894,,,Randmeer,
+Q205178,,,Wunderkind,
+Q205204,,O,Frauenwahlrecht,Frauenstimmrecht
+Q205572,,,Zivilehe,
+Q205929,GPE,GPE,Ilmenau,Ilmtown
+Q206361,,,Konzern,
+Q206702,ORG,ORG,Universität Zürich,Uni Zürich|Universitas Turicensis|UZH|Zürcher Universität
+Q206799,,,elektrische Energie,elektrische Arbeit
+Q207338,,,Streichquartett,
+Q207376,LOC,LOC,Eisernes Tor,Porțile de Fier|Đerdap
+Q207591,,O,Musik der Romantik,Romantik|Romantische Musik
+Q207652,,,Chemische Industrie,Chemieindustrie|Chemiewirtschaft|Chemische Produkte|Chemisches Gewerbe
+Q207741,,O,Sturm und Drang,Geniezeit|Genieperiode|Sturm & Drang|SuD
+Q207811,,O,Europatag,
+Q207875,,O,Requiem,Mozart Requiem|Mozart-Requiem
+Q208080,,,Opera buffa,Opera bouffe|Opéra bouffe|Opera bouffon|Opéra bouffon|Operette bouffe|Opérette bouffe
+Q208208,,O|ORG,Wiener Secession,Wiener Jugendstil|Wiener Secessionismus|Wiener Sezession
+Q208224,,O,Brandenburgische Konzerte,
+Q208511,,,Weltstadt,Globalstadt|Globalcity
+Q208701,,O,Arbeiterbewegung,Arbeiterorganisation|Arbeiterinnenbewegung
+Q208826,,,Höhe,Höhenunterschied
+Q209158,,,Christdemokratie,Christdemokratismus|Christendemokratie|Christliche Demokratie
+Q209233,,,thermische Energie,Wärmeenergie
+Q209295,,,Religionsphilosophie,Philosophie der Religionen
+Q209815,,,mündliche Überlieferung,Oralität|Mündliche Tradition|Mündlicher Überlieferung|Orale Tradition|Orale Überlieferung
+Q209842,ORG,ORG,Sorbonne Universität von Paris,Sorbonne
+Q209937,LOC,LOC,Wiener Staatsoper,Staatsoper|Neues Haus|Erstes Haus am Ring|k.k. Hof-Operntheater|Operntheater|Staatsoper Wien|Wiener Hofoper|Wiener Oper
+Q210523,,,Wortstamm,Stamm|Stamm-Morphem|Kompositionsstamm|Derivationsstamm|Stammwort|Wurzelwort
+Q211446,,O,Milanković-Zyklen,Erdbahnparameter|Milankovic-Zyklen|Milankovic-Zyklus|Milanković-Zyklus|Milankovich Zyklen|Milankovich-Zyklen|Milankovich-Zyklus|Milankovitch Zyklen|Milankovitch Zyklus|Milankovitch-Zyklen|Milankovitch-Zyklus|Milankowich-Zyklen|Milankowitch-Zyklen|Milankowitsch-Zyklen|Milankowitsch-Zyklus
+Q211586,,,Rechenmaschine,Rechengerät
+Q211606,,,Sozialstruktur,Gesellschaftsstruktur|Stellung|Sozialordnung|Stratifikation|Bevölkerungsschicht|Sozialstrukturanalyse|Sozialschicht|Standesunterschied|Schichtengesellschaft|Soziale Schichtung|Soziale Stellung|Soziale Stratifikation|Sozialstrukturforschung
+Q211971,,O,Das Wohltemperierte Klavier,Das Wohltemperirte Clavier|Das Wohltemperierte Clavier|Wohltemperiertes Klavier
+Q212114,,,Geschichte der Europäischen Union,europäische Einigung|Geschichte der EU|Geschichte der europäischen Integration
+Q212141,ORG,ORG,Europäische Wirtschafts- und Währungsunion,Euro-Land|Europäische Währungsunion|Europäische Wirtschaftsunion|EWU|EWWU|Wirtschafts- und Finanzenpolitik der Europäischen Union|Wirtschaftspolitik der Europäischen Union
+Q212898,,O,Der Zauberberg,
+Q212976,,O,Spätmittelalter,
+Q213533,PER,PER,Karl August,Carl August|Carl August von Sachsen-Weimar-Eisenach|Herzog Karl August|Karl August von Sachsen-Weimar-Eisenach
+Q213669,,O,Haber-Bosch-Verfahren,Ammoniaksynthese|Haber-Bosch|Haber-Bosch-Synthese
+Q214045,,,Zwerg,Zwergenmythos
+Q214524,,O,Gettysburg Address,Gettysburg-Rede
+Q214654,LOC,LOC|ORG,Sorbonne,College de Sorbonne|Collège de Sorbonne
+Q214970,,,Virtuose,Virtuosität|Virtuos|Virtuosein
+Q214981,,,Variation,
+Q215443,GPE,GPE|O|LOC,Schwedisches Reich,
+Q215536,,,Kaufmann,Händler|Kaufleute|Kauffrau|Unternehmer|Großkaufmann|Handelsmann|Zwischenhändler|Händlerin|Großkauffrau|Handelsfrau|Handelstreibende|Handeltreibender
+Q215972,,,Protagonist,Hauptcharakter|Held|Heldin|Hauptfigur|Protagonisten|Protagonistin|Titelheld
+Q215981,PER,PER,Fritz Bauer,Fritz Max Bauer
+Q216048,,,Mannschaftssport,Teamsport|Mannschaftssportart|Mannschaftsspiel
+Q216171,LOC,LOC,Waal,
+Q216973,,,Insolation,Einstrahlung
+Q217200,,O,zweite industrielle Revolution,
+Q217818,LOC,LOC,IJssel,Eissel|Geldersche Issel|Yssel
+Q219357,,,Porsche 911,911
+Q219577,,,Holding,Holdingfirma|Holdingunternehmen|Dachgesellschaft|Holdinggesellschaft
+Q220002,,O,Kritik der reinen Vernunft,Critik der reinen Vernunft|KdrV|KrV|Zwei Stämme der menschlichen Erkenntnis
+Q220033,ORG,ORG|LOC,Erlebnis-Zoo Hannover,Zoo Hannover
+Q220036,LOC,LOC,Zoo Frankfurt,
+Q220055,LOC,LOC,Zoo Leipzig,
+Q221117,,,Leitmotiv,Idee fixe|Idée fixe
+Q222419,,,Zuse Z3,
+Q223050,,,staatenlos,Staatenlose|Staatenlos|Staatenlosigkeit
+Q223767,,,Attische Demokratie,Athenische Demokratie|Athenische Verfassung
+Q223945,,,Bildungsroman,Coming-of-Age-Roman
+Q224494,LOC,LOC,Zürich Hauptbahnhof,Zürich HB|Bahnhof Zürich HB|Bf Zürich HB|Hauptbahnhof Zürich
+Q224969,,,Liste der höchsten Sakralgebäude,Liste der höchsten Kirchen und Sakralgebäude|Liste der höchsten Kirchen und Sakralgebäude der Welt|Liste der höchsten Kirchtürme der Welt|Liste der höchsten Kirchtürme und Sakralgebäude der Welt
+Q228211,GPE,GPE,Zuffenhausen,Stuttgart-Zuffenhausen
+Q229917,,,Zunftzeichen,Zunftschild|Innungszeichen
+Q230426,ORG,ORG,Zurich Insurance Group,Zürich Versicherungen
+Q230825,,,Zuse Z4,
+Q232388,ORG,ORG,Zweibund,
+Q234803,,ORG,Rolls-Royce Motor Cars,
+Q236185,LOC,LOC|GPE,Blaue Banane,Blauer Stern|Goldene Banane
+Q238323,,,Kernreaktion,
+Q240315,ORG,ORG,5. Strafsenat des Bundesgerichtshofes,5. StS
+Q241292,,,Liste der Museen in München,
+Q241588,,,Mittelschicht,Mittelstand|Mittelklasse
+Q242067,LOC,LOC,Schloßplatz,Schlossplatz
+Q245423,,,Komposition,Bestimmungswort|Kompositum|Wortzusammensetzung|Grundwort|Wortkomposition|zusammengesetzes Wort|zusammengesetzte Wörter|zusammengesetztes Hauptwort|zusammengesetztes Wort
+Q246551,ORG,ORG,6. Strafsenat des Bundesgerichtshofes,6. StS
+Q248476,ORG,ORG,Zürcher Kantonalbank,ZKB
+Q248682,,,Zürichdeutsch,
+Q249173,ORG,ORG,BMW-Motorrad,BMW Motorrad|BMW-Motorräder
+Q249542,,,Transdisziplinarität,Transdisziplinär
+Q250858,,,plurizentrische Sprache,polyzentrische Sprache
+Q251087,LOC,LOC,Heilig-Geist-Kirche,ehem. Spitalkirche Hl. Geist|Heiliggeistspitalkirche
+Q251777,,,Brauch,Brauchtum
+Q252119,GPE,GPE|LOC,Schwabing,München-Schwabing|Svapinga
+Q253019,,,Ortsteil,Stadtgebiet|Stadtteil|Fraktion|Gemeindeteil|Ortschaftsbestandteil|Teilort
+Q253030,,,Oberzentrum,Hauptzentrum|Hauptzentren|Oberzentren
+Q253110,LOC,LOC,Ludwigstraße,Ludwigstrasse
+Q253414,ORG,ORG,FIFA,Internationaler Verband des Association Football|Fifa
+Q254262,,,Kfz-Kennzeichen,Kraftfahrzeugkennzeichen|Kraftfahrzeugkennzeichen (Deutschland)|Kraftfahrzeugkennzeichen in Deutschland
+Q254312,GPE,GPE|ORG|LOC,Kirchenprovinz Köln,Rheinische Kirchenprovinz
+Q255218,,,Tiroler Zugspitzbahn,
+Q255722,,,Dampf,
+Q257085,,,Weltliteratur,
+Q257391,,,Bundeshauptstadt,
+Q258318,,,bundesdeutsches Hochdeutsch,Bundesdeutsch
+Q259438,,,Hirse,
+Q259799,,,Theatinerkirche,"St. Kajetan|München, Theatinerkirche St. Kajetan"
+Q260023,,,Liste unabhängiger Staaten nach Fläche,Länder nach Fläche
+Q261023,,,Wiener Gemeindebezirk,
+Q261105,,,Helles,Helles Lager|Bayrisch Hell|Hellbier|Münchner Hell
+Q261543,,,Bundesland in Österreich,Bundesland|Land
+Q262166,,,Gemeinde in Deutschland,
+Q262577,,O,Kölner Karneval,Fasteleer|Fastelovend
+Q262882,,,Statutarstadt,
+Q263047,,O|ORG,Montagsdemonstrationen 1989/1990 in der DDR,
+Q263522,,,oberdeutsche Mundarten,Oberdeutsch|oberdeutsche Dialekte
+Q263630,LOC,LOC,Lobau,
+Q264223,LOC,LOC,Wettersteingebirge,Wetterstein
+Q264892,,,soziale Gerechtigkeit,
+Q265129,LOC,LOC|ORG,Wiener Secessionsgebäude,Secession
+Q265567,,O,Gamescom,
+Q270145,ORG,ORG|LOC,Universidad Nacional Mayor de San Marcos,Universidad San Marcos|Hauptnationaluniversität San Marcos|Universität San Marcos|Universität von Peru
+Q271969,,,Kaufkraft,
+Q274586,,,Sportwagen,
+Q275372,,,Externer Effekt,Externalität|Externe Effekte|Externe Kosten|Externer Nutzen|Intrapersoneller externer Effekt|Monetärer externer Effekt|Pekuniärer externer Effekt|Reale externe Effekte|Realer externer Effekt|Soziale Kosten|Technologischer externer Effekt
+Q275647,,O|ORG,Mannheimer Schule,Mannheimer Klassik
+Q275705,,,9. November in der deutschen Geschichte,Schicksalstag|Schicksalstag der Deutschen
+Q278616,LOC,LOC,Naturpark Thüringer Wald,Thüringer Wald|NP Thüringer Wald|NRP Thüringer Wald
+Q278976,,,Bezirk in Hamburg,
+Q279350,,,Standarddeutsch,Hochdeutsch|Schriftdeutsch|Standardhochdeutsch
+Q280255,ORG,ORG|LOC,Koelnmesse,Koelnmesse GmbH|Kölner Messe|Kölnermesse|Messe Köln
+Q280312,GPE,GPE|ORG|LOC,Fürstentum Lüneburg,
+Q282181,,O,Joseph und seine Brüder,
+Q282737,LOC,LOC,Frankenwald,
+Q285879,GPE,GPE,Bingen am Rhein,Bingen|Bingen/Rhein
+Q285950,,,Volkssouveränität,
+Q287215,,,kafkaesk,
+Q289590,PER,PER,Susanne Klatten,Susanne Hanna Ursula Klatten|Susanne Hanna Ursula Quandt|Susanne Kant|Susanne Quandt
+Q293941,LOC,LOC,Ödenburger Gebirge,
+Q294217,,,öffentlicher Sektor,öffentliche Hand|staatlicher Sektor|staatstätigkeit
+Q294804,ORG,ORG,Öko-Institut,Institut für angewandte Ökologie
+Q303288,,,Solarthermie,Sonnenwärmenutzung
+Q304646,,,Altefähr,
+Q305990,ORG,ORG,Österreichische UNESCO-Kommission,ÖUK
+Q306626,,,österreichisches Deutsch,Austriakum|de-at|deutsche Sprache in Österreich|österreichische Sprache|österreichischer Sprachgebrauch|österreichisches Hochdeutsch|österreichisches Standarddeutsch
+Q308963,ORG,ORG,Universität Salamanca,Universidad de Salamanca|Universität von Salamanca
+Q310218,,,Ermächtigungsgesetz vom 24. März 1933,Gesetz zur Behebung der Not von Volk und Reich
+Q310293,GPE,GPE|ORG|LOC,Saarprotektorat,Saarland 1947 bis 1956
+Q310549,,O,h-Moll-Messe,BWV 232|Hohe Messe in h-Moll|Messe in h-Moll
+Q310554,,,I-Umlaut,
+Q310650,GPE,GPE|LOC,Schaumburg-Lippe,
+Q310891,,,rezent,
+Q311124,LOC,LOC,Lüneburger Heide,D28|Heidjer
+Q312578,ORG,ORG|LOC,Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig,"Conservatorium für Musik zu Leipzig|Felix Mendelssohn Bartholdy Hochschule|HMT Leipzig|Hochschule für Musik Leipzig|Hochschule für Musik und Theater Felix Mendelssohn Bartholdy|Hochschule für Musik und Theater Leipzig|Königliches Konservatorium der Musik zu Leipzig|Konservatorium Leipzig|Leipziger Konservatorium|Leipziger Musikhochschule|Mendelssohn-Bartholdy-Akademie|Musikhochschule Leipzig|Staatliche Hochschule für Musik, Musikerziehung und darstellende Kunst Leipzig"
+Q313175,GPE,GPE|LOC,Herzogtum Sachsen-Lauenburg,Herzogtum Lauenburg|Sachsen-Lauenburg
+Q313181,PER,PER,Carl Gotthard Langhans,
+Q313827,,ORG,Bundesregierung,Regierung|Bundeskabinett|BReg
+Q314024,,,Bundesbehörde in Deutschland,Bundesbehörde|Bundesbehörde (Deutschland)
+Q314082,ORG,ORG|LOC,Niedersächsisches Landesmuseum Hannover,Landesmuseum Hannover|Landesmuseum Hannover. Das WeltenMuseum|Niedersächsisches Landesmuseum|Provinzialmuseum|Landesmuseum Niedersachsen Hannover
+Q314085,,,Weihnachtsbrauchtum im deutschen Sprachraum,Weihnachten|Weihnachtszeit|Adventfenster|Weihnachtsbrauch im deutschsprachigen Raum
+Q314194,,,Liste der Groß- und Mittelstädte in Deutschland,Liste der größten Städte in Deutschland
+Q314211,,,Bundesanstalt für Finanzdienstleistungsaufsicht,BaFin
+Q314219,ORG,ORG,Bibliographisches Institut,"Meyer|Bibliographisches Institut, Leipzig|Meyers|Bibliographisches Institut Leipzig"
+Q314264,,,Alterspräsident,Alterspräsidentin
+Q314363,,,Heidschnucke,Schnucke|Graue gehörnte Heidschnucke|Heideschnucke|Lüneburger Heidschnucke
+Q314482,,,Marktrecht,Markthoheit|Marktprivileg
+Q314618,,O,Geschichte Hamburgs,Reichsstadt Hamburg
+Q314741,LOC,LOC,Elbtalkessel,Elbtal|Dresdner Elbtalweitung
+Q314795,,,Preußischer Verfassungskonflikt,Heereskonflikt|Konfliktsperiode|Preußischer Heereskonflikt|Preussischer Verfassungskonflikt
+Q315045,LOC,LOC,Maschsee,Strandbad Maschsee
+Q315065,GPE,GPE|LOC,Metropolregion Hannover-Braunschweig-Göttingen-Wolfsburg,Metropolregion Hannover-Braunschweig-Göttingen
+Q315142,ORG,ORG,DE-CIX,Deutsche Commercial Internet Exchange
+Q315575,,,Grundrechte,Grundrecht
+Q315667,GPE,GPE|LOC,Herzogtum Sachsen-Weimar,Sachsen-Weimar
+Q315705,LOC,LOC,Staatsoper Hannover,Hoftheater Hannover|Niedersächsische Staatsoper|Opernhaus (Hannover)|Opernhaus Hannover|Staatstheater Hannover
+Q315863,ORG,ORG,Kabinett Merkel I,
+Q315968,GPE,GPE|LOC,Museumsufer,Schaumainkai
+Q316005,LOC,LOC|ORG,Wilhelm Busch – Deutsches Museum für Karikatur und Zeichenkunst,Deutsches Museum für Karikatur und Kritische Grafik|Deutsches Museum für Karikatur und Zeichenkunst Wilhelm Busch|Stiftung Wilhelm-Busch-Museum|Wilhelm Busch - Deutsches Museum für Karikatur und Zeichenkunst|Wilhelm Busch Museum|Wilhelm-Busch-Museum|Museum Wilhelm Busch
+Q316008,,,Bundestrainer,Fußballbundestrainer|Fussball-Bundestrainer|Fußball-Bundestrainer|Fussballbundestrainer
+Q316154,,,Hanseflaggen,Hanseflagge
+Q316233,,,Mediapark,MediaPark
+Q316330,PER,PER,Daniel Bell,Daniel Bolotsky
+Q316393,LOC,LOC,Brigach,
+Q316397,LOC,LOC,Breg,
+Q316482,GPE,GPE|LOC,Frankfurt-Riederwald,Riederwald
+Q316507,LOC,LOC,Ilm,
+Q316634,,O,Art Cologne,Kölner Kunstmarkt
+Q316687,,O,Biofach,
+Q316702,,O,Flottengesetze,Dritte Flottennovelle|Erste Flottennovelle|Flottengesetz|Flottennovelle|Flottennovellen|Zweite Flottennovelle
+Q317094,LOC,LOC,Straße des 17. Juni,Ost-West-Achse|Charlottenburger Chaussee|der 17. Juni|Strasse des 17. Juni
+Q317401,GPE,GPE|LOC,Metropolregion Mitteldeutschland,Metropolregion Halle/Leipzig-Sachsendreieck|Metropolregion Sachsendreieck
+Q318140,,,Krönung der römisch-deutschen Könige und Kaiser,Kaiserkrönung|Wahl und Krönung der römisch-deutschen Könige und Kaiser
+Q319041,LOC,LOC,Obersee,
+Q319891,,,Allgemeines Wahlrecht,Allgemeinheit der Wahl
+Q319972,,,Nationalsprache,Landessprache|nationale Standardsprache
+Q320390,LOC,LOC,Schleuse,
+Q320501,,,Landesparlament,Landtag
+Q321291,,,Main Tower,Maintower
+Q323728,ORG,ORG,Deutscher Olympischer Sportbund,DOSB
+Q324404,LOC,LOC,Luisenstädtischer Kanal,Engelbecken
+Q324900,,,Mainhattan,
+Q326174,,O,Demokratieindex,Democracy Index|Demokratie-Index
+Q326248,,O,Benz Patent-Motorwagen Nummer 1,
+Q326909,,O,Buddenbrooks,Die Buddenbrooks|Buddenbrook|Buddenbrooks - Verfall einer Familie|buddenbrooks:Verfall einer Familie|Buddenbrooks. Verfall einer Familie
+Q327092,,,Medizintechnik,biomedizinische Technik
+Q327265,ORG,ORG|LOC|GPE,Heidelberger Schloss,Schloss Heidelberg|Stückgarten|Heidelberger Schloß|Schloß Heidelberg|Schlossruine Heidelberg
+Q327274,,,Schwäbisch,schwäbischer Dialekt|Unterschwäbisch
+Q327358,,,Wortbildung,Wortbildungslehre|Ableitungssilben
+Q328271,,O,Machtergreifung,Machtübernahme|Machtantritt|Machtübergabe|Ernennung Adolf Hitlers zum Reichskanzler|Ernennung Hitlers zum Reichskanzler|Machteroberung 1933/34|Machterschleichung|Machtübertragung|Nationalsozialistische Machtübernahme|Nationalsozialistische Revolution
+Q329285,,,Einwurf,Flickflack-Einwurf|Flickflackeinwurf|Salto-Einwurf|Saltoeinwurf
+Q329464,ORG,ORG,Preußische Akademie der Wissenschaften,Berliner Akademie der Wissenschaften|Brandenburgische Akademie der Wissenschaften|Königlich Preußische Sozietät der Wissenschaften|Königlich-Preußische Akademie der Wissenschaften|Königliche Akademie der Wissenschaften zu Berlin|Kurfürstlich-Brandenburgische Societät der Wissenschaften
+Q329888,GPE,GPE|O|ORG|LOC,Alliierte,West-Alliierte
+Q332614,,,Supervulkan,Calderen-Vulkan|Supervulkane
+Q332894,LOC,LOC,Überlinger See,
+Q333024,,,Pluralismus,Pluralisierung|Pluralismustheorie|Pluralistische Gesellschaft
+Q333934,LOC,LOC,Mittelland,Moyen pays|Plateau suisse|Schweizer Mittelland
+Q334487,,,Überweidung,
+Q335183,,,Phototroph,Fototroph|Fototrophie|Phototrophie
+Q337968,,,Idiom,Idiom (Spracheigentümlichkeit)
+Q337987,,,Wahlgeheimnis,Geheime Wahl
+Q346575,,,Evangelische Kirche,
+Q350044,,,deutsche Rechtschreibung,Deutsche Orthografie|Deutsche Orthographie|Rechtschreibung des Deutschen
+Q350532,,,Feinmechanik,
+Q352842,,O,Lehren,Lehre
+Q355862,,O,Adenauer-Ära,Adenauerzeit|Ära Adenauer
+Q362925,,,Hausmusik,
+Q363404,,,EU-Bürgerschaft,Unionsbürgerschaft|EU-Staatsbürgerschaft
+Q364340,,,Wille,Wollen|Volitiv|Kürwillen|Wesenwillen
+Q366139,,,Legitimation,Input-Legitimation|Inputlegitimation|Output-Legitimation|Output-Legitimität|Outputlegitimation|Outputlegitimität|Throughput-Legitimation
+Q366301,,,Forschungsreise,Studienreise|Forschungsexpedition
+Q368576,LOC,LOC,St. Sebald (Nürnberg),
+Q370800,PER,PER,Ferdinand Schmutzer,Ferdinand Schmutzer der Jüngere|Ferdinand Schmutzer jun.
+Q372436,,,Staatsmann,Elder statesman|Elder statesmen
+Q372608,ORG,ORG,Universität Basel,Unibas|UBasel|Uni Basel
+Q373058,,,Azurblau,
+Q375120,LOC,LOC,Hainburger Pforte,Devínska brána
+Q375336,,,Filmstudio,Filmatelier
+Q377930,,,klassische Elektrodynamik,Elektrizitätslehre|Feldtheorie in der Elektrotechnik
+Q378445,,,Zahnradbahn,
+Q378914,,,orthographisches Wörterbuch,Rechtschreibwörterbuch|orthografisches Wörterbuch|Wörterbuch der Rechtschreibung
+Q379111,,,Matthäus-Passion,
+Q380075,,,Advokat,Advocatus
+Q380170,,,Energieeinsparung,Energieeffizienz|Energiesparen|Energieersparnis|Energiesparfunktion|Stromsparen
+Q380599,LOC,LOC|O,Aegidienkirche,
+Q380616,,,Videorekorder,
+Q381062,,,Nationaldichter,
+Q381160,,O,Experte,Fachfrau|Expertin|Fachmann|Sachverständiger|Fachmännin
+Q382895,GPE,GPE|LOC,Donau City,Donaucity|Donauplatte|Donau-City
+Q382995,,,Rechtswissenschaften,Jurisprudenz|Jura|Jus
+Q383296,LOC,LOC,Olympiapark,
+Q384841,LOC,LOC|GPE,Altes Schloss,"Schloss Stuttgart|Altes Schloss (Stuttgart, Německo)"
+Q386191,,,Bevölkerungsentwicklung,Bevölkerungswachstum|Bevölkerungsbewegung|Bevölkerungszuwachs|Demografische Entwicklung|Migrationssaldo
+Q386431,,O,Doktor Faustus,"Das Leben des deutschen Tonsetzers Adrian Leverkühn, erzählt von einem Freunde"
+Q388949,GPE,GPE,Passy,
+Q391895,ORG,ORG,Siemens Mobility,Siemens Verkehrstechnik|Siemens Rail Systems|Siemens Transportation|Siemens Transportation Systems|Siemens TS|Siemens-Verkehrstechnik
+Q392734,,O,Toccata und Fuge d-Moll BWV 565,"Toccata und Fuge d-Moll|BWV 565|Toccata und Fuge in d-Moll|Toccata und Fuge in d-Moll, BWV 565"
+Q393376,,,Liste der Seen in Österreich,
+Q394067,,,Europäer,europäische Bevölkerung
+Q396108,,,Agrargesellschaft,
+Q396223,,,Agrarstaat,Agrarland|Agrikulturstaat
+Q399495,,,Standardsprache,Hochsprache|Literatursprache|Schriftsprache|Einheitssprache|Gemeinsprache|Ausbausprache
+Q422062,,,Aktiengesellschaft,AG|A.G.|A.-G.|deutsche AG|Deutsche Aktiengesellschaft
+Q429850,,,Neue Rheinische Zeitung,
+Q432386,,,Prediger,Predigerin
+Q434950,,,Altbau,
+Q435406,LOC,LOC,Alte Brücke,Alte Brücke Frankfurt am Main
+Q435416,LOC,LOC,Alte Brücke,"Heidelberger Brückenaffe|Alte Brücke (Heidelberg)|Alte Brücke, Heidelberg|Brückentor (Heidelberg)|Carl-Theodor-Brücke|Heidelberger Alte Brücke|Karl-Theodor-Brücke|Alte Brücke von Heidelberg"
+Q435583,GPE,GPE|LOC,Alte Eidgenossenschaft,Alter grosser Bund oberdeutscher Lande|Alter großer Bund oberdeutscher Lande
+Q436079,LOC,LOC,Alte Oper,Alte Oper Frankfurt|Opernhaus/Alte Oper
+Q439431,LOC,LOC,Altes Rathaus,Altes Rathaus (Leipzig)
+Q439458,LOC,LOC,Altes Rathaus,Rathaus München|Altes Rathaus (Munich)|Altes Rathaus München
+Q444345,,,Melodik,
+Q445486,GPE,GPE|LOC,Altstadt,Altstadt Düsseldorf|Düsseldorf-Altstadt
+Q445524,GPE,GPE|LOC,Münchner Altstadt,Altstadt|Altstadt München|Münchener Altstadt
+Q445597,LOC,LOC,Thüringer Schiefergebirge,Thüringisches Schiefergebirge
+Q445702,LOC,LOC,Oberschwaben,Schwäbisches Oberland
+Q445741,,,Altstraße,früherer Heer- und Handelsweg
+Q446697,,,Liste der Städte und Gemeinden in Sachsen,
+Q447555,,,Bodden,Boddenlandschaft|Boddenküste
+Q448266,,,Arbeit,
+Q449266,GPE,GPE|LOC,Frankfurt-Altstadt,
+Q449668,ORG,ORG,Kabinett Scheidemann,
+Q449765,ORG,ORG,Kabinett Müller II,
+Q451546,,,Einigungsvertrag,Beitrittsvertrag|EV|Einheitsvertrag|EinigungsV|EinigV|EinigVtr|EinV|EiV|EVertr|Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands
+Q451619,GPE,GPE|LOC,Metropolregion Stuttgart,
+Q452098,PER,PER,Carl Thomas Mozart,Karl Thomas Mozart
+Q452140,ORG,ORG,DB Fernverkehr,DB Reise&Touristik
+Q454476,,,Neuhochdeutsch,neuhochdeutsche Sprache|Nhd.
+Q454775,ORG,ORG,Mansfeld,Grafschaft Mansfeld|Graf von Mansfeld|Grafen von Mansfeld
+Q455037,,O,Fließbandfertigung,
+Q455254,,,Sitzverteilung in den deutschen Landesparlamenten,
+Q455305,,,Italienische Reise,Reise nach Italien
+Q455697,ORG,ORG,Landtag von Baden-Württemberg,Baden-Württembergischer Landtag|Landtag Baden-Württemberg
+Q456994,LOC,LOC|ORG,Museum für Moderne Kunst,MMK|Museum für Moderne Kunst Frankfurt am Main
+Q457377,,,Strelasundquerung,
+Q457578,,,Viermächte-Status,Viermächtestatus|Amerikanischer Sektor|Britischer Sektor|Französischer Sektor|Sektorenstadt|Sowjetischer Sektor|Sowjetischer Sektor Berlins|Vier-Mächte-Status|Vier-Mächte-Verantwortung|Vier-Sektoren-Stadt|Viermächtestatut|Viermächteverantwortung|Viersektorenstadt|Westsektor
+Q457906,PER,PER,John Presper Eckert,J. Presper Eckert
+Q458405,LOC,LOC,Fernmeldeturm Nürnberg,Fernmeldeturm Schweinau|Funkturm Nürnberg|Funkübertragungsstelle Nürnberg 5
+Q458816,PER,PER,Oskar Schlemmer,
+Q459381,,,Literaturtheorie,Literaturphilosophie
+Q459416,,,Militärhistorisches Museum der Bundeswehr,Armeemuseum der DDR|Militärhistorisches Museum|Militärhistorisches Museum Dresden|Sächsisches Armeemuseum
+Q459493,ORG,ORG|LOC,Augusteum und Lutherhaus Wittenberg,Lutherhalle
+Q460124,PER,PER,Jacques Callot,
+Q461215,LOC,LOC,Bernauer Straße,Bernauer Strasse
+Q461314,LOC,LOC,Altes Rathaus Nürnberg,Rathaus Nürnberg|Wolff`scher Bau
+Q461585,,,Reichsapfel,Globus cruciger
+Q463796,,,Impakt,Einschlag|Meteoriteneinschlag
+Q464235,,,Bezirk in Bayern,
+Q464752,ORG,ORG,Hochschule für Bildende Künste Dresden,Akademie der Künste|Akademie der Bildenden Künste Dresden|Akademie für Bildende Künste Dresden|Dresdner Akademie|Dresdner Kunstakademie|HfBK Dresden|Kunstakademie Dresden|Kunsthochschule Dresden
+Q465821,,,Briefroman,
+Q465878,,O,Die Kunst der Fuge,BWV 1080|Kunst der Fuge
+Q466039,LOC,LOC,Kontinentaleuropa,Kontinental-Europa|Kontinentaleuropäisch
+Q466969,,,Fordismus,fordistisch
+Q467065,ORG,ORG,Region Köln/Bonn e. V.,Region Köln/Bonn|Verdichtungsraum Köln-Bonn
+Q467658,PER,PER,Karl Joseph Stieler,Joseph Karl Stieler|Kaspar Joseph Stieler|Josef Stieler
+Q467763,LOC,LOC,Klassisches Weimar,
+Q468181,ORG,ORG|LOC,Hochschule für Musik Carl Maria von Weber Dresden,"Conservatorium Dresden|HfM Dresden|Hochschule für Musik ""Carl Maria von Weber""|Hochschule für Musik ""Carl Maria von Weber"" Dresden|Hochschule für Musik „Carl Maria von Weber“ Dresden|Hochschule für Musik Carl Maria von Weber|Hochschule für Musik Dresden|k. Conservatorium Dresden|Kgl. Conservatorium|Musikhochschule Carl Maria von Weber|Musikhochschule Dresden|Königliches Konservatorium Dresden"
+Q470540,,,Sitz,Geschäftssitz|Firmensitz|Stammsitz|Unternehmenssitz|Hauptsitz|Vereinssitz
+Q471329,LOC,LOC,City-Hochhaus Leipzig,Uni-Riese|Uniriese|Universitätshochaus
+Q472451,ORG,ORG,Siemens Healthineers,Siemens Healthineers AG
+Q473741,,,Ausländer,Fremder
+Q473858,,O,Weltdokumentenerbe,Memory of the World
+Q475063,,O,Iphigenie auf Tauris,Iphigenie auf Tauris : Ein Schauspiel
+Q475594,,,Berlin-Frage,Berliner Frage|Berlinfrage
+Q476028,,,Fußballverein,Fußballclub|Fußballklub|Fussballclub|Fussballverein|Fussballklub
+Q477155,,ORG,Senat der Freien und Hansestadt Hamburg,Hamburger Senat
+Q477248,,,Gebäck,Backwaren
+Q478695,ORG,ORG|LOC,Germanisches Nationalmuseum,GNM
+Q479224,,,Industrielle Revolution in Deutschland,Frühindustrialisierung
+Q481293,,,Amtssprachen in Deutschland,Amtssprachen (Deutschland)|Amtssprachen innerhalb Deutschlands
+Q481323,LOC,LOC,Platz des 18. März,Platz vor dem Brandenburger Tor
+Q481339,LOC,LOC,Seerhein,
+Q481595,,,Ausgleichsmandat,
+Q481601,ORG,ORG,Rat der Volksbeauftragten,Reichsregierung|Regierung der Volksbeauftragten
+Q483247,,,Phänomen,Ausnahmeerscheinung|Phaenomenon|Phänomenon
+Q484092,,,Lumen,ANSI-Lumen|lm
+Q484591,,,Naturgeschichte,Naturforscher|Naturforschung|Naturkunde|Naturlehre
+Q484692,,,Hymne,Hymnus
+Q484847,,O,elektronischer Handel,Electronic Commerce|E-Commerce|Online-Handel|Onlineshopping|Online-Shopping|E-commerce|Ecommerce|ECommerce|Elektronischer Geschäftsverkehr|Elektronischer Markt|Web-Commerce
+Q484870,GPE,GPE,Eisleben,"Eisleben, Lutherstadt|Lutherstadt Eisleben"
+Q485257,,,Analytical Engine,
+Q486053,,,MacBook,Apple MacBook|Mac Book|Macbook
+Q486748,,,Pianist,Claviervirtuosin|Pianistin|Klavierspieler|Klavierspielerin
+Q487294,,,Warmzeit,Interglazial|Zwischeneiszeit|Warmperiode|Warmzeiten|Zwischenkaltzeit
+Q491637,ORG,ORG,Bundesministerium für Verkehr,"Bundesbauminister|Bundesverkehrsminister|Bundesbauministerium|Bundesverkehrsministerium|BMV|Bundesministerium für Verkehr|Bundesminister für Verkehr|BMDV|BMVB|BMVBS|BMVBW|BMVI|Bundesminister für Verkehr, Bau- und Wohnungswesen|Bundesministerium für Raumordnung, Bauwesen und Städtebau|Bundesministerium für Verkehr und digitale Infrastruktur|Bundesministerium für Verkehr, Bau und Stadtentwicklung|Bundesministerium für Verkehr, Bau- und Wohnungswesen"
+Q492425,,,Containerterminal,Containerhafen
+Q492472,,,Dachsprache,
+Q492538,GPE,GPE,Bergen auf Rügen,Bergen
+Q492807,,,Evangelium,Heilsbotschaft|Frohbotschaft|Frohe Botschaft|Gute Nachricht
+Q493126,GPE,GPE|LOC,Hundertwasserhaus,Hundertwasser-Haus|Hundertwasser-Krawina-Haus|Hundertwasser-Krawinahaus
+Q493344,,,"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit","Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit|Bundesumweltministerium|BMU|BMUB|BMUKN|BMUV|Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit|Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit|Bundesumwelt- und Bauministerium"
+Q493994,LOC,LOC,Col de Bussang,
+Q494345,,,Städtebund DIE HANSE,Hansebund der Neuzeit|Neue Hanse
+Q494631,GPE,GPE|LOC,Sassnitz,Saßnitz
+Q499348,,,UN/LOCODE,ESS|LOCODE|United Nations Code for Trade and Transport Locations|UNLOCODE
+Q499814,,,Binnenschifffahrt,Flussschifffahrt|Binnenschiffahrt|Flussschiffahrt
+Q501503,,,Deutscher Kaiser,Kaiser|Kaiser des deutschen Kaiserreiches|Kaiser des Deutschen Reichs|Kaiser von Deutschland
+Q503006,GPE,GPE,Schneverdingen,Snevern
+Q503992,,,nomen,nominal|Nomina
+Q504853,GPE,GPE,Remiremont,
+Q505674,,,Mittelniederdeutsch,mittelniederdeutsche Sprache|Mnd.|Mndd.|Mniederd.
+Q505688,,,Dresdner Striezelmarkt,Striezelmarkt|Strietzelmontag
+Q506630,,,Fußballregeln,Fußballregel|Fussballregel|Fussballregeln|Regeln des Spiels
+Q511823,,,Duden,Der Duden
+Q515015,GPE,GPE,Steinstücken,Berlin-Steinstücken
+Q515832,GPE,GPE|LOC,Gatow,Berlin-Gatow
+Q516162,,,Liste der Hochhäuser in Frankfurt am Main,Frankfurter Skyline|Hochhäuser in Frankfurt|Hochhäuser in Frankfurt am Main|Liste der Hochhäuser in Frankfurt|Liste der höchsten Gebäude in Frankfurt am Main|Skyline Frankfurt|Skyline Frankfurt am Main|Skyline von Frankfurt|Skyline von Frankfurt am Main
+Q516739,,,Straßenverkehr,Strassenverkehr
+Q518886,,,Soziale Marktwirtschaft,Rheinischer Kapitalismus
+Q519542,,,Rheinische Zeitung,"Rheinische Zeitung für Politik, Handel und Gewerbe"
+Q519613,,,Gewandhaus,Neues Gewandhaus
+Q519907,LOC,LOC,Oberharzer Wasserregal,Harzer Wasserregal|Harzer Wasserwirtschaft|Oberharzer Wasserwirtschaft
+Q520260,,,Schießbefehl,Schiessbefehl|Schusswaffengebrauchsbestimmung
+Q521458,,,Eisenbahninfrastrukturunternehmen,EIU|Eisenbahn-Infrastrukturunternehmen|Eisenbahninfrastruktur-Unternehmen
+Q521789,ORG,ORG,Sing-Akademie zu Berlin,Sing-Akademie|Sing-Akademie zu Berlin e. V.
+Q522162,PER,PER,John William Mauchly,John Mauchly|John W. Mauchly|Mauchly
+Q523135,,,Bündnispolitik Otto von Bismarcks,Bismarcks Außenpolitik|Bismarcks Bündnissystem|Bismarcksche Bündnispolitik|Bismarcksches Bündnissystem|Bündnissystem Bismarcks
+Q523490,,,Binz,Ostseebad Binz
+Q523896,,,Heimatlied,Landeshymne|Regionalhymne|Kantonshymne|Liste deutschsprachiger Regionalhymnen
+Q524424,ORG,ORG,DZ Bank,Deutsche Genossenschaftsbank|Deutsche Zentral-Genossenschaftsbank|DG Bank|DZ BANK AG|DZ-Bank
+Q524856,LOC,LOC,Mitteldeutschland,
+Q526963,LOC,LOC,BMW-Vierzylinder,BMW-4Z|BMW-Hochhaus|BMW-Turm
+Q527814,ORG,ORG|GPE,Protestantische Union,Deutsche Union|Protestantische Aktionspartei|Union von Auhausen
+Q530670,GPE,GPE|LOC,Königreich Burgund,
+Q531173,ORG,ORG,Saarländischer Fußballverband,SFV|saarfv|Saarländischer Fußball-Verband|Saarländischer Fußballbund|Saarländischer Fußballverband e.V.
+Q531625,LOC,LOC,Markt,
+Q533265,,,Bayerische Armee,Bayerisches Heer|Königlich Bayerische Armee
+Q535063,,,Niederhosenbach,
+Q535332,,,deutsche Staatsangehörigkeit,Staatsangehörigkeitsgesetz|deutsche Staatsbürgerschaft|Reichs- und Staatsangehörigkeit|Reichs- und Staatsangehörigkeitsgesetz|unmittelbare Reichsangehörigkeit
+Q536163,ORG,ORG|LOC,Hochschule für Musik Franz Liszt Weimar,Franz-Liszt-Hochschule für Musik|HfM Weimar|Hochschule für Musik Franz Liszt|Hochschule für Musik Weimar|Musikhochschule Weimar
+Q537225,,O,Schwäbisch-Alemannische Fastnacht,Alemannische Fastnacht|Fasend|Fasnet|Mäschgerle|Schwäbisch-alemannische Fasnet
+Q537340,,O,Wilhelminismus,Wilhelminisch|Wilhelminische Ära|Wilhelminische Epoche|Wilhelminische Zeit|Wilhelminisches Zeitalter|Wilhelmismus
+Q538314,LOC,LOC,Stadtmauer Nürnberg,
+Q540229,,,Weltherrschaft,
+Q540960,,,Europamotto,In Vielfalt geeint
+Q541654,GPE,GPE|ORG|LOC,Sellin,Ostseebad Sellin
+Q547751,ORG,ORG,Bundestag,Bundesversammlung|Deutscher Bundestag
+Q547921,,,Politie,
+Q551040,ORG,ORG,Familie Mann,
+Q551617,,,Bermersheim vor der Höhe,
+Q552345,,,Insigne,Machtsymbol|Insignien|Insignie|Herrschaftszeichen
+Q555142,LOC,LOC,Kölnturm,KölnTurm
+Q555911,,ORG,Privateigentum,
+Q555931,,,Bundestagswahl 2013,BT-Wahl 2013|Wahl zum 18. Deutschen Bundestag
+Q557972,LOC,LOC|GPE,"Benediktinerinnenkloster Rupertsberg, Bingen",
+Q559125,LOC,LOC|GPE,Metropolregion Rhein-Neckar,Rhein-Neckar|Metropolregion Rhein-Neckar GmbH|Metropolregion Rhein-Neckar-Dreieck|Region Rhein-Neckar|Rhein-Neckar-Dreieck|Rhein-Neckar-Gebiet|Rhein-Neckar-Raum|Rhein-Neckar-Region|Verband Region Rhein-Neckar|Verdichtungsraum Rhein-Neckar
+Q559186,ORG,ORG,Fruchtbringende Gesellschaft,Palmenorden|Orden der Palme|Palmorden
+Q559217,GPE,GPE,Provinz Großherzogtum Niederrhein,Großherzogtum Niederrhein|Provinz Niederrhein
+Q560584,ORG,ORG,Kabinett Kohl IV,Kohl IV
+Q560590,ORG,ORG,Kabinett Kohl V,Kohl V
+Q561014,,,Glowe,
+Q561886,,O,Volkskammerwahl 1990,
+Q562071,,,Landeswappen Hamburgs,Landeswappen Hamburg
+Q563551,LOC,LOC,Berliner Außenring,BAR
+Q563692,GPE,GPE|LOC,Wilhelmstadt,Berlin-Wilhelmstadt
+Q564895,,,S-Bahn Nürnberg,
+Q564918,ORG,ORG,Dresdner Kreuzchor,Kreuzchor|Kreuzchor Dresden|Kruzianer
+Q565039,ORG,ORG,Reichsrat,
+Q565423,ORG,ORG,T-Systems International GmbH,Geschäftskunden der Deutschen Telekom|Großkundensparte der Deutschen Telekom|ICT-Dienstleister|IKT-Dienstleister|Systemgeschäft der Telekom|T-Systems|T-Systems International
+Q565637,LOC,LOC,Untersee (Bodensee),
+Q566326,ORG,ORG|O,Parlamentarischer Rat,
+Q566397,ORG,ORG,Weimarer Dreieck,
+Q566889,,,Auftrag,Bestellung|Beauftragung|Der Auftrag|Militärischer Auftrag
+Q567087,,,Wahl zur Deutschen Nationalversammlung,Reichstagswahl 1919|Wahl der Weimarer Nationalversammlung|Wahlen für die Weimarer Nationalversammlung|Wahlen zur Weimarer Nationalversammlung
+Q567318,LOC,LOC,Thüringer Becken,
+Q567559,ORG,ORG,Ministerrat der Deutschen Demokratischen Republik,DDR-Regierung|Ministerrat|MdI|Regierung der DDR
+Q568469,,,Energieträger,
+Q568931,ORG,ORG|LOC,Oper Frankfurt,Frankfurter Oper|Frankfurter Opernhaus|Oper Frankfurt am Main|Opern- und Schauspielhaus Frankfurt
+Q569214,LOC,LOC,Schlossgarten,
+Q569998,GPE,GPE,Trizone,Westzonen|Tri-Zone|Trizonal|Trizonesien
+Q570116,,,Sehenswürdigkeit,Sehenswürdigkeiten
+Q570555,,ORG,Römisch-katholische Kirche in Deutschland,Katholische Kirche in Deutschland
+Q571251,,,Tor,Fußballtor
+Q571607,LOC,LOC,Mittelrhein,
+Q571928,,,Überhangmandat,Überhangmandate
+Q572006,GPE,GPE|LOC|ORG,Putbus,Dumgenevitz|Pastitz|Alt Lantschvitz
+Q573344,,,Strom,
+Q573618,LOC,LOC,Neues Rathaus,Neues Rathaus (Hannover)|Neues Rathaus Hannover
+Q573975,ORG,ORG,Bauhaus-Universität Weimar,"Bauhaus Universität Weimar|Bauhaus-Universität|HAB Weimar|Hochschule für Architektur und Bauwesen Weimar|Hochschule für Baukunst und Bildende Künste Weimar|Hochschulen für Baukunst, bildende Künste und Handwerk Weimar|Staatliche Hochschulen für Baukunst, bildende Künste und Handwerk Weimar|Uni Weimar|Weimarer Hochschule für Bildende Kunst|Universität Weimar"
+Q574702,LOC,LOC,Heiliggeistkirche,Heilig-Geist-Kirche|Heidelberger Heiliggeistkirche|Heiliggeistkirche Heidelberg
+Q574742,,,Liste der höchsten Berge in Deutschland,Liste der Berge oder Erhebungen in Deutschland
+Q574773,LOC,LOC|ORG,Herrenhäuser Gärten,
+Q575619,,,Lebenshaltungskosten,
+Q580200,,,Bundesgericht,
+Q580939,,,Nutzfahrzeug,
+Q582668,,,chemische Energie,
+Q584017,ORG,ORG,Sächsische Staatskapelle Dresden,
+Q584294,,O,Kosmos,Kosmos – Entwurf einer physischen Weltbeschreibung
+Q584594,,,antizyklische Wirtschaftspolitik,Antizyklisch|Antizyklische Finanzpolitik|Antizyklische Fiskalpolitik
+Q595622,,,MDAX,Mid-Cap DAX
+Q597339,,,Staatsinterventionismus,
+Q600939,ORG,ORG,Deutsches Nationaltheater und Staatskapelle Weimar,DNT|Deutsches Nationaltheater|Deutsches Nationaltheater Weimar|Nationaltheater Weimar|Staatskapelle Weimar|Weimarer Nationaltheater
+Q601401,,,Handel,
+Q604253,ORG,ORG,Provisorische Zentralgewalt,Reichsregierung|Gesamt-Reichsministerium
+Q605565,ORG,ORG,Swiss Re,Schweizerische Rückversicherungs-Gesellschaft
+Q607081,,,Textilindustrie,Herstellung von Textilien|NACE 13
+Q613618,,O,Große Fuge,
+Q615133,,,Soziale Frage,
+Q615681,PER,PER,Hieronymus von Colloredo,Hieronymus Franz de Paula Josef Graf Colloredo von Waldsee und Mels|Jérôme Joseph Franz de Paula Colloredo von Wallsee und Mels|Hieronymus von Colloredo-Mansfeld
+Q617333,,O,Französisch-Spanischer Krieg,Spanisch-Französischer Krieg
+Q619610,,,Sozialstaat,sozialer Rechtsstaat
+Q622588,,,Vorzugsaktie,Preferred share|Preferred stock|Vorzugsstückaktie
+Q623109,,,Liga,Division|Spielklasse|Sport-Liga|Wettkampfklasse|Sportliga
+Q627247,GPE,GPE,Neuves-Maisons,
+Q628191,,,Arbeitskampf,Streik
+Q628382,GPE,GPE|ORG|LOC,Göhren,Ostseebad Göhren
+Q628730,,,Arbeitsmaschine,Arbeitsmaschinen
+Q630177,GPE,GPE|LOC,Baabe,
+Q632985,ORG,ORG,Kabinett Merkel II,Merkel II
+Q633441,,,Violinkonzert,
+Q637829,,ORG,Reichstag,Deutscher Reichstag|Weimarer Reichstag
+Q637846,,,Oberhaus,
+Q639118,ORG,ORG,Internationaler Seegerichtshof,Seegerichtshof|International Tribunal for the Law of the Sea|ISGH|ITLOS|Tribunal international du droit de la mer
+Q639669,,,Musiker,Musikantin|Musikerin|Berufsmusiker|Musikant|Hobbymusiker|Berufsmusikerin|Freizeitmusiker|Freizeitmusikerin|Hobbymusikerin
+Q640826,,O,Hannover-Messe,Deutsche Industriemesse|Hannover Messe|Hannovermesse
+Q640859,ORG,ORG,Abgeordnetenhaus von Berlin,Berliner Abgeordnetenhaus|Berliner Landtag|Landtag Berlin|Landtag von Berlin|Parlament von Berlin|Abgeordnetenhaus Berlin
+Q641116,GPE,GPE|LOC,Land Hannover,
+Q641159,,,Regierender Bürgermeister von Berlin,Oberbürgermeister von Berlin|Regierender Bürgermeister
+Q641364,,,Weihnachtsdekoration,Weihnachtsschmuck|Weihnachtsdeko
+Q641439,ORG,ORG,Bayerischer Landtag,Maximilianeum|BYL|Bayrischer Landtag|Landtag Bayern|Landtag von Bayern
+Q641457,,,Thomaskantor,
+Q641879,GPE,GPE|LOC|ORG,Thiessow,Thießow
+Q641926,GPE,GPE|LOC,Staaken,Berlin-Staaken
+Q642010,,O,Weihnachts-Oratorium,Weihnachtsoratorium|BWV 248|Das Weihnachtsoratorium|Weihnachtsoratorium (Bach)
+Q642977,ORG,ORG,Deutscher Eishockey-Bund,DEB|Deutsche Eishockeybund|Deutscher Eishockey-Bund e.V.
+Q643712,,,Liste der Postleitregionen in Deutschland,Liste der Postleitbereiche Deutschland|Liste der Postleitregionen Deutschland|Postleitregion
+Q644067,,,Trabant 601,
+Q644587,LOC,LOC,Bayerische Zugspitzbahn,BZB|RB 64|Zugspitzbahn|RB64
+Q648102,GPE,GPE|LOC,Hauptstadtregion Berlin-Brandenburg,Berlin-Brandenburg|Hauptstadtregion Berlin|Hauptstadtregion Berlin/Brandenburg|Metropolregion Berlin|Metropolregion Berlin-Brandenburg|Metropolregion Berlin/Brandenburg
+Q648297,GPE,GPE,Freistaat Braunschweig,
+Q649746,ORG,ORG|O,Weimarer Nationalversammlung,Nationalversammlung|Verfassunggebende deutsche Nationalversammlung
+Q650521,LOC,LOC,Hochrhein,
+Q650837,ORG,ORG,Messe Frankfurt GmbH,
+Q651385,,,Rekultivierung,Renaturierung|Revitalisierung
+Q652479,,,Heavy-Metal-Umlaut,
+Q653002,LOC,LOC|ORG,Staatliche Kunstsammlungen Dresden,Dresdener Gemäldesammlung|Dresdner Gemäldesammlung|Königliche Sammlungen für Wissenschaft und Kunst zu Dresden|Kunstsammlung Dresden|Kunstsammlungen Dresden
+Q653345,,,Rechtfertigung,
+Q654993,GPE,GPE|ORG|LOC,Breege,
+Q655185,,LOC,Skriptorium,Scriptorium|Skriptographeum|Skriptorie
+Q655796,LOC,LOC,Frankfurter Kreuz,Autobahnkreuz Frankfurt|Frankfurter Autobahnkreuz|Kreuz Frankfurt
+Q656365,,,Beschäftigungsverhältnis,Arbeitsverhältnis|erwerbstätigkeit
+Q656823,,,Hauslehrer,Privatlehrer|Hauslehrerin|Privatlehrerin
+Q657005,LOC,LOC,Flughafen Dresden,EDDC|Dresden International|Flughafen Dresden-Klotzsche|Klotzsche International
+Q657326,,,Ständeordnung,Drei-Stände-Ordnung|Dreiständeordnung|Ständesystem|Standesdenken|Ständewesen
+Q658078,,,Preußisches Herrenhaus,
+Q658270,ORG,ORG,Kreditanstalt für Wiederaufbau,KfW|KfW-Bankengruppe
+Q659736,PER,PER,Elias Gottlob Haußmann,Elias Gottlob Haussmann
+Q660088,,,Gartenstadt,Gartenstadt-Bewegung|Gartenstadtarchitektur|Gartenstadtbewegung
+Q660464,,,Postleitzahl in Deutschland,PLZ|Leitgebiet
+Q660732,GPE,GPE,Bezirk Zürich,Zürich
+Q661478,,,Alpidische Orogenese,Alpid|Alpidisch|Alpidische Gebirge|Alpidische Gebirgsbildung|Alpidische Phase|Alpidischer Gebirgsgürtel|Alpidisches Gebirgssystem|Alpine Orogenese|Alpinotype Tektonik
+Q661752,LOC,LOC,Schlosskirche Wittenberg,Wittenberger Schlosskirche
+Q661881,LOC,LOC|GPE,Speicherstadt,Hamburger Speicherstadt
+Q663149,LOC,LOC|ORG,Palmengarten Frankfurt,Frankfurter Palmengarten|Palmengarten der Stadt Frankfurt am Main
+Q663546,LOC,LOC,Oberrhein,
+Q665487,,,Diözese,Bistum
+Q665570,LOC,LOC,Kleine Ungarische Tiefebene,Little Alfold
+Q666027,,,Reform der deutschen Rechtschreibung von 1996,Auseinandersetzung um die Rechtschreibreform von 1996|Rechtschreibreform 1996|Rechtschreibreform von 1996
+Q666935,LOC,LOC,Katholische Hofkirche,"Dresden, Katholische Hofkirche SS. Trinitatis|Dresdner Hofkirche|Hofkirche Dresden|Kathedrale Ss. Trinitatis|Kathedrale von Dresden"
+Q668852,LOC,LOC,Hinterrhein,Rain posteriur
+Q669970,,ORG,Reichstag des Heiligen Römischen Reiches,Reichstag
+Q671735,,,Mediathek,
+Q672685,GPE,GPE|ORG,Drei Bünde,Freistaat der drei Bünde
+Q672788,,,Gemeinsame Außen- und Sicherheitspolitik,GASP|Gemeinsame Aussen- und Sicherheitspolitik|Gemeinsame Aussen- und Sicherheitspolitik der EU|Gemeinsame Außen- und Sicherheitspolitik der EU|Gemeinsame Aussen- und Sicherheitspolitik der Europäischen Union|Gemeinsame Außen- und Sicherheitspolitik der Europäischen Union
+Q673223,ORG,ORG|LOC,Elbphilharmonie,Kaispeicher A|Elbphilharmonie Hamburg|Elphi
+Q673896,LOC,LOC,Vorderrhein,Rain anteriur
+Q674541,,LOC,Mittelgebirge,
+Q676338,LOC,LOC,Neues Rathaus,
+Q677124,LOC,LOC,Strelasund,
+Q677182,ORG,ORG,Demokratischer Aufbruch,
+Q677514,GPE,GPE|LOC,Berlin-Dorotheenstadt,Dorotheenstadt
+Q677844,,O,Erfurter Fürstenkongress,Erfurter Fürstentag|Erfurter Kongress
+Q678262,ORG,ORG,Leipziger Messe GmbH,Leipziger Messe|Messe Leipzig
+Q679173,GPE,GPE|LOC,Nationalpark Jasmund,Jasmund|NP Jasmund
+Q679491,LOC,LOC,Rheinturm,Fernsehturm Düsseldorf
+Q679741,,O,Geschichte Berlins,Berliner Geschichte
+Q679842,,O,Deutscher Idealismus,Der deutsche Idealismus
+Q679945,ORG,ORG,Handelshochschule Leipzig,HHL Leipzig Graduate School of Management
+Q681683,ORG,ORG,Börse München,
+Q682258,,O,Wende und friedliche Revolution in der DDR,Wende|Wendezeit|Die Wende|Friedliche Revolution|Herbstrevolution 1989|Ostdeutsche Revolution|Ostöffnung|Wende 1989/1990|Wende in der DDR|Wende und friedliche Revolution in der Deutschen Demokratischen Republik|Zusammenbruch der DDR
+Q682583,,,Nürnberg Hauptbahnhof,Nürnberg Hbf|Hauptbahnhof Nürnberg
+Q682733,,O,Das Schloss,Das Schloß
+Q682992,ORG,ORG,Lanxess,Lanxess AG|Lanxess Aktiengesellschaft|Rhein Chemie|Rhein Chemie Rheinau GmbH
+Q683595,,,Flurstück,
+Q684948,LOC,LOC,Grossmünster,Großmünster
+Q685574,ORG,ORG,Erster Vereinigter Landtag,
+Q686431,LOC,LOC,Vienna International Centre,Internationales Zentrum Wien|Uno City|UNO Wien|Uno-City|Vienna International Center|UNO-City|UNOV
+Q686468,LOC,LOC,Wiener Rathaus,Rathaus
+Q686629,LOC,LOC,Viktualienmarkt,Marktplatz|grüner Markt|Kräutlmarkt|Münchener Viktualienmarkt
+Q686971,GPE,GPE|LOC,Länder der Böhmischen Krone,Böhmische Krone|Böhmische Kronländer|Corona Regni Bohemiae|Krone Böhmen
+Q687031,,,Sezession,Abtrennung|Dekolonisation|Loslösung|Lostrennung|Separation|Verselbständigung von Staatsteilen
+Q687175,ORG,ORG,Deutsche Bundesbahn,Bundesbahn|DB
+Q687185,,O,Lexikalisierung,
+Q687323,ORG,ORG,Bundesgerichtshof,BGH
+Q688064,,,Liste der größten Seen in der Schweiz,Liste der Seen in der Schweiz|Liste der Schweizer Seen|Schweizer Seen
+Q688272,,,Sutselvisch,sutselvische Sprache|Sutsilvan
+Q688348,,,Surselvisch,surselvische Sprache|Sursilvan
+Q688715,LOC,LOC,Wiener Becken,
+Q688873,,,Rumantsch Grischun,
+Q689055,LOC,LOC,Deutschschweiz,Deutsche Schweiz|Deutschsprachige Schweiz
+Q689855,,,intelligentes Stromnetz,Smart Grid|Smartgrid|intelligentes Elektrizitätsversorgungssystem
+Q690079,ORG,ORG,Digital Equipment Corporation,Digital|DEC|Digital Equipment
+Q690149,GPE,GPE|LOC,Metropolregion Zürich,Greater Zurich Area|Metropolitanraum Zürich|Millionen-Zürich|Zürcher Wirtschaftsraum
+Q690687,LOC,LOC,St. Peter,
+Q690928,,,Schultheiß,Scholtisei|Dorfvorsteher|Dorfschulze|Schultheis|Schout|Schultes|Schulte|Rychtář|Erbscholtisei|Erbscholtiseibesitzer|Oberschultheiss|Ortsrichter|Reichsschultheiß|Schuldheis|Schuldheiss|Schuldheiß|Schultheißerei|Stadtschultheiß
+Q690944,LOC,LOC,Fraumünster,Fraumünster Kirche
+Q692988,,O,Tonio Kröger,
+Q693331,,,Gesetz gegen die gemeingefährlichen Bestrebungen der Sozialdemokratie,Sozialistengesetz
+Q693981,,,Translatio imperii,
+Q694020,LOC,LOC,Großer Tiergarten,Tiergarten|Berliner Tiergarten|Tiergarten Berlin
+Q694286,LOC,LOC,Nikolaikirche,Leipziger Nikolaikirche|Nikolaikirche Leipzig
+Q694299,ORG,ORG,Nationalliberale Partei,NLP
+Q694408,,O|ORG,Weimarer Klassike,spätklassizistisch|Klassik|Hochklassik|Deutsche Klassik|Spätklassik|Spätklassizismus|Weimarer Frühklassik|Weimarer Hochklassik|Weimarer Klassizismus|Weimarer Neoklassik|Weimarer Neuklassik|Weimarer Spätklassik
+Q694519,,O,Gründerzeit,Gründerjahre
+Q694675,LOC,LOC|GPE,Königsallee,Kö|Königsallee Düsseldorf
+Q695011,GPE,GPE|LOC,Friedrichsruh,
+Q695052,,O,Deutsche Inflation 1914 bis 1923,Inflationszeit|Inflation 1923|Inflationsgeschädigte
+Q695069,LOC,LOC,Frauenkirche,Kirche unserer Lieben Frau|Nürnberger Frauenkirche
+Q695305,LOC,LOC,Günser Gebirge,Günser Berge|Günser Bergland|Günser Sporn|Günsergebirge|Rechnitzer Schiefergebirge
+Q695566,,O,Wiener Börsenkrach von 1873,Folgen der Gründerkrise|Gründerkrise|Panik von 1873|Panikverkäufe von 1873
+Q695863,,,Backsteingotik,Norddeutsche Backsteingotik|Norddeutscher Backsteinbau
+Q695987,ORG,ORG,Deutscher Fußball-Verband,DFV|Deutscher Fußballverband
+Q696590,,,Kleindeutsche Lösung,
+Q696629,,O,Verordnung des Reichspräsidenten zum Schutz von Volk und Staat,Brandverordnung|Reichstagsbrandverordnung|Verordnung zum Schutz von Volk und Staat
+Q696651,GPE,GPE|LOC,Herzogtum Sachsen-Eisenach,Sachsen-Eisenach
+Q696762,LOC,LOC,Hohenzollernbrücke,"Hohenzollern-Brücke|Hohenzollernbrücke, Altstadt/Nord, Köln|Hohenzollernbrücke, Deutz, Köln"
+Q697578,LOC,LOC,Wiener Riesenrad,"Praterrad|Vergnügungsstätte, Riesenrad"
+Q698916,,,Liste deutscher Inseln,Deutsche Inseln
+Q699313,ORG,ORG,Thomanerchor,Thomaner|Thomanerchor Leipzig
+Q699407,,,Kfz-Kennzeichen,Liste der österreichischen KFZ-Kennzeichen
+Q699614,LOC,LOC,BMW Welt,Bmw world
+Q699964,GPE,GPE|LOC,Erzherzogtum Österreich,Niederösterreich|Osterreich
+Q700110,,,Landeshauptmann,Landeshauptfrau|Landeshauptleute
+Q700312,,,Wiener Wappen,Wappen der Bundeshauptstadt Wien|Wappen von Wien|Wappen Wiens
+Q700429,,O|ORG,Wiener Moderne,
+Q700563,ORG,ORG,Deutsche Reichsbahn (1945–1993),Deutsche Reichsbahn|Deutsche Reichsbahn (DDR)
+Q700754,,,Innerdeutsche Grenze,Zonengrenze|Deutsch-deutsche Grenze|Deutsch-deutsche Teilung|Grenze Deutschland (Bundesrepublik) / Deutschland (DDR)|Grenzsperrgebiet|Staatsgrenze der DDR|Todesstreifen
+Q700887,LOC,LOC,Theresienwiese,Wiesn
+Q701614,GPE,GPE|LOC,Erzstift Salzburg,
+Q701633,,,Reichskrone,
+Q702207,,O|ORG,Wiener Klassik,Wiener Schule
+Q702389,GPE,GPE|ORG|LOC,Bistum Dresden-Meißen,Bistum Meißen|Dioecesis Dresdensis-Misnensis|Diözese Dresden-Meißen
+Q702424,ORG,ORG,Bundesverwaltungsgericht,BVerwG|Bundesverwaltungsgericht Leipzig
+Q702455,ORG,ORG,RB Leipzig,Rasenball Leipzig|RasenBallsport Leipzig|RasenBallsport Leipzig e. V.|RasenBallsport Leipzig e.V.
+Q702540,GPE,GPE|LOC,Nationalpark Harz,Harz|Harz Nationalpark|Nationalpark Hochharz|NLP Harz|NP Harz
+Q703205,,,Gottfried-Wilhelm-Leibniz-Preis,Förderpreis für deutsche Wissenschaftler im Gottfried Wilhelm Leibniz-Programm der Deutschen Forschungsgemeinschaft|Förderpreis im Gottfried Wilhelm Leibniz-Programm|Gottfried Wilhelm Leibniz-Preis|Leibniz-Preis|Leibniz-Preis der Deutschen Forschungsgemeinschaft|Leibnizpreis
+Q703212,ORG,ORG,BMW-Museum,
+Q703640,LOC,LOC|ORG,Museum Ludwig,
+Q703916,,,Leipzig Hauptbahnhof,Bahnhof Leipzig Hauptbahnhof|Bahnhof Leipzig Hbf|Bf Le Hbf|Bf Leipzig Hbf|Hauptbahnhof Leipzig|Leipzig Hbf
+Q703918,LOC,LOC,Hannover Hauptbahnhof,Bahnhof Hannover Hbf|Hannover Hbf
+Q704300,GPE,GPE|LOC,Freie Stadt Frankfurt,
+Q704449,,,Grenztruppen der DDR,DDR-Grenzsoldat|DDR-Grenztruppen|Grenzaufklärer
+Q704648,,,Bundestagswahl 1990,BT-Wahl 1990|BTW 1990
+Q704841,,,Mitteldeutsch,mitteldeutscher Dialekt|mitteldeutsche Dialekte|mitteldeutsche Mundarten
+Q706018,GPE,GPE|LOC|ORG,Kurfürstentum Braunschweig-Lüneburg,Kur-Hannover|Kurfürstentum Hannover|Kurhannover
+Q706441,LOC,LOC,Senckenberg-Naturmuseum,Senckenbergmuseum|Naturmuseum Senckenberg|Senckenberg Museum|Senckenberg Naturmuseum in Frankfurt am Main|Senckenberg-Museum
+Q707278,GPE,GPE|LOC,Rhein-Main-Gebiet,Metropolregion Frankfurt Rhein-Main|Metropolregion Rhein-Main|Rhein-Main
+Q707357,LOC,LOC,St. Lorenz,St. Lorenzkirche in Nürnberg
+Q707396,LOC,LOC|GPE,Nürnberger Burg,Die Kaiserburg
+Q707407,ORG,ORG|LOC,Grünes Gewölbe,
+Q707604,ORG,ORG,Reichskammergericht,
+Q707645,LOC,LOC,St. Peter (München),"Sankt Peter|Alter Peter|München, Stadtpfarrkirche St. Peter"
+Q707813,,,Hansestadt,Hansestädte
+Q708038,ORG,ORG,Kaiser-Wilhelm-Gesellschaft,Kaiser-Wilhelm-Gesellschaft zur Förderung der Wissenschaften|Kaiser-Wilhelm-Institut
+Q708725,ORG,ORG,CDU/CSU,Union|Unionspartei|Unionschrist|Unionsparteien
+Q708862,,,Lübecker Frieden,Friede von Lübeck|Frieden von Lübeck|Lübecker Friede
+Q712280,,,Liste unabhängiger Staaten nach Einwohnerzahl,
+Q712652,,,Artikel 1 des Grundgesetzes für die Bundesrepublik Deutschland,Art. 1 Abs. 1 GG|Art. 1 GG|Artikel 1 GG
+Q713330,PER,PER,Georges Friedmann,
+Q713750,GPE,GPE|LOC,Bundesrepublik Deutschland bis 1990,West-Deutschland|alte Bundesrepublik|alte Bundesrepublik Deutschland|BR Dtld.|Bundesrepublik Deutschland (1949-1990)|Bundesrepublik Deutschland von 1949 bis 1990|Bonner Republik
+Q721237,,,Alkoholgehalt,
+Q722604,,,Reliquiar,Lipsanothek|Reliquienbehälter
+Q723559,,O,Idomeneo,"Idomeneo, re di Creta"
+Q723790,,O,Missa Solemnis,
+Q723897,,O,Komplexität,
+Q727640,,,Liste der größten Städte der Europäischen Union,Liste der größten Städte der EU
+Q727750,LOC,LOC|GPE,Stuttgart-Mitte,Mitte
+Q728001,,,Derivation,Ableitung
+Q728664,GPE,GPE|LOC,Metropolregion Nürnberg,
+Q728904,,,Naturpark,
+Q731814,ORG,ORG,Katholische Liga,
+Q735587,,,Präsident des Europäischen Rates,PER
+Q737405,,,Drei Säulen der Europäischen Union,Drei Säulen der EU|Drei-Säulen-Modell der Europäischen Union
+Q738621,,,Festnetz,Pstn|Public Switched Telephone Network
+Q740445,,,Gebirgskamm,Kamm|Bergkamm
+Q740752,,,Transportunternehmen,
+Q741773,,,Assimilation,Assimilat|Assimilate
+Q742993,,,Liste der Kfz-Nationalitätszeichen,Liste der internationalen Kraftfahrzeugkennzeichen
+Q743004,,,Flugmotor,"Flugzeugmotor|Flugmotore|Flugzeugmotore|Motor, Flug-"
+Q749245,,,autonomes System,AS|AS-Nummer|autonomes Netz
+Q752870,,,Kraftfahrzeug,Kraftfahrzeuge|Kfz|Motorfahrzeug
+Q754590,,,Historische Geologie,Paläogeologie
+Q754949,,,Letzte Kaltzeit,
+Q754984,,,Lautwandel,
+Q756263,,,Lokomobile,Lokomobil
+Q757410,,,Halbvokal,Semivokal|Halbkonsonant
+Q759811,,,Auflage,Druckauflage|Auflagenentwicklung
+Q765778,,,Organist,Organistin
+Q771220,,,Vegetationsgeographie,Pflanzengeografie|Pflanzengeographie|Phytogeografie|Phytogeographie
+Q772150,ORG,ORG,Häfen und Güterverkehr Köln,HGK|Häfen und Güterverkehr Köln AG
+Q778575,,,Mischkonzern,Konglomerat|Mischkombinat|Multikonzern
+Q779851,,,Ausrufung der Republik in Deutschland,Ausrufung der Deutschen Republik
+Q782985,,,römisch-deutscher König,Römisch-deutscher König
+Q783459,,,Künstlerroman,
+Q786820,,,Automobilhersteller,Automobilkonzern|Autohersteller|Kraftfahrzeughersteller|Automobil-Hersteller
+Q787358,,,automatischer Stabilisator,automatische Stabilisatoren
+Q787422,,,Automatisierungstechnik,
+Q788761,,,Staatenverbund,
+Q792425,,,Magmatische Großprovinz,LIP|magmatische Großprovinz|magmatische Provinz
+Q795757,,,Energiewende,Energiewandel
+Q796348,,,BMW-Niere,
+Q796364,,,BMW (Automarke),BMW-PKW
+Q796517,,,BMW IIIa,
+Q796784,,,BMW i,
+Q797635,GPE,GPE,Babelsberg,Potsdam-Babelsberg
+Q798050,,,Bach-Renaissance,
+Q798248,,,Bachsöhne,
+Q798505,,,Börsennotierung,Kotierung|Börsennotiz|Börsennotiert
+Q801045,LOC,LOC,Bahnhof Köln Eifeltor,Umschlagbahnhof Köln Eifeltor|Umschlagbahnhof Köln-Eifeltor|Köln Eifeltor Umschlagbahnhof
+Q801795,,,Bahnreform,
+Q804630,,,Balancier,
+Q805366,GPE,GPE,Ballungsraum Dresden,Ballungsraum Oberes Elbtal
+Q805369,GPE,GPE,Ballungsraum Leipzig-Halle,
+Q805370,,,Ballungsraum Wien,
+Q810108,LOC,LOC,Basilika St. Clemens,St. Clemens-Kirche|Basilika St. Clemens (Hannover)|Clemenskirche Hannover|St. Clemens (Hannover)
+Q812290,,,Bayerische Staatsregierung,Bayrische Landesregierung
+Q812420,,,Bayerisches Landesamt für Statistik,Bayerisches Statistisches Landesamt|Königlich Bayerisches Statistisches Landesamt|Königlich-Bayerisches Statistisches Bureau|Statiſtiſch⸗topographiſches Bureau
+Q812436,ORG,ORG,Bayerisches Staatsministerium der Finanzen und für Heimat,"Bayerische Staatsministerium der Finanzen, für Landesentwicklung und Heimat|Bayerisches Staatsministerium der Finanzen|StMF|StMFH|StMFLH"
+Q814235,,O|ORG,Befreiungskriege,Deutsche Befreiungskriege|Freiheitskriege|Frühjahrsfeldzug (1813)|Herbstfeldzug 1813|Kriege gegen Napoleon|Feldzüge von 1813 und 1814
+Q815846,,,Blue Gene,Blue Gene/L|Blue Gene/P|Blue Gene/Q|BlueGene|BlueGene/L|BlueGene/P|BlueGene/Q
+Q815872,ORG,ORG|O,Karneval in Santa Cruz de Tenerife,Carnaval de Santa Cruz de Tenerife
+Q819125,GPE,GPE,Provinz Hannover,Hannover
+Q819258,,,Tourismus in Deutschland,Tourismus Deutschlands|Tourismus von Deutschland
+Q819439,LOC,LOC,Reichsparteitagsgelände,Reichsparteitaggelände|Partitagsgelände
+Q819691,,,Flagge Berlins,Flaggen Berlins
+Q819737,,,Wappen Berlins,Berliner Wappen|Siegel Berlins|Wappen von Berlin
+Q823923,,,Very High Speed Digital Subscriber Line,VDSL|VDSL 1|VDSL 2|VDSL1|VDSL2|Very High Data Rate Digital Subscriber Line|VHDSL
+Q826700,ORG,ORG,Internationale Energieagentur,IEA|International Energy Agency|Internationale Energie-Agentur|Internationale Energie-Behörde|Internationale Energiebehörde
+Q828296,,O,Der Tod in Venedig,Tod in Venedig|Gustav Aschenbach
+Q828359,,,Trabantenstadt,Schlafstadt|Trabantensiedlung
+Q828395,,,Sozialpolitik,Wohlfahrtspolitik|Sozialpolitiker
+Q829460,,,Besatzungsmacht,Besatzungsmächte|Besatzer|Besatzungsregime|Okkupant|Okkupationsmacht|Besatzungsgewalt|Militärische Verwaltung
+Q832700,,O,Nürnberger Christkindlesmarkt,Christkindlesmarkt|Kindleinsmarkt
+Q833067,LOC,LOC,Thüringisch-Fränkisches Mittelgebirge,Thüringisch-Fränkisches Schiefergebirge
+Q835426,GPE,GPE|ORG|LOC,Diözese Rottenburg-Stuttgart,Bistum Rottenburg|Diözese Rottenburg|Bistum Rottenburg-Stuttgart
+Q836174,LOC,LOC,Reintal,
+Q836449,,,Welterbe in Deutschland,
+Q836915,,,Freistaat,
+Q836994,,O,Pauperismus,Pauper|Pauperisierung
+Q837718,,,Energiespeicherung,Energiespeicher
+Q837985,,,Mittelhochdeutsch,Mhd.|mittelhochdeutsche Sprache
+Q838083,,,Religionskritik,
+Q838931,GPE,GPE|LOC,Königreich Italien (Heiliges Römisches Reich),Reichsitalien
+Q839452,,,Gottesgnadentum,Dei Gratia|Von Gottes Gnaden|Fürstliche Legitimität
+Q844266,,,Gebiet der Europäischen Union,GÄR|Gemeinschaftsgebiet|ÜLG|Unionsgebiet
+Q845436,,,Mandat,Wählerauftrag
+Q845737,,,Brüsseler Pakt,
+Q845769,,,Strafraum,16-Meter-Raum|Sechzehner|Sechzehn-Meter-Raum|16er
+Q846047,,,Geschichte der Musik,Musikgeschichte
+Q847201,,,Carsharing,Car-Sharing|Automitbenutzung|Autoteilen|Car Sharing|Car-on-Demand|Teilauto
+Q849919,,O,elektromagnetische Wechselwirkung,
+Q850506,,,Brünhild,Brynhild|Brünnhilde
+Q851986,,,alkoholische Gärung,Ethanolgärung|Gärungsnebenprodukt|Gärungsnebenprodukte
+Q852317,,,Liste der Nobelpreisträger für Physik,Liste der Physiknobelpreisträger
+Q863941,,,Binnenmigration,Binnenwanderung|Binnenwanderer|Binnenwanderungsbilanz|Binnenwanderungssalden|Binnenwanderungssaldo
+Q863944,,,Binnengewässer,
+Q864744,LOC,LOC,Biosphärenreservat Karstlandschaft Südharz,Karstlandschaft Südharz
+Q864772,LOC,LOC,Biosphärenreservat Thüringer Wald,Biosphärenreservat Vessertal|Biosphärenreservat Vessertal-Thüringer Wald
+Q864928,,,Biowissenschaften,Biowissenschaft|Lebenswissenschaft|Lebenswissenschaften|Life Sciences|Life Science|Life sciences|Life-Science|Lifescience
+Q865333,,O,Johannes-Passion,Johannespassion|BWV 245
+Q868404,,,Konsumgut,Endprodukt|Konsumgüter|Konsummaterial|Konsumprodukt
+Q870205,,O,Bündner Wirren,
+Q870560,,,Stadt-Ehrentitel der NS-Zeit,Gründungsstadt des Großdeutschen Reichs|Hauptstadt der deutschen Kunst|Heimatstadt des Führers|Jugendstadt des Führers|Patenstadt des Führers|Stadt der Auslandsdeutschen|Stadt der Bewegung|Stadt der deutschen Bergsteiger|Stadt der Hermann-Göring-Werke|Stadt der Kolonien|Stadt der Lebensforschung|Stadt der Parteitage|Stadt der Reichsparteitage|Stadt der Volkserhebung|Stadt des deutschen Handwerks
+Q870851,,O,Kritik der praktischen Vernunft,Praktische Vernunft
+Q873634,GPE,GPE|LOC,Land Thüringen,Thüringen|Land Thüringen (1920–1952)
+Q873943,LOC,LOC,Hermannskogel,Kogelbrunn
+Q874531,,,Reetdach,Schilfdach|Rohrdach
+Q874644,,,Hochindustrialisierung in Deutschland,Hochindustrialisierung
+Q875133,GPE,GPE|LOC,Kierling,
+Q876044,,,Telefonvorwahl,
+Q876228,LOC,LOC,Oberkasseler Brücke,
+Q876617,ORG,ORG,Regierung de Maizière,Kabinett de Maizière
+Q876885,LOC,LOC,St. Lambertus,
+Q877517,,,Ball- und Kugelsportart,Ball- und Kugelsport|Ball- und Kugelsportarten|Kugel- und Ballsport|Kugel- und Ballsportart|Kugel- und Ballsportarten
+Q878035,,,Lauteinschub,Epenthese|epenthetisch|Lauteinschaltung
+Q878965,,,Bäderarchitektur,Bäderstil
+Q880646,LOC,LOC,Augustusplatz,
+Q880649,LOC,LOC,Rathausmarkt,
+Q880769,GPE,GPE|LOC,Metropolregion München,Europäische Metropolregion München|Wirtschaftsraum Südbayern
+Q882583,LOC,LOC,Highlight Towers,Highlight Tower
+Q882827,LOC,LOC,Rosensteinpark,
+Q883512,LOC,LOC,Staatstheater Nürnberg,Nürnberger Schauspielhaus|Opernhaus Nürnberg|Schauspielhaus Nürnberg|Städtische Bühnen Nürnberg
+Q884315,LOC,LOC,Kölner Bucht,Köln-Bonner Bucht|Köln-Bonner Rheinebene
+Q884567,LOC,LOC,Höllental,Höllentalklamm
+Q884805,LOC,LOC,Knoblauchsland,
+Q884824,ORG,ORG,Sächsischer Landtag,Landtag des Freistaates Sachsen|Landtag Sachsen|Landtag von Sachsen
+Q884987,,,politisches System der DDR,DDR-Diktatur|SED-Diktatur|ostdeutsches politisches System|politisches System der Deutschen Demokratischen Republik|politisches System von Ostdeutschland
+Q885840,,,Bundeskanzler des Norddeutschen Bundes,Bundesexekutive|Kanzler des Norddeutschen Bundes
+Q889137,,,Rechtsfähigkeit,
+Q889703,LOC,LOC,Bodenseebecken,
+Q891302,,,Skilift,Schilift|Ski-Lift
+Q895089,,,Boulevardjournalismus,Boulevardpresse|Boulevardzeitung|Klatschspalte|Boulevard-Zeitung|Boulevardjournalist|Boulevardzeitschrift|Yellow-Press
+Q895526,,,Organ,politisches Organ|Rechtsorgan
+Q895577,LOC,LOC,Niederkirchnerstraße,Prinz-Albrecht-Straße|Niederkirchnerstrasse|Verlängerte Zimmerstraße
+Q895585,LOC,LOC,Marktkirche,Marktkirche Hannover|Marktkirche St. Georgii et Jacobi|St. Georgii et Jacobi
+Q895591,,,Liste der Oberbürgermeister der Stadt Köln,Liste der Kölner Bürgermeister seit 1796|Liste der Oberbürgermeister Kölns|Liste der Oberbürgermeister von Köln
+Q895914,,ORG,Verfassungsorgan,Oberstes Bundesorgan
+Q895926,GPE,GPE,Landkreis Hannover,
+Q895956,ORG,ORG,Nürnberg Messe,Messe Nürnberg|NürnbergMesse GmbH|NürnbergMesse Group
+Q896039,LOC,LOC|ORG,Goethe-Haus,Goethehaus|Frankfurt-Goethehaus
+Q896053,ORG,ORG,Gemeinsamer Ausschuss,Notparlament|Art. 115e GG|Art. 53a GG|Artikel 115e des Grundgesetzes für die Bundesrepublik Deutschland|Artikel 53a des Grundgesetzes für die Bundesrepublik Deutschland|Gemeinsamer Ausschuß
+Q896155,ORG,ORG|O,Eishockey-Bundesliga,
+Q896208,,,Sitzverteilung in den österreichischen Landtagen,
+Q896375,,,Bundesministerium,Bundesministerien|Bundesministerium in Deutschland|Bundesministerien (Deutschland)|Bundesministerien in Deutschland|Bundesministerium (Deutschland)
+Q896510,LOC,LOC,Höllentalferner,
+Q896523,LOC,LOC,Großer Beerberg,Grosser Beerberg
+Q896744,GPE,GPE|ORG,Evangelisch-Lutherische Landeskirche Sachsens,EvLKS|Landeskirche Sachsen|Sächsische Landeskirche|Sächsische lutherische Kirche|Ev.-Luth. Landeskirche Sachsens
+Q896753,LOC,LOC,Schneeferner,
+Q896868,GPE,GPE|ORG,Evangelische Landeskirche in Württemberg,ELKW|Evangelische Kirche Württemberg|Landeskirche von Württemberg|Württembergische Landeskirche
+Q896892,,ORG,Landesregierung von Baden-Württemberg,
+Q896995,,,Wahl zum Abgeordnetenhaus von Berlin,AHW|Abgeordnetenhauswahl Berlin|Landtagswahl in Berlin|LTW-BE|Wahl des Abgeordnetenhauses von Berlin|Wahl zum Berliner Abgeordnetenhauses|Wahlen zum Abgeordnetenhaus von Berlin
+Q897016,LOC,LOC,Philosophenweg,Heidelberger Philosophenweg
+Q897101,,,Liste der Gemeinden in Nordrhein-Westfalen,NRW州の自治体一覧|NRW州の都市と自治体のリスト|NRW州の都市一覧|ノルトライン＝ヴェストファーレン州の都市一覧
+Q897106,LOC,LOC,Moseltal,
+Q899961,,O,BrauBeviale,
+Q900297,,,Liste der größten Unternehmen der Welt,Liste der größten Unternehmen|Liste der größten Konzerne
+Q903816,,,Gletscherschwund seit 1850,Gletscherschwund|Eisschmelze|Gletscherrückgang
+Q905921,,,Lichtabsorption,
+Q906629,,,Stickstoffdünger,Ammoniumdünger|Nitratdünger
+Q907231,,,Japantown,Little Tokyo|japanische Stadt|Japanstadt
+Q908349,,,Motiv,musikalisches Motiv
+Q908822,,,Toxoidimpfstoff,Toxoid
+Q912751,,,aerobe Atmung,Zellatmung|Atmungsenzym|Atmungszyklus|biologische Oxidation|innere Atmung
+Q917614,,,Industriegesellschaft,Industriegesellschaften
+Q919721,LOC,LOC,Ostdeutschland,
+Q923381,LOC,LOC,Rhein-Maas-Delta,Rhein-Maas-Schelde-Delta
+Q924713,,O,Energieeffizienz,KEA
+Q929061,,,Urstromtal,Urstrom
+Q934338,,,Größenordnung,
+Q936791,,,nicht-erneuerbarer Rohstoff,nicht-erneuerbare Rohstoffe
+Q940223,LOC,LOC,Einzugsgebiet,Einzugsbereich
+Q944550,,,Rechtsetzung der Europäischen Union,
+Q949683,,,Transformation,Transformationsforschung
+Q951150,,,ebenda,ibidem|ebendort|ebd.|ebda.|ib.|ibd.
+Q956214,,,Hauptort,
+Q959163,,,politisches System der Europäischen Union,
+Q959320,,O,Doktor der Rechte,Dr. iur.|Dr. jur.
+Q964397,,,Deutsche Mystik,
+Q964754,,,Grundlagenforschung,Theoretische Wissenschaft|Theoretische Wissenschaften
+Q969040,,,Kultur- und Kreativwirtschaft,Kreativwirtschaft|Kulturwirtschaft
+Q970812,,,Klinker,Hartbrandziegel
+Q971774,PER,PER,Peter Tschentscher,
+Q988108,,,Verein,Klub|Club
+Q992968,,,Mobilfunk,
+Q992993,,,Europa 2020,
+Q993032,,,Liste der größten Städte Europas,Liste von europäischen Städten mit mehr als 500.000 Einwohnern
+Q993160,ORG,ORG,Europäische Gemeinschaften,EGen
+Q993690,,,"Liste deutscher Gemeinden, nach der Bevölkerungsdichte geordnet",
+Q996839,,,Bruderschaft,Fraternität
+Q998434,,,Buchgeschichte,
+Q998555,,,Buchillustration,Buch-Illustration
+Q999147,,O,Düsseldorfer Karneval,Karneval in Düsseldorf
+Q1004435,,,Leichtathletikanlage,Laufbahn|Kampfbahn
+Q1005470,,,Bundesamt für Migration und Flüchtlinge,BAMF|BAFI|Bundesamt für die Anerkennung ausländischer Flüchtlinge
+Q1005903,GPE,GPE,Bundesebene (Deutschland),Bund|Bundesebene|Bund (Deutschland)|Bund in Deutschland|Bundesebene in Deutschland
+Q1006610,,,Bundesrecht (Deutschland),
+Q1006716,,,Bundessiegel,
+Q1014835,,,"Burgen, Schlösser und Herrensitze Nürnbergs",
+Q1017529,LOC,LOC,Business-Tower,
+Q1020844,ORG,ORG,Bündnis 90/Die Grünen Hamburg,GAL Hamburg|Grün-Alternative Liste|Grün-Alternative Liste Hamburg|Grün-Alternative-Liste Hamburg|Grüne Partei Hamburg
+Q1022147,,,Intercity-Verkehr,
+Q1023137,ORG,ORG,CDU Berlin,CDU in Berlin|CDU Landesverband Berlin
+Q1047050,,,Sprachgebrauch,Sprachverwendung
+Q1048268,,O,europäische Integration,
+Q1049625,,,Improvisation,Improvisateur|Improvisation (Musik)|Improvisation in der Musik
+Q1054271,,,Dampfwagen,Dampfauto|Dampfautomobil|Dampfmotorwagen|parní automobily
+Q1055905,,,Völkerstrafrecht,
+Q1056332,,O,Kritik der Urteilskraft,
+Q1066011,,,Kuhpocken,
+Q1066186,,,Geschichtswissenschaft,Geschichte|Geschichtsforschung|Geschichtswissenschaften|Histographie
+Q1066984,,,Finanzplatz,Finanzzentrum
+Q1076056,,O,Elektrifizierung,Elektrifikation|Elektrisierung
+Q1080054,PER,PER,Christian Gueintz,Christian Gueinzius|Gueintz|Der Ordnende
+Q1081988,,,Seelsorge,
+Q1092816,,,Straßenfußball,Street soccer|Streetfootball|Streetsoccer
+Q1093596,,,Normalweg,Normalanstieg|Normalroute
+Q1096872,,O,digitale Revolution,dritte industrielle Revolution|Digitale Revolution|Elektronische Revolution
+Q1097273,,,Epik,erzählende Literatur
+Q1104283,GPE,GPE|LOC,Coalbrookdale,
+Q1107656,,,Garten,Gartenanlage|Gärtnern
+Q1117899,LOC,LOC,Planungsregion München,Region München
+Q1123259,,,Verfassungsmäßige Ordnung,
+Q1128389,,,Consumenta,
+Q1128637,,,Nationalsymbol,Nationalbaum|Nationalblume|Nationale Symbole|Nationalsymbole|Nationaltier|Nationalvogel|Nationales Symbol
+Q1129474,,,Kulturlandschaft,Kulturland|Sekundärnatur
+Q1129653,,,Alltag,Alltagserleben|Alltagsleben|tägliches Leben
+Q1134065,ORG,ORG,Cornelsen Verlag,Cornelsen Buchverlag|Cornelsen Verlag GmbH|Cornelsen-Verlag
+Q1134743,,,Forbes Global 2000,
+Q1139352,,,Creative Cities Network,UCCN|UNESCO City of Cinema|UNESCO City of Literature
+Q1139665,,O,politischer Mord,
+Q1143852,LOC,LOC,Lek,
+Q1144312,,,Personenkraftwagen,Auto|Automobil|Pkw|Personenwagen
+Q1144457,,,Quantenphysik,Quantenfotonik|Quantenhypothese|Quantensystem
+Q1144661,,,Fahrgeschäft,Abenteuerbahn
+Q1145271,ORG,ORG,Schule von Salerno,Schola Medica Salernitana
+Q1146001,,,Lichtquelle,Aktive Lichtquelle|Künstliche Beleuchtung|Photonenstrahler
+Q1147929,,,Japaner in Düsseldorf,japanische Gemeinschaft in Düsseldorf|japanische Gemeinschaft von Düsseldorf
+Q1149061,,,Sprachraum,Sprachgebiet
+Q1149626,,,geschriebene Sprache,schriftliche Sprache
+Q1154710,,,Fußballstadion,Fussballstadion
+Q1156831,,,Dachverband,Dachorganisation|Dach-Organisation|Dach-Verband
+Q1164876,,,Dansgaard-Oeschger-Ereignis,DO-Ereignisse
+Q1169240,,O,Das Kapital. Band I,Kapitalverwertung|Der Produktionsprozess des Kapitals
+Q1172338,,,Datenaustausch,
+Q1172573,,,Datenverkehr,Datenaufkommen|Internetverkehr|Transfervolumen
+Q1180262,,,Residenzstadt,
+Q1182575,,,Defekte Demokratie,Delegative Demokratie|Enklavendemokratie|Exklusive Demokratie
+Q1184065,,,Delegieren,
+Q1186066,,,Demokratiedefizit der Europäischen Union,Spiel über Bande|Demokratiedefizit der EU
+Q1186082,,,Demokratiemessung,
+Q1186090,,,Demokratietheorie,Theorien der Demokratie
+Q1187811,,,Universitätsstadt,Hochschulstadt
+Q1189820,,,Atomausstieg,Atomverzicht|Kernkraftausstieg
+Q1198887,,,Musikdirektor,Chefdirigent|Generalmusikdirektor|Chordirektor ADC|Chordirektor FDB
+Q1202756,,,Deutsche Fußballnationalmannschaft,
+Q1204290,,O,Nachkriegszeit in Deutschland,Deutsche Geschichte 1945–1990
+Q1204307,ORG,ORG,Deutsche UNESCO-Kommission,DUK|German Comm. for UNESCO
+Q1205770,ORG,ORG|LOC,Deutsches Kleingärtnermuseum,
+Q1206012,GPE,GPE|LOC,Deutsches Reich,Gesamtdeutschland|Deutscher Gesamtstaat
+Q1208422,,,Dialektliteratur,Dialektdichtung|Mundartdichtung|Mundartliteratur
+Q1216289,,,Nationalliga,Nationalliga A|Nationalliga B|Eishockey-Nationalliga|Nationalliga C
+Q1221156,,,Bundesland von Deutschland,Land der Bundesrepublik Deutschland|BL|Land von Deutschland
+Q1230595,,,Diversity Management,Management der Vielfalt|Managing Diversity
+Q1236497,GPE,GPE|LOC,Dom-Römer-Projekt,Dom-Römer-Areal|Neue Altstadt Frankfurt
+Q1239166,,,Energiemarkt,
+Q1240880,LOC,LOC,Donaudurchbruch bei Beuron,
+Q1243500,GPE,GPE,Finanzplatz Frankfurt am Main,
+Q1244702,,,Todesopfer an der Berliner Mauer,Mauertote
+Q1246131,LOC,LOC,Markelfinger Winkel,
+Q1246720,ORG,ORG,Weltgemeinschaft Reformierter Kirchen,WGRK
+Q1247239,ORG,ORG,Freies Deutsches Hochstift,"Freie Deutsche Hochstift für Wissenschaften, Künste und allgemeine Bildung"
+Q1259308,,,Drittstaat,Drittland|Drittländer|Drittstaaten
+Q1267889,,,Wasserstraße,Wasserweg
+Q1268199,,,Finanzwirtschaft,Finanzsektor
+Q1270176,,,PDP-7,
+Q1273066,,,E- und U-Musik,
+Q1279817,LOC,LOC,Eberswalder Straße,
+Q1287827,LOC,LOC,St. Hildegard,St. Hildegard und St. Johannes der Täufer
+Q1292279,,,politische Grenze,Ländergrenze|Landesgrenze|Ortsgrenze
+Q1292280,,,Strahlungshaushalt der Erde,Energiebilanz der Erde|Strahlungsbilanz der Atmosphäre|Strahlungsbilanz der Erdatmosphäre|Strahlungsbilanz der Erde|Strahlungshaushalt der Atmosphäre|Strahlungshaushalt der Erdatmosphäre
+Q1293108,,,Dichter,Dichterin
+Q1294605,,O,Jugendstil,
+Q1298242,,O,Egmont,Egmont : Ein Trauerspiel in fünf Aufzügen
+Q1298910,ORG,ORG,SPÖ Wien,
+Q1299505,LOC,LOC,Volkspark Marienberg,
+Q1301371,,,Rechnernetz,Computernetz|Computernetzwerk|Datennetz|Netzwerkverbindung|Rechnernetzwerk|Computer-Netzwerk|DV-Netzwerk|Rechner-Netzwerk
+Q1307214,,,Herrschaftsform,
+Q1308085,,,Transport,Transportlogistik
+Q1309711,,,Einwohnerentwicklung von Berlin,Berliner Einwohnerentwicklung|Berlins Einwohnerentwicklung|Bevölkerung Berlins|Bevölkerung von Berlin|Einwohnerentwicklung (Berlin)|Einwohnerentwicklung Berlins|Einwohnerentwicklung in Berlin
+Q1309758,,,Einwohnerentwicklung von Frankfurt am Main,Einwohnerentwicklung (Frankfurt am Main)|Einwohnerentwicklung (Frankfurt)|Einwohnerentwicklung von Frankfurt
+Q1310296,,,Vita,
+Q1314000,LOC,LOC,Mannesmann-Hochhaus,Vodafone-Hochhaus
+Q1317563,,,Liste der Museen in Nürnberg,
+Q1317970,LOC,LOC|O,Johann-Strauß-II-Denkmal,
+Q1318295,,,Erzählung,Geschichte|Narration|Narrativ|Narrativität|Erzählen
+Q1322143,,,Liste von Flüssen in Europa,Liste der europäischen Flüsse|Liste der Flüsse in Europa
+Q1322198,,,gesprochene Sprache,Gesprochenes|mündliche Kommunikation
+Q1323611,,,Niederländische Dialekte,
+Q1324654,,,Infamie,
+Q1325298,,,Elbflorenz,Florenz des Nordens
+Q1325804,,,Innung,
+Q1326621,,,elektrisches Licht,
+Q1327007,,,Elektromobilität,E-Mobilität|E-Mobility
+Q1327888,,,Gruppe,
+Q1331793,,,Medienunternehmen,Medienhaus|Medienkonzern
+Q1333366,,,vorgezogene Neuwahl,Neuwahl|Neuwahlen|vorgezogene Neuwahlen
+Q1335818,,O|ORG,supranationale Organisation,übernational|überstaatlich|supranationale Union|supranationaler Verband|Supranationalismus
+Q1341454,,,Endenergieverbrauch,
+Q1345001,,,Entlehnung,Transferenz|Entlehnen
+Q1349417,,,Erdoberfläche,Erdboden|Erdhalbkugel|Land-Meer-Verteilung
+Q1359848,,,Wohnraumbeleuchtung,
+Q1361092,,,marktbeherrschende Stellung,Branchenprimus|Marktführer|Marktdominanz
+Q1361384,ORG,ORG,Landeshauptstadt München,LHM|Rathaus München|Stadt München|Stadtverwaltung München|LH München|München
+Q1362118,,,Erster Bürgermeister,Erster Bürgermeister von Hamburg
+Q1363408,,,5G,
+Q1363548,,,Liste der Hochhäuser in Nürnberg,
+Q1363750,,,Lehrstuhl,Lehrkanzel|Ordentliche Professur
+Q1365619,LOC,LOC,Abendland,Okzident|Abendländisch|Christliches Abendland
+Q1366643,,,Schweizer Hochdeutsch,Hochdeutsch|Schriftsprache|Schriftdeutsch|Schweizer Standarddeutsch|Schweizer Standardsprache|Schweizerhochdeutsch
+Q1369241,,O,Götz von Berlichingen,Götz von Berlichingen mit der eisernen Hand|Geschichte Gottfriedens von Berlichingen mit der eisernen Hand dramatisirt|Goethes Götz von Berlichingen|Götz von Berlichingen mit der eisernen Hand : ein Schauspiel|Urgötz
+Q1369260,,,Minderheitenschutz,Minderheitenrechte
+Q1369421,,,Bachkantate,Bach-Kantate
+Q1370468,,O,bauliche Rekonstruktion,Rekonstruktion|bauliche Wiederherstellung
+Q1371797,LOC,LOC,Ettersberg,
+Q1375749,,,Europastadt,
+Q1388418,,O,FIBO,
+Q1389310,,,Wasserkörper,Wasserkörper gemäß der Wasserrahmenrichtlinie
+Q1392131,LOC,LOC|O,Fahne der Einheit,Denkmal Deutsche Einheit|Einheitsflagge|Fahnenmast vor dem Reichstag|Flagge der Einheit
+Q1394877,,,Falschmeldung,Ente|falsche Meldung
+Q1395219,,,Skeptizismus,
+Q1401585,,,Mittelzentrum,
+Q1402850,,,Feldstudie,Freilandbeobachtung|Freilandstudie|Freilandstudien
+Q1404524,,,geschlechtsneutrale Sprache,gegenderte Sprache|genderfaire Sprache|gendergerechte Sprache|genderinklusive Sprache|gendersensible Sprache|geschlechtersensible Sprache
+Q1406904,,,Fernbahnhof,
+Q1411705,ORG,ORG,Benediktinerinnen,Benediktinerin|Benediktinen
+Q1414089,,,Theorie der Kunst,Ästhetik|Kunstphilosophie|Kunsttheorie
+Q1414262,,,Klaviertrio,
+Q1414303,,,Patrozinium,Patronat
+Q1416565,GPE,GPE,Finanzplatz Stuttgart,
+Q1416882,,,Kunstwort,Kunstwörter|Kunstworte
+Q1418839,LOC,LOC,Konstanzer Trichter,
+Q1419229,,O,Torstenssonkrieg,
+Q1425683,,,Krippenspiel,Christkindlwiegen|Lebende Krippe
+Q1427694,,,Fleet,Fleth|Sülze (Hamburg)
+Q1428337,,,Schaltzeichen,Schaltsymbol
+Q1430548,,O,Folgen der globalen Erwärmung,Auswirkungen der globalen Erwärmung|Klimafolgen|Klimarisiko
+Q1432001,,O,Torquato Tasso,Torquato Tasso : ein Schauspiel in fünf Aufzügen
+Q1432348,,,Grut,Gruit|Gruitbier|Grüsing|Grutbier
+Q1433061,,,Internet-Knoten,Internetknoten|Internet Exchange Point|Ixp|Network Access Point
+Q1434103,,,Wilhelm Meister,
+Q1434924,,,Wertschöpfung,
+Q1440453,,,literarisches Fragment,Fragment
+Q1444960,LOC,LOC,Frankfurter Grüngürtel,Grüngürtel
+Q1445042,LOC,LOC,Frankfurter Stadtwald,
+Q1445650,,,Feiertag,Feiertage|Festtag|Praznik|volksfest
+Q1447642,PER,PER,Franz Jüttner,
+Q1451897,,,Frauentor,"Frauentor, Nürnberg"
+Q1453030,,,Landtag (Weimarer Republik),
+Q1454597,,,Freimaurerloge,Freimaurer-Loge
+Q1454723,,,Freispruch,
+Q1455098,,,Liste der Baudenkmäler in München,
+Q1455240,,,Prager Frieden,Prager Frieden (1635)
+Q1455255,LOC,LOC,Pietzmoor,
+Q1461912,,,Verkehrsvertrag,
+Q1463606,,,Strahlungsantrieb,Klimaantrieb
+Q1463884,,,Hochschulen in Bayern,
+Q1469849,,,Marodeur,
+Q1472399,,,Internetzugang,Internetverbindung|Internetanschluss|Internet-Anbindung|Internet-Zugang|Internetanbindung
+Q1473480,,,Kerngeschäft,
+Q1477285,,,Liste der ältesten Universitäten,
+Q1478016,ORG,ORG,Bundesagentur für Arbeit,Arbeitsamt|Arbeitsagentur|BA|Agentur für Arbeit|Bundesanstalt für Arbeit
+Q1478443,,,Fußballverband,Fussballverband
+Q1478462,,,fünfte Jahreszeit,
+Q1479544,,,Nanoelektronik,Nanoelektronisch
+Q1483293,,,Fürstenhof,
+Q1484988,,O,Neues Frankfurt,
+Q1486334,,O|LOC,GOP Varieté Theater Hannover,Georgspalais|Georgspalast|GOP|GOP Entertainment Group|GOP Hannover|GOP Variete Hannover|GOP Varieté Hannover|GOP Variete Theater Hannover|GOP Varietee Hannover|GOP Varietee Theater Hannover
+Q1487837,,,GaLaBau Nürnberg,
+Q1489259,,,Supermacht,Supermächte|Superpower
+Q1495811,,,Orgelsachverständiger,Orgelsachverständige
+Q1497012,,,Gebildbrot,Bildergebäck|Gebildebrot|Sinngebäck
+Q1497435,,O,Gedanken und Erinnerungen,Erinnerung und Gedanke
+Q1500828,,O,Karneval von Oruro,Der zweitgrößte Karneval in Südamerika
+Q1501339,,,Gendern,Gendering
+Q1503467,,,Unrechtsstaat,
+Q1507074,ORG,ORG,Westmächte,Westblock|Westmacht
+Q1507115,,,Reichsstand,Reichsstände|Reichsstandschaft
+Q1507261,,,Nürnberger Dialekt,Nämbärchisch|Nämbercherisch|Nürnbergisch
+Q1509758,,,Bundestagsfraktion,BTF|Fraktion (Bundestag)
+Q1513172,,,Moselkanalisierung,
+Q1514886,LOC,LOC,Ostbelgien,Eupen-Malmedy|Neubelgien|Ostkantone
+Q1515156,,,Würfelspiel,Würfelspieler
+Q1515493,,,Straßenfahrzeug,
+Q1516107,,,Gesamtdeutschland,Deutschland als Ganzes
+Q1516980,,,Geschichte der Sozialversicherung in Deutschland,
+Q1518324,,,Gesellschaft,Zivilgesellschaft
+Q1519239,LOC,LOC|ORG,Landratsamt München,LRA München
+Q1519903,,,Nasenschild,Ausleger
+Q1520852,,LOC,Gewässer in Leipzig,Leipziger Gewässer
+Q1524804,ORG,ORG,Niedersächsische Staatstheater Hannover,Landestheater Hannover|Niedersächsische Staatstheater Hannover GmbH
+Q1526957,,,Liste der Baudenkmäler in Köln,Baudenkmäler in Köln
+Q1527233,,,Internalisierung,
+Q1527665,,O,Mantuanischer Erbfolgekrieg,
+Q1529430,,,Glasfasernetz,FTTD|FTTH|Fibre To The Node|Fiber all the way To The Home|Fiber In The Loop|Fiber To The Basement|Fiber To The Building|Fiber To The Curb|Fiber to the desk|Fiber to the Desk|Fiber to the Home|Fiber To The Home|Fiber to the Kerb|Fiber To The Loop|Fiber To The Neighborhood|Fibre all the way To The Home|Fibre To The Basement|Fibre To The Curb|Fibre To The Home|Fibre To The Kerb|Fibre To The Loop|Fibre To The Neighborhood|FITL|FTTB|FTTC|FTTN|FTTx|Glasfaser bis zum Schreibtisch|Hybride TAL|Hybride Teilnehmeranschlussleitung|Photonische Netze|Photonisches Netz
+Q1533062,LOC,LOC,Gnadensee,
+Q1534156,,,Goethe- und Schiller-Archiv,Goethe-Archiv|Weimar GSA|Goethe- und Schiller-Archiv Weimar
+Q1539517,ORG,ORG|LOC,Gottfried Wilhelm Leibniz Bibliothek,Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek|Gottfried-Wilhelm-Leibniz-Bibliothek|Gwlb|Hannover GWLB|Landesbibliothek Hannover|Leibniz Bibliothek|Niedersächsische Landesbibliothek
+Q1543386,,,Liste der Viertausender in den Alpen,
+Q1546995,,,Klaviersonate,Klaviersonaten
+Q1548033,,,Großbank,Grossbank
+Q1549326,ORG,ORG,Großherzoglich-Sächsische Kunstschule Weimar,Grossherzoglich Sächsische Kunstschule Weimar|Großherzogliche Kunsthochschule Weimar|Kunstakademie Weimar|Kunstschule Weimar|Weimarer Kunstschule|Weimarer Malerschule
+Q1549591,,,mittlere Großstadt,Grossstadt
+Q1552969,,,Gubernative,Gouvernative|Gouvernementale Gewalt|Gubernativ|Gubernative Gewalt
+Q1553195,,,Parteivorsitzender,Parteichef|Bundesvorsitzende|Parteipräsident|Parteivorsitzende|Bundesvorsitzender|Weibliche Parteivorsitzende
+Q1553201,,,LED-Leuchtmittel,LED-Lampe
+Q1556528,,,Kultur in Frankfurt am Main,Kultur (Frankfurt am Main)
+Q1556926,,,Liste der Baudenkmale in Hannover,
+Q1557444,LOC,LOC,Jakob-Kaiser-Haus,
+Q1560091,PER,PER,"Michael Ludwig (Politiker, 1961)",Dr. Michael Ludwig
+Q1567004,,,Habsburgisch-Französischer Gegensatz,Französisch-Habsburgischer Gegensatz|Habsburgisch-bourbonischer Gegensatz|Habsburgisch-französischer Gegensatz
+Q1569883,,,Liste der 100 flächengrößten Städte und Gemeinden Deutschlands,
+Q1571095,,,Lutherbibel,Luther-Bibel|Lutherübersetzung|Septemberbibel
+Q1571292,,,Thüringer Verfassungsgerichtshof,ThürVerfGH|Verfassungsgerichtshof Thüringen|VerfGH Thüringen|VfGH Thüringen
+Q1572811,,O,Hamburg-Hymne,Hammonia|Stadt Hamburg an der Elbe Auen
+Q1573033,,,Hamburger Hauptkirche,
+Q1573728,,,Textilmaschine,
+Q1574938,,,Handelsweg,Handelsroute
+Q1575950,,,Staatsziel,
+Q1576239,LOC,LOC,Hannover Congress Centrum,Kuppelsaal|HCC|Stadthalle Hannover
+Q1576263,,,Hannoversche Architekturschule,
+Q1583447,,,Spiegelsaal,Spiegelgalerie|Galerie de Louis XIV.|Galerie des Glaces|la Grande Galerie
+Q1583778,,,Hansetag,
+Q1585152,,,Hardt,Hardt (Toponym)
+Q1587443,PER,PER,Hartmut Hirsch-Kreinsen,Hirsch-Kreinsen
+Q1589543,LOC,LOC,Hauptmarkt (Nürnberg),Adolf-Hitler-Platz (Nürnberg)|Großer Markt (Nürnberg)|Grüner Markt (Nürnberg)
+Q1594011,GPE,GPE|LOC,Heidelberger Altstadt,
+Q1594437,,O|LOC,Nachtleben,Nightlife
+Q1595268,,,Heiligenstädter Testament,
+Q1601429,,,Heizenergiebedarf,Heizenergie|Heizbedarf|Heiztechnikenergiebedarf|Heizwärmebedarf|Trinkwasserwärmebedarf|Warmwasserwärmebedarf
+Q1609658,LOC,LOC,Herderkirche/Stadtkirche St. Peter und Paul,Evang.-Luth. Stadtkirche St. Peter und Paul (Weimar)|Evangelische Stadtkirche St. Peter und Paul (Weimar)|Sankt Peter und Paul (Weimar)|Stadtkirche St. Peter & Paul|Stadtkirche St. Peter und Paul (Weimar)|Stadtkirche Weimar
+Q1613416,,,Einwohnerzahl,Bevölkerungszahl|Populationsgröße
+Q1613566,,,Hermetisch,
+Q1615471,LOC,LOC,Herzogtum Sachsen (1547–1572),
+Q1616828,,,Hexe,Hexenwesen|Böterin|Galstersche|Hagazussa|Hagedisen|Hagzissa|Pythonissa|Töversche|Wickersche
+Q1620889,,,Historische Meile Nürnberg,
+Q1622222,ORG,ORG,Hochschule für Technik und Wirtschaft Dresden,HTW Dresden|HTWD|HTWDD
+Q1622248,,,Hochschulen in Hessen,Hessens Hochschulen|hessische Hochschulen|Hochschulen (Hessen)|Hochschulen Hessens
+Q1622249,,,Hochschulen in Köln,
+Q1622259,,,Hochschulen und Forschungseinrichtungen in Berlin,Berliner Universitäten|Forschungseinrichtungen in Berlin|Hochschulen in Berlin|Universitäten in Berlin
+Q1623585,,,Hoheit,Oberhoheit|Hoheitsrecht|Gewaltenhoheit|Gewalthoheit|Hoheitsbefugnis
+Q1637706,,,Millionenstadt,Stadt 1000000+
+Q1639168,,,Klimazone,Klimazonen|Klimazonierung
+Q1641393,,,Selbsterhaltung,Selbsterhaltungstrieb|Überlebensinstinkt
+Q1643223,GPE,GPE|LOC,Höchster Altstadt,Gesamtanlage 112
+Q1643634,LOC,LOC,Höhenpark Killesberg,
+Q1646605,,,Mitgliedstaat,member state|Mitgliedsstaat
+Q1655084,,O,IWA OutdoorClassics,IWA|Internationale Waffenausstellung
+Q1659958,,,Immaterielles Kulturerbe in Österreich,Nationalagentur für das Immaterielle Kulturerbe der Österreichischen UNESCO-Kommission
+Q1660132,,,Immobilienindustrie,Immobiliensektor|Immobilienbranche|Immobilienwirtschaft|Grundstücks- und Wohnungswirtschaft|Grundstückswirtschaft|Immobranche|Wohnungs- und Immobilienwirtschaft
+Q1661989,,O,Industrie 4.0,Industrie 4|vierte Industrielle Revolution|zweites Maschinenzeitalter
+Q1666079,,,Intergouvernementalismus,Intergouvernemental|Intergouvernementale Organisation|Intergouvernmental|Intergovernemental|Intergovernmental|Intergovernmentalismus|Zwischenstaatlich
+Q1668024,,,Internetdienst,Internetdienste|Internet-Service|Internet-Services
+Q1678445,LOC,LOC,Maschpark,
+Q1682108,,,Vision,
+Q1684460,ORG,ORG|LOC,Jazz Club Hannover,Jazz-Club Hannover|Jazzclub Hannover
+Q1692482,,O,Westintegration,Westbindung
+Q1704374,,,zweite Lautverschiebung,althochdeutsche Lautverschiebung|deutsche Lautverschiebung|hochdeutsche Lautverschiebung
+Q1705354,PER,PER,Josef Naus,Karl Naus
+Q1707601,LOC,LOC,Stuttgarter Talkessel,Nesenbachbucht
+Q1711312,,O,Schützenfest Hannover,
+Q1713014,,,Mär,
+Q1713594,LOC,LOC,TAK,Theater am Küchengarten
+Q1716332,,,Präsidialkabinett,
+Q1716588,,,Lebensrisiko,allgemeines Lebensrisiko
+Q1721361,PER,PER,Kai Wegner,
+Q1733933,LOC,LOC,Karlshöhe,Reinsburghügel
+Q1734114,,,Karneval in Namibia,
+Q1734134,,,Karnevalsumzug,Rosenmontagszug|Faschingszug|Faschingsumzug|Gaudiwurm|Rosenmontagsumzug
+Q1735702,,,Luftangriffe auf Nürnberg,
+Q1735887,PER,PER,Katharina Fegebank,Fegebank
+Q1737639,,,KdF-Wagen,
+Q1739536,,,Kernstadt,
+Q1743011,,,Liste von Sakralbauten in Stuttgart,
+Q1746028,,,Klavierkonzert,
+Q1747689,,GPE|LOC,Römisches Reich,Rom|Altes Rom
+Q1751636,LOC,LOC,Wohlrose,
+Q1752818,,,Stilisierung,stilisiert|eigene Schreibweise|Eigenschreibweise
+Q1756477,,,Ligasystem,Hinrunde|Rückrunde
+Q1760011,,,Wohlstand,Prosperieren
+Q1764511,ORG,ORG,G7,G-7|Gruppe der Sieben
+Q1767829,,,Volluniversität,Universitas litterarum|Volluni
+Q1774397,,,Klimakatastrophe,Klimawandel
+Q1774409,,,Klimascheide,
+Q1774424,,,Klimaneutralität,CO₂-neutral|CO₂-Neutralität|CO2-neutral|CO2-Neutralität|Kohlendioxid-Neutralität|Kohlenstoffdioxid-Neutralität
+Q1775812,,O,Mario und der Zauberer,
+Q1777515,,,Knotenpunkt,Verkehrsknoten|Einmündung
+Q1779063,,,Kolbenmaschine,Kolbenmaschinen
+Q1780389,,,Kommunalverband besonderer Art,Regionalkreis
+Q1780543,,,Kommunikationstechnik,Kommunikationstechnologie
+Q1781469,,,Konföderation,Konföderierte
+Q1781590,,,Kongresswesen,Kongresswirtschaft|Tagungswesen
+Q1783238,GPE,GPE|LOC,Kontorhausviertel,
+Q1785022,,O,Ständeaufstand in Böhmen,Böhmischer Aufstand
+Q1785837,,,Misox-Schwankung,8.2 kiloyear event
+Q1787954,,,Arbeitslosenstatistik,Erwerbslosenquote|Arbeitslosenrate|Arbeitslosenzahl|Arbeitslosenzahlen|ALQ|Arbeitslosen-Quote|Beschäftigten-Äquivalent|Beschäftigtenäquivalent|Beschäftigtenstatistik
+Q1792300,,,Kunst- und Baudenkmäler der Stadt Nürnberg,
+Q1792450,,,Kunsthistoriker,Kunstwissenschaftlerin|Kunsthistorikerin|Kunstwissenschaftler|Kunstgeschichtler
+Q1792535,,O,Kunstmesse,
+Q1792623,,,Kunstschule,Kunstschulen|Staatliche Kunstschule
+Q1792886,LOC,LOC,Kuppelaufzug,Bogenaufzug|Kuppelaufzug Hannover
+Q1795831,LOC,LOC,Kölner Grüngürtel,Grüngürtel Köln|Kölner Grün Stiftung
+Q1802122,,,Landesbehörde,Landesamt|Landesoberbehörde|Untere Landesbehörde
+Q1802145,,,Landesbischof,Präses
+Q1803925,LOC,LOC,Landsorttief,Landsorttiefe
+Q1803959,ORG,ORG,Landtag des Freistaates Mecklenburg-Strelitz,
+Q1804618,GPE,GPE|LOC,Weinbau in Stuttgart,
+Q1810913,,,Lebendimpfstoff,
+Q1811139,,,Unsterbliche Geliebte,
+Q1815307,,,Leinenweberei,
+Q1815491,LOC,LOC,Leipziger Auwald,
+Q1815570,LOC,LOC,Leipziger Neuseenland,Neun-Seen-Land|Neuseenland
+Q1827102,,,Religionskrieg,Glaubenskrieg
+Q1834009,,,Liste der Behörden und Einrichtungen in Stuttgart,Liste von Behörden und Einrichtungen in Stuttgart
+Q1840908,,,Liste der Hochhäuser in Stuttgart,
+Q1849292,,,Liste der Ober- und Mittelzentren in Bayern,
+Q1850923,,,Liste der Sakralbauten in Nürnberg,
+Q1852161,,,Liste der Stadtbezirke und Stadtteile von Stuttgart,
+Q1852403,,,Liste der Straßen und Plätze in Berlin-Friedrichshain,
+Q1853015,,,Liste der Theater in München,Theater in München
+Q1854529,LOC,LOC,Walachische Tiefebene,Walachische Ebene|Walachisches Tiefland
+Q1854716,LOC,LOC,Liste der denkmalgeschützten Ensembles in München,
+Q1860674,,,Liste der größten Städte Baden-Württembergs,
+Q1860690,,,Liste der größten Städte in Hessen,
+Q1860784,,,Liste der größten deutschen Städte,Liste der größten Städte Deutschlands
+Q1860843,,,Liste der höchsten Bauwerke in Europa,Liste der Hochhäuser in Europa|Liste der höchsten Gebäude in Europa
+Q1863672,,,Liste der größten Kraftfahrzeughersteller,
+Q1887075,,,Meeresenergie,Meereskraftwerk
+Q1896989,,,Völkerrechtssubjekt,Völkerrechtssubjektivität|Subjekt des Völkerrechts|Subjektidentität|Subjektsidentität|Völkerrechtspersönlichkeit|Völkerrechtsubjekt
+Q1906937,,O,Maschseefest,
+Q1907114,,,Metropolregion,Metrokomplex|Metropolitanregion
+Q1917465,,,Mehrfrontenkrieg,
+Q1930187,,,Journalist,Journalistin
+Q1939300,ORG,ORG,Rat für deutsche Rechtschreibung,Rechtschreibrat|RfdR
+Q1939555,,,Mitglied des Deutschen Bundestages,Bundestagsmandat|Bundestagsabgeordnete|MdB|Mitglied des Deutschen Bundestags|Bundestagsabgeordneter|Mitglied des Bundestages|Mitglied des Bundestags
+Q1940689,LOC,LOC,Mittlerer Schwarzwald,
+Q1954950,LOC,LOC,Musical Dome,Musical Dome Köln
+Q1958940,,,Münchner Bier,
+Q1959141,,,Seeblockade,Seesperre|See-Blockade
+Q1962399,,,Nachkriegsmoderne,
+Q1962593,,O,Nachspielzeit,
+Q1968225,LOC,LOC,Geopark Harz – Braunschweiger Land – Ostfalen,Geopark Harz - Braunschweiger Land - Ostfalen|Nationaler Geopark Harz - Braunschweiger Land - Ostfalen
+Q1970087,PER,PER,Philipp Jakob Loutherbourg der Jüngere,Philipp Jakob Loutherbourg|Philipp Jakob Loutherbourg d.J.
+Q1970499,LOC,LOC,Naturpark Harz/Sachsen-Anhalt (Mansfelder Land),Harz Sachsen-Anhalt (Mansfelder Land)
+Q1970503,LOC,LOC,Naturpark Harz/Sachsen-Anhalt,Harz/Sachsen-Anhalt|Naturpark Harz (Sachsen-Anhalt)|NP Harz/Sachsen-Anhalt|NRP Harz/Sachsen-Anhalt
+Q1970670,LOC,LOC,Naturpark Südharz,Südharz|NP Südharz|NRP Südharz
+Q1970725,,,Naturraum,naturräumliche Einheit|Großnaturraum|naturräumliche Gliederung|Naturregion
+Q1979381,,,Neudeutsch,
+Q1979615,,,deutsche Kultur,Kultur (Bundesrepublik Deutschland)|Kultur (Deutschland)|Kultur (Deutschlands)|Kultur der BRD|Kultur der Bundesrepublik Deutschland|Kultur Deutschlands|Kultur in der BRD|Kultur in der Bundesrepublik Deutschland|Kultur von der BRD|Kultur von der Bundesrepublik Deutschland|Kultur von Deutschland
+Q1981782,LOC,LOC,Neustädter Hof- und Stadtkirche St. Johannis,Neustädter Kirche (Hannover)
+Q1989782,,,Physics World,
+Q1991986,,,Grenze zwischen Deutschland und Österreich,Deutsch-österreichische Grenze|Grenze zwischen der Bundesrepublik Deutschland und der Republik Österreich|Grenze zwischen der Republik Österreich und der Bundesrepublik Deutschland|Grenze zwischen Österreich und Deutschland|Österreichisch-deutsche Grenze
+Q1995936,,,Nominalkompositum,Nominalkomposita
+Q1998482,ORG,ORG,Nordostdeutscher Fußballverband,NOFV|Nordostdeutscher Fußball-Verband
+Q2011601,,O,Oberösterreichischer Bauernkrieg,
+Q2012719,,,Krebsimmuntherapie,Krebsimpfung|Krebsvakzinierung|Tumorvakzine|Tumorvakzinierung
+Q2012926,,,Obrigkeitsstaat,
+Q2013767,GPE,GPE|LOC,Berlin-Mitte,Mitte|Mitte von Berlin
+Q2014419,LOC,LOC,Oderberger Straße,Oderberger Strasse|Oderberger Straße (Berlin)
+Q2017691,,O,Oktoberreform,Freie Sozialistische Republik Deutschland|Oktoberreformen|Oktoberverfassung
+Q2027189,,O|ORG,Opposition und Widerstand in der DDR,DDR-Bürgerrechtler|DDR-Opposition|Bürgerrechtler der DDR|Bürgerrechtsbewegung der DDR|DDR-Opposition und Widerstand|Opposition in der DDR
+Q2052867,,,parlamentarische Kontrolle,Gremium nach Art. 13 Abs. 6 GG|Gremium nach Art. 13 VI GG|ZFdG-Gremium
+Q2070370,,O,Nürnberger Prozesse,
+Q2071682,,,Perpetuierung,Fortdauer
+Q2072263,,GPE|LOC,Personalunion zwischen Großbritannien und Hannover,
+Q2072983,,,Tourismus in der Schweiz,Tourismus (Schweiz)|Tourismus der Schweiz
+Q2080811,,,Volumenprozent,Volumprozent|Volumsprozent
+Q2085381,,,Verlag,Verleger|Verlagsgesellschaft
+Q2095374,,,Patrizier,Patriziat
+Q2098393,LOC,LOC,Planungsregion Nürnberg,Planungsregion Industrieregion Mittelfranken
+Q2099281,,,Plenarsaal,
+Q2101513,,,politische Partizipation,politische Beteiligung|politische Teilhabe|Teilnahme an der Politik
+Q2101678,,,Polizei beim Deutschen Bundestag,Bundestagspolizei|Parlamentspolizei|Polizei beim deutschen Bundestag|Polizei DBT|Polizei des Deutschen Bundestages
+Q2104551,ORG,ORG,Porsche Automobil Holding SE,Porsche SE
+Q2106253,,O,Postreform,Postprivatisierung
+Q2111958,,,Produktivität,Grenzproduktivität|Produktiv
+Q2114611,,,Präambel des Grundgesetzes für die Bundesrepublik Deutschland,Präambel des Grundgesetzes
+Q2116004,,,Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung,
+Q2121988,LOC,LOC,Quaibrücke,
+Q2127330,,ORG,Verkehrsunternehmen,Verkehrsbetrieb
+Q2133343,,,"Raum der Freiheit, der Sicherheit und des Rechts",Raum der Freiheit|Raum der Freiheit und des Rechts|Raum der Freiheit und Sicherheit|Raum der Sicherheit|Raum der Sicherheit und des Rechts|Raum des Rechts|Zusammenarbeit im Bereich Justiz und Inneres
+Q2139484,LOC,LOC,Reichsgerichtsgebäude,Georgi-Dimitroff-Museum
+Q2139668,,O|ORG,Reichsrätekongress,Reichskongress der Arbeiter- und Soldatenräte|Reichskongreß der Arbeiter- und Soldatenräte
+Q2140940,,,Rotationsenergie,Drehenergie|rotatorische Energie
+Q2143354,,,Versicherer,Versicherungsunternehmen|Versicherungsanstalt|Versicherungsgesellschaft|Assekuradeur|Versicherungsbetrieb
+Q2144233,,,Renommee,Renommist|Renommée|Renommiert
+Q2145110,,,Repertoire,
+Q2147266,,,Rezeption,Künstlerische Rezeption|Kunstrezeption
+Q2147761,,,Rheinische Küche,Niederrheinische Küche|Nordrheinische Küche
+Q2147804,,,Rheinischer Karneval mit all seinen lokalen Varianten,Rheinische Fastnacht
+Q2147862,LOC,LOC,Rheinkniebrücke,
+Q2147929,LOC,LOC,Rheinquelle,Rheinquellen
+Q2148416,GPE,GPE|LOC,Rhöndorf,Bad Honnef-Rhöndorf (Rhein)|Rhoendorf|Rhöndorf <Rhein>
+Q2151621,,,Energieindustrie,Energiewirtschaft|Energiebranche
+Q2155640,,,Empirie,Erfahrungswissenschaft
+Q2184704,,,große Koalition,GroKo|Große Koalition|Grosse Koalition
+Q2207288,,,Handwerk,
+Q2207521,ORG,ORG,SPD Berlin,
+Q2207531,ORG,ORG,SPD Hamburg,
+Q2225985,,,Satellitenkommunikation,
+Q2227570,GPE,GPE|LOC,Herzogtum Württemberg,Württemberg
+Q2232092,ORG,ORG|LOC,Schauspiel Frankfurt,Schauspielhaus Frankfurt|Schauspielfrankfurt|Stadttheater zu Frankfurt a. M.
+Q2232116,ORG,ORG,Schauspiel Hannover,
+Q2234623,,,Schienengüterverkehr,Güterbeförderung im Eisenbahnverkehr|Eisenbahngüterverkehr|NACE 49.2
+Q2239243,,,Fabelwesen,Fabeltier|Fantasiewesen|legendäre Kreatur|mythische Kreatur|mythologische Kreatur
+Q2252435,,O,Schutzzollpolitik,
+Q2253411,,,schwarz-gelbe Koalition,Bürgerliche Mehrheit|CDU-FDP-Koalition|CSU-FDP-Koalition|Schwarz-Gelbe Koalition|Tigerentenkoalition
+Q2269441,,,Landesherr,Fürst|Landesfürst
+Q2275035,,,Seuche,
+Q2275697,,,Sexus,Geschlecht|semantisches Geschlecht|biologisches Geschlecht|natürliches Geschlecht
+Q2282602,,,Wohnsiedlung,Siedlung
+Q2285706,,,Regierungschef,Regierungschefin
+Q2298537,,,Verkehrsknotenpunkt,
+Q2303637,,,Syntagma,Wortgruppe|Syntagmatisch
+Q2305941,,,Sozialreform,Sozialreformer|Sozialstaatsreform
+Q2306552,,,deutsche Dialekte,deutsche Mundarten|kontinental-westgermanische Dialekte
+Q2310373,,,Spielzeit,
+Q2311413,LOC,LOC,Spittlertor,
+Q2319498,,,Wahrzeichen,
+Q2324975,,O,Staatsgründung,
+Q2324993,,,Staatsgewalt,Staatsmacht|Staatliche Gewalt
+Q2325126,,,Staatsorganisationsrecht,Staatsorganisation
+Q2325352,,,Staatsvolk,
+Q2327515,,,Stadtkreis in Baden-Württemberg,kreisfreie Stadt in Baden-Württemberg
+Q2349760,,,Stimmberechtigte,das Volk
+Q2358023,LOC,LOC,Stubbenkammer,Rügener Kreidefelsen
+Q2372248,GPE,GPE,Freistaat Oldenburg,Land Oldenburg
+Q2378309,,,Krebsimpfstoff,
+Q2378571,,,Sächsische Staatsregierung,
+Q2381488,GPE,GPE,Südstadt-Bult,Südstadt-Bult (Hannover)
+Q2386606,,,subjektives Recht,
+Q2396613,,,Taubheit (Ohr),Surditas
+Q2401696,,,Magenta TV,
+Q2401704,ORG,ORG,Telekom Deutschland,Deutsche Telekom|Telekom Deutschland GmbH
+Q2401749,,,Telekommunikationsunternehmen,Telekommunikations-Unternehmen
+Q2411083,LOC,LOC,The English Theatre Frankfurt,Café Theater|English Theater Frankfurt
+Q2428747,,,Gattungsname,Appellativ|Gattungsbezeichnung|Appellativum|Nomen Appellativum
+Q2430838,ORG,ORG,Thüringer Landesverwaltungsamt,
+Q2430876,,,Thüringer Oberverwaltungsgericht,Oberverwaltungsgericht Weimar|OVG Weimar|Thüringer OVG
+Q2430947,,,Thüringisches Landesamt für Denkmalpflege und Archäologie,TLDA
+Q2446638,,,Tourismus in Mecklenburg-Vorpommern,
+Q2454195,,O,Tristan,
+Q2459506,,,Tullnau,
+Q2472587,,,Volk,
+Q2483208,,,soziale Sicherheit,Sozialversicherung|soziale Sicherung
+Q2485448,,,Sportverband,
+Q2488257,,,Zauberer,Hexer|Magier|Magierin|Hexe
+Q2515604,,,Verfassungswirklichkeit,Verfassungsrealität
+Q2516832,,O,Verlagsherstellung,Buchproduktion|Buchherstellung
+Q2517596,,O,Verordnung des Reichspräsidenten zum Schutze des Deutschen Volkes,
+Q2519144,,,Vertretungsmacht,Vertretungsbefugnis
+Q2519336,LOC,LOC,Verwaltungsgebäude der Nord/LB,Norddeutsche Landesbank am Friedrichswall|Nord/LB Gebäude
+Q2520728,,,Verwaltungsrecht,
+Q2529227,LOC,LOC,Viên-Giác-Pagode,Vien Giac|Viên Giác Pagode
+Q2532111,LOC,LOC,Volkspark Dutzendteich,
+Q2532276,,,Volkstum,Volkstumskampf
+Q2532278,,,Volksvertretung,
+Q2534645,,,Vorwahl 03 (Deutschland),Vorwahl 03|Vorwahlgebiet 03
+Q2538248,,,Waberlohe,
+Q2545446,,,Graphem,Graphonem|Grafem
+Q2557138,LOC,LOC,Weißer Turm,
+Q2558300,,O,Weltleitmesse,Leitmesse
+Q2568428,,,Wiedervereinigungsgebot,Staatsziel der Wiedervereinigung|Wiedervereinigungsauftrag
+Q2568958,,,Wiener Katastralgemeinden,
+Q2578218,,,Binnenmeer,
+Q2582532,LOC,LOC,Wilseder Berg,
+Q2595976,ORG,ORG,"Währungs-, Wirtschafts- und Sozialunion",
+Q2596362,LOC,LOC,Wöhrder See,Norikus
+Q2624046,,,Gebirgszug,Gebirgskette|Bergkette|Hügelkette|Hügelzug|Sierra
+Q2639247,LOC,LOC,Alberthafen Dresden-Friedrichstadt,Alberthafen|Alberthafen (Dresden)|König-Albert-Hafen
+Q2678338,,,Schienennetz,Schienensystem|Eisenbahnnetz|Bahn-Streckennetz|Eisenbahn-Streckennetz
+Q2691960,,O,Elfmeterschießen,Elfmeterschiessen
+Q2692553,,,Liste der Erzbischöfe und Bischöfe von Köln,Kölner Erzbischöfe|Liste der Kölner Erzbischöfe
+Q2695280,,,Technik,Methode|Verfahren
+Q2727213,,,Diebstahl,Entwendung|Dieberei
+Q2747791,LOC,LOC,Französisches Rhonetal,
+Q2782262,LOC,LOC,Naturpark Harz,Harz/Niedersachsen|Naturpark Harz (Niedersachsen)|Naturpark Harz/Niedersachsen|NP Harz/Niedersachsen
+Q2956049,,,abrupter Klimawechsel,Klimasprung
+Q2992172,,,Dampferzeuger,
+Q3017175,,,Apple II,Apple //|Apple ][
+Q3038928,,,Dramatisierung,
+Q3045605,,O,Scivias,Wisse die Wege|Liber scivias
+Q3122864,,,Big Tech,"Internetriesen|GAFA|FAANG|Facebook, Amazon, Apple, Netflix, Google|Facebook/Amazon/Apple/Netflix/Google|GAFAM|Giants of the web|Google, Amazon, Facebook, Apple, Microsoft|Google/Amazon/Facebook/Apple/Microsoft|Internetgiganten|Tech-Giganten|Tech-Riesen"
+Q3149923,,,soziale Inklusion,
+Q3178478,,,Unternehmensgründung,Gründung|Inc.|Incorporation
+Q3196867,,,Schulden,Schuld
+Q3237872,,,Grundrecht,
+Q3238020,,,Licence,
+Q3281534,,O,Neuzeit,
+Q3294789,,,Magnetismus,
+Q3314483,,,Obst,Frucht|Obstsorte|Obstsorten
+Q3329375,,,Sprachvarietät,Varietät|Sprachform|Sprachvariante
+Q3349060,,,Meereskunde,Ozeanologie|Meereswissenschaft
+Q3382125,,,Periode,
+Q3406566,,,Gesetzgebung,Gesetzgebungsprozess|Gesetzgebungsverfahren
+Q3456796,,,Binnenwasserstraße,
+Q3480226,,,Kulturkrieg,Kulturkampf
+Q3511885,ORG,ORG,T-Mobile US,T-Mobile|TMUS|US Geschäft der Telekom|US-Tochter der Telekom
+Q3518553,,,Grundstück,
+Q3560939,,,Totimpfstoff,
+Q3565868,,,Schienenverkehr,Bahnen|bahn (Verkehr)|Schienenbahnen
+Q3574371,,,Elektronenröhre,
+Q3612401,,,Alliierte,
+Q3707571,,,Riese,Jöte
+Q3778625,,O,Dänisch-niedersächsischer Krieg,Niedersächsisch-Dänischer Krieg
+Q3798668,,O,Luft- und Raumfahrttechnik,
+Q3826351,,,Referent,Denotat|Designat|Bezugsobjekt
+Q3839081,,,Katastrophe,Großschadenslage|Desaster|Verheerung|Großschadensereignis
+Q3852175,,,Gnade,göttliche Gnade
+Q3917681,,,Botschaft,diplomatische Vertretung
+Q3925840,,,Erzählperspektive,
+Q3958441,,,Wirtschaftssektor,
+Q3966286,,,Hinrichtung,Exekution
+Q3967048,,,Sport in Berlin,
+Q4114111,,,Wasserhaltung,Herrenkunst
+Q4120832,GPE,GPE|LOC,Königsberg,
+Q4209223,,,Rechtsstaat,
+Q4218455,,,Qualifikation,"personenbezogene Arbeitsvermögen, das sich aus Fach- und Sozialkompetenz zusammensetzt"
+Q4242225,,,Liste der Großstädte in Deutschland,
+Q4345530,LOC,LOC,Oberitalien,Norditalien
+Q4375399,,,Postleitzahlen in Österreich,
+Q4394526,,,Völkerrecht,Internationales Recht|Allgemeines Völkerrecht
+Q4395224,,,Mälzen,Malzen|Malzherstellung|Mälzung
+Q4404694,,,Kleingartenanlage,Kleingärten|Schrebergärten|Familiengärten|Heimgärten
+Q4464962,LOC,LOC,Nordschleswig,Nordslesvig
+Q4708753,GPE,GPE,Bezirk Zehlendorf,
+Q4964182,,,Philosoph,Philosophin
+Q4970706,,,Bundeskanzler der Bundesrepublik Deutschland,Kanzlerin|Kanzler|Bundeskanzlerin|Bundeskanzler|BK|Bundeskanzlerin der Bundesrepublik Deutschland
+Q5137846,,O,Coalbrookdale by Night,
+Q5169816,,,Altkatholische Kirche,Christkatholische Kirche
+Q5196078,,,Raumkrümmung,
+Q5283295,,,Verwaltung,Administration
+Q5308718,,O,Frühe Neuzeit,Frühneuzeit|Neuere Geschichte|Frühmoderne
+Q5407233,PER,PER,Eugene F. Stoermer,Eugene Filmore Stoermer|Eugene Stoermer|Stoermer
+Q5415686,,,Evangelisch-Lutherische Kirchen,Lutherische Kirchen
+Q5418842,,,Rechtsprechung,Rechtssprechung|Rspr
+Q5431887,,O,soziale Ungleichheit,soziale Ungleichheiten
+Q5530970,,,Geschlechterbinarität,Binäre Geschlechterordnung|Zweigeschlechterordnung|Binäre Geschlechter|Binärität|geschlechtliche Binärität
+Q5747897,,,Heterotrophie,
+Q5783893,,,Sommerhaus,Gartenhaus|Maison de plaisance
+Q6216153,PER,PER,Johann Nepomuk della Croce,Giovanni Nepomuceno Della Croce|Johann Pietro
+Q6308672,,,Dompropst,Domprobst
+Q6452016,,,Höhe über dem mittleren Meeresspiegel,Meereshöhe|Mündungshöhe|Seehöhe|Höhe über dem Meeresspiegel|Quellhöhe
+Q6457238,,,Weltgeschichte,
+Q6499736,,,Wortschatz,Lexikon|Vokabular|Lexik
+Q6501749,,,Generalsekretär,Generalsekretärin|GenSek
+Q6571858,,,Liste der deutschen Bundesländer nach Bruttoinlandsprodukt,
+Q6661985,,,Datenverarbeitung,DV
+Q7050658,,,Reichskanzler,
+Q7382648,,,Mehrheit,Mehrzahl|Majorität
+Q7444705,,,Sektor (Geographie),
+Q7653906,,,Sozialversicherung,
+Q7725310,,,Mehrteiler,Reihe von kreativen Werken|Werkzyklus
+Q7904317,GPE,GPE|LOC|ORG,Kurköln,Erzstift Köln|Erzstift und Kurfürstentum Köln|Fürsterzbistum Köln|Kurfürstentum Köln
+Q7933385,,,Violinsonate,
+Q8250483,,,Letter,Drucktype|Type|Bleiletter
+Q8737769,,,Abfluss,Q|Wasserabfluss|Abflussrate
+Q8988546,,,Altstadt von Zürich,
+Q9347372,,,Studium,Hochschulstudium|Universitätsstudium
+Q10354157,,O,Deutsche Reichsgründung,Gründung des Deutschen Reiches|Gründung des Deutschen Reichs 1871|Gründung des einheitlichen deutschen Nationalstaates|Reichsgründung 1871
+Q10549999,,,Kanon der Literatur,Kanon|Literaturkanon
+Q10563354,,,Liste der Max-Planck-Institute und -Einrichtungen,
+Q11061286,,,Gleichgewicht in der Systemtheorie,Waage|Gleichgewicht (Systemtheorie)
+Q11084414,,O,Moderne,Klassische Moderne
+Q11177275,,LOC,Auwald,Auenwald
+Q11288310,LOC,LOC|GPE,Historisches Zentrum von Wien,
+Q11693783,,,Dekarbonisierung,Entkarbonisierung
+Q11812441,,O,Musikmesse Frankfurt,
+Q12046911,,,Prager deutsche Literatur,
+Q12252328,,,Fußball,Fußballball|Leder|Murmel
+Q12535449,,,Billion,Billionen
+Q12827256,,,Mythos,Mythe|Mythus|Mythisch
+Q13100823,,,Lebensqualität,
+Q13142473,LOC,LOC,Alpenrhein,
+Q13218276,,,Freie Stadt,Freistadt
+Q13221881,,O,Faust. Eine Tragödie.,"Faust 1|Faust. Der Tragödie erster Teil|Faust - der Tragödie erster Teil|Faust : eine Tragödie|Faust I|Faust, 1"
+Q13365595,,,Verhältniswahl,Proporzwahl
+Q13365740,,O,Zweiter Prager Fenstersturz (1618),
+Q13405640,,,Bauwirtschaft,Bauindustrie|Baugewerbe
+Q13409250,,,Luftseilbahn,Seilschwebebahn
+Q13414953,,,Konfession,
+Q13422065,,,Liste der größten Unternehmen in Deutschland,
+Q13522713,,,Deutsche Frage,Deutschlandfrage
+Q13564543,ORG,ORG,NEOS – Das Neue Österreich und Liberales Forum,Neues Österreich und Liberales Forum|NEOS|Neos.eu
+Q13583667,GPE,GPE|LOC,Haverbeck,
+Q13639115,,,Amtssprachen der Europäischen Union,
+Q13930359,,,Volksfest,
+Q14428901,,,Freie Wahl,
+Q14515312,,,Volksentscheid,
+Q14545580,,O,Deutsche Teilung,deutsch-deutsche Teilung|geteiltes Deutschland|Spaltung Deutschlands|Teilung Deutschlands|zwei Staaten in Deutschland
+Q14554973,,,Energietechnik,Energietechnologie
+Q14626453,,,Schienenpersonennahverkehr,SPNV
+Q14664222,,,Weichsel-Kaltzeit,Weichsel-Glazial|Weichsel-Komplex
+Q14784328,,,Landeshauptstadt,
+Q14863645,LOC,LOC,"Das Bauhaus und seine Stätten in Weimar, Dessau und Bernau",
+Q14913114,,,Liste der Kulturdenkmale in Leipzig,
+Q14914921,LOC,LOC,Heilig-Geist-Kirche (Frankfurt-Riederwald),Heilig-Geist-Kirche
+Q14918799,,,Klimazustand,
+Q15053704,,O,Koalitionskriege,
+Q15062956,,,Bundestagswahl 2017,BT-Wahl 2017|BTW 2017
+Q15067276,,,Gesundheitswirtschaft,Gesundheitswesen|Gesundheitssektor|Gesundheitsindustrie|Gesundheitsbranche
+Q15078788,,,Rundfunk,
+Q15094515,ORG,ORG,Kabinett Merkel III,Merkel-Regierung
+Q15107434,ORG,ORG,"Bayerisches Staatsministerium für Gesundheit, Pflege und Prävention",StMGP|Bayerisches Staatsministerium für Gesundheit und Pflege|StMGPP
+Q15130705,ORG,ORG,Städtische Bühnen Frankfurt,
+Q15135208,ORG,ORG,WissenschaftsForum Berlin,
+Q15238777,,,Wahlperiode,Legislaturperiode|Wahlzeit|Gesetzgebungsperiode|Amtsperiode|Legislativperiode
+Q15472169,,,Mäzen,Mäzenat|Mäzenin|Mäzenatin
+Q15477165,,,Lampensockel,
+Q15506975,ORG,ORG,Quandt,
+Q15618591,,O,weltweite automatisierte Massenüberwachung,
+Q15644594,PER,PER,Andrea Lindholz,Andrea Milnik
+Q15645384,,,Weizen,
+Q15675634,,,Frauenbildung,Bildung von Frauen
+Q15735354,,,Backsteinexpressionismus in Hannover,
+Q15781847,GPE,GPE,Agglomeration Berlin,Stadt-Umland-Zusammenhang Berlin-Potsdam
+Q15805431,,,Deutsche Fußballmeisterschaft,
+Q15809323,,,Faschingskostüm,Karnevalskostüm|Fastnachtskostüm
+Q15812103,,,Geschichte der Stadt Nürnberg,
+Q15849408,,,Straßenkunst in Hannover,
+Q15852336,ORG,ORG,VR-Bank Erlangen-Höchstadt-Herzogenaurach,VR-Bank Erlangen-Höchstadt-Herzogenaurach eG
+Q15853126,,,Volkseinkommen,
+Q15907146,,,Kaiserlicher Rat,ksl. Rat
+Q15907187,,,Karnevalslied,
+Q15911738,,,Wasserkraftwerk,
+Q16001535,,,Akzent,Dialekt|Mundart
+Q16102067,,,Liste der Kulturdenkmäler in Hamburg,Denkmalliste Hamburg|Liste der Kulturdenkmäler in Hamburg
+Q16259746,,,Getriebe,
+Q16513426,,,Entscheidung,Bestimmung
+Q16700491,,,Liste von Sehenswürdigkeiten Wiens,Liste der Sehenswürdigkeiten Wiens
+Q16801822,GPE,GPE|LOC,Stadtregion Frankfurt,
+Q16880074,,,Thüringisch-Obersächsisch,thüringisch-obersächsische Dialektgruppe|thüringisch-obersächsischer Dialekt
+Q16980551,,,Bundeshaushaltsplan in Deutschland,Bundeshaushaltsplan (Deutschland)|Bundeshaushaltsplan Deutschlands|Bundeshaushaltsplan von Deutschland|deutscher Bundeshaushaltsplan
+Q17018380,,,Bucht,
+Q17089282,,,Kraftfahrzeugkennzeichen in Europa,
+Q17123031,,,Energiekosten,
+Q17321191,LOC,LOC|ORG,Deutsches Romantik-Museum,
+Q17377208,,,Eisenbahnverkehrsunternehmen,EVU
+Q17387315,ORG,ORG|O,Bundesliga,
+Q18023697,,,Liste der Kulturdenkmale in Bad Cannstatt,
+Q18029996,,,Zentraler Omnibusbahnhof Hannover,ZOB Hannover
+Q18123741,,,Infektionskrankheit,Infekt|Ansteckende Krankheit|Infektionserkrankung
+Q18431490,LOC,LOC,Alpenvorland,
+Q18628560,,,Liste der Baudenkmale im Landkreis Vorpommern-Rügen,
+Q18628649,,,Liste der Kulturdenkmale in Stuttgart,
+Q18629204,,,Migrationshintergrund,Einwanderungsgeschichte|Zuwanderungshintergrund
+Q18629416,LOC,LOC,Neues Theater,
+Q18647563,,,Vertrag über die Europäische Union,EU-Vertrag|EUV
+Q18716357,LOC,LOC,Münsterbrücke,
+Q18752965,,,Ölausstieg,
+Q19232904,,,Verfassung des Deutschen Bundes,DBV|Deutsche Bundesverfassung
+Q19276012,,,Bundesweites Verzeichnis des Immateriellen Kulturerbes,Immaterielles Kulturerbe in Deutschland
+Q19297177,LOC,LOC,Neue Propsteikirche St. Trinitatis,
+Q19644607,,,Pharmaunternehmen,Pharmafirma|Pharmahersteller|Pharmakonzern|Pharmazeutisches Unternehmen|Pharmazieunternehmen
+Q19720696,,,Geschichte des Städtebaus,Stadtbaugeschichte
+Q19834180,,,Agrarkultur,
+Q19963151,LOC,LOC,Kraftwerk Rechtenstein,
+Q19967801,,,Onlinedienst,Internet-Dienst|Online-Dienst|Internetdienst|Internet-Service|Internetservice|Onlineservice|Online-Service
+Q20081142,,,Kunsthandel,
+Q20181689,,,Interesse,politisches Interesse
+Q20183039,,,ISO 7010,DIN EN ISO 7010|EN ISO 7010|ÖNORM EN ISO 7010|SN EN ISO 7010
+Q20191010,,,Liste der größten Städte im deutschen Sprachraum,
+Q20745612,,,Liste der preußischen Ministerpräsidenten,
+Q20820061,,,Dichtung,
+Q20820099,,,de jure/de facto,
+Q20820317,,,Global City,Globalstadt
+Q20825842,,,Standardvarietät,Standarddialekt
+Q20828983,,,Energiesuffizienz,
+Q20850687,,,Nutzerverfolgung,
+Q21012703,,,Präsident der Hamburgischen Bürgerschaft,
+Q21041951,,,Goldener Brief,
+Q21056569,,,Triumphtor,
+Q21161975,LOC,LOC,Altmarkt,Dresdner Altmarkt|Alte Marckt
+Q21271111,,,Liste der Museen in der Region Hannover,
+Q21814515,,,Digitale Agenda für Europa 2020,
+Q22073261,,,Summit,
+Q23457088,,,Gartenlaube,
+Q23775993,,O,Preußische Annexionen 1866,
+Q23786698,,,Internationale Süßwarenmesse,ISM Cologne
+Q24045957,,,Eisenbahnknoten,
+Q24283378,,,Häfen Hannover,
+Q24529780,,,Landspitze,
+Q25040632,,,Energiewende in Deutschland,
+Q25314751,,,Kontinentalwestgermanisches Dialektkontinuum,Deutsch-niederländisch-luxemburgisches_Dialektkontinuum|Deutsch-niederländisches_Dialektkontinuum
+Q25383637,,,Digital Lifestyle,
+Q25394665,,,Inkorporation,
+Q26261757,,,Liveübertragung,Direktübertragung|DÜ
+Q26717101,,,Leiter,
+Q26836351,,,Sektorkopplung,Sektorenkopplung
+Q26882567,ORG,ORG,Zentralinstitut für Physikalische Chemie,ZIPC
+Q27057459,PER,PER,Hendrikje Klein,
+Q27123005,,,Bundestagswahl 2021,BT-Wahl 2021|BTW 2021
+Q27431370,,,politische Willensbildung,Willensbildungsprozess
+Q27763944,,,Liste der größten Städte in Bayern,
+Q27973034,ORG,ORG,Die Linke Berlin,Linke Berlin
+Q28062486,ORG,ORG,Bundesliga e.V.,Bundesliga|Ligaverband|Die Liga|DFL Deutsche Fußball Liga|DFL Deutsche Fußball Liga e.V.|Die Liga – Fußballverband|Die Liga – Fußballverband e.V.|Bundesliga e. V.
+Q28406836,,,Videobeweis,VAR|video assistant referee
+Q28532116,,,Liste der deutschen Außenminister,
+Q28549308,,,Fake News,Falschmeldung
+Q28692710,,,Staatsgebiet,
+Q29034484,,,Reichskanzler (Weimarer Republik),Kanzler|Reichskanzler in der Weimarer Republik|Weimarer Kanzler
+Q29169263,,,Anthropogen,
+Q29584408,,,Steinkohlenbergbau,Steinkohlebergbau|NACE 05.1|NACE 05.10|Steinkohlenabbau
+Q30134101,GPE,GPE|LOC,Metropolregion Rheinland,
+Q31838387,,,Schengener Übereinkommen von 1985,
+Q32008611,,,Liste der größten Seen in Deutschland,
+Q40919890,PER,PER,Josephine Ortleb,Josephine Loulou Ortleb
+Q42402646,,,Volksmärchen,
+Q46621606,,,Seilbahn Zugspitze,
+Q46993637,,O,Bildnis Johann Sebastian Bach,Johann Sebastian Bach|Porträt des Johann Sebastian Bach|Bildnis des Johann Sebastian Bach|Porträt Johann Sebastian Bach
+Q48055676,ORG,ORG,Kabinett Merkel IV,Merkel-Regierung
+Q48799090,,,Liste der Wahlen der römisch-deutschen Könige,
+Q48966707,LOC,LOC,Schloss Herrenhausen,"Hannover-Herrenhausen, Schloss"
+Q51135696,,,Liste der deutschen Städte nach Bruttoinlandsprodukt,
+Q54709360,,,Ungesetzlicher Grenzübertritt im DDR-Recht,
+Q55500770,,,Pelzhandel,
+Q55521040,ORG,ORG,Landesarchiv Thüringen,
+Q56296782,,,Weltkirche,
+Q56297523,,,Plattformkapitalismus,Plattformökonomie|Digitale Ökonomie|Digitaler Kapitalismus
+Q56298568,,,Gebirgsgruppe,
+Q56872999,,,Liste der größten Städte in Nordrhein-Westfalen,
+Q56876037,,,Fernstraßen-Bundesamt,FBA
+Q59866142,,,Liste der größten Städte in Thüringen,
+Q59951700,,,Liste der deutschen Bundesländer nach Fläche,
+Q60054234,LOC,LOC,Weltenburger Enge,
+Q60933643,,,Klimakrise,
+Q61204655,,,Liste der höchsten Sakralgebäude in Deutschland,
+Q61990911,LOC,LOC,Ellerndorfer Wacholderheide,Landschaftsschutzgebiet Ellerndorfer Wacholderheide|LSG Ellerndorfer Wacholderheide
+Q62760439,GPE,GPE,Finanzplatz Düsseldorf,
+Q64865818,,,intelligentes Heim,Smart Home|Smart House
+Q65083733,,O,Schisma,Kirchentrennung
+Q66660868,,,Gemeinnützigkeit,
+Q67874649,,O,Völkerverständigung,Kulturaustausch
+Q71726884,,,Klimafluktuation,Klimafluktuationen
+Q72975645,ORG,ORG,Bundesagentur für Sprunginnovationen,SPRIN-D|SPRIND
+Q73275403,ORG,ORG,Förderverein Romanische Kirchen Köln,
+Q81522442,,O|ORG,Turnbewegung,
+Q84036549,,O,Immaterielles Kulturerbe,
+Q86440621,,,Bürgerschaftswahl in Hamburg 2025,
+Q88103095,,,Liste von Fotounternehmen in Dresden,
+Q89011770,,,Promotion,
+Q89189545,ORG,ORG,Siemens Energy,Siemens Energy AG|Omterra
+Q97371074,,,Biblische Exegese,
+Q100691575,,,Gesetz über digitale Dienste,Digital Services Act|DSA
+Q102259286,,O,Landtags- und Gemeinderatswahl in Wien 2025,Gemeinderatswahl in Wien 2025|Landtagswahl in Wien 2025|Wahl zum 22. Landtag in Wien
+Q104122980,,,Demand-Side-Management,Bedarfsmanagement|Bedarfssteuerung|Laststeuerung|Nachfragemanagement|Nachfragesteuerung
+Q104696754,,,Kohleausstieg,
+Q104788195,LOC,LOC,Verband Region Stuttgart,Verband Region Stuttgart – Körperschaft des öffentlichen Rechts|Verband Region Stuttgart KdöR|VRS
+Q104829590,,,Gesetz über digitale Märkte,Digital Markets Act|DMA
+Q104903474,,,Energiewende nach Staaten,
+Q107343234,,,Frauen im Deutschen Kaiserreich,
+Q108124855,,O,Ernennung Otto von Bismarcks zum preußischen Ministerpräsidenten,
+Q111385333,,,Gründerzeitviertel,
+Q112121897,,,Zuständigkeit,Kompetenz|Jurisdiktion
+Q114245504,,O,Anschlag auf die Nord-Stream-Pipelines,Leckage in den Ostsee-Gaspipelines 2022
+Q114796208,LOC,LOC|GPE,Altstadt,Weimarer Altstadt
+Q115933087,,O,Nibelungensage,
+Q116275766,,,Trema,Tremazeichen
+Q116751209,ORG,ORG,Regierungspräsidium Stuttgart,RPS
+Q116924136,,,Wahl zum Abgeordnetenhaus von Berlin 2026,Wahl des Landesparlamentes in Berlin 2026
+Q118984357,,O,Luftverkehr,
+Q120105676,,,Küchenkraut,
+Q120743748,,,Verwaltungsgliederung Berlins,
+Q121302229,,,Satzschrift,
+Q122870674,ORG,ORG,DB InfraGO,InfraGO
+Q122911643,,,Ozeanschichtung,Stratifikation
+Q123234953,,,Bedeutung,
+Q123508413,,,Wärmepumpenheizung,
+Q124353273,,,Millionenstädte der Welt,
+Q125569548,,,Wohlfahrt,
+Q131051224,,,Politik in Hamburg,Politik (Hamburg)
+Q132861871,,,Liste der Mitglieder der 23. Hamburgischen Bürgerschaft,Liste der Mitglieder der Hamburgischen Bürgerschaft (23. Wahlperiode)
+Q132862023,,O,Bürgerschaftswahl in Hamburg 2030,Bürgerschaftswahl in Hamburg 2030|Wahl zur 24. Hamburgischen Bürgerschaft
+Q134487172,,,Jahresmarkt,
+Q135914081,,,Presse,
+Q137394537,,O,Landtags- und Gemeinderatswahl in Wien 2030,
+Q138714823,,,Verehrung,Verehrer
+Q139854845,,,BMW Alpina,
+Q141270535,LOC,LOC,Silicon Saxony,

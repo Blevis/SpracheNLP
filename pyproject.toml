@@ -4,13 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sprache"
-version = "2.0.0"
-description = "German Wikipedia corpus and spaCy analysis for NLP Tutorial 1 (Group 2)"
+version = "2.1.0"
+description = "German Wikipedia corpus, spaCy analysis and NLTK named-entity recognition (Group 2)"
 requires-python = ">=3.10"
 dependencies = [
     "spacy>=3.7,<3.9",
     "pandas>=2.0",
     "requests>=2.31",
+    "nltk>=3.9",
+    "python-crfsuite>=0.9.10",
 ]
 
 [project.optional-dependencies]

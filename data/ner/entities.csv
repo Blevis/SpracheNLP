@@ -1,0 +1,2067 @@
+file,sent,start,end,text,type,base_type,reading,layer,canonical,qid
+text001.txt,0,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,0,8,10,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text001.txt,1,5,7,"3,7 Millionen",QUANTITY,QUANTITY,literal,outer,"3,7 Millionen",
+text001.txt,1,12,14,891 Quadratkilometern,QUANTITY,QUANTITY,literal,outer,891 Quadratkilometern,
+text001.txt,1,17,18,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text001.txt,1,23,25,Europäischen Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text001.txt,2,2,4,Agglomeration Berlin,GPE,GPE,literal,outer,Agglomeration Berlin,Q15781847
+text001.txt,2,3,4,Berlin,GPE,GPE,literal,inner,Berlin,Q64
+text001.txt,2,7,9,"4,7 Millionen",QUANTITY,QUANTITY,literal,outer,"4,7 Millionen",
+text001.txt,2,13,15,Metropolregion Berlin-Brandenburg,GPE,GPE,literal,outer,Hauptstadtregion Berlin-Brandenburg,Q648102
+text001.txt,2,17,19,"6,2 Millionen",QUANTITY,QUANTITY,literal,outer,"6,2 Millionen",
+text001.txt,4,3,4,Spree,LOC,LOC,literal,outer,Spree,Q1684
+text001.txt,4,5,6,Havel,LOC,LOC,literal,outer,Havel,Q1682
+text001.txt,4,7,8,Dahme,LOC,LOC,literal,outer,Dahme,Q161455
+text001.txt,5,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,5,3,5,13. Jahrhundert,DATE,DATE,literal,outer,13. Jahrhundert,
+text001.txt,6,5,7,Mark Brandenburg,GPE,GPE,literal,outer,Mark Brandenburg,
+text001.txt,6,8,9,Preußens,GPE,GPE,literal,outer,Preußen,Q38872
+text001.txt,6,11,13,Deutschen Reichs,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text001.txt,7,3,8,19. und frühen 20. Jahrhunderts,DATE,DATE,literal,outer,19. und frühen 20. Jahrhunderts,
+text001.txt,7,10,11,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,8,9,10,1945,DATE,DATE,literal,outer,1945,
+text001.txt,8,13,14,Ost-Berlin,GPE,GPE,literal,outer,Ost-Berlin,Q56037
+text001.txt,8,16,17,1949,DATE,DATE,literal,outer,1949,
+text001.txt,8,21,24,Deutschen Demokratischen Republik,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text001.txt,8,26,27,West-Berlin,GPE,GPE,literal,outer,West-Berlin,Q56036
+text001.txt,8,30,31,Bundesrepublik,GPE,GPE,literal,outer,Bundesrepublik,
+text001.txt,9,4,6,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text001.txt,9,6,7,1989,DATE,DATE,literal,outer,1989,
+text001.txt,9,13,14,1990,DATE,DATE,literal,outer,1990,
+text001.txt,9,21,22,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,10,1,2,1999,DATE,DATE,literal,outer,1999,
+text001.txt,10,13,15,Deutschen Bundestages,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text001.txt,11,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,11,7,8,Europa,LOC,LOC,literal,outer,Europa,Q46
+text001.txt,14,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text001.txt,14,11,12,2010,DATE,DATE,literal,outer,2010,
+text001.txt,15,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text002.txt,0,1,2,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text002.txt,0,7,8,Reno,GPE,GPE,literal,outer,Reno,
+text002.txt,0,25,27,"1232,7 km",QUANTITY,QUANTITY,literal,outer,"1232,7 km",
+text002.txt,0,30,31,West-,LOC,LOC,literal,outer,West-,
+text002.txt,0,32,33,Mitteleuropa,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text002.txt,1,3,4,Rheins,LOC,LOC,literal,outer,Rhein,Q584
+text002.txt,1,8,10,Kanton Graubünden,GPE,GPE,literal,outer,Kanton Graubünden,Q11925
+text002.txt,1,16,17,Niederlanden,GPE,GPE,literal,outer,Niederlande,Q55
+text002.txt,1,18,19,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text002.txt,2,6,7,Vorderrhein,LOC,LOC,literal,outer,Vorderrhein,Q673896
+text002.txt,2,8,9,Hinterrhein,LOC,LOC,literal,outer,Hinterrhein,Q668852
+text002.txt,2,18,19,Alpenrhein,LOC,LOC,literal,outer,Alpenrhein,Q13142473
+text002.txt,2,22,23,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text002.txt,2,25,26,Hochrhein,LOC,LOC,literal,outer,Hochrhein,Q650521
+text002.txt,2,34,35,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text002.txt,2,36,37,Seerheins,LOC,LOC,literal,outer,Seerhein,Q481339
+text002.txt,2,39,40,Oberrhein,LOC,LOC,literal,outer,Oberrhein,Q663546
+text002.txt,2,41,42,Mittelrhein,LOC,LOC,literal,outer,Mittelrhein,Q571607
+text002.txt,2,43,44,Niederrhein,LOC,LOC,literal,outer,Niederrhein,
+text002.txt,2,52,53,Waal,LOC,LOC,literal,outer,Waal,Q216171
+text002.txt,2,54,55,Lek,LOC,LOC,literal,outer,Lek,Q1143852
+text002.txt,2,56,57,IJssel,LOC,LOC,literal,outer,IJssel,Q217818
+text002.txt,3,4,5,Rheins,LOC,LOC,literal,outer,Rhein,Q584
+text002.txt,3,12,14,Mittlerem Abfluss,LOC,LOC,literal,outer,Mittlerem Abfluss,
+text002.txt,3,15,16,MQ,GPE,GPE,literal,outer,MQ,
+text002.txt,3,28,29,Aare,LOC,LOC,literal,outer,Aare,Q1675
+text002.txt,3,30,31,Neckar,LOC,LOC,literal,outer,Neckar,Q1673
+text002.txt,3,32,33,Main,LOC,LOC,literal,outer,Main,Q1670
+text002.txt,3,34,35,Mosel,LOC,LOC,literal,outer,Mosel,Q1667
+text002.txt,3,36,37,Maas,LOC,LOC,literal,outer,Maas,Q41986
+text002.txt,4,8,9,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text002.txt,5,7,8,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text002.txt,5,11,12,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text002.txt,5,14,15,Niederlanden,GPE,GPE,literal,outer,Niederlande,Q55
+text002.txt,5,17,18,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text002.txt,6,1,2,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text002.txt,6,6,7,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text002.txt,7,12,13,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text002.txt,7,16,17,Elbe,LOC,LOC,literal,outer,Elbe,Q1644
+text003.txt,0,2,3,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,0,5,6,1782,DATE,DATE,literal,outer,1782,
+text003.txt,0,7,8,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,0,10,13,28. August 1749,DATE,DATE,literal,outer,28. August 1749,
+text003.txt,0,14,17,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text003.txt,0,16,17,Main,LOC,LOC,literal,inner,Main,Q1670
+text003.txt,0,19,22,22. März 1832,DATE,DATE,literal,outer,22. März 1832,
+text003.txt,0,23,24,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text003.txt,2,0,1,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,2,20,23,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text003.txt,2,22,23,Main,LOC,LOC,literal,inner,Main,Q1670
+text003.txt,3,4,5,Cornelia,PER,PER,literal,outer,Cornelia,
+text003.txt,4,7,8,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,4,9,10,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text003.txt,4,11,12,Straßburg,GPE,GPE,literal,outer,Straßburg,Q6602
+text003.txt,4,19,20,Wetzlar,GPE,GPE,literal,outer,Wetzlar,Q4178
+text003.txt,4,21,22,Frankfurt,GPE,GPE,literal,outer,Frankfurt,
+text003.txt,6,10,11,1773,DATE,DATE,literal,outer,1773,
+text003.txt,6,25,26,1774,DATE,DATE,literal,outer,1774,
+text003.txt,7,11,14,1765 bis 1785,DATE,DATE,literal,outer,1765 bis 1785,
+text003.txt,8,2,7,Herzog Carl August von Sachsen-Weimar-Eisenach,PER,PER,literal,outer,Herzog Carl August von Sachsen-Weimar-Eisenach,
+text003.txt,8,10,11,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,8,11,12,1775,DATE,DATE,literal,outer,1775,
+text003.txt,8,16,17,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text003.txt,9,18,20,Weimarer Hoftheater,ORG,ORG,literal,outer,Weimarer Hoftheater,
+text003.txt,10,23,24,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text003.txt,10,28,29,Italien,GPE,GPE,literal,outer,Italien,Q38
+text003.txt,11,3,5,September 1786,DATE,DATE,literal,outer,September 1786,
+text003.txt,11,6,8,Mai 1788,DATE,DATE,literal,outer,Mai 1788,
+text003.txt,12,12,13,1787,DATE,DATE,literal,outer,1787,
+text003.txt,12,17,18,1788,DATE,DATE,literal,outer,1788,
+text003.txt,12,20,22,Torquato Tasso,PER,PER,literal,outer,Torquato Tasso,
+text003.txt,12,23,24,1790,DATE,DATE,literal,outer,1790,
+text004.txt,0,0,3,Heiliges Römisches Reich,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,0,5,8,Sacrum Imperium Romanum,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,0,9,12,Sacrum Romanum Imperium,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,0,17,18,1806,DATE,DATE,literal,outer,1806,
+text004.txt,0,25,27,10. Jahrhundert,DATE,DATE,literal,outer,10. Jahrhundert,
+text004.txt,1,38,39,Europas,LOC,LOC,literal,outer,Europa,Q46
+text004.txt,2,1,6,späten 15. bis 16. Jahrhundert,DATE,DATE,literal,outer,späten 15. bis 16. Jahrhundert,
+text004.txt,2,13,18,Heiliges Römisches Reich Deutscher Nation,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,3,10,12,19. Jahrhundert,DATE,DATE,literal,outer,19. Jahrhundert,
+text004.txt,4,4,5,1871,DATE,DATE,literal,outer,1871,
+text004.txt,4,8,10,Deutschen Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text004.txt,4,21,23,Römisch-Deutsches Reich,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,5,5,7,10. Jahrhundert,DATE,DATE,literal,outer,10. Jahrhundert,
+text004.txt,5,11,12,Ottonen,ORG,ORG,literal,outer,Liudolfinger,Q157106
+text004.txt,5,16,17,Ostfrankenreich,GPE,GPE,literal,outer,Ostfrankenreich,Q153080
+text004.txt,6,4,7,2. Februar 962,DATE,DATE,literal,outer,2. Februar 962,
+text004.txt,6,8,9,Rom,GPE,GPE,literal,outer,Rom,
+text004.txt,6,10,12,Otto I.,PER,PER,literal,outer,Otto I.,Q43915
+text004.txt,6,17,20,Karl der Große,PER,PER,literal,outer,Karl der Große,Q3044
+text004.txt,8,3,4,Ostfrankenreichs,GPE,GPE,literal,outer,Ostfrankenreich,Q153080
+text004.txt,8,7,9,11. Jahrhundert,DATE,DATE,literal,outer,11. Jahrhundert,
+text004.txt,8,18,20,Regnum Teutonicum,GPE,GPE,literal,outer,Regnum Teutonicum,Q175211
+text004.txt,9,4,6,Friedrich Barbarossas,PER,PER,literal,outer,Friedrich I. Barbarossa,Q79789
+text004.txt,9,9,11,Sacrum Imperium,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,9,12,13,1157,DATE,DATE,literal,outer,1157,
+text004.txt,9,15,18,Sacrum Romanum Imperium,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text004.txt,9,19,20,1184,DATE,DATE,literal,outer,1184,
+text004.txt,9,28,29,1254,DATE,DATE,literal,outer,1254,
+text004.txt,10,4,7,Heiligen Römischen Reiches,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text005.txt,0,3,4,München,GPE,GPE,literal,outer,München,Q1726
+text005.txt,0,8,9,Wiesn,LOC,LOC,literal,outer,Theresienwiese,Q700887
+text005.txt,1,3,4,1810,DATE,DATE,literal,outer,1810,
+text005.txt,1,7,8,Theresienwiese,LOC,LOC,literal,outer,Theresienwiese,Q700887
+text005.txt,2,3,5,Mitte September,DATE,DATE,literal,outer,Mitte September,
+text005.txt,2,6,8,Anfang Oktober,DATE,DATE,literal,outer,Anfang Oktober,
+text005.txt,3,3,5,Stadtverwaltung München,ORG,ORG,literal,outer,Landeshauptstadt München,Q1361384
+text005.txt,4,16,18,"13,5 Grad",QUANTITY,QUANTITY,literal,outer,"13,5 Grad",
+text005.txt,4,23,27,"5,8 bis 6,4 Volumenprozent",PERCENT,PERCENT,literal,outer,"5,8 bis 6,4 Volumenprozent",
+text005.txt,5,3,4,2018,DATE,DATE,literal,outer,2018,
+text005.txt,5,7,10,"1,2 Milliarden Euro",MONEY,MONEY,literal,outer,"1,2 Milliarden Euro",
+text005.txt,6,0,1,2026,DATE,DATE,literal,outer,2026,
+text005.txt,6,3,5,"7,4 Millionen",QUANTITY,QUANTITY,literal,outer,"7,4 Millionen",
+text006.txt,0,7,8,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text006.txt,5,6,7,2010,DATE,DATE,literal,outer,2010,
+text006.txt,5,9,11,"1,015 Milliarden",QUANTITY,QUANTITY,literal,outer,"1,015 Milliarden",
+text006.txt,6,0,1,2011,DATE,DATE,literal,outer,2011,
+text006.txt,6,4,6,80 Millionen,QUANTITY,QUANTITY,literal,outer,80 Millionen,
+text006.txt,7,1,2,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text006.txt,7,5,6,2012,DATE,DATE,literal,outer,2012,
+text006.txt,7,7,9,"51,7 Millionen",QUANTITY,QUANTITY,literal,outer,"51,7 Millionen",
+text006.txt,7,15,17,43 Millionen,QUANTITY,QUANTITY,literal,outer,43 Millionen,
+text007.txt,0,13,17,90 bis 105 Millionen,QUANTITY,QUANTITY,literal,outer,90 bis 105 Millionen,
+text007.txt,0,23,25,80 Millionen,QUANTITY,QUANTITY,literal,outer,80 Millionen,
+text007.txt,2,3,4,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text007.txt,2,5,6,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text007.txt,2,8,9,Deutschschweiz,LOC,LOC,literal,outer,Deutschschweiz,Q689055
+text007.txt,2,10,11,Liechtenstein,GPE,GPE,literal,outer,Liechtenstein,Q347
+text007.txt,2,12,13,Luxemburg,GPE,GPE,literal,outer,Luxemburg,Q32
+text007.txt,2,14,15,Ostbelgien,LOC,LOC,literal,outer,Ostbelgien,Q1514886
+text007.txt,2,16,17,Südtirol,GPE,GPE,literal,outer,Autonome Provinz Bozen – Südtirol,Q15124
+text007.txt,2,19,20,Elsass,GPE,GPE,literal,outer,Elsass,Q1142
+text007.txt,2,23,24,Lothringens,LOC,LOC,literal,outer,Lothringen,Q1137
+text007.txt,2,25,26,Nordschleswig,LOC,LOC,literal,outer,Nordschleswig,Q4464962
+text007.txt,3,15,16,Rumänien,GPE,GPE,literal,outer,Rumänien,Q218
+text007.txt,3,20,21,Namibia,GPE,GPE,literal,outer,Namibia,Q1030
+text007.txt,4,7,9,Europäischen Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text007.txt,4,10,11,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text007.txt,8,30,32,19. Jahrhundert,DATE,DATE,literal,outer,19. Jahrhundert,
+text008.txt,0,0,1,München,GPE,GPE,literal,outer,München,Q1726
+text008.txt,0,5,7,Freistaates Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text008.txt,1,4,6,"1,5 Millionen",QUANTITY,QUANTITY,literal,outer,"1,5 Millionen",
+text008.txt,1,10,11,Bayerns,GPE,GPE,literal,outer,Bayern,Q980
+text008.txt,1,15,16,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text008.txt,1,18,22,4.844 Einwohnern pro Quadratkilometer,QUANTITY,QUANTITY,literal,outer,4.844 Einwohnern pro Quadratkilometer,
+text008.txt,1,27,28,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text008.txt,2,0,1,Verwaltungsrechtlich,GPE,GPE,literal,outer,Verwaltungsrechtlich,
+text008.txt,2,2,3,München,GPE,GPE,literal,outer,München,Q1726
+text008.txt,3,5,7,Metropolregion München,GPE,GPE,literal,outer,Metropolregion München,Q880769
+text008.txt,3,6,7,München,GPE,GPE,literal,inner,München,Q1726
+text008.txt,3,9,11,"6,2 Millionen",QUANTITY,QUANTITY,literal,outer,"6,2 Millionen",
+text008.txt,3,15,17,Planungsregion München,LOC,LOC,literal,outer,Planungsregion München,Q1117899
+text008.txt,3,16,17,München,GPE,GPE,literal,inner,München,Q1726
+text008.txt,3,19,21,"2,96 Millionen",QUANTITY,QUANTITY,literal,outer,"2,96 Millionen",
+text008.txt,4,0,1,München,GPE,GPE,literal,outer,München,Q1726
+text008.txt,5,0,1,München,GPE,GPE,literal,outer,München,Q1726
+text008.txt,5,4,6,Bayerischen Landtages,ORG,ORG,literal,outer,Bayerischer Landtag,Q641439
+text008.txt,5,16,18,Landkreises München,GPE,GPE,literal,outer,Landkreises München,
+text008.txt,5,17,18,München,GPE,GPE,literal,inner,München,Q1726
+text008.txt,5,25,26,Oberbayern,GPE,GPE,literal,outer,Oberbayern,Q10562
+text008.txt,5,28,30,Regierungsbezirks Oberbayern,GPE,GPE,literal,outer,Oberbayern,Q10562
+text008.txt,7,18,19,Bayerns,GPE,GPE,literal,outer,Bayern,Q980
+text008.txt,8,36,37,Europas,LOC,LOC,literal,outer,Europa,Q46
+text009.txt,0,1,2,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text009.txt,0,7,8,MQ,GPE,GPE,literal,outer,MQ,
+text009.txt,0,20,22,2857 Kilometern,QUANTITY,QUANTITY,literal,outer,2857 Kilometern,
+text009.txt,0,24,25,Wolga,LOC,LOC,literal,outer,Wolga,Q626
+text009.txt,0,31,32,Europa,LOC,LOC,literal,outer,Europa,Q46
+text009.txt,2,8,9,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text009.txt,2,10,11,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text009.txt,2,12,13,Slowakei,GPE,GPE,literal,outer,Slowakei,Q214
+text009.txt,2,14,15,Ungarn,GPE,GPE,literal,outer,Ungarn,Q28
+text009.txt,2,16,17,Kroatien,GPE,GPE,literal,outer,Kroatien,Q224
+text009.txt,2,18,19,Serbien,GPE,GPE,literal,outer,Serbien,Q403
+text009.txt,2,20,21,Bulgarien,GPE,GPE,literal,outer,Bulgarien,Q219
+text009.txt,2,22,23,Rumänien,GPE,GPE,literal,outer,Rumänien,Q218
+text009.txt,2,24,26,Republik Moldau,GPE,GPE,literal,outer,Moldau,Q217
+text009.txt,2,28,29,Ukraine,GPE,GPE,literal,outer,Ukraine,Q212
+text009.txt,3,1,2,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text009.txt,3,12,13,Brigach,LOC,LOC,literal,outer,Brigach,Q316393
+text009.txt,3,16,17,Breg,LOC,LOC,literal,outer,Breg,Q316397
+text009.txt,3,21,23,Mittleren Schwarzwald,LOC,LOC,literal,outer,Mittlerer Schwarzwald,Q1940689
+text009.txt,4,8,9,Alpenvorland,LOC,LOC,literal,outer,Alpenvorland,Q18431490
+text009.txt,4,11,13,Wiener Becken,LOC,LOC,literal,outer,Wiener Becken,Q688715
+text009.txt,4,18,20,Pannonische Tiefebene,LOC,LOC,literal,outer,Pannonische Tiefebene,Q185032
+text009.txt,4,25,27,Walachische Tiefland,LOC,LOC,literal,outer,Walachische Tiefebene,Q1854529
+text009.txt,5,12,15,Donaudurchbruch bei Beuron,LOC,LOC,literal,outer,Donaudurchbruch bei Beuron,Q1240880
+text009.txt,5,17,20,Donaudurchbruch bei Weltenburg,LOC,LOC,literal,outer,Donaudurchbruch bei Weltenburg,
+text009.txt,5,22,23,Wachau,LOC,LOC,literal,outer,Wachau,Q192201
+text009.txt,5,25,27,Hainburger Pforte,LOC,LOC,literal,outer,Hainburger Pforte,Q375120
+text009.txt,5,34,36,Eiserne Tor,LOC,LOC,literal,outer,Eisernes Tor,Q207376
+text009.txt,6,6,7,Donaudelta,LOC,LOC,literal,outer,Donaudelta,Q184429
+text009.txt,6,8,10,Schwarze Meer,LOC,LOC,literal,outer,Schwarzes Meer,Q166
+text009.txt,7,1,2,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text009.txt,9,8,9,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text010.txt,0,1,3,Siemens AG,ORG,ORG,literal,outer,Siemens,Q81230
+text010.txt,1,2,4,Siemens AG,ORG,ORG,literal,outer,Siemens,Q81230
+text010.txt,2,6,7,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text010.txt,3,2,3,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text010.txt,3,4,5,München,GPE,GPE,literal,outer,München,Q1726
+text010.txt,4,7,8,1847,DATE,DATE,literal,outer,1847,
+text010.txt,4,9,10,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text010.txt,4,14,15,Siemens,ORG,ORG,literal,outer,Siemens,Q81230
+text010.txt,4,16,17,Halske,PER,PER,literal,outer,Johann Georg Halske,Q68353
+text010.txt,4,18,20,Werner Siemens,PER,PER,literal,outer,Werner von Siemens,Q58577
+text010.txt,4,21,24,Johann Georg Halske,PER,PER,literal,outer,Johann Georg Halske,Q68353
+text010.txt,6,9,11,Siemens Healthineers,ORG,ORG,literal,outer,Siemens Healthineers,Q472451
+text010.txt,6,12,14,Siemens Mobility,ORG,ORG,literal,outer,Siemens Mobility,Q391895
+text010.txt,7,5,6,2020,DATE,DATE,literal,outer,2020,
+text010.txt,7,11,14,Siemens Energy AG,ORG,ORG,literal,outer,Siemens Energy,Q89189545
+text010.txt,8,5,6,Siemens,ORG,ORG,literal,outer,Siemens,Q81230
+text011.txt,0,21,24,frühen 16. Jahrhundert,DATE,DATE,literal,outer,frühen 16. Jahrhundert,
+text011.txt,1,6,9,31. Oktober 1517,DATE,DATE,literal,outer,31. Oktober 1517,
+text011.txt,1,12,14,Martin Luther,PER,PER,literal,outer,Martin Luther,Q9554
+text011.txt,1,24,27,Schlosskirche zu Wittenberg,LOC,LOC,literal,outer,Schlosskirche zu Wittenberg,
+text011.txt,1,26,27,Wittenberg,GPE,GPE,literal,inner,Lutherstadt Wittenberg,Q6837
+text011.txt,2,5,6,Wittenberg,GPE,GPE,literal,outer,Lutherstadt Wittenberg,Q6837
+text011.txt,2,10,11,1519,DATE,DATE,literal,outer,1519,
+text011.txt,2,14,15,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text011.txt,3,2,4,1540er Jahren,DATE,DATE,literal,outer,1540er Jahren,
+text011.txt,3,6,7,Genf,GPE,GPE,literal,outer,Genf,Q71
+text011.txt,3,10,12,Johannes Calvins,PER,PER,literal,outer,Johannes Calvin,Q37577
+text011.txt,4,8,11,Heiligen Römischen Reichs,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text011.txt,4,18,19,1555,DATE,DATE,literal,outer,1555,
+text011.txt,5,13,14,1618,DATE,DATE,literal,outer,1618,
+text011.txt,5,23,24,1648,DATE,DATE,literal,outer,1648,
+text011.txt,6,12,14,17. Jahrhundert,DATE,DATE,literal,outer,17. Jahrhundert,
+text012.txt,0,1,3,Brandenburger Tor,LOC,LOC,literal,outer,Brandenburger Tor,Q82425
+text012.txt,0,4,5,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text012.txt,0,16,18,Pariser Platzes,LOC,LOC,literal,outer,Pariser Platz,Q156716
+text012.txt,0,21,22,Mitte,GPE,GPE,literal,outer,Berlin-Mitte,Q2013767
+text012.txt,1,8,9,Dorotheenstadt,GPE,GPE,literal,outer,Berlin-Dorotheenstadt,Q677514
+text012.txt,1,12,15,Unter den Linden,LOC,LOC,literal,outer,Unter den Linden,Q160899
+text012.txt,1,19,22,1789 bis 1793,DATE,DATE,literal,outer,1789 bis 1793,
+text012.txt,1,27,30,Friedrich Wilhelm II,PER,PER,literal,outer,Friedrich Wilhelm II,
+text012.txt,2,3,6,Carl Gotthard Langhans,PER,PER,literal,outer,Carl Gotthard Langhans,Q313181
+text012.txt,3,15,18,Johann Gottfried Schadow,PER,PER,literal,outer,Johann Gottfried Schadow,Q51989
+text012.txt,4,10,12,Großen Tiergartens,LOC,LOC,literal,outer,Großen Tiergarten,
+text012.txt,4,18,22,Straße Unter den Linden,LOC,LOC,literal,outer,Unter den Linden,Q160899
+text012.txt,4,24,28,Straße des 17. Juni,LOC,LOC,literal,outer,Straße des 17. Juni,Q317094
+text012.txt,5,9,13,Platz des 18. März,LOC,LOC,literal,outer,Platz des 18. März,Q481323
+text012.txt,8,8,9,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text012.txt,8,20,21,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text012.txt,9,19,23,19. und 20. Jahrhunderts,DATE,DATE,literal,outer,19. und 20. Jahrhunderts,
+text012.txt,10,13,16,1813 – 1815,DATE,DATE,literal,outer,1813 – 1815,
+text012.txt,11,13,14,Ost-,GPE,GPE,literal,outer,Ost-,
+text012.txt,11,15,16,West-Berlin,GPE,GPE,literal,outer,West-Berlin,Q56036
+text012.txt,11,17,18,Ostsektor,GPE,GPE,literal,outer,Ost-Berlin,Q56037
+text012.txt,11,28,30,Warschauer Pakt,ORG,ORG,literal,outer,Warschauer Pakt,Q41644
+text012.txt,11,31,32,NATO,ORG,ORG,literal,outer,NATO,
+text012.txt,12,3,5,Brandenburger Tor,LOC,LOC,literal,outer,Brandenburger Tor,Q82425
+text012.txt,12,6,7,1990,DATE,DATE,literal,outer,1990,
+text012.txt,12,14,15,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text012.txt,12,16,17,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text012.txt,13,9,10,1958,DATE,DATE,literal,outer,1958,
+text012.txt,14,8,9,2002,DATE,DATE,literal,outer,2002,
+text012.txt,14,13,14,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text013.txt,4,6,8,8. Jahrhundert,DATE,DATE,literal,outer,8. Jahrhundert,
+text013.txt,5,31,32,Europa,LOC,LOC,literal,outer,Europa,Q46
+text013.txt,5,33,34,1440,DATE,DATE,literal,outer,1440,
+text013.txt,5,35,37,Johannes Gutenberg,PER,PER,literal,outer,Johannes Gutenberg,Q8958
+text014.txt,0,45,48,Philipp von Zesen,PER,PER,literal,outer,Philipp von Zesen,Q76458
+text014.txt,0,49,51,Christian Gueintz,PER,PER,literal,outer,Christian Gueintz,Q1080054
+text014.txt,0,52,55,Justus Georg Schottelius,PER,PER,literal,outer,Justus Georg Schottelius,Q71347
+text015.txt,0,0,1,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,0,7,11,Freie und Hansestadt Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,0,13,14,Friee,GPE,GPE,literal,outer,Friee,
+text015.txt,0,16,17,Hamborg,GPE,GPE,literal,outer,Hamborg,
+text015.txt,0,25,27,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text015.txt,1,7,8,Hamburgs,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,1,17,18,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text015.txt,2,0,1,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,2,4,6,"1,87 Millionen",QUANTITY,QUANTITY,literal,outer,"1,87 Millionen",
+text015.txt,2,10,11,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text015.txt,3,2,4,755 Quadratkilometern,QUANTITY,QUANTITY,literal,outer,755 Quadratkilometern,
+text015.txt,3,5,6,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,3,9,10,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text015.txt,4,15,16,Neuwerk,LOC,LOC,literal,outer,Neuwerk,Q1622
+text015.txt,4,19,20,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text015.txt,5,1,3,Hamburger Hafen,LOC,LOC,literal,outer,Hamburger Hafen,Q3964
+text015.txt,5,11,12,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,7,1,2,1996,DATE,DATE,literal,outer,1996,
+text015.txt,7,3,4,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text015.txt,7,7,9,Internationalen Seegerichtshofs,ORG,ORG,literal,outer,Internationaler Seegerichtshof,Q639118
+text015.txt,7,10,11,ISGH,ORG,ORG,literal,outer,Internationaler Seegerichtshof,Q639118
+text015.txt,8,1,2,Speicherstadt,LOC,LOC,literal,outer,Speicherstadt,Q661881
+text015.txt,8,5,6,Kontorhausviertel,GPE,GPE,literal,outer,Kontorhausviertel,Q1783238
+text015.txt,8,8,9,2015,DATE,DATE,literal,outer,2015,
+text015.txt,9,7,9,Hamburger Rathaus,LOC,LOC,literal,outer,Hamburger Rathaus,Q3987
+text015.txt,11,6,8,St. Pauli,GPE,GPE,literal,outer,St. Pauli,Q1556
+text015.txt,11,10,11,Reeperbahn,LOC,LOC,literal,outer,Reeperbahn,Q3976
+text015.txt,11,13,14,2017,DATE,DATE,literal,outer,2017,
+text015.txt,11,16,17,Elbphilharmonie,ORG,ORG,literal,outer,Elbphilharmonie,Q673223
+text016.txt,0,1,2,Elbe,LOC,LOC,literal,outer,Elbe,Q1644
+text016.txt,0,19,20,Tschechien,GPE,GPE,literal,outer,Tschechien,Q213
+text016.txt,0,23,24,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text016.txt,0,28,29,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text016.txt,1,7,8,Nord-,LOC,LOC,literal,outer,Nord-,
+text016.txt,1,9,10,Ostdeutschlands,LOC,LOC,literal,outer,Ostdeutschland,Q919721
+text016.txt,1,17,18,Böhmen,GPE,GPE,literal,outer,Böhmen,Q39193
+text016.txt,2,7,8,Moldau,LOC,LOC,literal,outer,Moldau,Q131574
+text016.txt,2,9,10,Mulde,LOC,LOC,literal,outer,Mulde,Q1680
+text016.txt,2,11,12,Saale,LOC,LOC,literal,outer,Saale,Q1678
+text016.txt,2,13,14,Havel,LOC,LOC,literal,outer,Havel,Q1682
+text016.txt,2,15,16,Spree,LOC,LOC,literal,outer,Spree,Q1684
+text016.txt,2,17,18,Elde,LOC,LOC,literal,outer,Elde,Q1688
+text016.txt,2,19,20,Müritz,LOC,LOC,literal,outer,Müritz,Q3369
+text016.txt,3,15,17,Norddeutschen Tieflandes,LOC,LOC,literal,outer,Norddeutsches Tiefland,Q166004
+text016.txt,4,7,9,148.300 km²,QUANTITY,QUANTITY,literal,outer,148.300 km²,
+text016.txt,4,11,12,Elbe,LOC,LOC,literal,outer,Elbe,Q1644
+text016.txt,4,13,14,Mitteleuropa,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text016.txt,4,19,20,Europa,LOC,LOC,literal,outer,Europa,Q46
+text016.txt,4,25,26,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text016.txt,4,27,28,Weichsel,LOC,LOC,literal,outer,Weichsel,Q548
+text016.txt,4,29,30,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text016.txt,4,33,34,Oder,LOC,LOC,literal,outer,Oder,Q552
+text016.txt,4,35,36,Memel,LOC,LOC,literal,outer,Memel,Q5622
+text017.txt,0,0,2,Albert Einstein,PER,PER,literal,outer,Albert Einstein,Q937
+text017.txt,0,4,7,14. März 1879,DATE,DATE,literal,outer,14. März 1879,
+text017.txt,0,8,9,Ulm,GPE,GPE,literal,outer,Ulm,Q3012
+text017.txt,0,11,14,18. April 1955,DATE,DATE,literal,outer,18. April 1955,
+text017.txt,0,15,16,Princeton,GPE,GPE,literal,outer,Princeton,Q138518
+text017.txt,0,17,19,New Jersey,GPE,GPE,literal,outer,New Jersey,Q1408
+text017.txt,3,0,1,1999,DATE,DATE,literal,outer,1999,
+text017.txt,3,2,4,Albert Einstein,PER,PER,literal,outer,Albert Einstein,Q937
+text017.txt,3,17,19,Isaac Newton,PER,PER,literal,outer,Isaac Newton,Q935
+text017.txt,3,20,23,James Clerk Maxwell,PER,PER,literal,outer,James Clerk Maxwell,Q9095
+text017.txt,3,24,26,Niels Bohr,PER,PER,literal,outer,Niels Bohr,Q7085
+text017.txt,3,27,29,Werner Heisenberg,PER,PER,literal,outer,Werner Heisenberg,Q40904
+text017.txt,4,0,1,Einsteins,PER,PER,literal,outer,Albert Einstein,Q937
+text017.txt,5,2,3,1905,DATE,DATE,literal,outer,1905,
+text017.txt,6,0,1,1915,DATE,DATE,literal,outer,1915,
+text017.txt,8,26,27,1921,DATE,DATE,literal,outer,1921,
+text017.txt,8,30,31,1922,DATE,DATE,literal,outer,1922,
+text017.txt,10,0,1,Einstein,PER,PER,literal,outer,Albert Einstein,Q937
+text018.txt,0,1,4,Bayerische Motoren Werke,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,0,6,7,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,0,17,18,München,GPE,GPE,literal,outer,München,Q1726
+text018.txt,0,22,23,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,1,3,4,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,1,11,12,Mini,ORG,ORG,literal,outer,Mini,
+text018.txt,1,13,14,Rolls-Royce,ORG,ORG,literal,outer,Rolls-Royce,
+text018.txt,1,17,19,BMW M,ORG,ORG,literal,outer,BMW M,Q173339
+text018.txt,1,20,21,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,1,24,25,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,2,0,1,BMW,ORG,ORG,literal,outer,BMW,Q26678
+text018.txt,2,3,6,133 Milliarden Euro,MONEY,MONEY,literal,outer,133 Milliarden Euro,
+text018.txt,2,13,14,2025,DATE,DATE,literal,outer,2025,
+text018.txt,2,18,19,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text018.txt,2,25,27,"2,46 Millionen",QUANTITY,QUANTITY,literal,outer,"2,46 Millionen",
+text018.txt,2,33,34,2025,DATE,DATE,literal,outer,2025,
+text018.txt,3,5,7,"48,5 %",PERCENT,PERCENT,literal,outer,"48,5 %",
+text018.txt,3,8,10,Susanne Klatten,PER,PER,literal,outer,Susanne Klatten,Q289590
+text018.txt,3,11,13,Stefan Quandt,PER,PER,literal,outer,Stefan Quandt,Q75900
+text018.txt,3,17,18,Quandt,PER,PER,literal,outer,Stefan Quandt,Q75900
+text019.txt,0,4,7,1618 bis 1648,DATE,DATE,literal,outer,1618 bis 1648,
+text019.txt,0,14,17,Heiligen Römischen Reich,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text019.txt,0,19,20,Europa,LOC,LOC,literal,outer,Europa,Q46
+text019.txt,1,20,22,Katholischen Liga,ORG,ORG,literal,outer,Katholische Liga,Q731814
+text019.txt,1,25,27,Protestantischen Union,ORG,ORG,literal,outer,Protestantische Union,Q527814
+text019.txt,2,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text019.txt,2,11,12,Spanien,GPE,GPE,literal,outer,Spanien,Q29
+text019.txt,2,20,21,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text019.txt,2,23,24,Niederlanden,GPE,GPE,literal,outer,Niederlande,Q55
+text019.txt,2,25,26,Dänemark,GPE,GPE,literal,outer,Dänemark,Q35
+text019.txt,2,27,28,Schweden,GPE,GPE,literal,outer,Schweden,
+text019.txt,3,16,19,1568 – 1648,DATE,DATE,literal,outer,1568 – 1648,
+text019.txt,3,22,23,Niederlanden,GPE,GPE,literal,outer,Niederlande,Q55
+text019.txt,3,24,25,Spanien,GPE,GPE,literal,outer,Spanien,Q29
+text019.txt,3,30,33,1620 – 1631,DATE,DATE,literal,outer,1620 – 1631,
+text019.txt,3,41,42,Graubünden,GPE,GPE,literal,outer,Kanton Graubünden,Q11925
+text019.txt,3,47,48,1626,DATE,DATE,literal,outer,1626,
+text019.txt,3,53,56,1628 – 1631,DATE,DATE,literal,outer,1628 – 1631,
+text019.txt,3,58,59,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text019.txt,3,60,61,Habsburg,ORG,ORG,literal,outer,Habsburg,Q65968
+text019.txt,3,65,68,1635 – 1659,DATE,DATE,literal,outer,1635 – 1659,
+text019.txt,3,73,76,1643 – 1645,DATE,DATE,literal,outer,1643 – 1645,
+text019.txt,3,81,82,Ostseeraum,LOC,LOC,literal,outer,Ostseeraum,
+text019.txt,3,83,84,Schweden,GPE,GPE,literal,outer,Schweden,
+text019.txt,3,85,86,Dänemark,GPE,GPE,literal,outer,Dänemark,Q35
+text019.txt,4,9,12,23. Mai 1618,DATE,DATE,literal,outer,23. Mai 1618,
+text019.txt,5,9,10,Ferdinand,PER,PER,literal,outer,Ferdinand,
+text019.txt,5,11,12,Steiermark,GPE,GPE,literal,outer,Steiermark,
+text019.txt,5,17,21,Länder der Böhmischen Krone,GPE,GPE,literal,outer,Länder der Böhmischen Krone,Q686971
+text019.txt,5,26,28,Kaiser Matthias,PER,PER,literal,outer,Matthias,Q152157
+text019.txt,5,31,32,Ferdinand,PER,PER,literal,outer,Ferdinand,
+text019.txt,5,32,33,1619,DATE,DATE,literal,outer,1619,
+text019.txt,6,7,10,1618 bis 1648,DATE,DATE,literal,outer,1618 bis 1648,
+text019.txt,6,26,27,Habsburger,ORG,ORG,literal,outer,Habsburg,Q65968
+text019.txt,6,35,38,1618 – 1623,DATE,DATE,literal,outer,1618 – 1623,
+text019.txt,6,44,47,1625 – 1629,DATE,DATE,literal,outer,1625 – 1629,
+text019.txt,6,53,56,1630 – 1635,DATE,DATE,literal,outer,1630 – 1635,
+text019.txt,6,62,65,1635 – 1648,DATE,DATE,literal,outer,1635 – 1648,
+text019.txt,7,11,12,Lübeck,GPE,GPE,literal,outer,Lübeck,Q2843
+text019.txt,7,12,13,1629,DATE,DATE,literal,outer,1629,
+text019.txt,7,17,18,Prag,GPE,GPE,literal,outer,Prag,Q1085
+text019.txt,7,18,19,1635,DATE,DATE,literal,outer,1635,
+text019.txt,8,10,11,Osnabrück,GPE,GPE,literal,outer,Osnabrück,
+text019.txt,8,12,15,1641 – 1648,DATE,DATE,literal,outer,1641 – 1648,
+text020.txt,0,1,3,Kölner Dom,LOC,LOC,literal,outer,Kölner Dom,Q4176
+text020.txt,0,8,9,Köln,GPE,GPE,literal,outer,Köln,Q365
+text020.txt,0,15,16,Köln,GPE,GPE,literal,outer,Köln,Q365
+text020.txt,0,21,22,Petrus,PER,PER,literal,outer,Petrus,Q33923
+text020.txt,1,5,7,Erzbistums Köln,GPE,GPE,literal,outer,Erzbistum Köln,Q11805
+text020.txt,1,6,7,Köln,GPE,GPE,literal,inner,Köln,Q365
+text020.txt,1,10,12,Kirchenprovinz Köln,GPE,GPE,literal,outer,Kirchenprovinz Köln,Q254312
+text020.txt,1,11,12,Köln,GPE,GPE,literal,inner,Köln,Q365
+text020.txt,3,12,14,"157,22 Metern",QUANTITY,QUANTITY,literal,outer,"157,22 Metern",
+text020.txt,3,22,24,Ulmer Münster,LOC,LOC,literal,outer,Ulmer Münster,Q44562
+text020.txt,3,27,28,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text020.txt,4,3,4,1248,DATE,DATE,literal,outer,1248,
+text020.txt,4,8,12,Konrad I. von Hochstaden,PER,PER,literal,outer,Konrad I. von Hochstaden,
+text020.txt,4,15,17,Meister Gerhard,PER,PER,literal,outer,Meister Gerhard,Q95198
+text020.txt,4,19,20,1880,DATE,DATE,literal,outer,1880,
+text020.txt,4,25,28,Friedrich Wilhelm IV,PER,PER,literal,outer,Friedrich Wilhelm IV,
+text020.txt,5,3,6,Ernst Friedrich Zwirner,PER,PER,literal,outer,Ernst Friedrich Zwirner,Q69207
+text020.txt,7,26,28,19. Jahrhundert,DATE,DATE,literal,outer,19. Jahrhundert,
+text020.txt,7,31,32,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text020.txt,9,4,5,1996,DATE,DATE,literal,outer,1996,
+text020.txt,9,13,14,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text021.txt,1,6,8,Albert Einstein,PER,PER,literal,outer,Albert Einstein,Q937
+text021.txt,1,13,14,1905,DATE,DATE,literal,outer,1905,
+text021.txt,1,19,20,1916,DATE,DATE,literal,outer,1916,
+text022.txt,0,0,1,Köln,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,0,7,8,Nordrhein-Westfalen,GPE,GPE,literal,outer,Nordrhein-Westfalen,Q1198
+text022.txt,0,10,12,einer Million,QUANTITY,QUANTITY,literal,outer,einer Million,
+text022.txt,1,10,11,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text022.txt,2,3,4,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text022.txt,2,6,8,Regierungsbezirk Köln,GPE,GPE,literal,outer,Regierungsbezirk Köln,Q7927
+text022.txt,2,7,8,Köln,GPE,GPE,literal,inner,Köln,Q365
+text022.txt,3,1,3,Region Köln/Bonn,ORG,ORG,literal,outer,Region Köln/Bonn e. V.,Q467065
+text022.txt,3,9,11,Kölner Bucht,LOC,LOC,literal,outer,Kölner Bucht,Q884315
+text022.txt,3,12,14,Oberbergischem Land,LOC,LOC,literal,outer,Oberbergischem Land,
+text022.txt,3,16,18,vier Millionen,QUANTITY,QUANTITY,literal,outer,vier Millionen,
+text022.txt,4,2,3,Köln,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,4,7,9,Metropolregion Rheinland,GPE,GPE,literal,outer,Metropolregion Rheinland,Q30134101
+text022.txt,4,8,9,Rheinland,LOC,LOC,literal,inner,Rheinland,Q152243
+text022.txt,4,10,12,"8,7 Millionen",QUANTITY,QUANTITY,literal,outer,"8,7 Millionen",
+text022.txt,4,16,18,Metropolregion Rhein-Ruhr,GPE,GPE,literal,outer,Metropolregion Rhein-Ruhr,Q164903
+text022.txt,4,19,21,"10,2 Millionen",QUANTITY,QUANTITY,literal,outer,"10,2 Millionen",
+text022.txt,5,8,10,Kölner Doms,LOC,LOC,literal,outer,Kölner Dom,Q4176
+text022.txt,5,37,38,Europa,LOC,LOC,literal,outer,Europa,Q46
+text022.txt,6,20,24,Colonia Claudia Ara Agrippinensium,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,6,26,27,Colonia,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,6,28,29,CCAA,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,7,4,5,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text022.txt,7,20,23,Heiligen Römischen Reich,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text022.txt,7,26,27,Kölns,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,8,8,10,Erzbistums Köln,GPE,GPE,literal,outer,Erzbistum Köln,Q11805
+text022.txt,8,9,10,Köln,GPE,GPE,literal,inner,Köln,Q365
+text022.txt,8,16,17,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text022.txt,9,5,6,1803,DATE,DATE,literal,outer,1803,
+text022.txt,9,8,11,Heiligen Römischen Reiches,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text022.txt,9,14,15,Köln,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,9,23,24,1288,DATE,DATE,literal,outer,1288,
+text022.txt,9,28,29,Kurfürstentums,GPE,GPE,literal,outer,Kurfürstentum,
+text022.txt,10,3,4,Köln,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,11,0,1,Köln,GPE,GPE,literal,outer,Köln,Q365
+text022.txt,12,26,27,Ford,ORG,ORG,literal,outer,Ford,Q44294
+text022.txt,12,28,29,Toyota,ORG,ORG,literal,outer,Toyota,Q53268
+text022.txt,12,32,33,Lanxess,ORG,ORG,literal,outer,Lanxess,Q682992
+text022.txt,13,2,3,Lufthansa,ORG,ORG,literal,outer,Lufthansa,Q9325
+text022.txt,14,2,3,Köln,GPE,GPE,literal,outer,Köln,Q365
+text023.txt,0,1,2,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text023.txt,0,7,8,Mitteleuropa,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text023.txt,1,4,5,Obersee,LOC,LOC,literal,outer,Obersee,Q319041
+text023.txt,1,6,8,Überlinger See,LOC,LOC,literal,outer,Überlinger See,Q332894
+text023.txt,1,9,11,Konstanzer Trichter,LOC,LOC,literal,outer,Konstanzer Trichter,Q1418839
+text023.txt,1,13,14,Untersee,LOC,LOC,literal,outer,Untersee,
+text023.txt,1,15,16,Rheinsee,LOC,LOC,literal,outer,Rheinsee,
+text023.txt,1,17,19,Zeller See,LOC,LOC,literal,outer,Zeller See,Q187752
+text023.txt,1,20,21,Gnadensee,LOC,LOC,literal,outer,Gnadensee,Q1533062
+text023.txt,1,22,24,Markelfinger Winkel,LOC,LOC,literal,outer,Markelfinger Winkel,Q1246131
+text023.txt,1,26,27,Seerhein,LOC,LOC,literal,outer,Seerhein,Q481339
+text023.txt,1,30,31,Untersee,LOC,LOC,literal,outer,Untersee,
+text023.txt,1,34,35,Konstanz,GPE,GPE,literal,outer,Konstanz,Q3834
+text023.txt,2,1,2,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text023.txt,2,5,6,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text023.txt,2,7,8,Bodenseebecken,LOC,LOC,literal,outer,Bodenseebecken,Q889703
+text023.txt,2,13,14,Alpenvorlands,LOC,LOC,literal,outer,Alpenvorland,Q18431490
+text023.txt,2,18,19,Alpenrhein,LOC,LOC,literal,outer,Alpenrhein,Q13142473
+text023.txt,2,22,23,Hochrhein,LOC,LOC,literal,outer,Hochrhein,Q650521
+text023.txt,3,2,3,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text023.txt,3,6,7,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text023.txt,3,7,8,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text023.txt,3,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text023.txt,3,11,12,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text023.txt,4,7,8,Untersee,LOC,LOC,literal,outer,Untersee,
+text023.txt,4,9,10,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text023.txt,4,12,13,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text023.txt,5,3,4,Obersees,LOC,LOC,literal,outer,Obersee,Q319041
+text023.txt,6,1,2,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text023.txt,6,6,7,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text023.txt,6,11,12,Österreichs,GPE,GPE,literal,outer,Österreich,Q40
+text023.txt,6,24,25,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text023.txt,7,5,6,Bodensee,LOC,LOC,literal,outer,Bodensee,Q4127
+text024.txt,0,0,3,Ludwig van Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,0,6,9,17. Dezember 1770,DATE,DATE,literal,outer,17. Dezember 1770,
+text024.txt,0,10,11,Bonn,GPE,GPE,literal,outer,Bonn,Q586
+text024.txt,0,16,17,Kurköln,GPE,GPE,literal,outer,Kurköln,Q7904317
+text024.txt,0,19,22,26. März 1827,DATE,DATE,literal,outer,26. März 1827,
+text024.txt,0,23,24,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text024.txt,0,25,27,Kaisertum Österreich,GPE,GPE,literal,outer,Kaisertum Österreich,Q131964
+text024.txt,0,26,27,Österreich,GPE,GPE,literal,inner,Österreich,Q40
+text024.txt,3,7,8,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,5,4,5,Bonn,GPE,GPE,literal,outer,Bonn,Q586
+text024.txt,5,6,7,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text024.txt,7,9,10,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,7,10,11,1802,DATE,DATE,literal,outer,1802,
+text024.txt,8,0,1,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,9,3,4,1812,DATE,DATE,literal,outer,1812,
+text024.txt,10,7,8,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,11,12,13,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,13,10,11,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text024.txt,14,18,20,Missa solemnis,PER,PER,literal,outer,Missa solemnis,
+text024.txt,15,0,1,Beethoven,PER,PER,literal,outer,Ludwig van Beethoven,Q255
+text025.txt,0,7,9,Deutschen Reiches,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text025.txt,0,15,16,1871,DATE,DATE,literal,outer,1871,
+text025.txt,0,25,26,1918,DATE,DATE,literal,outer,1918,
+text025.txt,1,17,18,Bund,GPE,GPE,literal,outer,Bundesebene (Deutschland),Q1005903
+text025.txt,2,4,7,König von Preußen,GPE,GPE,literal,outer,König von Preußen,
+text025.txt,2,6,7,Preußen,GPE,GPE,literal,inner,Preußen,Q38872
+text025.txt,3,0,3,Otto von Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text025.txt,3,6,7,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text025.txt,4,0,1,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text025.txt,4,4,5,Preußens,GPE,GPE,literal,outer,Preußen,Q38872
+text025.txt,5,11,12,Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text025.txt,5,13,14,Württemberg,GPE,GPE,literal,outer,Herzogtum Württemberg,Q2227570
+text025.txt,5,15,16,Baden,GPE,GPE,literal,outer,Baden,
+text025.txt,5,20,21,Mains,LOC,LOC,literal,outer,Main,Q1670
+text025.txt,5,24,25,Hessen-Darmstadt,GPE,GPE,literal,outer,Hessen-Darmstadt,
+text025.txt,5,26,28,Norddeutschen Bund,GPE,GPE,literal,outer,Norddeutscher Bund,Q150981
+text025.txt,6,8,11,1. Januar 1871,DATE,DATE,literal,outer,1. Januar 1871,
+text025.txt,7,5,7,Wilhelm I.,PER,PER,literal,outer,Wilhelm I.,Q150652
+text025.txt,7,11,14,18. Januar 1871,DATE,DATE,literal,outer,18. Januar 1871,
+text025.txt,7,17,18,Versailles,GPE,GPE,literal,outer,Versaille,
+text025.txt,8,4,5,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text025.txt,8,14,15,Elsaß-Lothringen,GPE,GPE,literal,outer,Reichsland Elsaß-Lothringen,Q155144
+text025.txt,8,16,18,Deutschen Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text025.txt,9,5,6,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text025.txt,10,9,12,ausgehenden 19. Jahrhundert,DATE,DATE,literal,outer,ausgehenden 19. Jahrhundert,
+text025.txt,12,7,8,1871,DATE,DATE,literal,outer,1871,
+text025.txt,12,16,17,1873,DATE,DATE,literal,outer,1873,
+text026.txt,3,19,21,Umlautbuchstaben ä,GPE,GPE,literal,outer,Umlautbuchstaben ä,
+text026.txt,11,13,14,Bär,GPE,GPE,literal,outer,Bär,
+text027.txt,0,0,3,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text027.txt,0,2,3,Main,LOC,LOC,literal,inner,Main,Q1670
+text027.txt,0,8,11,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text027.txt,0,16,18,Landes Hessen,GPE,GPE,literal,outer,Hessen,Q1199
+text027.txt,0,21,22,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text027.txt,1,8,12,Region Frankfurt am Main,LOC,LOC,literal,outer,Region Frankfurt am Main,
+text027.txt,1,9,12,Frankfurt am Main,GPE,GPE,literal,inner,Frankfurt am Main,Q1794
+text027.txt,1,15,17,"2,3 Millionen",QUANTITY,QUANTITY,literal,outer,"2,3 Millionen",
+text027.txt,2,2,4,Metropolregion Frankfurt/Rhein-Main,LOC,LOC,literal,outer,Metropolregion Frankfurt/Rhein-Main,
+text027.txt,2,5,6,Rhein-Main-Gebiet,GPE,GPE,literal,outer,Rhein-Main-Gebiet,Q707278
+text027.txt,2,9,11,"5,8 Millionen",QUANTITY,QUANTITY,literal,outer,"5,8 Millionen",
+text027.txt,3,4,7,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text027.txt,3,6,7,Main,LOC,LOC,literal,inner,Main,Q1670
+text027.txt,3,12,13,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text027.txt,4,10,11,1372,DATE,DATE,literal,outer,1372,
+text027.txt,5,4,7,Heiligen Römischen Reiches,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text027.txt,5,7,8,1806,DATE,DATE,literal,outer,1806,
+text027.txt,5,14,17,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text027.txt,5,16,17,Main,LOC,LOC,literal,inner,Main,Q1670
+text027.txt,5,20,21,1562,DATE,DATE,literal,outer,1562,
+text027.txt,6,1,2,1815,DATE,DATE,literal,outer,1815,
+text027.txt,6,5,8,Freie Stadt Frankfurt,GPE,GPE,literal,outer,Freie Stadt Frankfurt,Q704300
+text027.txt,6,12,14,Deutschen Bundes,GPE,GPE,literal,outer,Deutscher Bund,Q151624
+text027.txt,7,1,2,Bundesversammlung,ORG,ORG,literal,outer,Bundestag,Q547751
+text027.txt,7,9,10,Nationalversammlung,ORG,ORG,literal,outer,Weimarer Nationalversammlung,Q649746
+text027.txt,7,12,14,Provisorische Zentralgewalt,ORG,ORG,literal,outer,Provisorische Zentralgewalt,Q604253
+text027.txt,8,5,6,1866,DATE,DATE,literal,outer,1866,
+text027.txt,8,7,8,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text027.txt,10,1,2,1875,DATE,DATE,literal,outer,1875,
+text027.txt,10,9,10,1928,DATE,DATE,literal,outer,1928,
+text027.txt,11,9,10,Frankfurt,GPE,GPE,literal,outer,Frankfurt,
+text027.txt,11,11,12,1998,DATE,DATE,literal,outer,1998,
+text027.txt,12,0,3,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text027.txt,12,2,3,Main,LOC,LOC,literal,inner,Main,Q1670
+text027.txt,13,0,3,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text027.txt,13,2,3,Main,LOC,LOC,literal,inner,Main,Q1670
+text027.txt,13,6,8,Europäischen Zentralbank,ORG,ORG,literal,outer,Europäische Zentralbank,Q8901
+text027.txt,13,10,12,Deutschen Bundesbank,ORG,ORG,literal,outer,Deutsche Bundesbank,Q162222
+text027.txt,13,14,16,Frankfurter Wertpapierbörse,ORG,ORG,literal,outer,Frankfurter Wertpapierbörse,
+text027.txt,13,21,23,Deutsche Bank,ORG,ORG,literal,outer,Deutsche Bank,Q66048
+text027.txt,13,24,25,Commerzbank,ORG,ORG,literal,outer,Commerzbank,Q157617
+text027.txt,13,26,28,DZ Bank,ORG,ORG,literal,outer,DZ Bank,Q524424
+text027.txt,13,29,30,KfW,ORG,ORG,literal,outer,Kreditanstalt für Wiederaufbau,Q658270
+text027.txt,13,34,35,BaFin,ORG,ORG,literal,outer,BaFin,
+text027.txt,13,36,37,EIOPA,ORG,ORG,literal,outer,EIOPA,
+text027.txt,13,39,41,Messe Frankfurt,ORG,ORG,literal,outer,Messe Frankfurt,
+text027.txt,14,18,19,2019,DATE,DATE,literal,outer,2019,
+text027.txt,15,11,14,Deutsche Olympische Sportbund,ORG,ORG,literal,outer,Deutscher Olympischer Sportbund,Q323728
+text027.txt,15,16,18,Deutsche Fußball-Bund,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text027.txt,16,4,6,Eintracht Frankfurt,ORG,ORG,literal,outer,Eintracht Frankfurt,Q38245
+text028.txt,0,0,3,Johann Sebastian Bach,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,2,1,3,31. März,DATE,DATE,literal,outer,31. März,
+text028.txt,3,1,2,Eisenach,GPE,GPE,literal,outer,Eisenach,Q7070
+text028.txt,3,3,4,Sachsen-Eisenach,GPE,GPE,literal,outer,Herzogtum Sachsen-Eisenach,Q696651
+text028.txt,3,6,9,28. Juli 1750,DATE,DATE,literal,outer,28. Juli 1750,
+text028.txt,3,10,11,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text028.txt,3,12,14,Kurfürstentum Sachsen,GPE,GPE,literal,outer,Kurfürstentum Sachsen,Q156199
+text028.txt,3,13,14,Sachsen,GPE,GPE,literal,inner,Sachsen,Q1202
+text028.txt,4,6,8,Musikerfamilie Bach,ORG,ORG,literal,outer,Musikerfamilie Bach,
+text028.txt,4,7,8,Bach,ORG,ORG,literal,inner,Bach,Q169509
+text028.txt,4,16,17,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text028.txt,5,12,13,Bach,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,7,6,7,Toccata,PER,PER,literal,outer,Toccata,
+text028.txt,8,11,12,Bachs,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,10,8,9,Bachs,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,12,4,5,Bach,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,13,14,15,Händel,PER,PER,literal,outer,Georg Friedrich Händel,Q7302
+text028.txt,13,16,17,Telemann,PER,PER,literal,outer,Georg Philipp Telemann,Q75854
+text028.txt,13,19,20,Graupner,PER,PER,literal,outer,Christoph Graupner,Q115067
+text028.txt,14,8,9,Bachs,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text028.txt,16,0,1,Bachs,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text029.txt,0,11,13,Deutsches Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text029.txt,0,21,24,1918 bis 1933,DATE,DATE,literal,outer,1918 bis 1933,
+text029.txt,0,33,35,Deutschen Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text029.txt,1,17,20,9. November 1918,DATE,DATE,literal,outer,9. November 1918,
+text029.txt,2,8,9,NSDAP,ORG,ORG,literal,outer,NSDAP,
+text029.txt,2,12,14,Adolf Hitlers,PER,PER,literal,outer,Adolf Hitler,Q352
+text029.txt,2,17,20,30. Januar 1933,DATE,DATE,literal,outer,30. Januar 1933,
+text029.txt,3,12,14,4. Februar,DATE,DATE,literal,outer,4. Februar,
+text029.txt,3,15,17,28. Februar,DATE,DATE,literal,outer,28. Februar,
+text029.txt,3,23,26,24. März 1933,DATE,DATE,literal,outer,24. März 1933,
+text029.txt,4,3,4,NS-Staat,GPE,GPE,literal,outer,NS-Staat,Q7318
+text029.txt,6,16,18,Verfassunggebenden Nationalversammlung,ORG,ORG,literal,outer,Verfassunggebenden Nationalversammlung,
+text029.txt,6,17,18,Nationalversammlung,ORG,ORG,literal,inner,Weimarer Nationalversammlung,Q649746
+text029.txt,6,21,22,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text029.txt,7,3,5,Deutsches Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text029.txt,8,3,6,Rat der Volksbeauftragten,ORG,ORG,literal,outer,Rat der Volksbeauftragten,Q481601
+text029.txt,8,17,20,19. Januar 1919,DATE,DATE,literal,outer,19. Januar 1919,
+text029.txt,8,24,25,Nationalversammlung,ORG,ORG,literal,outer,Weimarer Nationalversammlung,Q649746
+text029.txt,9,1,3,11. Februar,DATE,DATE,literal,outer,11. Februar,
+text029.txt,9,5,6,Nationalversammlung,ORG,ORG,literal,outer,Weimarer Nationalversammlung,Q649746
+text029.txt,9,6,8,Friedrich Ebert,PER,PER,literal,outer,Friedrich Ebert,Q2646
+text029.txt,9,13,15,13. Februar,DATE,DATE,literal,outer,13. Februar,
+text029.txt,9,16,18,Kabinett Scheidemann,ORG,ORG,literal,outer,Kabinett Scheidemann,Q449668
+text029.txt,10,5,8,14. August 1919,DATE,DATE,literal,outer,14. August 1919,
+text029.txt,11,3,5,Deutsche Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text029.txt,14,11,12,Reichstag,ORG,ORG,literal,outer,Frankfurter Nationalversammlung,Q157638
+text029.txt,15,4,5,Reichsrat,ORG,ORG,literal,outer,Reichsrat,Q565039
+text029.txt,16,8,10,Januar 1919,DATE,DATE,literal,outer,Januar 1919,
+text029.txt,16,15,17,Freistaat Mecklenburg-Strelitz,ORG,ORG,literal,outer,Freistaat Mecklenburg-Strelitz,
+text030.txt,1,8,9,Markt,LOC,LOC,literal,outer,Markt,Q531625
+text030.txt,2,15,17,Neubrandenburger Weberglockenmarkt,GPE,GPE,literal,outer,Neubrandenburger Weberglockenmarkt,
+text030.txt,4,2,3,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text030.txt,4,7,8,1500,DATE,DATE,literal,outer,1500,
+text031.txt,11,9,10,Erdatmosphäre,LOC,LOC,literal,outer,Erdatmosphäre,Q3230
+text033.txt,0,0,1,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,0,3,4,Schduágórd,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,0,8,9,1160,DATE,DATE,literal,outer,1160,
+text033.txt,0,13,14,Stutengarten,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,0,19,21,Landes Baden-Württemberg,GPE,GPE,literal,outer,Baden-Württemberg,Q985
+text033.txt,0,26,29,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text033.txt,1,3,4,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text033.txt,1,6,10,2939 Einwohnern pro Quadratkilometer,QUANTITY,QUANTITY,literal,outer,2939 Einwohnern pro Quadratkilometer,
+text033.txt,1,16,17,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text033.txt,2,2,3,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,2,8,10,"2,8 Millionen",QUANTITY,QUANTITY,literal,outer,"2,8 Millionen",
+text033.txt,2,12,15,Verbands Region Stuttgart,LOC,LOC,literal,outer,Verband Region Stuttgart,Q104788195
+text033.txt,2,14,15,Stuttgart,GPE,GPE,literal,inner,Stuttgart,Q1022
+text033.txt,2,20,21,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text033.txt,3,6,8,Metropolregion Stuttgart,GPE,GPE,literal,outer,Metropolregion Stuttgart,Q451619
+text033.txt,3,7,8,Stuttgart,GPE,GPE,literal,inner,Stuttgart,Q1022
+text033.txt,3,10,12,"5,5 Millionen",QUANTITY,QUANTITY,literal,outer,"5,5 Millionen",
+text033.txt,3,18,19,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text033.txt,4,0,1,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,5,6,7,Landtags,ORG,ORG,literal,outer,Landtag,
+text033.txt,5,14,15,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,6,4,6,Regierungspräsidiums Stuttgart,ORG,ORG,literal,outer,Regierungspräsidium Stuttgart,Q116751209
+text033.txt,6,5,6,Stuttgart,GPE,GPE,literal,inner,Stuttgart,Q1022
+text033.txt,7,1,2,Stuttgart-Mitte,LOC,LOC,literal,outer,Stuttgart-Mitte,Q727750
+text033.txt,7,7,8,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,7,14,16,Regierungsbezirk Stuttgart,GPE,GPE,literal,outer,Regierungsbezirk Stuttgart,Q8172
+text033.txt,7,15,16,Stuttgart,GPE,GPE,literal,inner,Stuttgart,Q1022
+text033.txt,8,3,4,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text033.txt,8,9,10,Württemberg,GPE,GPE,literal,outer,Herzogtum Württemberg,Q2227570
+text033.txt,8,14,16,Diözese Rottenburg-Stuttgart,GPE,GPE,literal,outer,Diözese Rottenburg-Stuttgart,Q835426
+text033.txt,10,14,16,Stuttgarter Talkessel,LOC,LOC,literal,outer,Stuttgarter Talkessel,Q1707601
+text033.txt,10,18,19,Neckartal,LOC,LOC,literal,outer,Neckartal,
+text033.txt,10,23,24,Rosensteinpark,LOC,LOC,literal,outer,Rosensteinpark,Q882827
+text033.txt,10,25,26,Schlossgarten,LOC,LOC,literal,outer,Schlossgarten,Q569214
+text033.txt,10,27,28,Killesbergpark,LOC,LOC,literal,outer,Killesbergpark,
+text033.txt,10,46,48,Bad Cannstatt,GPE,GPE,literal,outer,Bad Cannstatt,
+text034.txt,0,1,2,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,0,4,6,2962 m,QUANTITY,QUANTITY,literal,outer,2962 m,
+text034.txt,0,12,13,Wettersteingebirges,LOC,LOC,literal,outer,Wettersteingebirge,Q264223
+text034.txt,0,15,16,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text034.txt,1,5,6,Garmisch-Partenkirchen,LOC,LOC,literal,outer,Garmisch-Partenkirchen,Q127043
+text034.txt,1,7,8,Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text034.txt,1,11,12,Tirols,GPE,GPE,literal,outer,Tirol,Q42880
+text034.txt,2,17,18,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text034.txt,2,19,20,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text034.txt,4,4,5,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,4,15,17,Nördliche Schneeferner,LOC,LOC,literal,outer,Nördliche Schneeferner,
+text034.txt,4,28,29,Höllentalferner,LOC,LOC,literal,outer,Höllentalferner,Q896510
+text034.txt,5,6,7,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,5,8,9,1820,DATE,DATE,literal,outer,1820,
+text034.txt,5,17,19,Josef Naus,PER,PER,literal,outer,Josef Naus,Q1705354
+text034.txt,5,22,23,Maier,PER,PER,literal,outer,Maier,
+text034.txt,5,26,29,Johann Georg Tauschl,PER,PER,literal,outer,Johann Georg Tauschl,
+text034.txt,6,13,14,Höllental,LOC,LOC,literal,outer,Höllental,Q884567
+text034.txt,6,19,20,Reintal,LOC,LOC,literal,outer,Reintal,Q836174
+text034.txt,7,9,10,Ostalpen,LOC,LOC,literal,outer,Ostalpen,Q63817
+text034.txt,7,12,13,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,8,10,11,Zugspitzbahn,LOC,LOC,literal,outer,Bayerische Zugspitzbahn,Q644587
+text034.txt,8,13,15,Bayerischen Zugspitzbahn,LOC,LOC,literal,outer,Bayerische Zugspitzbahn,Q644587
+text034.txt,8,18,19,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,10,2,3,Zugspitzbahn,LOC,LOC,literal,outer,Bayerische Zugspitzbahn,Q644587
+text034.txt,10,6,7,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,11,1,3,Bayerische Zugspitzbahn,LOC,LOC,literal,outer,Bayerische Zugspitzbahn,Q644587
+text034.txt,11,21,22,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text034.txt,11,31,32,Zugspitze,LOC,LOC,literal,outer,Zugspitze,Q3375
+text035.txt,0,0,3,Wolfgang Amadeus Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,1,0,2,Jänner 1756,DATE,DATE,literal,outer,Jänner 1756,
+text035.txt,1,3,4,Salzburg,GPE,GPE,literal,outer,Salzburg,Q34713
+text035.txt,1,5,7,Erzstift Salzburg,GPE,GPE,literal,outer,Erzstift Salzburg,Q701614
+text035.txt,1,6,7,Salzburg,GPE,GPE,literal,inner,Salzburg,Q34713
+text035.txt,1,9,12,5. Dezember 1791,DATE,DATE,literal,outer,5. Dezember 1791,
+text035.txt,1,13,14,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text035.txt,1,15,17,Erzherzogtum Österreich,GPE,GPE,literal,outer,Erzherzogtum Österreich,Q699964
+text035.txt,1,16,17,Österreich,GPE,GPE,literal,inner,Österreich,Q40
+text035.txt,1,24,27,Wolfgang Amadé Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,3,0,1,Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,3,9,11,Maria Anna,PER,PER,literal,outer,Maria Anna,
+text035.txt,3,15,17,Leopold Mozart,PER,PER,literal,outer,Leopold Mozart,Q156280
+text035.txt,4,1,2,1762,DATE,DATE,literal,outer,1762,
+text035.txt,4,11,12,Westeuropa,LOC,LOC,literal,outer,Westeuropa,Q27496
+text035.txt,4,13,14,Italien,GPE,GPE,literal,outer,Italien,Q38
+text035.txt,5,2,3,Mozarts,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,5,14,15,Italien,GPE,GPE,literal,outer,Italien,Q38
+text035.txt,5,16,19,1772 bis 1777,DATE,DATE,literal,outer,1772 bis 1777,
+text035.txt,6,5,6,Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,6,9,12,Anna Maria Mozart,PER,PER,literal,outer,Anna Maria Mozart,Q167981
+text035.txt,6,14,15,1777,DATE,DATE,literal,outer,1777,
+text035.txt,6,19,20,München,GPE,GPE,literal,outer,München,Q1726
+text035.txt,6,21,22,Augsburg,GPE,GPE,literal,outer,Augsburg,Q2749
+text035.txt,6,23,24,Mannheim,GPE,GPE,literal,outer,Mannheim,Q2119
+text035.txt,6,38,39,Paris,GPE,GPE,literal,outer,Paris,Q90
+text035.txt,7,2,3,Mozarts,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,7,6,7,1778,DATE,DATE,literal,outer,1778,
+text035.txt,8,4,5,Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,8,11,12,Salzburg,GPE,GPE,literal,outer,Salzburg,Q34713
+text035.txt,8,17,18,1779,DATE,DATE,literal,outer,1779,
+text035.txt,8,21,22,1781,DATE,DATE,literal,outer,1781,
+text035.txt,8,26,29,Hieronymus von Colloredo,PER,PER,literal,outer,Hieronymus von Colloredo,Q615681
+text035.txt,9,1,3,Jänner 1781,DATE,DATE,literal,outer,Jänner 1781,
+text035.txt,9,6,7,München,GPE,GPE,literal,outer,München,Q1726
+text035.txt,10,2,3,1781,DATE,DATE,literal,outer,1781,
+text035.txt,10,9,10,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text035.txt,11,0,1,Mozart,PER,PER,literal,outer,Wolfgang Amadeus Mozart,Q254
+text035.txt,11,9,10,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text035.txt,12,19,21,Dezember 1787,DATE,DATE,literal,outer,Dezember 1787,
+text035.txt,13,5,6,1786,DATE,DATE,literal,outer,1786,
+text036.txt,0,1,4,Deutsche Bahn AG,ORG,ORG,literal,outer,Deutsche Bahn,Q9322
+text036.txt,0,6,8,DB AG,ORG,ORG,literal,outer,Deutsche Bahn,Q9322
+text036.txt,0,9,10,DB,ORG,ORG,literal,outer,Deutsche Bundesbahn,Q687175
+text036.txt,1,6,8,DB Fernverkehr,ORG,ORG,literal,outer,DB Fernverkehr,Q452140
+text036.txt,1,12,14,DB Regio,ORG,ORG,literal,outer,DB Regio,Q18853
+text036.txt,1,18,20,DB Cargo,ORG,ORG,literal,outer,DB Cargo,Q44353
+text036.txt,1,29,31,DB InfraGO,ORG,ORG,literal,outer,DB InfraGO,Q122870674
+text036.txt,3,1,2,DB,ORG,ORG,literal,outer,Deutsche Bundesbahn,Q687175
+text036.txt,3,16,17,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text036.txt,4,1,2,DB,ORG,ORG,literal,outer,Deutsche Bundesbahn,Q687175
+text036.txt,4,3,4,1994,DATE,DATE,literal,outer,1994,
+text036.txt,4,8,10,Deutschen Bundesbahn,ORG,ORG,literal,outer,Deutsche Bundesbahn,Q687175
+text036.txt,4,12,14,Deutschen Reichsbahn,ORG,ORG,literal,outer,Deutsche Reichsbahn (1945–1993),Q700563
+text036.txt,5,3,5,Deutsche Bahn,ORG,ORG,literal,outer,Deutsche Bahn,Q9322
+text036.txt,5,18,19,Bund,GPE,GPE,literal,outer,Bundesebene (Deutschland),Q1005903
+text036.txt,5,23,26,Bundesministerium für Verkehr,ORG,ORG,literal,outer,Bundesministerium für Verkehr,Q491637
+text036.txt,5,27,28,BMV,ORG,ORG,literal,outer,Bundesministerium für Verkehr,Q491637
+text037.txt,0,1,3,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,0,7,8,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text037.txt,0,11,14,Deutschen Demokratischen Republik,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,0,15,16,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,0,20,23,13. August 1961,DATE,DATE,literal,outer,13. August 1961,
+text037.txt,0,25,28,9. November 1989,DATE,DATE,literal,outer,9. November 1989,
+text037.txt,0,31,32,West-Berlin,GPE,GPE,literal,outer,West-Berlin,Q56036
+text037.txt,0,35,36,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,1,8,9,Groß-Berlins,GPE,GPE,literal,outer,Groß-Berlin,
+text037.txt,1,16,17,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,1,46,47,Potsdam,GPE,GPE,literal,outer,Potsdam,
+text037.txt,3,2,4,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,3,10,11,Westdeutschland,LOC,LOC,literal,outer,Westdeutschland,Q181576
+text037.txt,3,13,15,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text037.txt,3,18,19,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,4,1,3,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,4,8,9,Berlins,GPE,GPE,literal,outer,Berlin,Q64
+text037.txt,4,14,15,Alliierten,GPE,GPE,literal,outer,Alliierte,Q329888
+text037.txt,4,32,34,Vereinigten Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text037.txt,4,35,36,Westmächten,ORG,ORG,literal,outer,Westmächte,Q1507074
+text037.txt,4,42,43,Sowjetunion,GPE,GPE,literal,outer,Sowjetunion,Q15180
+text037.txt,5,9,10,Sowjetunion,GPE,GPE,literal,outer,Sowjetunion,Q15180
+text037.txt,5,10,13,Anfang August 1961,DATE,DATE,literal,outer,Anfang August 1961,
+text037.txt,5,21,22,DDR-Regierung,ORG,ORG,literal,outer,Ministerrat der Deutschen Demokratischen Republik,Q567559
+text037.txt,6,1,3,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,6,5,7,1378 Kilometer,QUANTITY,QUANTITY,literal,outer,1378 Kilometer,
+text037.txt,6,12,13,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,7,4,5,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text037.txt,7,7,8,1960,DATE,DATE,literal,outer,1960,
+text037.txt,7,25,26,1982,DATE,DATE,literal,outer,1982,
+text037.txt,8,5,7,155 Kilometer,QUANTITY,QUANTITY,literal,outer,155 Kilometer,
+text037.txt,8,14,15,West-Berlin,GPE,GPE,literal,outer,West-Berlin,Q56036
+text037.txt,8,25,26,2009,DATE,DATE,literal,outer,2009,
+text037.txt,9,7,9,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,10,1,3,Berliner Mauer,LOC,LOC,literal,outer,Berliner Mauer,Q5086
+text037.txt,10,7,10,9. November 1989,DATE,DATE,literal,outer,9. November 1989,
+text038.txt,2,6,7,Rheinland,LOC,LOC,literal,outer,Rheinland,Q152243
+text038.txt,3,7,8,Lateinamerika,LOC,LOC,literal,outer,Lateinamerika,Q12585
+text038.txt,3,13,14,Oruro,GPE,GPE,literal,outer,Oruro,
+text038.txt,3,18,19,Rio,GPE,GPE,literal,outer,Rio,
+text038.txt,4,6,7,Venedig,GPE,GPE,literal,outer,Venedig,
+text038.txt,4,9,10,Kanada,GPE,GPE,literal,outer,Kanada,
+text038.txt,4,13,14,Québec,GPE,GPE,literal,outer,Québec,
+text038.txt,4,22,23,Ostkantone,LOC,LOC,literal,outer,Ostbelgien,Q1514886
+text038.txt,4,25,26,Spanien,GPE,GPE,literal,outer,Spanien,Q29
+text038.txt,4,27,33,Karneval von Santa Cruz de Tenerife,ORG,ORG,literal,outer,Karneval von Santa Cruz de Tenerife,
+text038.txt,4,37,38,Cádiz,GPE,GPE,literal,outer,Cádiz,Q15682
+text038.txt,5,3,4,Südstaaten,LOC,LOC,literal,outer,Südstaaten,Q49042
+text038.txt,5,5,7,Vereinigten Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text038.txt,6,4,6,New Orleans,GPE,GPE,literal,outer,New Orleans,Q34404
+text038.txt,7,3,4,Namibia,GPE,GPE,literal,outer,Namibia,Q1030
+text040.txt,0,1,2,Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text040.txt,1,5,8,7. Juli 1880,DATE,DATE,literal,outer,7. Juli 1880,
+text040.txt,1,9,11,Konrad Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text040.txt,2,6,7,Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text040.txt,2,10,11,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text040.txt,2,14,15,1996,DATE,DATE,literal,outer,1996,
+text040.txt,2,24,27,1947 – 1991,DATE,DATE,literal,outer,1947 – 1991,
+text040.txt,3,12,16,Rats für deutsche Rechtschreibung,ORG,ORG,literal,outer,Rats für deutsche Rechtschreibung,
+text040.txt,3,22,23,2022,DATE,DATE,literal,outer,2022,
+text040.txt,3,26,27,Cornelsen,ORG,ORG,literal,outer,Cornelsen,
+text040.txt,4,7,8,Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text040.txt,5,1,3,20. Jahrhundert,DATE,DATE,literal,outer,20. Jahrhundert,
+text040.txt,5,5,6,Dudenverlag,ORG,ORG,literal,outer,Dudenverlag,
+text040.txt,5,22,23,Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text040.txt,7,4,5,Duden,PER,PER,literal,outer,Konrad Duden,Q65340
+text041.txt,0,0,1,Düsseldorf,GPE,GPE,literal,outer,Düsseldorf,Q1718
+text041.txt,0,3,5,Platt Düsseldörp,GPE,GPE,literal,outer,Platt Düsseldörp,
+text041.txt,0,9,10,Nordrhein-Westfalens,GPE,GPE,literal,outer,Nordrhein-Westfalen,Q1198
+text041.txt,0,12,13,Behördensitz,GPE,GPE,literal,outer,Behördensitz,
+text041.txt,0,14,16,Regierungsbezirks Düsseldorf,GPE,GPE,literal,outer,Regierungsbezirk Düsseldorf,Q7926
+text041.txt,0,15,16,Düsseldorf,GPE,GPE,literal,inner,Düsseldorf,Q1718
+text041.txt,1,4,5,Rhein,LOC,LOC,literal,outer,Rhein,Q584
+text041.txt,1,10,13,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text041.txt,1,23,24,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text041.txt,2,0,1,Düsseldorf,GPE,GPE,literal,outer,Düsseldorf,Q1718
+text041.txt,2,5,7,"217,41 Quadratkilometern",QUANTITY,QUANTITY,literal,outer,"217,41 Quadratkilometern",
+text041.txt,2,10,14,2.849 Einwohnern pro Quadratkilometer,QUANTITY,QUANTITY,literal,outer,2.849 Einwohnern pro Quadratkilometer,
+text041.txt,2,19,20,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text041.txt,3,7,9,Metropolregion Rhein-Ruhr,GPE,GPE,literal,outer,Metropolregion Rhein-Ruhr,Q164903
+text041.txt,3,11,13,"11,4 Millionen",QUANTITY,QUANTITY,literal,outer,"11,4 Millionen",
+text041.txt,3,16,18,Metropolregion Rheinland,GPE,GPE,literal,outer,Metropolregion Rheinland,Q30134101
+text041.txt,3,17,18,Rheinland,LOC,LOC,literal,inner,Rheinland,Q152243
+text041.txt,3,19,21,"8,7 Millionen",QUANTITY,QUANTITY,literal,outer,"8,7 Millionen",
+text041.txt,5,12,13,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text041.txt,6,3,4,Düsseldorf,GPE,GPE,literal,outer,Düsseldorf,Q1718
+text041.txt,6,6,7,Altstadt,GPE,GPE,literal,outer,Altstadt,Q445486
+text041.txt,6,18,19,Königsallee,LOC,LOC,literal,outer,Königsallee,Q694675
+text041.txt,6,21,22,Kö,LOC,LOC,literal,outer,Königsallee,Q694675
+text041.txt,7,31,32,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text042.txt,0,1,2,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,0,17,18,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text042.txt,0,22,23,Norddeutschlands,LOC,LOC,literal,outer,Norddeutschland,Q46613
+text042.txt,1,5,6,Niedersachsen,GPE,GPE,literal,outer,Niedersachsen,Q1197
+text042.txt,1,7,8,Sachsen-Anhalt,GPE,GPE,literal,outer,Sachsen-Anhalt,Q1206
+text042.txt,1,9,10,Thüringen,GPE,GPE,literal,outer,Thüringen,Q1205
+text042.txt,2,2,3,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,2,8,9,Goslar,GPE,GPE,literal,outer,Goslar,Q3896
+text042.txt,2,10,11,Göttingen,GPE,GPE,literal,outer,Göttingen,
+text042.txt,2,18,19,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,2,20,21,Mansfeld-Südharz,LOC,LOC,literal,outer,Mansfeld-Südharz,
+text042.txt,2,25,27,Landkreis Nordhausen,GPE,GPE,literal,outer,Landkreis Nordhausen,Q7858
+text042.txt,3,1,2,Brocken,LOC,LOC,literal,outer,Brocken,Q155721
+text042.txt,3,4,6,"1141,2 m",QUANTITY,QUANTITY,literal,outer,"1141,2 m",
+text042.txt,3,16,17,Sachsen-Anhalt,GPE,GPE,literal,outer,Sachsen-Anhalt,Q1206
+text042.txt,4,1,2,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,6,6,7,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,7,1,2,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,7,4,6,Nationalpark Harz,GPE,GPE,literal,outer,Nationalpark Harz,Q702540
+text042.txt,7,10,11,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,7,12,13,Niedersachsen,GPE,GPE,literal,outer,Niedersachsen,Q1197
+text042.txt,7,15,16,Harz/Sachsen-Anhalt,LOC,LOC,literal,outer,Naturpark Harz/Sachsen-Anhalt,Q1970503
+text042.txt,7,17,21,Naturpark Harz Sachsen-Anhalt/Mansfelder Land,LOC,LOC,literal,outer,Naturpark Harz Sachsen-Anhalt/Mansfelder Land,
+text042.txt,7,18,19,Harz,LOC,LOC,literal,inner,Harz,Q4186
+text042.txt,7,22,23,Südharz,LOC,LOC,literal,outer,Naturpark Südharz,Q1970670
+text042.txt,7,26,29,Biosphärenreservat Karstlandschaft Südharz,LOC,LOC,literal,outer,Biosphärenreservat Karstlandschaft Südharz,Q864744
+text042.txt,7,28,29,Südharz,LOC,LOC,literal,inner,Naturpark Südharz,Q1970670
+text042.txt,8,7,8,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,8,12,13,Ostfalen,GPE,GPE,literal,outer,Ostfalen,
+text042.txt,9,1,2,Harz,LOC,LOC,literal,outer,Harz,Q4186
+text042.txt,9,10,11,Goslar,GPE,GPE,literal,outer,Goslar,Q3896
+text042.txt,9,12,13,Quedlinburg,GPE,GPE,literal,outer,Quedlinburg,Q40623
+text042.txt,9,15,17,Lutherstadt Eisleben,GPE,GPE,literal,outer,Eisleben,Q484870
+text042.txt,9,19,20,Rammelsberg,LOC,LOC,literal,outer,Rammelsberg,Q155999
+text042.txt,9,22,24,Oberharzer Wasserregal,LOC,LOC,literal,outer,Oberharzer Wasserregal,Q519907
+text043.txt,0,0,2,Immanuel Kant,PER,PER,literal,outer,Immanuel Kant,Q9312
+text043.txt,0,4,7,22. April 1724,DATE,DATE,literal,outer,22. April 1724,
+text043.txt,0,8,9,Königsberg,GPE,GPE,literal,outer,Königsberg,Q4120832
+text043.txt,0,10,11,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text043.txt,0,13,16,12. Februar 1804,DATE,DATE,literal,outer,12. Februar 1804,
+text043.txt,0,33,34,Königsberg,GPE,GPE,literal,outer,Königsberg,Q4120832
+text043.txt,1,0,1,Kant,PER,PER,literal,outer,Immanuel Kant,Q9312
+text043.txt,4,0,1,Kants,PER,PER,literal,outer,Immanuel Kant,Q9312
+text043.txt,5,2,3,Kant,PER,PER,literal,outer,Immanuel Kant,Q9312
+text043.txt,6,1,4,Johann Gottlieb Fichte,PER,PER,literal,outer,Johann Gottlieb Fichte,Q102585
+text043.txt,6,5,9,Georg Wilhelm Friedrich Hegel,PER,PER,literal,outer,Georg Wilhelm Friedrich Hegel,Q9235
+text043.txt,6,10,14,Friedrich Wilhelm Joseph Schelling,PER,PER,literal,outer,Friedrich Wilhelm Joseph Schelling,
+text044.txt,0,13,14,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text044.txt,0,23,24,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text044.txt,0,28,29,1989,DATE,DATE,literal,outer,1989,
+text044.txt,0,30,31,1990,DATE,DATE,literal,outer,1990,
+text044.txt,0,36,39,Deutschen Demokratischen Republik,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text044.txt,0,40,42,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text044.txt,0,43,46,3. Oktober 1990,DATE,DATE,literal,outer,3. Oktober 1990,
+text044.txt,1,10,12,3. Oktober,DATE,DATE,literal,outer,3. Oktober,
+text044.txt,2,9,10,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text044.txt,2,16,17,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text044.txt,2,19,23,Öffnung der Berliner Mauer,LOC,LOC,literal,outer,Öffnung der Berliner Mauer,
+text044.txt,2,21,23,Berliner Mauer,LOC,LOC,literal,inner,Berliner Mauer,Q5086
+text044.txt,2,24,27,9. November 1989,DATE,DATE,literal,outer,9. November 1989,
+text044.txt,2,36,37,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text044.txt,3,25,26,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text044.txt,4,13,14,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text044.txt,4,17,18,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text044.txt,5,12,14,März 1990,DATE,DATE,literal,outer,März 1990,
+text044.txt,5,19,24,"Währungs- , Wirtschafts- und Sozialunion",ORG,ORG,literal,outer,"Währungs-, Wirtschafts- und Sozialunion",Q2595976
+text044.txt,6,1,4,20. September 1990,DATE,DATE,literal,outer,20. September 1990,
+text044.txt,6,6,9,Volkskammer der DDR,ORG,ORG,literal,outer,Volkskammer,Q168396
+text044.txt,6,8,9,DDR,GPE,GPE,literal,inner,Deutsche Demokratische Republik,Q16957
+text044.txt,6,11,13,Deutsche Bundestag,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text044.txt,6,16,18,31. August,DATE,DATE,literal,outer,31. August,
+text044.txt,6,25,26,Bundesrat,ORG,ORG,literal,outer,Bundesrat,Q146138
+text045.txt,0,7,8,Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text045.txt,0,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text045.txt,1,9,10,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text045.txt,1,11,12,Elsass,GPE,GPE,literal,outer,Elsass,Q1142
+text045.txt,1,13,14,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text045.txt,1,15,16,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text045.txt,1,17,18,Südtirol,GPE,GPE,literal,outer,Autonome Provinz Bozen – Südtirol,Q15124
+text045.txt,3,9,10,Bildergebäck,PER,PER,literal,outer,Bildergebäck,
+text047.txt,0,0,1,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,0,22,25,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text047.txt,0,33,36,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text047.txt,0,41,43,Freistaat Sachsen,GPE,GPE,literal,outer,Freistaat Sachsen,
+text047.txt,0,42,43,Sachsen,GPE,GPE,literal,inner,Sachsen,Q1202
+text047.txt,0,49,50,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text047.txt,1,1,2,Mitteldeutschland,LOC,LOC,literal,outer,Mitteldeutschland,Q524856
+text047.txt,2,0,1,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,2,6,7,Sachsens,GPE,GPE,literal,outer,Sachsen,Q1202
+text047.txt,2,12,14,35 Kilometer,QUANTITY,QUANTITY,literal,outer,35 Kilometer,
+text047.txt,2,16,17,Halle,GPE,GPE,literal,outer,Halle (Saale),Q2814
+text047.txt,2,18,19,Saale,LOC,LOC,literal,outer,Saale,Q1678
+text047.txt,2,22,23,Sachsen-Anhalt,GPE,GPE,literal,outer,Sachsen-Anhalt,Q1206
+text047.txt,2,25,27,Ballungsraum Leipzig-Halle,GPE,GPE,literal,outer,Ballungsraum Leipzig-Halle,Q805369
+text047.txt,2,31,33,"1,2 Millionen",QUANTITY,QUANTITY,literal,outer,"1,2 Millionen",
+text047.txt,3,1,2,Halle,GPE,GPE,literal,outer,Halle (Saale),Q2814
+text047.txt,3,8,9,Sachsen,GPE,GPE,literal,outer,Sachsen,Q1202
+text047.txt,3,10,11,Sachsen-Anhalt,GPE,GPE,literal,outer,Sachsen-Anhalt,Q1206
+text047.txt,3,12,13,Thüringen,GPE,GPE,literal,outer,Thüringen,Q1205
+text047.txt,3,14,15,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,3,18,20,Metropolregion Mitteldeutschland,GPE,GPE,literal,outer,Metropolregion Mitteldeutschland,Q317401
+text047.txt,3,19,20,Mitteldeutschland,LOC,LOC,literal,inner,Mitteldeutschland,Q524856
+text047.txt,4,11,12,1165,DATE,DATE,literal,outer,1165,
+text047.txt,4,14,15,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,5,0,1,Leipzigs,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,5,5,6,Mitteleuropas,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text047.txt,5,17,18,1190,DATE,DATE,literal,outer,1190,
+text047.txt,6,7,10,1937 – 1945,DATE,DATE,literal,outer,1937 – 1945,
+text047.txt,9,0,1,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text047.txt,9,15,18,Johann Sebastian Bach,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text047.txt,9,19,22,Felix Mendelssohn Bartholdy,PER,PER,literal,outer,Felix Mendelssohn Bartholdy,Q46096
+text047.txt,9,31,32,Gewandhausorchester,ORG,ORG,literal,outer,Gewandhausorchester,Q156515
+text047.txt,9,33,34,Thomanerchor,ORG,ORG,literal,outer,Thomanerchor,Q699313
+text047.txt,10,4,5,1989,DATE,DATE,literal,outer,1989,
+text047.txt,10,14,15,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text047.txt,10,18,19,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text048.txt,0,0,1,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,0,7,8,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text048.txt,1,4,5,Ostseeküste,LOC,LOC,literal,outer,Ostseeküste,
+text048.txt,1,5,6,Vorpommerns,LOC,LOC,literal,outer,Vorpommern,Q150108
+text048.txt,1,9,11,Landkreis Vorpommern-Rügen,GPE,GPE,literal,outer,Landkreis Vorpommern-Rügen,Q2909
+text048.txt,1,13,14,Mecklenburg-Vorpommern,GPE,GPE,literal,outer,Mecklenburg-Vorpommern,Q1196
+text048.txt,2,6,8,926 km²,QUANTITY,QUANTITY,literal,outer,926 km²,
+text048.txt,2,13,15,52 km,QUANTITY,QUANTITY,literal,outer,52 km,
+text048.txt,2,26,28,41 km,QUANTITY,QUANTITY,literal,outer,41 km,
+text048.txt,3,3,4,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,5,1,3,Juni 2011,DATE,DATE,literal,outer,Juni 2011,
+text048.txt,5,5,6,UNESCO,ORG,ORG,literal,outer,UNESCO,Q7809
+text048.txt,5,16,18,Nationalpark Jasmund,GPE,GPE,literal,outer,Nationalpark Jasmund,Q679173
+text048.txt,5,19,20,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,6,1,2,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,6,6,7,Bergen,GPE,GPE,literal,outer,Bergen auf Rügen,Q492538
+text048.txt,6,10,11,Sassnitz,GPE,GPE,literal,outer,Sassnitz,Q494631
+text048.txt,6,14,15,Putbus,GPE,GPE,literal,outer,Putbus,Q572006
+text048.txt,6,18,19,Garz,GPE,GPE,literal,outer,Garz/Rügen,Q161898
+text048.txt,6,22,23,Binz,GPE,GPE,literal,outer,Binz,
+text048.txt,6,24,25,Sellin,GPE,GPE,literal,outer,Sellin,Q541654
+text048.txt,6,26,27,Göhren,GPE,GPE,literal,outer,Göhren,Q628382
+text048.txt,6,28,29,Baabe,GPE,GPE,literal,outer,Baabe,Q630177
+text048.txt,6,30,31,Thiessow,GPE,GPE,literal,outer,Thiessow,Q641879
+text048.txt,6,32,33,Breege,GPE,GPE,literal,outer,Breege,Q654993
+text048.txt,6,34,35,Altefähr,GPE,GPE,literal,outer,Altefähr,
+text048.txt,6,36,37,Glowe,GPE,GPE,literal,outer,Glowe,
+text048.txt,7,0,1,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,8,3,4,2025,DATE,DATE,literal,outer,2025,
+text048.txt,8,5,7,"6,7 Millionen",QUANTITY,QUANTITY,literal,outer,"6,7 Millionen",
+text048.txt,9,6,7,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text048.txt,9,8,9,Stralsund,GPE,GPE,literal,outer,Stralsund,Q4065
+text048.txt,9,11,12,Rügendamm,GPE,GPE,literal,outer,Rügendamm,
+text048.txt,9,19,20,Strelasund,LOC,LOC,literal,outer,Strelasund,Q677124
+text048.txt,9,21,22,Rügen,LOC,LOC,literal,outer,Rügen,Q3237
+text049.txt,0,0,2,Karl Marx,PER,PER,literal,outer,Karl Marx,Q9061
+text049.txt,0,4,6,Carl Marx,PER,PER,literal,outer,Karl Marx,Q9061
+text049.txt,0,8,11,5. Mai 1818,DATE,DATE,literal,outer,5. Mai 1818,
+text049.txt,0,12,13,Trier,GPE,GPE,literal,outer,Trier,Q3138
+text049.txt,0,14,16,Großherzogtum Niederrhein,GPE,GPE,literal,outer,Provinz Großherzogtum Niederrhein,Q559217
+text049.txt,0,17,18,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text049.txt,0,20,23,14. März 1883,DATE,DATE,literal,outer,14. März 1883,
+text049.txt,0,24,25,London,GPE,GPE,literal,outer,London,Q84
+text049.txt,0,26,28,Vereinigtes Königreich,GPE,GPE,literal,outer,Vereinigtes Königreich,Q145
+text049.txt,1,5,6,1842,DATE,DATE,literal,outer,1842,
+text049.txt,2,9,10,Paris,GPE,GPE,literal,outer,Paris,Q90
+text049.txt,2,13,14,1845,DATE,DATE,literal,outer,1845,
+text049.txt,3,4,5,Belgien,GPE,GPE,literal,outer,Belgien,Q31
+text049.txt,3,7,8,1848,DATE,DATE,literal,outer,1848,
+text049.txt,4,4,5,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text049.txt,4,19,20,Rheinland,LOC,LOC,literal,outer,Rheinland,Q152243
+text049.txt,5,2,3,1849,DATE,DATE,literal,outer,1849,
+text049.txt,6,13,14,London,GPE,GPE,literal,outer,London,Q84
+text049.txt,7,1,3,Friedrich Engels,PER,PER,literal,outer,Friedrich Engels,Q34787
+text049.txt,7,33,34,1848,DATE,DATE,literal,outer,1848,
+text049.txt,8,1,2,Marx,PER,PER,literal,outer,Karl Marx,Q9061
+text049.txt,8,23,24,1867,DATE,DATE,literal,outer,1867,
+text049.txt,8,45,46,Engels,PER,PER,literal,outer,Friedrich Engels,Q34787
+text049.txt,9,12,14,Internationale Arbeiterassoziation,ORG,ORG,literal,outer,Internationale Arbeiterassoziation,Q183725
+text049.txt,10,5,6,Marx,PER,PER,literal,outer,Karl Marx,Q9061
+text050.txt,0,4,6,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text050.txt,0,7,10,23. Mai 1949,DATE,DATE,literal,outer,23. Mai 1949,
+text050.txt,0,27,29,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text050.txt,1,2,4,September 1948,DATE,DATE,literal,outer,September 1948,
+text050.txt,1,5,7,Mai 1949,DATE,DATE,literal,outer,Mai 1949,
+text050.txt,1,8,9,Bonn,GPE,GPE,literal,outer,Bonn,Q586
+text050.txt,1,10,12,Parlamentarische Rat,ORG,ORG,literal,outer,Parlamentarischer Rat,Q566326
+text050.txt,2,9,10,Westzonen,GPE,GPE,literal,outer,Trizone,Q569998
+text050.txt,4,22,24,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text050.txt,5,1,3,Parlamentarische Rat,ORG,ORG,literal,outer,Parlamentarischer Rat,Q566326
+text050.txt,5,9,11,Deutsche Reich,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text050.txt,6,12,13,Saarland,GPE,GPE,literal,outer,Saarland,
+text050.txt,6,31,32,Westdeutschlands,LOC,LOC,literal,outer,Westdeutschland,Q181576
+text050.txt,7,1,2,Saarland,GPE,GPE,literal,outer,Saarland,
+text050.txt,7,4,7,1. Januar 1957,DATE,DATE,literal,outer,1. Januar 1957,
+text050.txt,8,3,4,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text050.txt,8,5,8,3. Oktober 1990,DATE,DATE,literal,outer,3. Oktober 1990,
+text051.txt,2,0,2,Charles Babbage,PER,PER,literal,outer,Charles Babbage,Q46633
+text051.txt,2,3,5,Ada Lovelace,PER,PER,literal,outer,Ada Lovelace,Q7259
+text051.txt,2,7,8,Byron,PER,PER,literal,outer,George Gordon Byron,Q5679
+text051.txt,2,13,14,Babbage,PER,PER,literal,outer,Charles Babbage,Q46633
+text051.txt,2,14,15,1837,DATE,DATE,literal,outer,1837,
+text051.txt,3,0,2,Konrad Zuse,PER,PER,literal,outer,Konrad Zuse,Q60093
+text051.txt,3,5,6,1941,DATE,DATE,literal,outer,1941,
+text051.txt,3,9,10,1945,DATE,DATE,literal,outer,1945,
+text051.txt,3,12,13,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text051.txt,3,14,17,John Presper Eckert,PER,PER,literal,outer,John Presper Eckert,Q457906
+text051.txt,3,18,21,John William Mauchly,PER,PER,literal,outer,John William Mauchly,Q522162
+text051.txt,3,22,23,ENIAC,ORG,ORG,literal,outer,ENIAC,
+text051.txt,3,24,25,1946,DATE,DATE,literal,outer,1946,
+text051.txt,5,7,9,Alan Turing,PER,PER,literal,outer,Alan Turing,Q7251
+text051.txt,5,11,12,1936,DATE,DATE,literal,outer,1936,
+text052.txt,0,20,21,Humboldts,PER,PER,literal,outer,Wilhelm von Humboldt,Q77888
+text052.txt,1,11,13,Universität Bologna,ORG,ORG,literal,outer,Universität Bologna,Q131262
+text052.txt,1,14,15,1088,DATE,DATE,literal,outer,1088,
+text052.txt,1,17,18,Italien,GPE,GPE,literal,outer,Italien,Q38
+text052.txt,1,24,27,Schule von Salerno,ORG,ORG,literal,outer,Schule von Salerno,Q1145271
+text052.txt,2,1,4,University of Oxford,ORG,ORG,literal,outer,University of Oxford,Q34433
+text052.txt,2,7,8,1096,DATE,DATE,literal,outer,1096,
+text052.txt,3,2,4,Hochschule Frankreichs,ORG,ORG,literal,outer,Hochschule Frankreich,
+text052.txt,3,3,4,Frankreichs,GPE,GPE,literal,inner,Frankreich,Q142
+text052.txt,3,6,7,1150,DATE,DATE,literal,outer,1150,
+text052.txt,3,8,11,Universität von Paris,ORG,ORG,literal,outer,Universität von Paris,
+text052.txt,3,10,11,Paris,GPE,GPE,literal,inner,Paris,Q90
+text052.txt,4,2,3,1254,DATE,DATE,literal,outer,1254,
+text052.txt,4,4,6,Universität Salamanca,ORG,ORG,literal,outer,Universität Salamanca,Q308963
+text052.txt,5,2,3,1348,DATE,DATE,literal,outer,1348,
+text052.txt,5,5,7,Universität Prag,ORG,ORG,literal,outer,Karls-Universität Prag,Q31519
+text052.txt,5,6,7,Prag,GPE,GPE,literal,inner,Prag,Q1085
+text052.txt,5,8,9,Böhmen,GPE,GPE,literal,outer,Böhmen,Q39193
+text052.txt,5,11,12,Tschechien,GPE,GPE,literal,outer,Tschechien,Q213
+text052.txt,6,1,3,Universität Wien,ORG,ORG,literal,outer,Universität Wien,Q165980
+text052.txt,6,2,3,Wien,GPE,GPE,literal,inner,Wien,Q1741
+text052.txt,6,4,5,1365,DATE,DATE,literal,outer,1365,
+text052.txt,6,16,17,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text052.txt,6,20,22,Universität Heidelberg,ORG,ORG,literal,outer,Ruprecht-Karls-Universität Heidelberg,Q151510
+text052.txt,6,21,22,Heidelberg,GPE,GPE,literal,inner,Heidelberg,Q2966
+text052.txt,6,23,24,1386,DATE,DATE,literal,outer,1386,
+text052.txt,6,29,30,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text052.txt,6,32,34,Universität Basel,ORG,ORG,literal,outer,Universität Basel,Q372608
+text052.txt,6,33,34,Basel,GPE,GPE,literal,inner,Basel,Q78
+text052.txt,6,35,36,1460,DATE,DATE,literal,outer,1460,
+text052.txt,6,40,41,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text052.txt,7,8,9,1551,DATE,DATE,literal,outer,1551,
+text052.txt,7,14,15,Lima,GPE,GPE,literal,outer,Lima,Q2868
+text052.txt,7,16,22,Universidad Nacional Mayor de San Marcos,ORG,ORG,literal,outer,Universidad Nacional Mayor de San Marcos,Q270145
+text052.txt,7,24,25,Mexico,GPE,GPE,literal,outer,Mexico,
+text052.txt,7,30,31,1636,DATE,DATE,literal,outer,1636,
+text052.txt,7,32,33,Cambridge,GPE,GPE,literal,outer,Cambridge,Q49111
+text052.txt,7,34,36,Harvard University,ORG,ORG,literal,outer,Harvard University,Q13371
+text052.txt,7,40,41,USA,GPE,GPE,literal,outer,USA,
+text053.txt,0,0,1,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,0,3,4,Drježdźany,GPE,GPE,literal,outer,Drježdźany,
+text053.txt,0,9,10,Drežďany,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,0,19,21,Freistaates Sachsen,GPE,GPE,literal,outer,Freistaates Sachsen,
+text053.txt,0,20,21,Sachsen,GPE,GPE,literal,inner,Sachsen,Q1202
+text053.txt,1,5,6,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,1,8,9,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text053.txt,1,18,19,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text053.txt,2,7,9,Sächsischen Landtags,ORG,ORG,literal,outer,Sächsischer Landtag,Q884824
+text053.txt,2,18,19,Sachsens,GPE,GPE,literal,outer,Sachsen,Q1202
+text053.txt,3,14,16,Technische Universität,ORG,ORG,literal,outer,Technische Universität,
+text053.txt,3,20,23,Technik und Wirtschaft,ORG,ORG,literal,outer,Technik und Wirtschaft,
+text053.txt,3,24,26,Bildende Künste,ORG,ORG,literal,outer,Bildende Künste,
+text053.txt,3,27,32,Musik Carl Maria von Weber,ORG,ORG,literal,outer,Musik Carl Maria von Weber,
+text053.txt,3,28,32,Carl Maria von Weber,PER,PER,literal,inner,Carl Maria von Weber,Q154812
+text053.txt,4,3,4,Elbe,LOC,LOC,literal,outer,Elbe,Q1644
+text053.txt,4,13,14,Sachsens,GPE,GPE,literal,outer,Sachsen,Q1202
+text053.txt,4,19,21,Ballungsraumes Dresden,GPE,GPE,literal,outer,Ballungsraum Dresden,Q805366
+text053.txt,4,20,21,Dresden,GPE,GPE,literal,inner,Dresden,Q1731
+text053.txt,5,16,18,Silicon Saxony,LOC,LOC,literal,outer,Silicon Saxony,Q141270535
+text053.txt,6,5,6,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,7,11,13,Flughafen Dresden,LOC,LOC,literal,outer,Flughafen Dresden,Q657005
+text053.txt,7,12,13,Dresden,GPE,GPE,literal,inner,Dresden,Q1731
+text053.txt,7,14,15,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,9,4,5,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,9,5,6,1206,DATE,DATE,literal,outer,1206,
+text053.txt,9,18,21,1918 bis 1933,DATE,DATE,literal,outer,1918 bis 1933,
+text053.txt,9,23,24,1990,DATE,DATE,literal,outer,1990,
+text053.txt,9,26,28,Freistaates Sachsen,GPE,GPE,literal,outer,Freistaates Sachsen,
+text053.txt,9,27,28,Sachsen,GPE,GPE,literal,inner,Sachsen,Q1202
+text053.txt,9,31,32,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text053.txt,9,33,36,1952 bis 1990,DATE,DATE,literal,outer,1952 bis 1990,
+text053.txt,9,36,37,Bezirkshauptstadt,GPE,GPE,literal,outer,Bezirkshauptstadt,
+text053.txt,10,0,1,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,10,5,7,Bistums Dresden-Meißen,GPE,GPE,literal,outer,Bistum Dresden-Meißen,Q702389
+text053.txt,10,9,10,Ev.-Luth,ORG,ORG,literal,outer,Ev.-Luth,
+text053.txt,11,0,2,Landeskirche Sachsens,GPE,GPE,literal,outer,Evangelisch-Lutherische Landeskirche Sachsens,Q896744
+text053.txt,11,1,2,Sachsens,GPE,GPE,literal,inner,Sachsen,Q1202
+text053.txt,12,3,4,Dresden,GPE,GPE,literal,outer,Dresden,Q1731
+text053.txt,12,16,17,Zwinger,LOC,LOC,literal,outer,Zwinger,Q155107
+text053.txt,12,19,20,Frauenkirche,LOC,LOC,literal,outer,Frauenkirche,Q157229
+text053.txt,12,26,29,Gemäldegalerie Alter Meister,LOC,LOC,literal,outer,Gemäldegalerie Alter Meister,
+text053.txt,12,31,33,Grünen Gewölbe,ORG,ORG,literal,outer,Grünes Gewölbe,Q707407
+text053.txt,12,39,41,Sächsischen Staatskapelle,ORG,ORG,literal,outer,Sächsischen Staatskapelle,
+text053.txt,12,43,44,Kreuzchor,ORG,ORG,literal,outer,Dresdner Kreuzchor,Q564918
+text053.txt,12,54,56,Richard Wagner,PER,PER,literal,outer,Richard Wagner,Q1511
+text053.txt,12,57,59,Heinrich Schütz,PER,PER,literal,outer,Heinrich Schütz,Q153643
+text053.txt,12,60,64,Carl Maria von Weber,PER,PER,literal,outer,Carl Maria von Weber,Q154812
+text054.txt,0,1,2,Mosel,LOC,LOC,literal,outer,Mosel,Q1667
+text054.txt,0,4,5,Mosella,GPE,GPE,literal,outer,Mosella,
+text054.txt,0,8,10,544 km,QUANTITY,QUANTITY,literal,outer,544 km,
+text054.txt,0,15,16,Rheins,LOC,LOC,literal,outer,Rhein,Q584
+text054.txt,0,18,19,Maas,LOC,LOC,literal,outer,Maas,Q41986
+text054.txt,1,8,9,Maas,LOC,LOC,literal,outer,Maas,Q41986
+text054.txt,1,14,15,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text054.txt,1,18,19,Vogesen,LOC,LOC,literal,outer,Vogesen,Q187843
+text054.txt,1,20,23,Col de Bussang,LOC,LOC,literal,outer,Col de Bussang,Q493994
+text054.txt,1,26,27,Koblenz,GPE,GPE,literal,outer,Koblenz,Q3104
+text054.txt,1,29,30,Mittelrhein,LOC,LOC,literal,outer,Mittelrhein,Q571607
+text054.txt,2,1,2,Lothringen,LOC,LOC,literal,outer,Lothringen,Q1137
+text054.txt,2,4,5,Mosel,LOC,LOC,literal,outer,Mosel,Q1667
+text054.txt,2,6,7,Remiremont,GPE,GPE,literal,outer,Remiremont,Q504853
+text054.txt,2,8,9,Épinal,GPE,GPE,literal,outer,Épinal,Q173695
+text054.txt,2,14,15,Nancy,GPE,GPE,literal,outer,Nancy,Q40898
+text054.txt,2,16,17,Metz,GPE,GPE,literal,outer,Metz,Q22690
+text054.txt,3,1,2,Thionville,GPE,GPE,literal,outer,Thionville,Q22640
+text054.txt,3,12,13,Luxemburg,GPE,GPE,literal,outer,Luxemburg,Q32
+text054.txt,3,14,15,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text054.txt,3,18,19,Trier,GPE,GPE,literal,outer,Trier,Q3138
+text054.txt,4,2,3,Moseltal,LOC,LOC,literal,outer,Moseltal,Q897106
+text054.txt,5,7,8,1958,DATE,DATE,literal,outer,1958,
+text054.txt,5,9,10,Neuves-Maisons,GPE,GPE,literal,outer,Neuves-Maisons,Q627247
+text054.txt,6,1,2,Mosel,LOC,LOC,literal,outer,Mosel,Q1667
+text054.txt,7,3,4,Mosel,LOC,LOC,literal,outer,Mosel,Q1667
+text055.txt,0,0,2,Martin Luther,PER,PER,literal,outer,Martin Luther,Q9554
+text055.txt,0,4,7,10. November 1483,DATE,DATE,literal,outer,10. November 1483,
+text055.txt,0,8,9,Eisleben,GPE,GPE,literal,outer,Eisleben,Q484870
+text055.txt,0,10,12,Grafschaft Mansfeld,ORG,ORG,literal,outer,Mansfeld,Q454775
+text055.txt,0,14,17,18. Februar 1546,DATE,DATE,literal,outer,18. Februar 1546,
+text055.txt,1,9,11,Jesus Christus,PER,PER,literal,outer,Jesus Christus,Q302
+text055.txt,3,1,2,Luthers,PER,PER,literal,outer,Martin Luther,Q9554
+text055.txt,4,3,4,Luthers,PER,PER,literal,outer,Martin Luther,Q9554
+text055.txt,5,3,4,Luther,PER,PER,literal,outer,Martin Luther,Q9554
+text056.txt,0,1,3,Deutsche Bundestag,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,0,5,6,BT,ORG,ORG,literal,outer,BT,
+text056.txt,0,18,20,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text056.txt,1,1,3,Deutsche Bundestag,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,1,7,8,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text056.txt,2,3,4,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text056.txt,2,6,8,Deutsche Bundestag,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,2,12,13,Bundes,GPE,GPE,literal,outer,Bunde,
+text056.txt,3,4,5,Bundestag,ORG,ORG,literal,outer,Bundestag,Q547751
+text056.txt,6,4,7,17. März 2023,DATE,DATE,literal,outer,17. März 2023,
+text056.txt,8,3,5,Deutschen Bundestages,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,8,6,7,MdB,ORG,ORG,literal,outer,MdB,
+text056.txt,9,1,2,Bundestag,ORG,ORG,literal,outer,Bundestag,Q547751
+text056.txt,9,6,8,Deutschen Bundestages,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,9,21,22,Bundesversammlung,ORG,ORG,literal,outer,Bundestag,Q547751
+text056.txt,9,24,26,Gemeinsamen Ausschuss,ORG,ORG,literal,outer,Gemeinsamer Ausschuss,Q896053
+text056.txt,10,3,5,Julia Klöckner,PER,PER,literal,outer,Julia Klöckner,Q88158
+text056.txt,10,6,7,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text056.txt,11,7,9,Andrea Lindholz,PER,PER,literal,outer,Andrea Lindholz,Q15644594
+text056.txt,11,10,11,CSU,ORG,ORG,literal,outer,Christlich-Soziale Union in Bayern,Q49763
+text056.txt,11,13,15,Josephine Ortleb,PER,PER,literal,outer,Josephine Ortleb,Q40919890
+text056.txt,11,16,17,SPD,ORG,ORG,literal,outer,Sozialdemokratische Partei Deutschlands,Q49768
+text056.txt,11,19,21,Omid Nouripour,PER,PER,literal,outer,Omid Nouripour,Q71635
+text056.txt,11,22,23,Grüne,ORG,ORG,literal,outer,Bündnis 90/Die Grünen,Q49766
+text056.txt,11,25,27,Bodo Ramelow,PER,PER,literal,outer,Bodo Ramelow,Q104678
+text056.txt,11,28,29,Linke,ORG,ORG,literal,outer,Die Linke,Q49764
+text056.txt,12,3,4,2025,DATE,DATE,literal,outer,2025,
+text056.txt,12,6,8,Gregor Gysi,PER,PER,literal,outer,Gregor Gysi,Q65126
+text056.txt,12,9,10,Linke,ORG,ORG,literal,outer,Die Linke,Q49764
+text056.txt,12,19,21,Deutschen Bundestages,ORG,ORG,literal,outer,Deutscher Bundestag,Q154797
+text056.txt,13,1,2,2017,DATE,DATE,literal,outer,2017,
+text057.txt,6,1,3,Anbaugebieten Zentraleuropas,LOC,LOC,literal,outer,Anbaugebieten Zentraleuropas,
+text057.txt,6,2,3,Zentraleuropas,LOC,LOC,literal,inner,Mitteleuropa,Q27509
+text057.txt,8,1,2,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text057.txt,8,31,32,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text057.txt,9,7,8,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text057.txt,9,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text058.txt,5,6,7,1969,DATE,DATE,literal,outer,1969,
+text058.txt,7,2,4,1980er Jahren,DATE,DATE,literal,outer,1980er Jahren,
+text058.txt,8,2,4,1990er Jahren,DATE,DATE,literal,outer,1990er Jahren,
+text058.txt,11,5,6,2007,DATE,DATE,literal,outer,2007,
+text058.txt,15,10,11,Digital,ORG,ORG,literal,outer,Digital Equipment Corporation,Q690079
+text059.txt,2,12,13,Herodot,PER,PER,literal,outer,Herodot,Q26825
+text059.txt,3,11,12,Aristoteles,PER,PER,literal,outer,Aristoteles,Q868
+text059.txt,4,7,9,Abraham Lincolns,PER,PER,literal,outer,Abraham Lincoln,Q91
+text059.txt,4,11,12,1863,DATE,DATE,literal,outer,1863,
+text060.txt,0,0,1,Nürnberg,GPE,GPE,literal,outer,Nürnberg,Q2090
+text060.txt,0,8,9,Nbg,GPE,GPE,literal,outer,Nbg,
+text060.txt,0,15,17,Regierungsbezirk Mittelfranken,GPE,GPE,literal,outer,Mittelfranken,Q10551
+text060.txt,0,18,20,Freistaats Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text060.txt,1,9,12,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text060.txt,1,20,23,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text060.txt,1,29,30,Frankens,LOC,LOC,literal,outer,Franken,Q150907
+text060.txt,1,34,36,Bundesland Bayern,GPE,GPE,literal,outer,Bundesland Bayern,
+text060.txt,1,35,36,Bayern,GPE,GPE,literal,inner,Bayern,Q980
+text060.txt,2,1,2,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text060.txt,4,3,4,Fürth,GPE,GPE,literal,outer,Fürth,Q3075
+text060.txt,4,5,6,Erlangen,GPE,GPE,literal,outer,Erlangen,Q3126
+text060.txt,4,7,8,Schwabach,GPE,GPE,literal,outer,Schwabach,Q14889
+text060.txt,4,9,10,Nürnberg,GPE,GPE,literal,outer,Nürnberg,Q2090
+text060.txt,4,19,20,Bayern,GPE,GPE,literal,outer,Bayern,Q980
+text060.txt,5,8,10,Ballungsraum Nürnberg,LOC,LOC,literal,outer,Ballungsraum Nürnberg,
+text060.txt,5,9,10,Nürnberg,GPE,GPE,literal,inner,Nürnberg,Q2090
+text060.txt,5,12,14,"1,4 Millionen",QUANTITY,QUANTITY,literal,outer,"1,4 Millionen",
+text060.txt,5,23,25,"3,6 Millionen",QUANTITY,QUANTITY,literal,outer,"3,6 Millionen",
+text060.txt,5,28,30,Metropolregion Nürnberg,GPE,GPE,literal,outer,Metropolregion Nürnberg,Q728664
+text060.txt,5,29,30,Nürnberg,GPE,GPE,literal,inner,Nürnberg,Q2090
+text060.txt,5,36,37,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text060.txt,6,0,1,Nürnberg,GPE,GPE,literal,outer,Nürnberg,Q2090
+text060.txt,6,7,8,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text060.txt,7,4,5,Nürnberg,GPE,GPE,literal,outer,Nürnberg,Q2090
+text060.txt,7,11,12,1050,DATE,DATE,literal,outer,1050,
+text060.txt,8,6,7,1219,DATE,DATE,literal,outer,1219,
+text060.txt,8,11,14,Heiligen Römischen Reichs,GPE,GPE,literal,outer,Heiliges Römisches Reich,Q12548
+text060.txt,9,19,20,Altstadt,GPE,GPE,literal,outer,Altstadt,Q445486
+text060.txt,9,24,25,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text060.txt,11,15,17,Nürnberger Burg,LOC,LOC,literal,outer,Nürnberger Burg,Q707396
+text060.txt,13,3,4,Altstadt,GPE,GPE,literal,outer,Altstadt,Q445486
+text060.txt,13,10,11,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text060.txt,14,3,4,Zentrums,ORG,ORG,literal,outer,Deutsche Zentrumspartei,Q157537
+text060.txt,14,9,10,Ringstraße,LOC,LOC,literal,outer,Ringstraße,Q46232
+text060.txt,14,15,16,Pegnitz,LOC,LOC,literal,outer,Pegnitz,Q163880
+text060.txt,15,17,18,Marienbergpark,LOC,LOC,literal,outer,Marienbergpark,
+text060.txt,15,20,22,Volkspark Dutzendteich,LOC,LOC,literal,outer,Volkspark Dutzendteich,Q2532111
+text060.txt,15,36,37,Knoblauchsland,LOC,LOC,literal,outer,Knoblauchsland,Q884805
+text061.txt,0,1,3,Lüneburger Heide,LOC,LOC,literal,outer,Lüneburger Heide,Q311124
+text061.txt,0,6,7,Heid,GPE,GPE,literal,outer,Heid,
+text061.txt,0,22,23,Niedersachsens,GPE,GPE,literal,outer,Niedersachsen,Q1197
+text061.txt,0,25,26,Einzugsbereichen,LOC,LOC,literal,outer,Einzugsbereichen,
+text061.txt,0,28,29,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text061.txt,0,30,31,Bremen,GPE,GPE,literal,outer,Bremen,Q24879
+text061.txt,0,32,33,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text061.txt,1,5,6,Lüneburg,GPE,GPE,literal,outer,Lüneburg,Q3920
+text061.txt,1,13,15,Fürstentums Lüneburg,GPE,GPE,literal,outer,Fürstentum Lüneburg,Q280312
+text061.txt,1,14,15,Lüneburg,GPE,GPE,literal,inner,Lüneburg,Q3920
+text061.txt,2,6,8,Lüneburger Heide,LOC,LOC,literal,outer,Lüneburger Heide,Q311124
+text061.txt,3,4,8,Beginn des 19. Jahrhunderts,DATE,DATE,literal,outer,Beginn des 19. Jahrhunderts,
+text061.txt,3,10,11,Norddeutschlands,LOC,LOC,literal,outer,Norddeutschland,Q46613
+text061.txt,3,17,19,Lüneburger Heide,LOC,LOC,literal,outer,Lüneburger Heide,Q311124
+text061.txt,6,5,7,Lüneburger Heide,LOC,LOC,literal,outer,Lüneburger Heide,Q311124
+text061.txt,6,11,12,Norddeutschland,LOC,LOC,literal,outer,Norddeutschland,Q46613
+text062.txt,0,0,5,Otto Eduard Leopold von Bismarck-Schönhausen,PER,PER,literal,outer,Otto Eduard Leopold von Bismarck-Schönhausen,
+text062.txt,0,7,8,1865,DATE,DATE,literal,outer,1865,
+text062.txt,0,13,14,1871,DATE,DATE,literal,outer,1871,
+text062.txt,0,16,17,Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text062.txt,0,19,20,1890,DATE,DATE,literal,outer,1890,
+text062.txt,0,21,24,Herzog zu Lauenburg,GPE,GPE,literal,outer,Herzog zu Lauenburg,
+text062.txt,0,26,29,1. April 1815,DATE,DATE,literal,outer,1. April 1815,
+text062.txt,0,30,31,Schönhausen,GPE,GPE,literal,outer,Schönhausen,
+text062.txt,0,32,33,Elbe,LOC,LOC,literal,outer,Elbe,Q1644
+text062.txt,0,36,39,30. Juli 1898,DATE,DATE,literal,outer,30. Juli 1898,
+text062.txt,0,40,41,Friedrichsruh,GPE,GPE,literal,outer,Friedrichsruh,Q695011
+text062.txt,1,1,4,1862 bis 1890,DATE,DATE,literal,outer,1862 bis 1890,
+text062.txt,1,11,12,1873,DATE,DATE,literal,outer,1873,
+text062.txt,1,17,18,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text062.txt,1,20,23,1867 bis 1871,DATE,DATE,literal,outer,1867 bis 1871,
+text062.txt,1,26,28,Norddeutschen Bundes,GPE,GPE,literal,outer,Norddeutscher Bund,Q150981
+text062.txt,2,1,4,1871 bis 1890,DATE,DATE,literal,outer,1871 bis 1890,
+text062.txt,2,9,11,Deutschen Reiches,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text062.txt,3,0,1,Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text062.txt,4,4,7,Otto von Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text062.txt,4,8,9,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text062.txt,4,13,16,Ersten Vereinigten Landtages,ORG,ORG,literal,outer,Erster Vereinigter Landtag,Q685574
+text062.txt,5,3,6,1851 bis 1862,DATE,DATE,literal,outer,1851 bis 1862,
+text062.txt,5,9,10,Bundestag,ORG,ORG,literal,outer,Bundestag,Q547751
+text062.txt,5,11,13,Deutschen Bundes,GPE,GPE,literal,outer,Deutscher Bund,Q151624
+text062.txt,5,17,18,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text062.txt,6,5,6,1862,DATE,DATE,literal,outer,1862,
+text062.txt,6,8,10,Wilhelm I.,PER,PER,literal,outer,Wilhelm I.,Q150652
+text062.txt,7,7,8,Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text062.txt,7,22,23,1864,DATE,DATE,literal,outer,1864,
+text062.txt,7,24,25,1866,DATE,DATE,literal,outer,1866,
+text062.txt,7,34,35,Preußens,GPE,GPE,literal,outer,Preußen,Q38872
+text062.txt,8,14,16,Deutschen Reiches,GPE,GPE,literal,outer,Deutsches Reich,Q1206012
+text062.txt,9,17,18,1890,DATE,DATE,literal,outer,1890,
+text062.txt,11,5,6,1866,DATE,DATE,literal,outer,1866,
+text062.txt,12,8,9,Nationalliberalen,ORG,ORG,literal,outer,Nationalliberalen,
+text062.txt,13,15,16,Bismarck,PER,PER,literal,outer,Otto von Bismarck,Q8442
+text063.txt,0,1,3,Deutsche Fußball-Bund,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,1,0,1,V.,ORG,ORG,literal,outer,V.,
+text063.txt,1,2,3,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,1,12,14,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text063.txt,2,11,14,Frankfurt am Main,GPE,GPE,literal,outer,Frankfurt am Main,Q1794
+text063.txt,2,13,14,Main,LOC,LOC,literal,inner,Main,Q1670
+text063.txt,3,4,5,Bundesliga,ORG,ORG,literal,outer,Bundesliga,Q17387315
+text063.txt,4,3,7,DFL Deutsche Fußball Liga,ORG,ORG,literal,outer,Bundesliga e.V.,Q28062486
+text063.txt,5,3,5,8 Millionen,QUANTITY,QUANTITY,literal,outer,8 Millionen,
+text063.txt,5,11,12,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,6,3,4,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,6,9,12,28. Januar 1900,DATE,DATE,literal,outer,28. Januar 1900,
+text063.txt,6,13,14,Leipzig,GPE,GPE,literal,outer,Leipzig,Q2079
+text063.txt,7,1,2,1903,DATE,DATE,literal,outer,1903,
+text063.txt,7,10,11,2001,DATE,DATE,literal,outer,2001,
+text063.txt,7,13,14,Ligaverband,ORG,ORG,literal,outer,Bundesliga e.V.,Q28062486
+text063.txt,7,20,21,FIFA,ORG,ORG,literal,outer,FIFA,Q253414
+text063.txt,7,24,25,1904,DATE,DATE,literal,outer,1904,
+text063.txt,8,6,7,1933,DATE,DATE,literal,outer,1933,
+text063.txt,8,10,11,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,8,15,16,1940,DATE,DATE,literal,outer,1940,
+text063.txt,9,1,2,1950,DATE,DATE,literal,outer,1950,
+text063.txt,9,7,8,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,9,9,10,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text063.txt,10,1,3,September 1950,DATE,DATE,literal,outer,September 1950,
+text063.txt,10,7,8,FIFA,ORG,ORG,literal,outer,FIFA,Q253414
+text063.txt,10,11,12,1954,DATE,DATE,literal,outer,1954,
+text063.txt,10,15,16,UEFA,ORG,ORG,literal,outer,UEFA,Q35572
+text063.txt,11,0,1,1957,DATE,DATE,literal,outer,1957,
+text063.txt,11,3,5,Saarländische Fußballverband,ORG,ORG,literal,outer,Saarländischer Fußballverband,Q531173
+text063.txt,11,6,7,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text063.txt,11,9,10,1990,DATE,DATE,literal,outer,1990,
+text063.txt,11,11,13,Deutsche Fußball-Verband,ORG,ORG,literal,outer,Deutscher Fußball-Verband,Q695987
+text063.txt,11,14,15,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text063.txt,11,19,21,Nordostdeutscher Fußballverband,ORG,ORG,literal,outer,Nordostdeutscher Fußballverband,Q1998482
+text063.txt,12,5,6,DFB,ORG,ORG,literal,outer,Deutscher Fußball-Bund,Q154191
+text064.txt,0,1,3,Europäische Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,0,5,6,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,0,12,13,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text064.txt,0,17,18,Europa,LOC,LOC,literal,outer,Europa,Q46
+text064.txt,0,20,21,Zypern,GPE,GPE,literal,outer,Zypern,Q229
+text064.txt,0,24,25,Asien,LOC,LOC,literal,outer,Asien,Q48
+text064.txt,1,1,2,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,2,4,6,450 Millionen,QUANTITY,QUANTITY,literal,outer,450 Millionen,
+text064.txt,3,5,6,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,4,1,2,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,4,19,21,Vereinten Nationen,ORG,ORG,literal,outer,Vereinte Nationen,Q1065
+text064.txt,5,4,5,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,5,22,24,Europäische Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,5,31,33,Europäischen Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,7,2,4,Europäischen Rat,ORG,ORG,literal,outer,Europäischer Rat,Q8886
+text064.txt,7,6,10,Rat der Europäischen Union,ORG,ORG,literal,outer,Rat der Europäischen Union,Q8896
+text064.txt,7,8,10,Europäischen Union,GPE,GPE,literal,inner,Europäische Union,Q458
+text064.txt,7,12,13,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text064.txt,7,21,23,Europäische Parlament,ORG,ORG,literal,outer,Europäisches Parlament,Q8889
+text064.txt,7,27,28,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,8,1,3,Europäische Kommission,ORG,ORG,literal,outer,Europäische Kommission,Q8880
+text064.txt,8,7,8,EU-Gerichtshof,ORG,ORG,literal,outer,EU-Gerichtshof,
+text064.txt,9,3,4,EU,GPE,GPE,literal,outer,Europäische Union,Q458
+text064.txt,9,7,8,1950er-Jahre,DATE,DATE,literal,outer,1950er-Jahre,
+text064.txt,9,13,14,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text064.txt,9,15,21,Europäische Gemeinschaft für Kohle und Stahl,GPE,GPE,literal,outer,Europäische Gemeinschaft für Kohle und Stahl,Q161549
+text064.txt,9,22,23,EGKS,GPE,GPE,literal,outer,Europäische Gemeinschaft für Kohle und Stahl,Q161549
+text064.txt,10,15,16,Markt,LOC,LOC,literal,outer,Markt,Q531625
+text064.txt,11,10,11,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text064.txt,11,14,15,EG,ORG,ORG,literal,outer,EG,
+text064.txt,12,1,2,1985,DATE,DATE,literal,outer,1985,
+text064.txt,13,6,7,1989,DATE,DATE,literal,outer,1989,
+text064.txt,14,6,7,1992,DATE,DATE,literal,outer,1992,
+text064.txt,14,8,10,Europäische Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text065.txt,9,7,9,19. Jahrhunderts,DATE,DATE,literal,outer,19. Jahrhunderts,
+text065.txt,9,10,11,Großbritannien,GPE,GPE,literal,outer,Vereinigtes Königreich,Q145
+text065.txt,9,16,17,1880er,DATE,DATE,literal,outer,1880er,
+text065.txt,9,18,20,1890er Jahren,DATE,DATE,literal,outer,1890er Jahren,
+text065.txt,9,21,22,Kontinentaleuropa,LOC,LOC,literal,outer,Kontinentaleuropa,Q466039
+text066.txt,3,29,30,Bund,GPE,GPE,literal,outer,Bundesebene (Deutschland),Q1005903
+text066.txt,6,5,6,UNO-Generalversammlung,ORG,ORG,literal,outer,Generalversammlung der Vereinten Nationen,Q47423
+text066.txt,6,7,10,24. Oktober 1970,DATE,DATE,literal,outer,24. Oktober 1970,
+text067.txt,0,1,2,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,0,7,8,Europa,LOC,LOC,literal,outer,Europa,Q46
+text067.txt,1,5,7,1200 Kilometer,QUANTITY,QUANTITY,literal,outer,1200 Kilometer,
+text067.txt,1,12,14,250 Kilometer,QUANTITY,QUANTITY,literal,outer,250 Kilometer,
+text067.txt,1,17,19,Ligurischen Meer,LOC,LOC,literal,outer,Ligurisches Meer,Q42820
+text067.txt,1,20,22,Pannonischen Becken,LOC,LOC,literal,outer,Pannonische Tiefebene,Q185032
+text067.txt,2,2,3,Alpenregion,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,2,8,10,200.000 Quadratkilometern,QUANTITY,QUANTITY,literal,outer,200.000 Quadratkilometern,
+text067.txt,3,4,6,750 Kilometer,QUANTITY,QUANTITY,literal,outer,750 Kilometer,
+text067.txt,3,12,14,400 Kilometer,QUANTITY,QUANTITY,literal,outer,400 Kilometer,
+text067.txt,3,22,23,Rhonetal,LOC,LOC,literal,outer,Rhonetal,
+text067.txt,3,25,27,Schweizer Mittelland,LOC,LOC,literal,outer,Mittelland,Q333934
+text067.txt,3,31,32,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text067.txt,3,34,37,Kleinen Ungarischen Tiefebene,LOC,LOC,literal,outer,Kleine Ungarische Tiefebene,Q665570
+text067.txt,3,39,40,Po-Ebene,LOC,LOC,literal,outer,Po-Ebene,Q202207
+text067.txt,3,42,45,Golf von Genua,LOC,LOC,literal,outer,Ligurisches Meer,Q42820
+text067.txt,4,1,2,Alpenbogen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,4,6,9,Golf von Genua,LOC,LOC,literal,outer,Ligurisches Meer,Q42820
+text067.txt,4,11,12,Apennin,LOC,LOC,literal,outer,Apennin,Q1285
+text067.txt,4,16,17,Po-Ebene,LOC,LOC,literal,outer,Po-Ebene,Q202207
+text067.txt,4,23,25,Schweizer Jura,LOC,LOC,literal,outer,Jura,Q178611
+text067.txt,5,4,5,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text067.txt,5,6,7,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text067.txt,5,9,10,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,5,12,14,Wiener Becken,LOC,LOC,literal,outer,Wiener Becken,Q688715
+text067.txt,5,18,19,Karpaten,LOC,LOC,literal,outer,Karpaten,Q1288
+text067.txt,5,29,31,Dinarische Gebirge,LOC,LOC,literal,outer,Dinarisches Gebirge,Q189915
+text067.txt,6,4,5,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,6,10,11,Alpenvorland,LOC,LOC,literal,outer,Alpenvorland,Q18431490
+text067.txt,7,6,7,Po-Ebene,LOC,LOC,literal,outer,Po-Ebene,Q202207
+text067.txt,8,6,7,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,8,13,14,Atlas,LOC,LOC,literal,outer,Atlas,Q130135
+text067.txt,8,16,17,Südostasien,LOC,LOC,literal,outer,Südostasien,Q11708
+text067.txt,9,1,2,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,10,11,13,4300 Meter,QUANTITY,QUANTITY,literal,outer,4300 Meter,
+text067.txt,10,19,20,Ostalpen,LOC,LOC,literal,outer,Ostalpen,Q63817
+text067.txt,11,4,5,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,11,7,9,Mont Blanc,LOC,LOC,literal,outer,Mont Blanc,Q583
+text067.txt,11,10,12,4807 Metern,QUANTITY,QUANTITY,literal,outer,4807 Metern,
+text067.txt,12,3,4,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,12,18,19,1850,DATE,DATE,literal,outer,1850,
+text067.txt,13,1,2,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text067.txt,13,12,13,Mittelmeer,LOC,LOC,literal,outer,Mittelmeer,
+text067.txt,13,14,15,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text067.txt,13,16,18,Schwarzem Meer,LOC,LOC,literal,outer,Schwarzes Meer,Q166
+text067.txt,14,4,5,Mittelmeerraum,LOC,LOC,literal,outer,Mittelmeerraum,Q72499
+text067.txt,14,12,13,Mitteleuropa,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text067.txt,15,6,7,Alpen,LOC,LOC,literal,outer,Alpen,Q1286
+text068.txt,0,2,3,Curie,PER,PER,literal,outer,Pierre Curie,Q37463
+text068.txt,0,5,8,7. November 1867,DATE,DATE,literal,outer,7. November 1867,
+text068.txt,0,9,10,Warschau,GPE,GPE,literal,outer,Warschau,Q270
+text068.txt,0,11,13,Russisches Kaiserreich,GPE,GPE,literal,outer,Russisches Kaiserreich,Q34266
+text068.txt,0,14,17,Maria Salomea Skłodowska,PER,PER,literal,outer,Maria Salomea Skłodowska,
+text068.txt,0,19,22,4. Juli 1934,DATE,DATE,literal,outer,4. Juli 1934,
+text068.txt,0,23,24,Passy,GPE,GPE,literal,outer,Passy,Q388949
+text068.txt,0,25,26,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text068.txt,0,37,38,Frankreich,GPE,GPE,literal,outer,Frankreich,Q142
+text068.txt,1,3,4,1896,DATE,DATE,literal,outer,1896,
+text068.txt,1,5,7,Henri Becquerel,PER,PER,literal,outer,Henri Becquerel,Q41269
+text068.txt,2,8,9,1903,DATE,DATE,literal,outer,1903,
+text068.txt,2,15,16,1911,DATE,DATE,literal,outer,1911,
+text068.txt,2,29,31,Pierre Curie,PER,PER,literal,outer,Pierre Curie,Q37463
+text068.txt,3,0,2,Marie Curie,PER,PER,literal,outer,Marie Curie,Q7186
+text068.txt,3,21,23,Linus Pauling,PER,PER,literal,outer,Linus Pauling,Q48983
+text068.txt,4,0,2,Marie Curie,PER,PER,literal,outer,Marie Curie,Q7186
+text068.txt,4,9,10,Polens,GPE,GPE,literal,outer,Polen,Q36
+text068.txt,5,12,13,Paris,GPE,GPE,literal,outer,Paris,Q90
+text068.txt,5,16,17,1891,DATE,DATE,literal,outer,1891,
+text068.txt,5,21,22,Sorbonne,LOC,LOC,literal,outer,Sorbonne,Q214654
+text068.txt,6,1,3,Dezember 1897,DATE,DATE,literal,outer,Dezember 1897,
+text068.txt,7,3,5,Pierre Curies,PER,PER,literal,outer,Pierre Curie,Q37463
+text068.txt,7,7,8,1906,DATE,DATE,literal,outer,1906,
+text068.txt,9,13,14,Sorbonne,LOC,LOC,literal,outer,Sorbonne,Q214654
+text068.txt,10,2,4,Marie Curie,PER,PER,literal,outer,Marie Curie,Q7186
+text068.txt,10,4,5,1911,DATE,DATE,literal,outer,1911,
+text068.txt,10,10,13,Académie des sciences,ORG,ORG,literal,outer,Académie des sciences,Q188771
+text068.txt,10,21,23,Paul Langevin,PER,PER,literal,outer,Paul Langevin,Q25320
+text068.txt,11,6,8,Marie Curie,PER,PER,literal,outer,Marie Curie,Q7186
+text069.txt,0,1,2,Bundesliga,ORG,ORG,literal,outer,Bundesliga,Q17387315
+text069.txt,0,7,8,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text069.txt,0,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text069.txt,2,2,3,Bundesliga,ORG,ORG,literal,outer,Bundesliga,Q17387315
+text069.txt,2,6,7,Eishockey-Bundesliga,ORG,ORG,literal,outer,Eishockey-Bundesliga,Q896155
+text069.txt,2,14,16,Deutschen Eishockey-Bund,ORG,ORG,literal,outer,Deutscher Eishockey-Bund,Q642977
+text069.txt,3,6,7,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text069.txt,3,9,10,Bundesliga,ORG,ORG,literal,outer,Bundesliga,Q17387315
+text069.txt,6,0,1,Bundesliga,ORG,ORG,literal,outer,Bundesliga,Q17387315
+text069.txt,7,8,9,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text069.txt,7,11,12,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text069.txt,8,1,2,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text069.txt,8,4,5,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text070.txt,0,0,1,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,0,3,5,Deutsche Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,0,7,8,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,0,9,11,Dudesche Hense,PER,PER,literal,outer,Dudesche Hense,
+text070.txt,0,13,15,Hansa Teutonica,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,0,22,26,Mitte des 12. Jahrhunderts,DATE,DATE,literal,outer,Mitte des 12. Jahrhunderts,
+text070.txt,0,27,31,Mitte des 17. Jahrhunderts,DATE,DATE,literal,outer,Mitte des 17. Jahrhunderts,
+text070.txt,1,1,2,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,2,10,11,Städtehanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,2,15,19,Mitte des 14. Jahrhunderts,DATE,DATE,literal,outer,Mitte des 14. Jahrhunderts,
+text070.txt,4,3,4,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,5,10,11,Nordeuropas,LOC,LOC,literal,outer,Nordeuropas,
+text070.txt,5,13,14,Städtehanse,ORG,ORG,literal,outer,Hanse,Q42908
+text070.txt,8,9,10,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text070.txt,8,11,12,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text071.txt,6,12,14,Friedrich Panzer,PER,PER,literal,outer,Friedrich Panzer,Q106124
+text071.txt,11,6,7,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text071.txt,11,8,9,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text072.txt,3,5,6,1980,DATE,DATE,literal,outer,1980,
+text072.txt,3,18,19,Öko-Instituts,ORG,ORG,literal,outer,Öko-Institut,Q294804
+text072.txt,7,10,12,21. Jahrhunderts,DATE,DATE,literal,outer,21. Jahrhunderts,
+text074.txt,0,0,1,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,0,6,7,Niedersachsen,GPE,GPE,literal,outer,Niedersachsen,Q1197
+text074.txt,1,4,6,Norddeutschen Tieflandes,LOC,LOC,literal,outer,Norddeutsches Tiefland,Q166004
+text074.txt,1,8,9,Leine,LOC,LOC,literal,outer,Leine,Q161051
+text074.txt,1,12,13,1150,DATE,DATE,literal,outer,1150,
+text074.txt,1,17,18,1241,DATE,DATE,literal,outer,1241,
+text074.txt,2,0,1,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,2,3,4,1636,DATE,DATE,literal,outer,1636,
+text074.txt,2,8,9,1692,DATE,DATE,literal,outer,1692,
+text074.txt,2,11,13,Kurfürstentums Braunschweig-Lüneburg,GPE,GPE,literal,outer,Kurfürstentum Braunschweig-Lüneburg,Q706018
+text074.txt,2,15,16,1814,DATE,DATE,literal,outer,1814,
+text074.txt,2,18,20,Königreichs Hannover,GPE,GPE,literal,outer,Königreich Hannover,Q164079
+text074.txt,3,1,4,1714 bis 1837,DATE,DATE,literal,outer,1714 bis 1837,
+text074.txt,3,8,9,Großbritannien,GPE,GPE,literal,outer,Vereinigtes Königreich,Q145
+text074.txt,3,10,11,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,3,13,14,Hannovers,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,3,19,20,Großbritanniens,GPE,GPE,literal,outer,Vereinigtes Königreich,Q145
+text074.txt,4,4,6,Königreiches Hannover,GPE,GPE,literal,outer,Königreich Hannover,Q164079
+text074.txt,4,7,8,Preußen,GPE,GPE,literal,outer,Preußen,Q38872
+text074.txt,4,9,10,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,4,11,12,1866,DATE,DATE,literal,outer,1866,
+text074.txt,4,14,16,Provinz Hannover,GPE,GPE,literal,outer,Provinz Hannover,Q819125
+text074.txt,4,18,20,Auflösung Preußens,GPE,GPE,literal,outer,Auflösung Preußen,
+text074.txt,4,19,20,Preußens,GPE,GPE,literal,inner,Preußen,Q38872
+text074.txt,4,21,23,August 1946,DATE,DATE,literal,outer,August 1946,
+text074.txt,4,25,27,Landes Hannover,GPE,GPE,literal,outer,Land Hannover,Q641116
+text074.txt,4,26,27,Hannover,GPE,GPE,literal,inner,Hannover,Q1715
+text074.txt,5,6,7,Braunschweig,GPE,GPE,literal,outer,Braunschweig,
+text074.txt,5,8,9,Oldenburg,GPE,GPE,literal,outer,Oldenburg,
+text074.txt,5,10,11,Schaumburg-Lippe,GPE,GPE,literal,outer,Schaumburg-Lippe,Q310650
+text074.txt,5,12,14,November 1946,DATE,DATE,literal,outer,November 1946,
+text074.txt,5,15,16,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,6,1,2,1875,DATE,DATE,literal,outer,1875,
+text074.txt,6,6,7,2025,DATE,DATE,literal,outer,2025,
+text074.txt,6,15,16,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text074.txt,7,3,4,Landkreis,GPE,GPE,literal,outer,Landkreis,
+text074.txt,7,12,14,Region Hannover,GPE,GPE,literal,outer,Region Hannover,Q5963
+text074.txt,7,13,14,Hannover,GPE,GPE,literal,inner,Hannover,Q1715
+text074.txt,7,19,21,Metropolregion Hannover-Braunschweig-Göttingen-Wolfsburg,GPE,GPE,literal,outer,Metropolregion Hannover-Braunschweig-Göttingen-Wolfsburg,Q315065
+text074.txt,8,1,2,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,8,8,9,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,8,18,19,Hauptbahnhof,LOC,LOC,literal,outer,Hauptbahnhof,
+text074.txt,8,21,22,ZOB,GPE,GPE,literal,outer,ZOB,
+text074.txt,8,24,25,Flughafen,LOC,LOC,literal,outer,Flughafen,
+text074.txt,8,32,33,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text074.txt,9,2,3,Mittellandkanal,LOC,LOC,literal,outer,Mittellandkanal,Q48480
+text074.txt,10,1,3,13. Jahrhundert,DATE,DATE,literal,outer,13. Jahrhundert,
+text074.txt,10,5,6,1620,DATE,DATE,literal,outer,1620,
+text074.txt,10,7,8,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,10,12,15,Ende Juni 2019,DATE,DATE,literal,outer,Ende Juni 2019,
+text074.txt,10,19,20,Hanse,ORG,ORG,literal,outer,Hanse,Q42908
+text074.txt,11,0,1,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,11,4,8,Evangelischen Kirche in Deutschland,ORG,ORG,literal,outer,Evangelische Kirche in Deutschland,Q170111
+text074.txt,11,7,8,Deutschland,GPE,GPE,literal,inner,Deutschland,Q183
+text074.txt,11,11,14,Weltgemeinschaft Reformierter Kirchen,ORG,ORG,literal,outer,Weltgemeinschaft Reformierter Kirchen,Q1246720
+text074.txt,12,0,1,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text074.txt,13,3,6,Gottfried Wilhelm Leibniz,PER,PER,literal,outer,Gottfried Wilhelm Leibniz,Q9047
+text074.txt,13,14,18,Gottfried Wilhelm Leibniz Bibliothek,ORG,ORG,literal,outer,Gottfried Wilhelm Leibniz Bibliothek,Q1539517
+text074.txt,13,23,24,UNESCO,ORG,ORG,literal,outer,UNESCO,Q7809
+text074.txt,14,0,1,Hannover,GPE,GPE,literal,outer,Hannover,Q1715
+text075.txt,0,1,2,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text075.txt,0,4,5,Westsee,LOC,LOC,literal,outer,Westsee,
+text075.txt,0,6,8,Deutsches Meer,LOC,LOC,literal,outer,Nordsee,Q1693
+text075.txt,0,13,15,Atlantischen Ozeans,LOC,LOC,literal,outer,Atlantischen Ozean,
+text075.txt,1,17,18,Europa,LOC,LOC,literal,outer,Europa,Q46
+text075.txt,1,26,28,95 m,QUANTITY,QUANTITY,literal,outer,95 m,
+text075.txt,2,5,6,Ärmelkanal,LOC,LOC,literal,outer,Ärmelkanal,Q34640
+text075.txt,2,8,9,Skagerrak,LOC,LOC,literal,outer,Skagerrak,Q1695
+text075.txt,2,23,24,Atlantik,LOC,LOC,literal,outer,Atlantischer Ozean,Q97
+text075.txt,3,8,10,80 Millionen,QUANTITY,QUANTITY,literal,outer,80 Millionen,
+text075.txt,4,1,2,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text075.txt,4,13,14,Nordeuropas,LOC,LOC,literal,outer,Nordeuropas,
+text075.txt,5,2,3,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text075.txt,5,8,9,Ärmelkanal,LOC,LOC,literal,outer,Ärmelkanal,Q34640
+text075.txt,6,13,15,1970er Jahren,DATE,DATE,literal,outer,1970er Jahren,
+text075.txt,8,18,19,Ostsee,LOC,LOC,literal,outer,Ostsee,Q545
+text076.txt,0,0,2,Franz Kafka,PER,PER,literal,outer,Franz Kafka,Q905
+text076.txt,0,6,7,Kafka,PER,PER,literal,outer,Franz Kafka,Q905
+text076.txt,0,14,17,3. Juli 1883,DATE,DATE,literal,outer,3. Juli 1883,
+text076.txt,0,18,19,Prag,GPE,GPE,literal,outer,Prag,Q1085
+text076.txt,0,20,21,Österreich-Ungarn,GPE,GPE,literal,outer,Österreich-Ungarn,Q28513
+text076.txt,0,23,26,3. Juni 1924,DATE,DATE,literal,outer,3. Juni 1924,
+text076.txt,0,27,28,Kierling,GPE,GPE,literal,outer,Kierling,Q875133
+text076.txt,0,29,30,Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text076.txt,1,16,18,20. Jahrhunderts,DATE,DATE,literal,outer,20. Jahrhunderts,
+text076.txt,3,0,1,Kafkas,PER,PER,literal,outer,Kafkas,
+text076.txt,3,16,18,Max Brod,PER,PER,literal,outer,Max Brod,Q28480
+text076.txt,3,27,28,Kafka,PER,PER,literal,outer,Franz Kafka,Q905
+text076.txt,4,0,1,Kafkas,PER,PER,literal,outer,Kafkas,
+text077.txt,0,1,6,Max-Planck-Gesellschaft zur Förderung der Wissenschaften,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,1,3,4,Max-Planck-Gesellschaft,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,1,5,6,MPG,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,2,7,8,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text077.txt,3,3,4,München,GPE,GPE,literal,outer,München,Q1726
+text077.txt,4,1,2,Max-Planck-Gesellschaft,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,4,3,4,1948,DATE,DATE,literal,outer,1948,
+text077.txt,4,6,11,Kaiser-Wilhelm-Gesellschaft zur Förderung der Wissenschaften,ORG,ORG,literal,outer,Kaiser-Wilhelm-Gesellschaft,Q708038
+text077.txt,5,8,9,Bund,GPE,GPE,literal,outer,Bundesebene (Deutschland),Q1005903
+text077.txt,6,1,2,Max-Planck-Gesellschaft,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,8,1,2,Max-Planck-Gesellschaft,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,10,1,2,Max-Planck-Gesellschaft,ORG,ORG,literal,outer,Max-Planck-Gesellschaft,Q158085
+text077.txt,10,21,22,Europa,LOC,LOC,literal,outer,Europa,Q46
+text077.txt,11,8,9,2025,DATE,DATE,literal,outer,2025,
+text078.txt,0,27,29,18. Jahrhunderts,DATE,DATE,literal,outer,18. Jahrhunderts,
+text078.txt,0,33,35,19. Jahrhundert,DATE,DATE,literal,outer,19. Jahrhundert,
+text078.txt,0,38,39,England,GPE,GPE,literal,outer,England,Q21
+text078.txt,0,43,44,Westeuropa,LOC,LOC,literal,outer,Westeuropa,Q27496
+text078.txt,0,46,47,USA,GPE,GPE,literal,outer,USA,
+text078.txt,0,50,53,späten 19. Jahrhundert,DATE,DATE,literal,outer,späten 19. Jahrhundert,
+text078.txt,0,55,56,Japan,GPE,GPE,literal,outer,Japan,Q17
+text078.txt,0,59,60,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text078.txt,0,61,62,Asiens,LOC,LOC,literal,outer,Asien,Q48
+text079.txt,0,17,19,10 nm,QUANTITY,QUANTITY,literal,outer,10 nm,
+text079.txt,4,4,7,8. November 1895,DATE,DATE,literal,outer,8. November 1895,
+text079.txt,4,8,11,Wilhelm Conrad Röntgen,PER,PER,literal,outer,Wilhelm Conrad Röntgen,Q35149
+text079.txt,4,12,13,Würzburg,GPE,GPE,literal,outer,Würzburg,Q2999
+text080.txt,0,0,1,Heidelberg,GPE,GPE,literal,outer,Heidelberg,Q2966
+text080.txt,0,8,11,31. Dezember 2025,DATE,DATE,literal,outer,31. Dezember 2025,
+text080.txt,0,13,14,Baden-Württemberg,GPE,GPE,literal,outer,Baden-Württemberg,Q985
+text080.txt,1,4,5,Neckar,LOC,LOC,literal,outer,Neckar,Q1673
+text080.txt,1,12,13,Odenwald,LOC,LOC,literal,outer,Odenwald,Q8359
+text080.txt,2,9,10,Altstadt,GPE,GPE,literal,outer,Altstadt,Q445486
+text080.txt,2,15,16,Ruprecht-Karls-Universität,ORG,ORG,literal,outer,Ruprecht-Karls-Universität Heidelberg,Q151510
+text080.txt,2,26,27,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text080.txt,4,4,5,Heidelberg,GPE,GPE,literal,outer,Heidelberg,Q2966
+text080.txt,4,8,9,Baden-Württembergs,GPE,GPE,literal,outer,Baden-Württemberg,Q985
+text080.txt,4,16,17,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text080.txt,5,9,10,Rhein-Neckar-Kreises,GPE,GPE,literal,outer,Rhein-Neckar-Kreise,
+text080.txt,6,3,4,Rhein-Neckar-Gebiet,LOC,LOC,literal,outer,Metropolregion Rhein-Neckar,Q559125
+text080.txt,6,7,8,Heidelberg,GPE,GPE,literal,outer,Heidelberg,Q2966
+text080.txt,6,12,13,Mannheim,GPE,GPE,literal,outer,Mannheim,Q2119
+text080.txt,6,14,17,Ludwigshafen am Rhein,GPE,GPE,literal,outer,Ludwigshafen am Rhein,Q2910
+text080.txt,6,16,17,Rhein,LOC,LOC,literal,inner,Rhein,Q584
+text080.txt,6,21,23,Metropolregion Rhein-Neckar,LOC,LOC,literal,outer,Metropolregion Rhein-Neckar,Q559125
+text081.txt,0,1,3,Thomas Mann,PER,PER,literal,outer,Thomas Mann,Q37030
+text081.txt,0,5,8,6. Juni 1875,DATE,DATE,literal,outer,6. Juni 1875,
+text081.txt,0,9,10,Lübeck,GPE,GPE,literal,outer,Lübeck,Q2843
+text081.txt,0,12,15,12. August 1955,DATE,DATE,literal,outer,12. August 1955,
+text081.txt,0,16,17,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text081.txt,0,18,19,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text081.txt,0,30,32,20. Jahrhunderts,DATE,DATE,literal,outer,20. Jahrhunderts,
+text081.txt,1,2,3,1929,DATE,DATE,literal,outer,1929,
+text081.txt,2,1,2,1901,DATE,DATE,literal,outer,1901,
+text081.txt,2,11,13,Tonio Kröger,PER,PER,literal,outer,Tonio Kröger,
+text081.txt,2,14,15,Tristan,PER,PER,literal,outer,Tristan,
+text081.txt,3,1,2,1924,DATE,DATE,literal,outer,1924,
+text081.txt,3,3,4,Zauberberg,PER,PER,literal,outer,Zauberberg,
+text081.txt,3,16,17,Manns,PER,PER,literal,outer,Thomas Mann,Q37030
+text081.txt,4,16,18,Romantetralogie Joseph,PER,PER,literal,outer,Romantetralogie Joseph,
+text081.txt,6,15,17,1920er Jahre,DATE,DATE,literal,outer,1920er Jahre,
+text081.txt,7,6,7,1933,DATE,DATE,literal,outer,1933,
+text081.txt,7,9,10,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text081.txt,7,13,14,1936,DATE,DATE,literal,outer,1936,
+text081.txt,7,20,21,1938,DATE,DATE,literal,outer,1938,
+text081.txt,7,23,24,USA,GPE,GPE,literal,outer,USA,
+text081.txt,7,28,29,1944,DATE,DATE,literal,outer,1944,
+text081.txt,8,1,2,1952,DATE,DATE,literal,outer,1952,
+text081.txt,8,11,12,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text081.txt,9,0,2,Thomas Mann,PER,PER,literal,outer,Thomas Mann,Q37030
+text081.txt,10,3,4,Heinrich,PER,PER,literal,outer,Heinrich,
+text081.txt,10,10,11,Erika,PER,PER,literal,outer,Erika,
+text081.txt,10,12,13,Klaus,PER,PER,literal,outer,Klaus,
+text081.txt,10,14,15,Golo,PER,PER,literal,outer,Golo,
+text081.txt,10,16,17,Monika,PER,PER,literal,outer,Monika,
+text082.txt,0,11,12,1919,DATE,DATE,literal,outer,1919,
+text082.txt,0,13,15,Walter Gropius,PER,PER,literal,outer,Walter Gropius,Q61071
+text082.txt,0,16,17,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text082.txt,3,12,15,1919 bis 1933,DATE,DATE,literal,outer,1919 bis 1933,
+text083.txt,9,19,20,2012,DATE,DATE,literal,outer,2012,
+text084.txt,0,0,1,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text084.txt,0,6,7,Thüringen,GPE,GPE,literal,outer,Thüringen,Q1205
+text084.txt,0,8,9,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text084.txt,1,1,2,Altstadt,GPE,GPE,literal,outer,Altstadt,Q445486
+text084.txt,1,7,8,Ilm,LOC,LOC,literal,outer,Ilm,Q316507
+text084.txt,1,10,11,Ettersberges,LOC,LOC,literal,outer,Ettersberge,
+text084.txt,1,14,16,477 Metern,QUANTITY,QUANTITY,literal,outer,477 Metern,
+text084.txt,1,19,21,Thüringer Becken,LOC,LOC,literal,outer,Thüringer Becken,Q567318
+text084.txt,2,8,9,2024,DATE,DATE,literal,outer,2024,
+text084.txt,2,11,12,Erfurt,GPE,GPE,literal,outer,Erfurt,Q1729
+text084.txt,2,13,14,Jena,GPE,GPE,literal,outer,Jena,Q3150
+text084.txt,2,15,16,Gera,GPE,GPE,literal,outer,Gera,Q3750
+text084.txt,2,19,20,Thüringens,GPE,GPE,literal,outer,Thüringen,Q1205
+text084.txt,2,27,28,Erfurt,GPE,GPE,literal,outer,Erfurt,Q1729
+text084.txt,2,31,32,Jena,GPE,GPE,literal,outer,Jena,Q3150
+text084.txt,3,0,1,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text084.txt,3,13,14,2004,DATE,DATE,literal,outer,2004,
+text084.txt,4,2,3,Bauhaus-Universität,ORG,ORG,literal,outer,Bauhaus-Universität Weimar,Q573975
+text084.txt,4,7,12,Hochschule für Musik Franz Liszt,ORG,ORG,literal,outer,Hochschule für Musik Franz Liszt Weimar,Q536163
+text084.txt,4,10,12,Franz Liszt,PER,PER,literal,inner,Franz Liszt,Q41309
+text084.txt,4,15,18,Anna Amalia Bibliothek,PER,PER,literal,outer,Anna Amalia Bibliothek,
+text084.txt,4,27,29,Thüringer Landesverwaltungsamt,ORG,ORG,literal,outer,Thüringer Landesverwaltungsamt,Q2430838
+text084.txt,4,32,33,Verfassungsgerichtshof,GPE,GPE,literal,outer,Verfassungsgerichtshof,
+text084.txt,4,35,37,Landesarchiv Thüringen,ORG,ORG,literal,outer,Landesarchiv Thüringen,Q55521040
+text084.txt,4,36,37,Thüringen,GPE,GPE,literal,inner,Thüringen,Q1205
+text084.txt,5,1,3,16. Jahrhundert,DATE,DATE,literal,outer,16. Jahrhundert,
+text084.txt,5,6,10,Lucas Cranach der Ältere,PER,PER,literal,outer,Lucas Cranach der Ältere,Q191748
+text084.txt,5,14,15,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text084.txt,6,1,3,17. Jahrhundert,DATE,DATE,literal,outer,17. Jahrhundert,
+text084.txt,6,7,9,Fruchtbringenden Gesellschaft,ORG,ORG,literal,outer,Fruchtbringende Gesellschaft,Q559186
+text084.txt,7,1,3,18. Jahrhundert,DATE,DATE,literal,outer,18. Jahrhundert,
+text084.txt,7,7,10,Johann Sebastian Bach,PER,PER,literal,outer,Johann Sebastian Bach,Q1339
+text084.txt,8,6,7,Wieland,PER,PER,literal,outer,Christoph Martin Wieland,Q154010
+text084.txt,8,8,9,Goethe,PER,PER,literal,outer,Johann Wolfgang von Goethe,Q5879
+text084.txt,8,10,11,Herder,PER,PER,literal,outer,Johann Gottfried Herder,Q155547
+text084.txt,8,12,13,Schiller,PER,PER,literal,outer,Friedrich Schiller,Q22670
+text084.txt,9,1,3,19. Jahrhundert,DATE,DATE,literal,outer,19. Jahrhundert,
+text084.txt,9,6,8,Franz Liszt,PER,PER,literal,outer,Franz Liszt,Q41309
+text084.txt,9,9,11,Richard Strauss,PER,PER,literal,outer,Richard Strauss,Q13894
+text084.txt,9,12,14,Friedrich Nietzsche,PER,PER,literal,outer,Friedrich Nietzsche,Q9358
+text084.txt,9,18,20,Weimarer Malerschule,ORG,ORG,literal,outer,Großherzoglich-Sächsische Kunstschule Weimar,Q1549326
+text084.txt,9,22,24,Großherzoglich-Sächsischen Kunstschule,ORG,ORG,literal,outer,Großherzoglich-Sächsischen Kunstschule,
+text084.txt,10,0,2,Carl Zeiß,PER,PER,literal,outer,Carl Zeiß,Q76833
+text084.txt,11,1,5,Beginn des 20. Jahrhunderts,DATE,DATE,literal,outer,Beginn des 20. Jahrhunderts,
+text084.txt,11,6,9,Harry Graf Kessler,PER,PER,literal,outer,Harry Graf Kessler,Q70618
+text084.txt,11,10,14,Henry van de Velde,PER,PER,literal,outer,Henry van de Velde,Q154083
+text084.txt,11,15,16,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text084.txt,13,1,2,Weimar,GPE,GPE,literal,outer,Weimar,Q3955
+text084.txt,13,3,4,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text084.txt,13,6,7,1919,DATE,DATE,literal,outer,1919,
+text084.txt,13,17,18,Deutschlands,GPE,GPE,literal,outer,Deutschland,Q183
+text084.txt,14,5,6,1991,DATE,DATE,literal,outer,1991,
+text084.txt,14,9,11,Weimarer Dreieck,ORG,ORG,literal,outer,Weimarer Dreieck,Q566397
+text085.txt,0,2,3,Merkel,PER,PER,literal,outer,Merkel,
+text085.txt,0,5,8,17. Juli 1954,DATE,DATE,literal,outer,17. Juli 1954,
+text085.txt,0,9,10,Hamburg,GPE,GPE,literal,outer,Hamburg,Q1055
+text085.txt,0,11,14,Angela Dorothea Kasner,PER,PER,literal,outer,Angela Dorothea Kasner,
+text085.txt,0,21,22,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text085.txt,1,3,5,November 2005,DATE,DATE,literal,outer,November 2005,
+text085.txt,1,6,8,Dezember 2021,DATE,DATE,literal,outer,Dezember 2021,
+text085.txt,1,10,12,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text085.txt,2,21,22,DDR,GPE,GPE,literal,outer,Deutsche Demokratische Republik,Q16957
+text085.txt,3,6,10,Zentralinstitut für Physikalische Chemie,ORG,ORG,literal,outer,Zentralinstitut für Physikalische Chemie,Q26882567
+text085.txt,3,18,20,Dezember 1989,DATE,DATE,literal,outer,Dezember 1989,
+text085.txt,3,25,27,Demokratischer Aufbruch,ORG,ORG,literal,outer,Demokratischer Aufbruch,Q677182
+text085.txt,3,32,35,Anfang Oktober 1990,DATE,DATE,literal,outer,Anfang Oktober 1990,
+text085.txt,3,36,37,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text085.txt,4,8,11,Regierung der DDR,ORG,ORG,literal,outer,Ministerrat der Deutschen Demokratischen Republik,Q567559
+text085.txt,4,10,11,DDR,GPE,GPE,literal,inner,Deutsche Demokratische Republik,Q16957
+text085.txt,5,3,4,1990,DATE,DATE,literal,outer,1990,
+text085.txt,6,1,4,1991 bis 1994,DATE,DATE,literal,outer,1991 bis 1994,
+text085.txt,6,5,6,Merkel,PER,PER,literal,outer,Merkel,
+text085.txt,6,6,11,Bundesministerin für Frauen und Jugend,ORG,ORG,literal,outer,Bundesministerin für Frauen und Jugend,
+text085.txt,6,12,15,Kabinett Kohl IV,ORG,ORG,literal,outer,Kabinett Kohl IV,Q560584
+text085.txt,6,17,20,1994 bis 1998,DATE,DATE,literal,outer,1994 bis 1998,
+text085.txt,6,32,33,1998,DATE,DATE,literal,outer,1998,
+text085.txt,6,41,42,2000,DATE,DATE,literal,outer,2000,
+text085.txt,6,47,48,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text085.txt,7,1,3,April 2000,DATE,DATE,literal,outer,April 2000,
+text085.txt,7,4,6,Dezember 2018,DATE,DATE,literal,outer,Dezember 2018,
+text085.txt,7,10,11,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text085.txt,8,5,6,Unionsparteien,ORG,ORG,literal,outer,CDU/CSU,Q708725
+text085.txt,8,10,11,2005,DATE,DATE,literal,outer,2005,
+text085.txt,8,12,13,Merkel,PER,PER,literal,outer,Merkel,
+text085.txt,8,13,15,Gerhard Schröder,PER,PER,literal,outer,Gerhard Schröder,Q2530
+text085.txt,8,16,17,SPD,ORG,ORG,literal,outer,Sozialdemokratische Partei Deutschlands,Q49768
+text085.txt,9,6,7,2009,DATE,DATE,literal,outer,2009,
+text085.txt,9,12,13,SPD,ORG,ORG,literal,outer,Sozialdemokratische Partei Deutschlands,Q49768
+text085.txt,9,14,17,Kabinett Merkel I,ORG,ORG,literal,outer,Kabinett Merkel I,Q315863
+text085.txt,10,3,4,2009,DATE,DATE,literal,outer,2009,
+text085.txt,10,8,9,FDP,ORG,ORG,literal,outer,Freie Demokratische Partei,Q13124
+text085.txt,10,14,17,Kabinett Merkel II,ORG,ORG,literal,outer,Kabinett Merkel II,Q632985
+text085.txt,10,20,21,2013,DATE,DATE,literal,outer,2013,
+text085.txt,10,32,33,2017,DATE,DATE,literal,outer,2017,
+text085.txt,10,36,39,Kabinett Merkel III,ORG,ORG,literal,outer,Kabinett Merkel III,Q15094515
+text085.txt,10,40,41,IV,ORG,ORG,literal,outer,IV,
+text085.txt,11,1,3,Oktober 2018,DATE,DATE,literal,outer,Oktober 2018,
+text085.txt,11,9,10,2021,DATE,DATE,literal,outer,2021,
+text086.txt,0,1,3,Deutsche Telekom,ORG,ORG,literal,outer,Deutsche Telekom,Q9396
+text086.txt,0,8,9,DT,ORG,ORG,literal,outer,DT,
+text086.txt,0,10,11,DTAG,ORG,ORG,literal,outer,Deutsche Telekom,Q9396
+text086.txt,0,16,17,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text086.txt,0,22,23,Bonn,GPE,GPE,literal,outer,Bonn,Q586
+text086.txt,1,11,13,Deutsche Telekom,ORG,ORG,literal,outer,Deutsche Telekom,Q9396
+text086.txt,1,27,28,2025,DATE,DATE,literal,outer,2025,
+text086.txt,2,1,2,Telekom,ORG,ORG,literal,outer,Telekom,
+text086.txt,2,9,10,DSL,ORG,ORG,literal,outer,DSL,
+text086.txt,4,7,9,Deutschen Bundespost,ORG,ORG,literal,outer,Deutsche Bundespost,Q181653
+text086.txt,5,16,17,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text086.txt,5,18,20,Telekom Deutschland,ORG,ORG,literal,outer,Telekom Deutschland,Q2401704
+text086.txt,5,19,20,Deutschland,GPE,GPE,literal,inner,Deutschland,Q183
+text086.txt,5,22,23,T-Systems,ORG,ORG,literal,outer,T-Systems International GmbH,Q565423
+text086.txt,5,24,25,Europa,LOC,LOC,literal,outer,Europa,Q46
+text086.txt,5,34,35,USA,GPE,GPE,literal,outer,USA,
+text086.txt,5,36,38,T-Mobile US,ORG,ORG,literal,outer,T-Mobile US,Q3511885
+text087.txt,7,7,9,Thomas Newcomen,PER,PER,literal,outer,Thomas Newcomen,Q193042
+text087.txt,7,12,16,Anfang des 18. Jahrhunderts,DATE,DATE,literal,outer,Anfang des 18. Jahrhunderts,
+text087.txt,8,9,13,Ende des 18. Jahrhunderts,DATE,DATE,literal,outer,Ende des 18. Jahrhunderts,
+text087.txt,9,4,6,James Watt,PER,PER,literal,outer,James Watt,Q9041
+text087.txt,9,8,9,1769,DATE,DATE,literal,outer,1769,
+text087.txt,10,3,5,19. Jahrhunderts,DATE,DATE,literal,outer,19. Jahrhunderts,
+text087.txt,13,14,15,1900,DATE,DATE,literal,outer,1900,
+text087.txt,14,5,6,1852,DATE,DATE,literal,outer,1852,
+text087.txt,15,8,10,20. Jahrhundert,DATE,DATE,literal,outer,20. Jahrhundert,
+text088.txt,0,5,6,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text088.txt,3,7,9,16. Jahrhundert,DATE,DATE,literal,outer,16. Jahrhundert,
+text089.txt,0,0,1,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,0,5,7,Republik Österreich,GPE,GPE,literal,outer,Österreich,Q40
+text089.txt,1,3,5,2 Millionen,QUANTITY,QUANTITY,literal,outer,2 Millionen,
+text089.txt,1,10,11,Donau,LOC,LOC,literal,outer,Donau,Q1653
+text089.txt,1,12,13,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,1,16,17,Österreichs,GPE,GPE,literal,outer,Österreich,Q40
+text089.txt,1,25,26,Mitteleuropas,LOC,LOC,literal,outer,Mitteleuropa,Q27509
+text089.txt,2,6,8,Europäischen Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text089.txt,2,12,13,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text089.txt,3,2,3,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,3,5,7,drei Millionen,QUANTITY,QUANTITY,literal,outer,drei Millionen,
+text089.txt,4,13,15,Wiener Ringstraße,LOC,LOC,literal,outer,Ringstraße,Q46232
+text089.txt,5,9,11,Kaisertums Österreich,GPE,GPE,literal,outer,Kaisertum Österreich,Q131964
+text089.txt,5,10,11,Österreich,GPE,GPE,literal,inner,Österreich,Q40
+text089.txt,5,12,13,1804,DATE,DATE,literal,outer,1804,
+text089.txt,5,14,15,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,5,21,22,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text089.txt,6,3,4,1910,DATE,DATE,literal,outer,1910,
+text089.txt,6,6,7,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,6,10,11,Habsburgermonarchie,GPE,GPE,literal,outer,Habsburgermonarchie,Q153136
+text089.txt,6,17,19,zwei Millionen,QUANTITY,QUANTITY,literal,outer,zwei Millionen,
+text089.txt,7,4,5,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,7,7,9,Schloss Schönbrunn,LOC,LOC,literal,outer,Schloss Schönbrunn,Q131330
+text089.txt,8,3,5,8 Millionen,QUANTITY,QUANTITY,literal,outer,8 Millionen,
+text089.txt,8,8,10,"16,5 Millionen",QUANTITY,QUANTITY,literal,outer,"16,5 Millionen",
+text089.txt,8,12,13,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,8,17,18,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text089.txt,10,2,3,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text089.txt,10,19,20,OPEC,ORG,ORG,literal,outer,OPEC,
+text089.txt,10,22,24,Internationale Atomenergiebehörde,ORG,ORG,literal,outer,Internationale Atomenergie-Organisation,Q41984
+text089.txt,10,24,25,IAEO,ORG,ORG,literal,outer,Internationale Atomenergie-Organisation,Q41984
+text089.txt,10,27,28,OSZE,ORG,ORG,literal,outer,Organisation für Sicherheit und Zusammenarbeit in Europa,Q81299
+text089.txt,11,1,7,Büro der Vereinten Nationen in Wien,LOC,LOC,literal,outer,Büro der Vereinten Nationen in Wien,
+text089.txt,11,3,5,Vereinten Nationen,ORG,ORG,literal,inner,Vereinte Nationen,Q1065
+text089.txt,11,6,7,Wien,GPE,GPE,literal,inner,Wien,Q1741
+text089.txt,11,8,9,UNOV,LOC,LOC,literal,outer,Vienna International Centre,Q686431
+text089.txt,11,12,15,Vienna International Centre,LOC,LOC,literal,outer,Vienna International Centre,Q686431
+text089.txt,11,23,24,UNO,ORG,ORG,literal,outer,UNO,
+text089.txt,11,29,30,UNO-City,LOC,LOC,literal,outer,Vienna International Centre,Q686431
+text089.txt,12,0,1,Wien,GPE,GPE,literal,outer,Wien,Q1741
+text090.txt,0,3,4,Adenauer,PER,PER,literal,outer,Adenauer,
+text090.txt,0,6,9,5. Januar 1876,DATE,DATE,literal,outer,5. Januar 1876,
+text090.txt,0,10,11,Köln,GPE,GPE,literal,outer,Köln,Q365
+text090.txt,0,13,16,19. April 1967,DATE,DATE,literal,outer,19. April 1967,
+text090.txt,0,17,18,Rhöndorf,GPE,GPE,literal,outer,Rhöndorf,Q2148416
+text090.txt,0,23,24,Adenauer,PER,PER,literal,outer,Adenauer,
+text090.txt,1,1,4,1949 bis 1963,DATE,DATE,literal,outer,1949 bis 1963,
+text090.txt,1,10,12,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text090.txt,1,14,17,1951 bis 1955,DATE,DATE,literal,outer,1951 bis 1955,
+text090.txt,2,15,16,Zentrumspartei,ORG,ORG,literal,outer,Deutsche Zentrumspartei,Q157537
+text090.txt,2,23,26,1917 bis 1933,DATE,DATE,literal,outer,1917 bis 1933,
+text090.txt,2,28,29,Köln,GPE,GPE,literal,outer,Köln,Q365
+text090.txt,4,0,1,Adenauer,PER,PER,literal,outer,Adenauer,
+text090.txt,4,9,10,CDU,ORG,ORG,literal,outer,Christlich Demokratische Union Deutschlands,Q49762
+text090.txt,4,15,18,1950 bis 1966,DATE,DATE,literal,outer,1950 bis 1966,
+text090.txt,5,3,5,Parlamentarischen Rates,ORG,ORG,literal,outer,Parlamentarischer Rat,Q566326
+text090.txt,5,12,14,Bundesrepublik Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text090.txt,6,8,9,Bonn,GPE,GPE,literal,outer,Bonn,Q586
+text090.txt,6,31,32,NATO,ORG,ORG,literal,outer,NATO,
+text090.txt,7,0,1,Adenauer,PER,PER,literal,outer,Adenauer,
+text091.txt,2,1,2,Porsche,PER,PER,literal,outer,Ferdinand Porsche,Q57249
+text091.txt,2,6,8,Porsche AG,ORG,ORG,literal,outer,Porsche,Q40993
+text091.txt,2,16,17,Stuttgart-Zuffenhausen,GPE,GPE,literal,outer,Zuffenhausen,Q228211
+text091.txt,3,7,8,1931,DATE,DATE,literal,outer,1931,
+text091.txt,3,9,11,Ferdinand Porsche,PER,PER,literal,outer,Ferdinand Porsche,Q57249
+text091.txt,3,12,13,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text091.txt,3,20,21,1934,DATE,DATE,literal,outer,1934,
+text091.txt,5,5,6,SUVs,ORG,ORG,literal,outer,SUVs,
+text091.txt,5,8,10,2000er Jahre,DATE,DATE,literal,outer,2000er Jahre,
+text091.txt,5,15,17,2010er Jahre,DATE,DATE,literal,outer,2010er Jahre,
+text091.txt,5,18,19,Porsche,PER,PER,literal,outer,Ferdinand Porsche,Q57249
+text091.txt,6,13,14,SUVs,ORG,ORG,literal,outer,SUVs,
+text091.txt,7,1,3,Porsche AG,ORG,ORG,literal,outer,Porsche,Q40993
+text091.txt,7,5,6,2009,DATE,DATE,literal,outer,2009,
+text091.txt,7,8,9,Volkswagen-Konzerns,ORG,ORG,literal,outer,Volkswagen AG,Q156578
+text091.txt,7,19,20,Stuttgart,GPE,GPE,literal,outer,Stuttgart,Q1022
+text091.txt,7,21,25,Porsche Automobil Holding SE,ORG,ORG,literal,outer,Porsche Automobil Holding SE,Q2104551
+text091.txt,7,27,29,Porsche SE,ORG,ORG,literal,outer,Porsche Automobil Holding SE,Q2104551
+text091.txt,7,33,34,2009,DATE,DATE,literal,outer,2009,
+text091.txt,7,36,38,Volkswagen AG,ORG,ORG,literal,outer,Volkswagen AG,Q156578
+text091.txt,8,4,7,29. September 2022,DATE,DATE,literal,outer,29. September 2022,
+text091.txt,8,11,13,Porsche AG,ORG,ORG,literal,outer,Porsche,Q40993
+text091.txt,9,2,5,19. Dezember 2022,DATE,DATE,literal,outer,19. Dezember 2022,
+text091.txt,9,9,11,Porsche AG,ORG,ORG,literal,outer,Porsche,Q40993
+text091.txt,10,7,9,September 2025,DATE,DATE,literal,outer,September 2025,
+text094.txt,0,0,1,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text094.txt,0,3,4,Züri,GPE,GPE,literal,outer,Züri,
+text094.txt,1,1,3,Bezirk Zürich,GPE,GPE,literal,outer,Bezirk Zürich,Q660732
+text094.txt,2,2,3,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text094.txt,2,9,12,1. Januar 2026,DATE,DATE,literal,outer,1. Januar 2026,
+text094.txt,2,17,18,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,2,23,27,5015 Einwohnern pro Quadratkilometer,QUANTITY,QUANTITY,literal,outer,5015 Einwohnern pro Quadratkilometer,
+text094.txt,3,23,24,Zürichsees,LOC,LOC,literal,outer,Zürichsee,Q14407
+text094.txt,4,3,5,Agglomeration Zürich,LOC,LOC,literal,outer,Agglomeration Zürich,
+text094.txt,4,4,5,Zürich,GPE,GPE,literal,inner,Zürich,Q72
+text094.txt,4,12,14,eine Million,QUANTITY,QUANTITY,literal,outer,eine Million,
+text094.txt,4,21,23,"1,45 Millionen",QUANTITY,QUANTITY,literal,outer,"1,45 Millionen",
+text094.txt,4,25,26,2022,DATE,DATE,literal,outer,2022,
+text094.txt,5,5,7,Schweizer Mittelland,LOC,LOC,literal,outer,Mittelland,Q333934
+text094.txt,5,10,11,Limmat,LOC,LOC,literal,outer,Limmat,Q14338
+text094.txt,5,14,15,Zürichsees,LOC,LOC,literal,outer,Zürichsee,Q14407
+text094.txt,7,5,6,Turicum,GPE,GPE,literal,outer,Turicum,
+text094.txt,7,7,8,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text094.txt,7,9,10,1262,DATE,DATE,literal,outer,1262,
+text094.txt,7,16,17,Eidgenossenschaft,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,8,4,6,Huldrych Zwingli,PER,PER,literal,outer,Huldrych Zwingli,Q123034
+text094.txt,8,7,8,1519,DATE,DATE,literal,outer,1519,
+text094.txt,8,15,16,Wittenberg,GPE,GPE,literal,outer,Lutherstadt Wittenberg,Q6837
+text094.txt,8,17,18,Genf,GPE,GPE,literal,outer,Genf,Q71
+text094.txt,8,19,20,Strassburg,GPE,GPE,literal,outer,Straßburg,Q6602
+text094.txt,10,13,14,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,10,16,18,Global City,GPE,GPE,literal,outer,Global City,
+text094.txt,11,8,9,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,11,19,20,Kloten,GPE,GPE,literal,outer,Kloten,Q68165
+text094.txt,11,24,25,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text094.txt,12,7,8,UBS,ORG,ORG,literal,outer,UBS,Q193199
+text094.txt,12,9,11,Zürcher Kantonalbank,ORG,ORG,literal,outer,Zürcher Kantonalbank,Q248476
+text094.txt,12,15,18,Zurich Insurance Group,ORG,ORG,literal,outer,Zurich Insurance Group,Q230426
+text094.txt,12,19,21,Swiss Re,ORG,ORG,literal,outer,Swiss Re,Q605565
+text094.txt,12,32,33,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,12,36,37,Genf,GPE,GPE,literal,outer,Genf,Q71
+text094.txt,12,38,39,Lugano,GPE,GPE,literal,outer,Lugano,Q7024
+text094.txt,13,6,10,Eidgenössischen Technischen Hochschule Zürich,ORG,ORG,literal,outer,ETH Zürich,Q11942
+text094.txt,13,9,10,Zürich,GPE,GPE,literal,inner,Zürich,Q72
+text094.txt,13,12,14,Universität Zürich,ORG,ORG,literal,outer,Universität Zürich,Q206702
+text094.txt,13,13,14,Zürich,GPE,GPE,literal,inner,Zürich,Q72
+text094.txt,13,20,21,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text094.txt,14,6,7,Zürich,GPE,GPE,literal,outer,Zürich,Q72
+text095.txt,0,1,3,Thüringer Wald,LOC,LOC,literal,outer,Thüringer Wald,Q4210
+text095.txt,0,6,8,"982,9 m",QUANTITY,QUANTITY,literal,outer,"982,9 m",
+text095.txt,0,12,14,Großer Beerberg,LOC,LOC,literal,outer,Großer Beerberg,Q896523
+text095.txt,0,17,19,1000 Quadratkilometer,QUANTITY,QUANTITY,literal,outer,1000 Quadratkilometer,
+text095.txt,0,23,25,Freistaat Thüringen,GPE,GPE,literal,outer,Thüringen,Q1205
+text095.txt,0,26,27,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text095.txt,1,7,9,70 Kilometer,QUANTITY,QUANTITY,literal,outer,70 Kilometer,
+text095.txt,1,11,13,20 Kilometer,QUANTITY,QUANTITY,literal,outer,20 Kilometer,
+text095.txt,1,17,18,Werratal,LOC,LOC,literal,outer,Werratal,
+text095.txt,1,19,20,Eisenach,GPE,GPE,literal,outer,Eisenach,Q7070
+text095.txt,1,24,25,Schleuse,LOC,LOC,literal,outer,Schleuse,Q320390
+text095.txt,1,26,27,Wohlrose,LOC,LOC,literal,outer,Wohlrose,Q1751636
+text095.txt,1,29,30,Ilmenau,GPE,GPE,literal,outer,Ilmenau,Q205929
+text095.txt,2,8,10,Thüringer Schiefergebirge,LOC,LOC,literal,outer,Thüringer Schiefergebirge,Q445597
+text095.txt,2,30,31,Rennsteig,LOC,LOC,literal,outer,Rennsteig,Q139056
+text095.txt,3,6,7,Frankenwald,LOC,LOC,literal,outer,Frankenwald,Q282737
+text095.txt,3,9,10,Fichtelgebirge,LOC,LOC,literal,outer,Fichtelgebirge,Q157728
+text095.txt,3,12,14,Thüringer Wald,LOC,LOC,literal,outer,Thüringer Wald,Q4210
+text095.txt,3,15,17,Thüringisch-Fränkische Mittelgebirge,LOC,LOC,literal,outer,Thüringisch-Fränkisches Mittelgebirge,Q833067
+text095.txt,3,19,20,Werra,LOC,LOC,literal,outer,Werra,Q6424
+text095.txt,4,4,7,Naturpark Thüringer Wald,LOC,LOC,literal,outer,Naturpark Thüringer Wald,Q278616
+text095.txt,4,19,22,Biosphärenreservat Thüringer Wald,LOC,LOC,literal,outer,Biosphärenreservat Thüringer Wald,Q864772
+text095.txt,4,20,22,Thüringer Wald,LOC,LOC,literal,inner,Thüringer Wald,Q4210
+text096.txt,0,0,1,Hildegard,PER,PER,literal,outer,Hildegard,
+text096.txt,0,2,3,Bingen,GPE,GPE,literal,outer,Bingen am Rhein,Q285879
+text096.txt,0,5,6,1098,DATE,DATE,literal,outer,1098,
+text096.txt,0,7,11,Bermersheim vor der Höhe,GPE,GPE,literal,outer,Bermersheim vor der Höhe,
+text096.txt,0,18,19,Niederhosenbach,LOC,LOC,literal,outer,Niederhosenbach,
+text096.txt,0,27,30,17. September 1179,DATE,DATE,literal,outer,17. September 1179,
+text096.txt,0,31,33,Kloster Rupertsberg,LOC,LOC,literal,outer,Kloster Rupertsberg,
+text096.txt,0,34,37,Bingen am Rhein,GPE,GPE,literal,outer,Bingen am Rhein,Q285879
+text096.txt,0,36,37,Rhein,LOC,LOC,literal,inner,Rhein,Q584
+text096.txt,0,41,42,Benediktinerin,ORG,ORG,literal,outer,Benediktinerinnen,Q1411705
+text096.txt,4,5,6,Hildegard,PER,PER,literal,outer,Hildegard,
+text096.txt,5,1,3,Benedikt XVI,PER,PER,literal,outer,Benedikt XVI,
+text096.txt,6,2,5,10. Mai 2012,DATE,DATE,literal,outer,10. Mai 2012,
+text096.txt,6,15,18,7. Oktober 2012,DATE,DATE,literal,outer,7. Oktober 2012,
+text096.txt,7,0,1,Hildegard,PER,PER,literal,outer,Hildegard,
+text096.txt,7,3,5,Albertus Magnus,PER,PER,literal,outer,Albertus Magnus,Q60059
+text096.txt,7,7,10,1200 – 1280,DATE,DATE,literal,outer,1200 – 1280,
+text096.txt,9,8,11,Pfarrkirche von Eibingen,LOC,LOC,literal,outer,Pfarrkirche von Eibingen,
+text097.txt,2,17,18,AGL,ORG,ORG,literal,outer,AGL,
+text097.txt,4,28,30,Europäischen Union,GPE,GPE,literal,outer,Europäische Union,Q458
+text097.txt,4,32,33,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text097.txt,4,35,37,Volksrepublik China,GPE,GPE,literal,outer,Volksrepublik China,Q148
+text097.txt,4,38,39,Australien,GPE,GPE,literal,outer,Australien,Q408
+text098.txt,0,1,2,Ostsee,LOC,LOC,literal,outer,Ostsee,Q545
+text098.txt,0,4,6,Baltisches Meer,LOC,LOC,literal,outer,Ostsee,Q545
+text098.txt,0,22,23,Europas,GPE,GPE,literal,outer,Europäische Union,Q458
+text098.txt,1,4,5,Staaten,GPE,GPE,literal,outer,Vereinigte Staaten,Q30
+text098.txt,1,13,14,Nordsee,LOC,LOC,literal,outer,Nordsee,Q1693
+text098.txt,2,1,2,Ostsee,LOC,LOC,literal,outer,Ostsee,Q545
+text098.txt,2,21,23,55 Metern,QUANTITY,QUANTITY,literal,outer,55 Metern,
+text098.txt,3,5,7,459 m,QUANTITY,QUANTITY,literal,outer,459 m,
+text098.txt,3,8,9,Landsorttief,LOC,LOC,literal,outer,Landsorttief,Q1803925
+text098.txt,3,11,12,Stockholm,GPE,GPE,literal,outer,Stockholm,Q1754
+text098.txt,4,5,7,390.000 km²,QUANTITY,QUANTITY,literal,outer,390.000 km²,
+text098.txt,5,3,4,Ostsee,LOC,LOC,literal,outer,Ostsee,Q545
+text099.txt,0,3,6,Alexander von Humboldt,PER,PER,literal,outer,Alexander von Humboldt,Q6694
+text099.txt,0,8,11,14. September 1769,DATE,DATE,literal,outer,14. September 1769,
+text099.txt,0,12,13,Berlin,GPE,GPE,literal,outer,Berlin,Q64
+text099.txt,0,15,18,6. Mai 1859,DATE,DATE,literal,outer,6. Mai 1859,
+text099.txt,0,28,29,Europa,LOC,LOC,literal,outer,Europa,Q46
+text099.txt,2,6,9,Wilhelm von Humboldt,PER,PER,literal,outer,Wilhelm von Humboldt,Q77888
+text099.txt,3,3,6,Alexander von Humboldt,PER,PER,literal,outer,Alexander von Humboldt,Q6694
+text099.txt,3,7,8,Lateinamerika,LOC,LOC,literal,outer,Lateinamerika,Q12585
+text099.txt,3,11,12,USA,GPE,GPE,literal,outer,USA,
+text099.txt,3,14,15,Zentralasien,LOC,LOC,literal,outer,Zentralasien,Q27275
+text099.txt,6,0,3,Alexander von Humboldt,PER,PER,literal,outer,Alexander von Humboldt,Q6694
+text099.txt,7,1,2,Deutschland,GPE,GPE,literal,outer,Deutschland,Q183
+text099.txt,7,3,6,Alexander von Humboldt,PER,PER,literal,outer,Alexander von Humboldt,Q6694
+text099.txt,9,1,5,Preußische Akademie der Wissenschaften,ORG,ORG,literal,outer,Preußische Akademie der Wissenschaften,Q329464
+text099.txt,9,22,25,Gottfried Wilhelm Leibniz,PER,PER,literal,outer,Gottfried Wilhelm Leibniz,Q9047
+text099.txt,10,1,5,Pariser Akademie der Wissenschaften,ORG,ORG,literal,outer,Académie des sciences,Q188771
+text099.txt,10,12,13,Aristoteles,PER,PER,literal,outer,Aristoteles,Q868
+text099.txt,11,3,4,Humboldts,PER,PER,literal,outer,Alexander von Humboldt,Q6694
+text099.txt,12,2,6,Ende des 20. Jahrhunderts,DATE,DATE,literal,outer,Ende des 20. Jahrhunderts,
+text100.txt,0,3,4,KLG,ORG,ORG,literal,outer,KLG,
+text100.txt,1,2,3,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text100.txt,2,19,20,KGV,ORG,ORG,literal,outer,KGV,
+text100.txt,2,21,22,KLV,ORG,ORG,literal,outer,KLV,
+text100.txt,2,24,25,Schweiz,GPE,GPE,literal,outer,Schweiz,Q39
+text100.txt,4,0,1,Laubenpieper,ORG,ORG,literal,outer,Laubenpieper,

@@ -1,0 +1,37 @@
+# Challenge set: hand-written sentences for the hard cases of NER.
+# Format: <phenomenon> <tokenised sentence in bracket notation>; brackets may nest.
+# Labels follow the contextual reading (a city that acts as a government is ORG).
+# "noisy" sentences are run with normalisation switched on.
+
+metonymy   [ORG Berlin] lehnt den Vorschlag ab .
+metonymy   [ORG Washington] und [ORG Moskau] verhandeln über Abrüstung .
+metonymy   [ORG Brüssel] fordert strengere Regeln für die Banken .
+metonymy   [ORG Deutschland] gewann das Finale gegen [ORG Brasilien] .
+metonymy   Der [ORG FC Bayern [GPE München]] besiegte [ORG Dortmund] am Samstag .
+metonymy   Die [ORG Bundesregierung] in [GPE Berlin] hat die Sanktionen beschlossen .
+literal    Wir fahren morgen nach [GPE Berlin] .
+literal    [GPE Paris] ist die Hauptstadt von [GPE Frankreich] .
+literal    [GPE Brasilien] ist das größte Land [LOC Südamerikas] .
+ambiguity  [PER Robert Bosch] gründete [DATE 1886] in [GPE Stuttgart] eine Werkstatt .
+ambiguity  Sie arbeitet seit [DATE 2015] bei [ORG Bosch] in [GPE Stuttgart] .
+ambiguity  Die [ORG Porsche AG] hat ihren Sitz in [GPE Stuttgart] .
+ambiguity  [PER Ferdinand Porsche] konstruierte den ersten Volkswagen .
+ambiguity  Im [DATE August] reiste Herzog [PER Carl August] nach [GPE Weimar] .
+ambiguity  Die [LOC Elbe] fließt durch [GPE Dresden] und [GPE Hamburg] .
+ambiguity  In den [DATE 1960er Jahren] lebten dort 1500 Einwohner .
+nested     Sie studierte an der [ORG Universität [GPE Wien]] .
+nested     Die [ORG Technische Universität [GPE München]] wurde [DATE 1868] gegründet .
+nested     Der [LOC Flughafen [GPE Hamburg]] liegt im Norden der Stadt .
+nested     [PER Goethe] wurde in [GPE Frankfurt am [LOC Main]] geboren .
+variation  [PER Johann Sebastian Bach] wurde in [GPE Eisenach] geboren ; [PER Bachs] Werke sind weltberühmt .
+variation  Die [GPE Bundesrepublik Deutschland] wurde [DATE 1949] gegründet ; die [GPE BRD] trat [DATE 1955] der [ORG NATO] bei .
+variation  Die [ORG Deutsche Bahn AG] betreibt die meisten Züge in [GPE Deutschland] .
+numex      Der Umsatz stieg [DATE 2019] um [PERCENT 3,5 %] auf [MONEY 12,4 Mrd. Euro] .
+numex      Der Berg ist [QUANTITY 2962 Meter] hoch und liegt [QUANTITY 90 km] südlich von [GPE München] .
+timex      Die Sitzung beginnt am [DATE 3. Oktober 1990] um [TIME 14:30 Uhr] .
+timex      Der Krieg dauerte von [DATE 1914 bis 1918] ; die Stadt wurde [DATE Mitte des 18. Jahrhunderts] gegründet .
+noisy      die stadt [GPE berlin] liegt an der [LOC spree] .
+noisy      [PER goethe] wurde in [GPE frankfurt am [LOC main]] geboren .
+noisy      ich war letztes jahr in [GPE muenchen] und in [GPE koeln] .
+noisy      die [ORG deutsche bahn] fährt nach [GPE hamburg] .
+noisy      Der [LOC Rehin] fließt durch [GPE Basel] .

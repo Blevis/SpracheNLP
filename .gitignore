@@ -14,3 +14,6 @@ docs/*.toc
 
 # team-internal material, never handed in
 private/
+
+# trained CRF models (rebuilt by `python -m sprache ner`)
+models/
