@@ -16,6 +16,7 @@ CORPUS_CLEAN = ROOT / "corpus_clean"    # same texts after clean.clean_text()
 SOURCES_CSV = ROOT / "sources.csv"
 SKIPPED_CSV = DATA / "skipped.csv"      # titles rejected during the last build
 FIGURES = ROOT / "figures"
+NOTEBOOKS = ROOT / "notebooks"
 
 # --- corpus limits ---------------------------------------------------------
 MAX_TEXTS = 100
@@ -63,6 +64,10 @@ NER_CHALLENGE = NER_DIR / "challenge.txt"  # hand-written sentences: metonymy, a
 NER_OUTPUT = NER_DIR / "entities.csv"      # entity index of the corpus (input for the search engine)
 NER_MODELS = ROOT / "models"               # trained CRF model (generated, git-ignored)
 SPARQL_URL = "https://query.wikidata.org/sparql"
+
+# --- search engine (the application) ------------------------------------------
+SEARCH_DIR = DATA / "search"
+SEARCH_QUERIES = SEARCH_DIR / "queries.tsv"   # test queries with hand-made relevance judgments
 
 ENAMEX = ("PER", "ORG", "LOC", "GPE")
 NUMEX = ("MONEY", "PERCENT", "QUANTITY")

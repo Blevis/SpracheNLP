@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SpracheNLP Search</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">Sprache<span>NLP</span></div>
+  <nav class="tabs" id="tabs">
+    <a href="#present" data-view="present">Present</a>
+    <a href="#search" data-view="search">Search</a>
+    <a href="#pipeline" data-view="pipeline">Pipeline</a>
+    <a href="#evaluation" data-view="evaluation">Evaluation</a>
+    <a href="#corpus" data-view="corpus">Corpus</a>
+  </nav>
+  <div class="spacer"></div>
+  <button class="theme-btn" id="theme" title="Switch light/dark">Theme</button>
+</header>
+
+<main>
+  <!-- ======================= PRESENT ======================= -->
+  <section class="view" id="view-present">
+    <div class="deck" id="deck"><div class="loading">Loading the slides ...</div></div>
+    <div class="deck-nav">
+      <button id="prev" aria-label="Previous slide">Back</button>
+      <button id="next" aria-label="Next slide">Next</button>
+      <div class="dots" id="dots"></div>
+      <span id="counter"></span>
+      <div class="spacer"></div>
+      <span class="small">Arrow keys to move, F for full screen</span>
+      <button id="fs">Full screen</button>
+    </div>
+  </section>
+
+  <!-- ======================= SEARCH ======================= -->
+  <section class="view" id="view-search">
+    <form class="searchbar" id="search-form" autocomplete="off">
+      <input id="q" type="search" placeholder="Suche im Korpus, z. B. Flüsse in Deutschland" aria-label="Search query">
+      <button class="btn" type="submit">Search</button>
+    </form>
+    <div class="chips" id="examples"></div>
+    <div class="options">
+      <label>Topic <select id="topic"><option value="">all topics</option></select></label>
+      <label><input type="checkbox" id="compare"> Compare with the baseline (plain word matching)</label>
+    </div>
+    <div id="search-out"></div>
+  </section>
+
+  <!-- ======================= PIPELINE ======================= -->
+  <section class="view" id="view-pipeline">
+    <div class="panel">
+      <h2>The NLP pipeline on any text</h2>
+      <p class="muted">Paste German text. It goes through the same steps as the corpus: cleaning, spaCy, index terms for the search engine, and named-entity recognition (Tutorial 2).</p>
+      <textarea id="ptext"></textarea>
+      <div class="options">
+        <button class="btn" id="prun">Analyse</button>
+        <label><input type="checkbox" id="pnoisy"> Noisy input: restore case, umlauts and typos first</label>
+        <span class="chips" id="pexamples" style="margin:0"></span>
+      </div>
+    </div>
+    <div id="pipe-out" class="steps"></div>
+  </section>
+
+  <!-- ======================= EVALUATION ======================= -->
+  <section class="view" id="view-evaluation">
+    <div id="eval-out"><div class="loading">Running the evaluation (all systems on all test queries) ...</div></div>
+  </section>
+
+  <!-- ======================= CORPUS ======================= -->
+  <section class="view" id="view-corpus">
+    <div id="corpus-out"><div class="loading">Loading ...</div></div>
+  </section>
+</main>
+
+<dialog id="doc">
+  <div class="dlg-head">
+    <div style="flex:1"><h2 id="doc-title"></h2><div class="small muted" id="doc-meta"></div></div>
+    <button class="close" id="doc-close" aria-label="Close">&times;</button>
+  </div>
+  <div class="dlg-body" id="doc-body"></div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

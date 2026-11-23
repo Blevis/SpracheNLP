@@ -17,3 +17,6 @@ private/
 
 # trained CRF models (rebuilt by `python -m sprache ner`)
 models/
+
+# local tooling (editor/agent settings)
+.claude/

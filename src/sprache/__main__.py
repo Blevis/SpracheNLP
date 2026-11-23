@@ -14,11 +14,18 @@
     python -m sprache ner-eval   evaluation on the gold texts, challenge set, noise, learning curve
     python -m sprache ner-tag    tag your own text: python -m sprache ner-tag "Berlin lehnt ab."
 
+  Search engine (the application)
+    python -m sprache search     search from the terminal: python -m sprache search "Flüsse in Deutschland"
+    python -m sprache search-eval  evaluation on the test queries (data/search/queries.tsv)
+    python -m sprache serve      web app with the search engine and the presentation (http://127.0.0.1:8000)
+    python -m sprache export-site  static copy of the web app in site/ for GitHub Pages
+
     python -m sprache all        build + clean + figures + ner + notebooks + report (with PDF)
 """
 from __future__ import annotations
 
 import argparse
+from pathlib import Path
 import subprocess
 import sys
 
@@ -79,17 +86,17 @@ def cmd_figures(a) -> None:
     save_displacy(nlp(config.DEMO_SENTENCE), "demo")
 
 
-NOTEBOOKS = ("NLP_Tutorial1_German_Corpus.ipynb", "NLP_Tutorial2_German_NER.ipynb")
+NOTEBOOKS = ("01_corpus.ipynb", "02_named_entities.ipynb", "03_search_engine.ipynb")
 
 
 def cmd_notebook(a) -> None:
     for name in NOTEBOOKS:
-        nb = config.ROOT / name
+        nb = config.NOTEBOOKS / name
         if not nb.exists():
             continue
         subprocess.run([sys.executable, "-m", "jupyter", "nbconvert", "--to", "notebook", "--execute",
                         "--inplace", "--ExecutePreprocessor.timeout=1800", str(nb)], check=True,
-                       cwd=config.ROOT)
+                       cwd=config.NOTEBOOKS)
         print(f"Executed {nb.name}")
 
 
@@ -142,6 +149,58 @@ def cmd_ner_tag(a) -> None:
     print(mentions_table(sents).drop(columns=["file"]).to_string(index=False))
 
 
+def cmd_search(a) -> None:
+    from .analysis import load_model
+    from .search.engine import SearchEngine
+    engine = SearchEngine(load_model())
+    qa, results = engine.search(" ".join(a.query), a.k)
+    if qa.corrections:
+        print(f"Showing results for: {qa.normalised}")
+    print("Terms:", ", ".join(qa.terms))
+    for i, r in enumerate(results, 1):
+        snippet = "".join(f"[{s['text']}]" if s["hit"] else s["text"] for s in r["snippet"])
+        print(f"\n{i:2}. {r['title']}  ({r['file']}, {r['topic']}, score {r['score']})\n    {snippet}")
+
+
+def cmd_search_eval(a) -> None:
+    import pandas as pd
+    from .analysis import load_model
+    from .search import evaluate as ev
+    pd.set_option("display.width", 200)
+    nlp = load_model()
+    engines = ev.systems(nlp)
+    overall, by_kind = ev.ablation(nlp, engines=engines)
+    print("== ablation (each row adds one step) ==\n" + overall.to_string())
+    print("\n== nDCG@10 by kind of query ==\n" + by_kind.to_string())
+    print("\n== full system, per query ==\n" + ev.per_query(engines[-1][1], ev.load_queries()).round(2).to_string(index=False))
+
+
+def cmd_serve(a) -> None:
+    from .web.server import serve
+    serve(a.host, a.port, open_browser=not a.no_browser)
+
+
+def cmd_export_site(a) -> None:
+    import shutil
+    from .web import export
+    from .web.server import App
+    app = App()
+    sizes = export.export(a.out, app)
+    print(f"Wrote the static site to {a.out}:")
+    for name, n in sizes.items():
+        print(f"  {name:22} {n / 1024:8.0f} KB")
+    if shutil.which("node"):
+        rows = export.check_parity(a.out, app)
+        same = sum(r["python"] == r["js"] for r in rows)
+        print(f"Parity check (Node.js): {same} of {len(rows)} queries rank identically in Python and JavaScript.")
+        for r in rows:
+            if r["python"] != r["js"]:
+                print(f"  differs: {r['query']!r}  top 1 {'same' if r['same_top1'] else 'DIFFERENT'}")
+    else:
+        print("Node.js not found: skipped the Python/JavaScript parity check.")
+    print(f"Preview: python -m http.server -d {a.out} 8001  ->  http://127.0.0.1:8001/")
+
+
 def cmd_report(a) -> None:
     from .report import compile_pdf, generate
     files = generate()
@@ -166,12 +225,22 @@ def main(argv=None) -> None:
                      ("stats", cmd_stats), ("figures", cmd_figures),
                      ("notebook", cmd_notebook), ("report", cmd_report),
                      ("ner-kb", cmd_ner_kb), ("ner", cmd_ner), ("ner-eval", cmd_ner_eval),
-                     ("ner-tag", cmd_ner_tag), ("all", cmd_all)]:
+                     ("ner-tag", cmd_ner_tag), ("search", cmd_search), ("search-eval", cmd_search_eval),
+                     ("serve", cmd_serve), ("export-site", cmd_export_site), ("all", cmd_all)]:
         sp = sub.add_parser(name, help=fn.__doc__)
         sp.set_defaults(fn=fn)
         if name == "ner-tag":
             sp.add_argument("text", nargs="+", help="German text to tag")
             sp.add_argument("--noisy", action="store_true", help="normalise case/umlauts/typos first")
+        if name == "search":
+            sp.add_argument("query", nargs="+", help="German search query")
+            sp.add_argument("-k", type=int, default=5, help="number of results")
+        if name == "serve":
+            sp.add_argument("--host", default="127.0.0.1")
+            sp.add_argument("--port", type=int, default=8000)
+            sp.add_argument("--no-browser", action="store_true", help="do not open a browser tab")
+        if name == "export-site":
+            sp.add_argument("--out", type=Path, default=config.ROOT / "site", help="output folder (default: site/)")
         if name == "report":
             sp.add_argument("--pdf", action="store_true", help="also compile docs/report.pdf with LuaLaTeX")
         if name in ("build", "all"):

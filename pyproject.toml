@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sprache"
-version = "2.1.0"
-description = "German Wikipedia corpus, spaCy analysis and NLTK named-entity recognition (Group 2)"
+version = "3.0.0"
+description = "German Wikipedia corpus, preprocessing, named-entity recognition and a search engine (Group 2)"
 requires-python = ">=3.10"
 dependencies = [
     "spacy>=3.7,<3.9",
@@ -21,6 +21,9 @@ dev = ["pytest>=8"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-data]
+"sprache.web" = ["static/*", "site/*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

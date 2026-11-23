@@ -1,0 +1,38 @@
+# Test queries for the search engine, with hand-made relevance judgments.
+# Columns: id, query, what the query tests, relevant texts (file:grade).
+# Grade 2 = the article is about the query; grade 1 = the article answers part of it.
+# Judged by reading the texts in corpus_clean/ (one annotator). Texts not listed are judged not relevant.
+# Kinds: plain = ordinary keyword query; inflection = query form differs from the text form;
+# compound = the query word is part of a compound in the text; spelling = umlaut-less, lower-case or typo;
+# entity = a name that the texts write in another form.
+id	query	kind	relevant
+q01	Flüsse in Deutschland	inflection	text002:2 text009:2 text016:2 text054:2
+q02	Komponisten	inflection	text024:2 text028:2 text035:2
+q03	erneuerbare Energien	inflection	text072:2
+q04	Philosophen	inflection	text043:2 text049:2
+q05	deutsche Schriftsteller	inflection	text003:2 text076:2 text081:2
+q06	Inseln in der Ostsee	inflection	text048:2 text098:2
+q07	Fall der Mauer 1989	plain	text037:2 text044:2 text001:1
+q08	Bundeskanzler	plain	text085:2 text090:2 text062:1
+q09	Gebirge	compound	text042:2 text067:2 text095:2 text034:1
+q10	Mundart	plain	text014:2 text007:1
+q11	Bier brauen	inflection	text057:2 text005:1
+q12	Schweiz	plain	text094:2 text023:1 text067:1
+q13	bayerische Landeshauptstadt	plain	text008:2 text005:1
+q14	Radioaktivität	plain	text068:2 text079:1
+q15	elektrischer Strom	plain	text046:2 text097:1
+q16	Dom in Köln	plain	text020:2 text022:1
+q17	Reformation Luther	plain	text011:2 text055:2
+q18	Verfassung	compound	text050:2 text056:1
+q19	Weihnachten	compound	text030:2 text028:1
+q20	Wörterbuch	compound	text040:2
+q21	Energie	compound	text072:2 text046:1 text031:1 text087:1 text097:1
+q22	Ostsee	compound	text098:2 text048:1 text075:1
+q23	fussball	spelling	text065:2 text063:2 text069:2
+q24	zuerich	spelling	text094:2
+q25	muenchen	spelling	text008:2 text005:1 text018:1
+q26	Beethofen	spelling	text024:2
+q27	duesseldorf	spelling	text041:2
+q28	Goethe	entity	text003:2 text084:1
+q29	DDR	entity	text037:2 text044:2 text085:1
+q30	Habsburger	entity	text019:2 text089:1 text024:1
